@@ -163,7 +163,13 @@ padding-bottom:8px;border-bottom:2px solid var(--navy);display:flex;gap:9px;alig
 .logo.ph{{background:var(--line)}}
 .bh h3{{font-size:17px;color:var(--navy);font-family:'Radio Canada Big',-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}}
 .bh p{{font-size:11.5px;color:var(--dim);margin-top:1px}}
-.grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(238px,1fr));gap:13px}}
+.grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(205px,1fr));gap:13px}}
+@media(min-width:1330px){{.grid{{grid-template-columns:repeat(5,minmax(0,1fr))}}}}
+body.noside aside{{display:none}}
+@media(min-width:1100px){{body.noside .grid{{grid-template-columns:repeat(5,minmax(0,1fr))}}}}
+.sideT{{font:600 12.5px inherit;padding:8px 13px;border:1px solid var(--line);border-radius:8px;
+background:var(--card);color:var(--dim);cursor:pointer;white-space:nowrap}}
+.sideT:hover{{color:var(--navy);border-color:var(--navy)}}
 .ad{{background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;
 display:flex;flex-direction:column;box-shadow:var(--shadow)}}
 .media{{position:relative;background:#0c0e13;min-height:190px;display:flex;align-items:center;justify-content:center}}
@@ -184,7 +190,7 @@ a:focus-visible,button:focus-visible,input:focus-visible{{outline:2px solid var(
 footer{{text-align:center;padding:34px 20px 50px;font-size:11.5px;color:var(--dim)}}
 footer a{{color:var(--blue);font-weight:600;text-decoration:none}}
 footer a:hover{{text-decoration:underline}}
-@media(max-width:900px){{aside{{display:none}} main{{padding:0 14px 60px}}}}
+@media(max-width:900px){{aside{{display:none}} main{{padding:0 14px 60px}} .sideT{{display:none}}}}
 </style>
 <div class="hero"><img class="pk" src="parker-logo.png" alt="Parker" width="84" height="84">
 <h1>1,000 Winning Ads Swipe File</h1>
@@ -193,6 +199,7 @@ footer a:hover{{text-decoration:underline}}
 <aside><h4>Browse by niche</h4>{"".join(side_html)}</aside>
 <main>
 <div class="bar">
+<button id="sideToggle" class="sideT" type="button" aria-pressed="false">Hide niches</button>
 <input id="q" type="search" placeholder="Search brands…" aria-label="Search brands">
 <div class="seg" role="group" aria-label="Filter by format">
 <button data-f="all" class="on">All</button><button data-f="video">Video</button><button data-f="static">Static</button>
@@ -219,6 +226,18 @@ footer a:hover{{text-decoration:underline}}
      b.classList.add('on'); fmt=b.dataset.f; apply();
    }});
  }});
+ var st=document.getElementById('sideToggle');
+ if(st){{
+   var off0=false;
+   try{{off0=localStorage.getItem('noside')==='1'}}catch(e){{}}
+   if(off0){{document.body.classList.add('noside');st.textContent='Show niches';st.setAttribute('aria-pressed','true');}}
+   st.addEventListener('click',function(){{
+     var off=document.body.classList.toggle('noside');
+     st.textContent=off?'Show niches':'Hide niches';
+     st.setAttribute('aria-pressed',off?'true':'false');
+     try{{localStorage.setItem('noside',off?'1':'0')}}catch(e){{}}
+   }});
+ }}
  q.addEventListener('input',apply);
  function apply(){{
    var term=q.value.trim().toLowerCase(), vis=0, ads=0;
