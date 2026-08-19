@@ -1,0 +1,67 @@
+{
+  "name": "Summer Fridays",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/28262fdf-21e1-4f6d-952b-3a4504196ed2/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Lip Butter Balm",
+      "launch": "2026-06-02",
+      "days": 72,
+      "trend": "n/a",
+      "hook": "SUMMER FRIDAYS®",
+      "angle": "Bilingual market expansion targeting Spanish-speaking beauty consumers",
+      "copy": "Descubre nuestro Lip Butter Balm. Amado por su textura cremosa, su hidratación profunda y su delicioso toque dulce. Disponible exclusivamente en Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/28262fdf-21e1-4f6d-952b-3a4504196ed2/1423659852862066.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Lip Butter Balm - Bálsamo labial de cuidado hidratante y nutritivo | Summer Fridays ≡ SEPHORA",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "n/a",
+      "hook": "SUMMER FRIDAYS® Lip Butter Balm",
+      "angle": "Showcasing product variety and the full color/flavor range",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/28262fdf-21e1-4f6d-952b-3a4504196ed2/974244812072094.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Lip Butter Balm",
+      "launch": "2026-06-11",
+      "days": 63,
+      "trend": "n/a",
+      "hook": "SUMMER FRIDAYS® Lip Butter Balm Soin lèvres hydratant longue durée DISPONIBLE CHEZ SEPHORA",
+      "angle": "Showcasing product versatility across diverse skin tones",
+      "copy": "Découvrez notre Lip Butter Balm. Texture fondante, hydratation intense et note subtilement sucrée. Uniquement disponible chez Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/28262fdf-21e1-4f6d-952b-3a4504196ed2/2486453835210343.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Lip Butter Balm",
+      "launch": "2026-06-10",
+      "days": 64,
+      "trend": "n/a",
+      "hook": "SUMMER FRIDAYS Lip Butter Balm",
+      "angle": "Long-lasting hydration treatment for lips",
+      "copy": "Scopri il nostro Lip Butter Balm. Amato per la sua texture burrosa, la sua idratazione profonda e il suo delizioso tocco di dolcezza. Disponibile esclusivamente da Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/28262fdf-21e1-4f6d-952b-3a4504196ed2/1882146532743346.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "SUMMER FRIDAYS® Lip Butter Balm",
+      "launch": "2026-06-12",
+      "days": 62,
+      "trend": "n/a",
+      "hook": "SUMMER FRIDAYS® Lip Butter Balm Soin lèvres hydratant longue durée DISPONIBLE CHEZ SEPHORA",
+      "angle": "Shade variety showcasing compatibility with different skin tones",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/28262fdf-21e1-4f6d-952b-3a4504196ed2/2443673502766806.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Coterie",
+  "category": "Baby goods/kids goods",
+  "logo": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-1/310113796_3292728980971019_3617601053913922054_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=6rNhM82r-XgQ7kNvwGPYk7t&_nc_oc=AdozURqboI0vEM9ZtxxOQlTYolnB-QoGZ1DKltGYNsRotNqdh-E8APmrr4mxuHLrLZ0&_nc_zt=24&_nc_ht=scontent-dfw6-1.xx&_nc_gid=m2xN6-U-jV1S8MzZ0cpGtg&_nc_ss=7b289&oh=00_AQEmecNBbshcoB4nl7anKeJMTvgPdEIzYpX6c7BO449F5w&oe=6A8A876E",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "The Soft Wipe",
+      "launch": "2026-04-03",
+      "days": 138,
+      "trend": "Stable at #1 over 13d.",
+      "hook": "99% water",
+      "angle": "Extreme ingredient transparency and purity",
+      "copy": "Ready to upgrade your diapering routine? Meet Coterie ☁️ Our high-performing products are dermatologist tested, hypoallergenic, and independent lab tested.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/34b51f9a-aa74-4637-92da-d82d03e3c01b/1514963900330141.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Get The Award-Winning Diaper",
+      "launch": "2026-05-19",
+      "days": 92,
+      "trend": "Improved from #3 to #2 in 13d.",
+      "hook": "Your first box bonus",
+      "angle": "Risk reversal by providing the next size up for free to handle growth spurts",
+      "copy": "Glamour called us the \"best diapers on the market\": 💤 \"10+ hours a night without a leak.\" – Sherry H. 💧 Wicks away liquid from the skin in seconds 🌟 Thousands of 5 star reviews",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/34b51f9a-aa74-4637-92da-d82d03e3c01b/1289826376615205.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "NEW: Clean, gentle baby care",
+      "launch": "2026-05-12",
+      "days": 99,
+      "trend": "Dropped from #2 to #3 in 13d. Peak: #2 on Aug 5.",
+      "hook": "Clean, gentle baby care",
+      "angle": "Medical validation through the National Eczema Association acceptance",
+      "copy": "Introducing our new clean, gentle baby care formulated for sensitive skin, from birth on. ✔️ Microbiome friendly ✔️ pH balanced ✔️ Hypoallergenic ✔️ Fragrance free ✔️ Vegan & cruelty free",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/34b51f9a-aa74-4637-92da-d82d03e3c01b/27422254474025997.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "NEW: Clean, gentle baby care",
+      "launch": "2026-05-23",
+      "days": 88,
+      "trend": "Improved from #7 to #5 in 13d. Biggest jump: #7 → #5 on Aug 12 (+2).",
+      "hook": "Clean, gentle baby care",
+      "angle": "Medical trust and safety through professional endorsement (Eczema Association)",
+      "copy": "Introducing our new clean, gentle baby care formulated for sensitive skin, from birth on. ✔️ Microbiome friendly ✔️ pH balanced ✔️ Hypoallergenic ✔️ Fragrance free ✔️ Vegan & cruelty free",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/34b51f9a-aa74-4637-92da-d82d03e3c01b/1934877153800664.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "NEW: Clean, gentle baby care",
+      "launch": "2026-05-12",
+      "days": 99,
+      "trend": "Improved from #8 to #6 in 13d. Biggest jump: #8 → #6 on Aug 12 (+2).",
+      "hook": "Bun Balm",
+      "angle": "New product launch for a premium baby care line",
+      "copy": "Introducing our new clean, gentle baby care formulated for sensitive skin, from birth on. ✔️ Microbiome friendly ✔️ pH balanced ✔️ Hypoallergenic ✔️ Fragrance free ✔️ Vegan & cruelty free",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/34b51f9a-aa74-4637-92da-d82d03e3c01b/1595823235023137.jpg"
+    }
+  ]
+}

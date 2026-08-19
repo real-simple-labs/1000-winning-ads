@@ -1,0 +1,9 @@
+{
+  "missing": [
+    {"name": "Lalo", "reason": "Not in Parker's database — no match returned for 'Lalo' (would need brand_discovery ingest with the brand's Facebook page URL)."},
+    {"name": "Nanit", "reason": "Matched 'Nanit Baby' (Baby goods/kids goods) but totalAdsScraped is 0 — no ad data available."},
+    {"name": "Frida", "reason": "No plausible match — only 'Fridays' (medical weight management telehealth) and 'Friday Pattern Company' (sewing patterns, 0 ads) returned; neither is FridaBaby."},
+    {"name": "Bobbie", "reason": "No plausible match — only 'Evelyn & Bobbie' (women's clothing/bras) returned; not Bobbie infant formula."},
+    {"name": "Willow", "reason": "No plausible match — only 'Willow Health', 'Willow Boutique' (clothing), and 'WillowAce' (clothing) returned; none is Willow breast pump."}
+  ]
+}

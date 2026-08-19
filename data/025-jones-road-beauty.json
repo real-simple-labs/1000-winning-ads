@@ -1,0 +1,67 @@
+{
+  "name": "Jones Road Beauty",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f9f02e63-91e5-4e13-bdbe-3c05598faec9/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "New Year, Better Routine",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Ranked #1 on Aug 13.",
+      "hook": "The Body Collection: daily rituals you already have, made a little more intentional.",
+      "angle": "",
+      "copy": "The Body Collection: daily rituals you already have, made a little more intentional. Because a few upgrades can shift everything.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f9f02e63-91e5-4e13-bdbe-3c05598faec9/689fcf86c917d6643c2b81f2cc623dabe28b9bd927df0b44f1e25b4a40cd0c75.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "A Natural Glowy-Skin Staple",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Improved from #8 to #2 in 14d. Biggest jump: #8 → #5 on Aug 1 (+3).",
+      "hook": "put THREE Miracle Balms in one palette for a limited time",
+      "angle": "Convenience and Portability: Combining three best-selling products into a single compact palette.",
+      "copy": "If you've ever said \"I'm just not a makeup person,\" this is for you. The Miracle Balm Palette 2.0 melts into skin, adds a healthy glow, and never looks like makeup.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f9f02e63-91e5-4e13-bdbe-3c05598faec9/86b83325d53b47d7bc82ca9961a03ed90fd0271272527e0b874b228c731db8e6.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "New Year, Better Routine",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Ranked #3 on Aug 13.",
+      "hook": "Friendly reminder: this limited edition @jonesroadbeauty palette is selling out FAST",
+      "angle": "Scarcity and urgency (limited edition, selling out fast)",
+      "copy": "The Body Collection: daily rituals you already have, made a little more intentional. Because a few upgrades can shift everything.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f9f02e63-91e5-4e13-bdbe-3c05598faec9/5f4003b804be9342c5b54cb2149402f591d34c06be8e9ed17a25e5cc9f2629c3.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Miracle Balm: Available Everywhere in the EU",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Improved from #7 to #4 in 14d. Biggest jump: #7 → #4 on Aug 1 (+3). Peak: #3 on Aug 3.",
+      "hook": "The wait is over. Miracle Balm is now available in every EU country.",
+      "angle": "",
+      "copy": "The wait is over. Miracle Balm is now available in every EU country. Moisturizing, effortless glow delivered to your door.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f9f02e63-91e5-4e13-bdbe-3c05598faec9/1ff1e996d97a50e9aca6f4c21a8c13410c804156fbfb957ad43600a8d7145340.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Miracle Balm: Available Everywhere in the EU",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Stable at #5 over 14d. Biggest jump: #5 → #3 on Aug 1 (+2). Biggest drop: #2 → #4 on Aug 7 (-2). Peak: #2 on Aug 3.",
+      "hook": "The wait is over. Miracle Balm is now available in every EU country.",
+      "angle": "",
+      "copy": "The wait is over. Miracle Balm is now available in every EU country. Moisturizing, effortless glow delivered to your door.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f9f02e63-91e5-4e13-bdbe-3c05598faec9/a077b79625be25dc2ee266c5a12ecfcfd3fb7f1331e9a263cc806331044ad3f9.jpg"
+    }
+  ]
+}

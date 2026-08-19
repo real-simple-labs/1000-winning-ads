@@ -1,0 +1,67 @@
+{
+  "name": "Gymshark",
+  "category": "Clothing (Brand)",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5ea3394c-8b08-4b56-bccd-4ee4f7167f28/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Compra ahora",
+      "launch": "2026-07-02",
+      "days": 48,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "GYMSHARK",
+      "angle": "Aspirational lifestyle branding focusing on elite fitness aesthetics",
+      "copy": "Ya están aquí tus nuevos imprescindibles para entrenar 👀",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5ea3394c-8b08-4b56-bccd-4ee4f7167f28/04455971a00bb5511483ef77472a56601aeba966a2fa71dd9cc5030ea2d0a15e.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Compra ahora",
+      "launch": "2026-07-05",
+      "days": 45,
+      "trend": "Improved from #4 to #3 in 12d.",
+      "hook": "Ya están aquí tus nuevos imprescindibles para entrenar 👀",
+      "angle": "Aspirational fitness lifestyle and physical results",
+      "copy": "Ya están aquí tus nuevos imprescindibles para entrenar 👀",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5ea3394c-8b08-4b56-bccd-4ee4f7167f28/0ec708432e103f00fce2265863150a4a7b1bab8ea7a843b14b9341721dc1c359.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "LIFT SEAMLESS",
+      "launch": "2026-07-22",
+      "days": 28,
+      "trend": "Improved from #5 to #4 in 12d.",
+      "hook": "Lift seamless 2.0",
+      "angle": "Aesthetic enhancement and glute-shaping benefits",
+      "copy": "Ya han llegado los mejores conjuntos para esculpir los glúteos 🔥",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5ea3394c-8b08-4b56-bccd-4ee4f7167f28/61f7c36ba95422e6614e82058a8f4d271413e7421d22e092530094bf5dbb1b02.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Gymshark. We Do Gym.",
+      "launch": "2026-07-02",
+      "days": 48,
+      "trend": "Improved from #8 to #5 in 12d. Biggest jump: #7 → #5 on Aug 13 (+2).",
+      "hook": "Act like the person you want to become.",
+      "angle": "Intentionality as the key to self-transformation",
+      "copy": "So hot, du wirst es nicht glauben. Hol dir jetzt unsere beliebtesten Styles des Sommers. Spare mit dem Code WELCOME10 10 % extra auf deine erste Bestellung.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5ea3394c-8b08-4b56-bccd-4ee4f7167f28/ecbc4626c6254f130e550b57b4d0f2e5820996c0dbd3ecd2cab011abc20742fb.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Gymshark. We Do Gym.",
+      "launch": "2026-07-02",
+      "days": 48,
+      "trend": "Improved from #9 to #6 in 12d. Biggest jump: #8 → #6 on Aug 13 (+2).",
+      "hook": "A close-up of white mesh fabric pulls back to reveal an athletic man in a Gymshark lifting jersey, dancing in a modern kitchen.",
+      "angle": "Showcasing product variety through a 'fit check' haul style",
+      "copy": "So hot, du wirst es nicht glauben. Hol dir jetzt unsere beliebtesten Styles des Sommers. Spare mit dem Code WELCOME10 10 % extra auf deine erste Bestellung.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5ea3394c-8b08-4b56-bccd-4ee4f7167f28/04e2287332f4137dbe5b618cbf7db542786bb47ca32abea14bd705fcc9163d48.mp4"
+    }
+  ]
+}

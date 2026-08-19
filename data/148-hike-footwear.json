@@ -1,0 +1,67 @@
+{
+  "name": "HIKE Footwear",
+  "category": "Footwear store",
+  "logo": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/515916738_1071719985073353_1186850341463623614_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=-XiNLk7Dch0Q7kNvwGIg_Pc&_nc_oc=AdrO3_igMHq-_UCINMGV_TUvYvSpJvSHOdYrIT3ZE1RBpfV79ZZvMQP26cUrX8NaXUc&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=t3yGC3SdOrq6yLgBZIxkNw&_nc_ss=7b289&oh=00_AQEOTfR8Az65JJAIT6iFeYGiISBv01zpChq0yLf9kPXV5w&oe=6A836F9A",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "She Says She's Fine. She's Not. 💛",
+      "launch": "2026-04-11",
+      "days": 124,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "This is the last call if you want a free pair of HF Stride.",
+      "angle": "Buy One Get One Free (BOGO) offer",
+      "copy": "She won't say anything. That's just who she is. She'll wince getting up from the couch and tell you she's fine. She'll slow down on walks and say she's just tired. She's spent a lifetime taking care of",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/4638e444-c846-4f93-87ab-32de4e0e3696/fecd35ee5823f3fc2b781e7dae1f46c7466879073b2d1102560d3794da9356cd.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Best Pain Relief Shoe 2025!",
+      "launch": "2025-12-20",
+      "days": 236,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "If you've been waiting for HF Cloud to go on Sale, this is it.",
+      "angle": "Massive annual clearance sale (up to 70% off)",
+      "copy": "After years of knee pain, I thought my running days were over. HF Cloud barefoot shoes reignited my passion! My stride is more natural, my pace has improved, and best of all – no more pain! 👣 Pain Rel",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/4638e444-c846-4f93-87ab-32de4e0e3696/350266fe2ae5d24fa347cf55a0309842849252f4957b854eeaeb03eb23598209.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Why Your Balance Got Worse Over Time",
+      "launch": "2026-03-28",
+      "days": 138,
+      "trend": "Improved from #5 to #3 in 14d. Biggest jump: #5 → #3 on Aug 9 (+2).",
+      "hook": "PREVENT FALLS",
+      "angle": "Safety and injury prevention for vulnerable populations",
+      "copy": "Here's something most people don't realize about balance and falls. It's not just about being careful. Your feet have thousands of nerve endings that send constant signals to your brain, telling it ex",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/4638e444-c846-4f93-87ab-32de4e0e3696/e4b037e3fe5bfba1041bfaecd889d88ba8592c12118620e9874796cb85b2624f.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Barefoot Shoes To Improve Circulation",
+      "launch": "2026-01-07",
+      "days": 218,
+      "trend": "Improved from #6 to #4 in 14d. Biggest jump: #6 → #4 on Aug 9 (+2).",
+      "hook": "As the founder of Hike Footwear, this is honestly one of the best opportunities we have ever offered.",
+      "angle": "Founder's direct-to-consumer transparency (the 'overproduction' story)",
+      "copy": "These shoes feel like an extension of my feet—so light and supportive!\" – Linda, 62. Introducing HF Stride, our lightest and easiest barefoot shoe yet: 🔄 Hands-Off Entry — just step in and go 🌱 Ergo",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/4638e444-c846-4f93-87ab-32de4e0e3696/6ffb47dd2eb0d48ba9f6da9a80f10b5a4db271a9bb3df471fdadd4d4c95e77a0.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "3 Days Left. $33/Pair 🔥",
+      "launch": "2026-02-16",
+      "days": 178,
+      "trend": "Improved from #7 to #5 in 14d. Biggest jump: #7 → #5 on Aug 9 (+2).",
+      "hook": "NEVER RETURNING",
+      "angle": "Extreme scarcity and FOMO (Last inventory, never returning)",
+      "copy": "Selling out in 3 days. Not coming back. Not going on sale again later. Done. $33 per pair. 3 for $99. Any style, any color. Free shipping. HIKE's most popular barefoot shoes at the lowest price they'll",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/4638e444-c846-4f93-87ab-32de4e0e3696/abde739721958025c6cf7d673ea3fc84f5c8d7ddc451323ceb1fcc25b9ea2c50.jpg"
+    }
+  ]
+}

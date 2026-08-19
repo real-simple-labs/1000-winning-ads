@@ -1,0 +1,67 @@
+{
+  "name": "Divi",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/72d6dde2-b6e2-406c-9568-f7d4594ed180/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Save 30% Off Today!",
+      "launch": "2026-06-24",
+      "days": 50,
+      "trend": "Improved from #2 to #1 in 12d.",
+      "hook": "AirDrop",
+      "angle": "",
+      "copy": "BIG NEWS! Get 30% OFF our best-selling Scalp Serum with code SCALP30! Over 2,000,000 sold! Want thicker-looking hair that feels amazing? Our serum delivers: ✨ Hydration & amino acids ✅ 90% saw fuller hair*",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/72d6dde2-b6e2-406c-9568-f7d4594ed180/1319567520336234.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Award-winning, clinically-tested serum.",
+      "launch": "2026-06-25",
+      "days": 49,
+      "trend": "Improved from #6 to #2 in 12d. Biggest jump: #5 → #2 on Aug 4 (+3).",
+      "hook": "30% OFF TODAY",
+      "angle": "",
+      "copy": "Standard hair care just sits on the surface, but Divi GrowthCare is for the girls who are ready to target the root cause. Stop settling for temporary fixes and start a growth journey that finally prioritizes",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/72d6dde2-b6e2-406c-9568-f7d4594ed180/28644124728520991.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Beautiful hair begins at the scalp. Meet Divi.",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #134 to #3 in 8d. Biggest jump: #134 → #11 on Aug 6 (+123).",
+      "hook": "divi growth care™",
+      "angle": "Specialized solution for fine, thin hair types",
+      "copy": "The hair you want starts at the scalp. It's the foundation of Divi's award-winning Scalp Serum.. And 2 million bottles later, it still is.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/72d6dde2-b6e2-406c-9568-f7d4594ed180/1014741537989569.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Save 30% Today!",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "Improved from #8 to #4 in 12d. Biggest jump: #7 → #4 on Aug 4 (+3). Peak: #3 on Aug 6.",
+      "hook": "I just blow dried my hair and I had to show y'all.",
+      "angle": "",
+      "copy": "The results are in: Get thicker, denser looking hair in as little as 6 weeks with Divi’s Scalp Serum.* Give your scalp some TLC: 💪🏽90% saw fuller hair* 🌿Clinically tested, clean ingredients 💧Water based",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/72d6dde2-b6e2-406c-9568-f7d4594ed180/1299655788536810.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Save 30% Off Today!",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "Improved from #9 to #5 in 12d. Biggest jump: #9 → #6 on Aug 4 (+3). Peak: #4 on Aug 6.",
+      "hook": "THIS ISN'T SHEDDING — THIS ISN'T JUST HAIR LOSS. IT'S A LOSS OF WHO YOU WERE.",
+      "angle": "",
+      "copy": "Exclusive Ad Discount! Use code SCALP30 to claim 30% off our best-selling 100ml Scalp Serum today. Over 2,000,000 serums sold! Ready for thicker-looking hair that feels as good as it looks? In an independent",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/72d6dde2-b6e2-406c-9568-f7d4594ed180/1899109360752493.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Hiya",
+  "category": "Baby goods/kids goods",
+  "logo": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/441248634_959165102882202_6490880218243122275_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=o-SKPPIpjyIQ7kNvwFn1Gu8&_nc_oc=AdqR6S-YUNQkx9EwZSKs1-tnPgzgqznz2gGU1bWAdlPcgb-hBDAhTMRPamiVvG2zaZA&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=qv4ItmD_Y463Nx9jhcgTmw&_nc_ss=7b289&oh=00_AQG76qFgS3lbFeY8yFexTjt0LoXyGADkDIb8-sEYou41qQ&oe=6A838973",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "No melatonin or added sugar.*",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Improved from #13 to #1 in 12d. Biggest jump: #13 → #1 on Aug 3 (+12).",
+      "hook": "PARENTS!!!",
+      "angle": "The 'I Told You So' angle—asserting product efficacy by playfully mocking initial skepticism.",
+      "copy": "A non-habit forming nightly chewable to help kids relax before bed and wake up rejuvenated and refreshed. Supports calm, focus and brain health, and more.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/084e6190-84e1-4f77-8c9e-f0f7e2e9e19e/2295139677894635.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Get 50% off your first order",
+      "launch": "2026-07-23",
+      "days": 21,
+      "trend": "Improved from #4 to #2 in 14d.",
+      "hook": "BACK-TO-SCHOOL READY 🫡",
+      "angle": "Seasonal urgency centered on the back-to-school health routine",
+      "copy": "90% of brain development occurs before the age of 5. And we now know excess sugar doesn’t help, especially in the early years when vital childhood development is occurring.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/084e6190-84e1-4f77-8c9e-f0f7e2e9e19e/1061145449705862.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Get 50% off your first order",
+      "launch": "2026-07-25",
+      "days": 19,
+      "trend": "Improved from #7 to #3 in 14d.",
+      "hook": "BACK-TO-SCHOOL READY 🫡",
+      "angle": "Seasonal urgency centered on the back-to-school health routine",
+      "copy": "Hey parents -- ever stress over your kids not getting all the essentials they need? Can a supplement help? At Hiya -- we help fill in the most common gaps. With just one multivitamin a day.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/084e6190-84e1-4f77-8c9e-f0f7e2e9e19e/870367759195295.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Get 50% off your first order",
+      "launch": "2026-07-23",
+      "days": 21,
+      "trend": "Improved from #11 to #4 in 14d. Biggest jump: #7 → #3 on Aug 9 (+4). Biggest drop: #8 → #10 on Aug 3 (-2). Peak: #3 on Aug 9.",
+      "hook": "“my son couldn’t focus… so our pediatrician recommended this”",
+      "angle": "Authority-backed health solution using pediatrician recommendations",
+      "copy": "90% of brain development occurs before the age of 5. And we now know excess sugar doesn’t help, especially in the early years when vital childhood development is occurring.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/084e6190-84e1-4f77-8c9e-f0f7e2e9e19e/1413025487548875.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Get 50% off your first order",
+      "launch": "2026-07-24",
+      "days": 20,
+      "trend": "Improved from #35 to #5 in 14d. Biggest jump: #27 → #15 on Aug 5 (+12).",
+      "hook": "We're sugar free!",
+      "angle": "Radical transparency by showcasing the full nutritional label as the primary visual",
+      "copy": "90% of brain development occurs before the age of 5. And we now know excess sugar doesn’t help, especially in the early years when vital childhood development is occurring.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/084e6190-84e1-4f77-8c9e-f0f7e2e9e19e/2078773259514783.jpg"
+    }
+  ]
+}

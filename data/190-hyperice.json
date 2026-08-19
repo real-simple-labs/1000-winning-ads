@@ -1,0 +1,67 @@
+{
+  "name": "Hyperice",
+  "category": "Company",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fdf52c04-ae15-4dcd-8965-b191c886e1db/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Elevate your recovery routine",
+      "launch": "2026-06-10",
+      "days": 65,
+      "trend": "n/a",
+      "hook": "Move. Left to right, show me what you moving like.",
+      "angle": "Advanced recovery technology for high-performance athletes",
+      "copy": "Recover like a pro athlete! The Normatec line uses advanced dynamic air compression to help reduce soreness, relieve muscle fatigue, and support faster recovery. Get ready to take your performance to the next level. Shop now and unlock the power of elite r",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fdf52c04-ae15-4dcd-8965-b191c886e1db/1337322028338530.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Power your recovery routine",
+      "launch": "2026-06-12",
+      "days": 63,
+      "trend": "n/a",
+      "hook": "Move. Left to right, show me what you moving like.",
+      "angle": "Advanced recovery technology for high-performance athletes",
+      "copy": "Don’t let heavy legs slow you down. The Normatec Lower Legs delivers targeted relief with dynamic air compression therapy. Order today and feel the difference.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fdf52c04-ae15-4dcd-8965-b191c886e1db/2047594196636831.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Elevate your recovery game",
+      "launch": "2026-04-08",
+      "days": 128,
+      "trend": "n/a",
+      "hook": "Feel the power, not the noise.",
+      "angle": "Quiet operation as a premium competitive advantage",
+      "copy": "Take your recovery to the next level. The new Hypervolt 3 line is quieter, more powerful, and more refined than ever. Redesigned attachments and a premium carry case included.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fdf52c04-ae15-4dcd-8965-b191c886e1db/1152373973639949.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Hyperice",
+      "launch": "2026-06-16",
+      "days": 59,
+      "trend": "n/a",
+      "hook": "Packed + portable",
+      "angle": "Positioning the product as a premium travel essential for the mobile athlete",
+      "copy": "Consider this your sign to take recovery on the road. 🧳 Every Hypervolt 3 comes with a carry case included, not an add-on. Packed, portable, and ready. ⚡",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fdf52c04-ae15-4dcd-8965-b191c886e1db/993698403408796.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Your hips deserve elite recovery",
+      "launch": "2026-02-19",
+      "days": 176,
+      "trend": "n/a",
+      "hook": "نورماتيك بريمير للورك",
+      "angle": "Wireless freedom and mobility in recovery",
+      "copy": "No cords. No limits. Just better recovery. Slip into the Normatec Premier Hips for dynamic air compression that targets your hips, quads, and lower back with unmatched comfort. Order yours now to elevate your recovery routine.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fdf52c04-ae15-4dcd-8965-b191c886e1db/3356168917893517.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Magic Mind",
+  "category": "Food & beverage",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5080f8b9-1325-4ccf-a1b2-018fccc06f1b/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Matthew Stafford LP – Magic Mind",
+      "launch": "2026-05-29",
+      "days": 76,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Matthew Stafford",
+      "angle": "Authority and Elite Performance: Leveraging an NFL Quarterback's endorsement to prove product efficacy.",
+      "copy": "Matthew Stafford doesn't put just anything in his body. The reigning 2025 MVP runs on Magic Mind. No more riding the wave of coffee after coffee, energy drink after energy drink. Just clean, consistent mental performance.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5080f8b9-1325-4ccf-a1b2-018fccc06f1b/1668887907722106.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "LIMITED TIME OFFER: 50% OFF + FREE SHIPPING",
+      "launch": "2026-04-30",
+      "days": 105,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "You should be doing this!",
+      "angle": "Healthy alternative to Adderall without side effects",
+      "copy": "✨LIMITED TIME OFFER: 50% OFF + FREE SHIPPING TODAY✨ \"Magic Mind has been a game-changer for my daily routine. It helps me stay on task, energized, and stress-free, no matter how busy my day gets.\" – Taylor",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5080f8b9-1325-4ccf-a1b2-018fccc06f1b/1271898655149709.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Matthew Stafford LP – Magic Mind",
+      "launch": "2026-05-29",
+      "days": 76,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "TRUSTED BY ⭐⭐⭐⭐⭐ Matthew Stafford",
+      "angle": "Elite athletic endorsement to establish premium performance credibility",
+      "copy": "Matthew Stafford doesn't put just anything in his body. The reigning 2025 MVP runs on Magic Mind. No more riding the wave of coffee after coffee, energy drink after energy drink. Just clean, consistent mental performance.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5080f8b9-1325-4ccf-a1b2-018fccc06f1b/1309249031415393.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Matthew Stafford LP – Magic Mind",
+      "launch": "2026-05-29",
+      "days": 76,
+      "trend": "Improved from #6 to #4 in 12d.",
+      "hook": "“Part of my daily rhythm now”",
+      "angle": "Elite athlete authority and trust through Matthew Stafford",
+      "copy": "Matthew Stafford doesn't put just anything in his body. The reigning 2025 MVP runs on Magic Mind. No more riding the wave of coffee after coffee, energy drink after energy drink. Just clean, consistent mental performance.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5080f8b9-1325-4ccf-a1b2-018fccc06f1b/1015856724156628.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "50% OFF + FREE SHIPPING",
+      "launch": "2026-06-21",
+      "days": 53,
+      "trend": "Improved from #11 to #5 in 10d. Biggest jump: #10 → #5 on Aug 6 (+5).",
+      "hook": "This is embarrassing. People sometimes come up to me and I'm like, oh it's a comedy fan.",
+      "angle": "",
+      "copy": "{{product.brand}}",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5080f8b9-1325-4ccf-a1b2-018fccc06f1b/952963074430034.mp4"
+    }
+  ]
+}

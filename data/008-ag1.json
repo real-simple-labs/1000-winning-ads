@@ -1,0 +1,67 @@
+{
+  "name": "AG1",
+  "category": "Vitamins/supplements",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cd7edf49-bf2c-488b-98f5-19c219a54f15/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Clinically-Backed Nutrition Support",
+      "launch": "2026-02-24",
+      "days": 170,
+      "trend": "Improved from #2 to #1 in 10d.",
+      "hook": "Get Your $72 Free Welcome Kit Now**",
+      "angle": "High-value introductory bundle offer ($72 in free gifts)",
+      "copy": "Ready to upgrade your health routine? Most supplements aren't backed by science. AG1 Next Gen is. This formula is clinically shown to support gut health and fill common nutrient gaps in one powerful scoop.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cd7edf49-bf2c-488b-98f5-19c219a54f15/1433607418551231.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Nutrition Support for Every Life Stage",
+      "launch": "2026-05-05",
+      "days": 100,
+      "trend": "Improved from #3 to #2 in 10d.",
+      "hook": "“AG1 is a foundational part of how I support my overall well-being in this phase of life.”",
+      "angle": "Targeting high-achieving professional women (The 'President & Mom' angle)",
+      "copy": "No matter the decade, AG1 is daily foundational nutrition to keep you supported.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cd7edf49-bf2c-488b-98f5-19c219a54f15/1968973143744773.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Nutrition Support for Every Life Stage",
+      "launch": "2026-05-07",
+      "days": 98,
+      "trend": "Improved from #4 to #3 in 10d.",
+      "hook": "“AG1 is a foundational part of how I support my overall well-being in this phase of life.”",
+      "angle": "Positioning AG1 as a foundational health pillar for busy, high-achieving professionals.",
+      "copy": "No matter the decade, AG1 is daily foundational nutrition to keep you supported.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cd7edf49-bf2c-488b-98f5-19c219a54f15/1001089782399489.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Clinically-Backed Nutrition Support",
+      "launch": "2026-04-10",
+      "days": 125,
+      "trend": "Improved from #5 to #4 in 10d.",
+      "hook": "Get Your $72 Free Welcome Kit Now**",
+      "angle": "High-value introductory offer for new subscribers",
+      "copy": "Ready to upgrade your health routine? Most supplements aren't backed by science. AG1 Next Gen is. This formula is clinically shown to support gut health and fill common nutrient gaps in one powerful scoop.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cd7edf49-bf2c-488b-98f5-19c219a54f15/1486090149758401.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Hugh Jackman Thinks AG1 Is a No Brainer",
+      "launch": "2026-04-08",
+      "days": 127,
+      "trend": "Improved from #9 to #5 in 10d. Biggest jump: #9 → #5 on Aug 4 (+4).",
+      "hook": "Think about all the stuff AG1 replaces, it's a no-brainer.",
+      "angle": "Simplicity and Convenience: Replacing a complex supplement cabinet with one daily scoop.",
+      "copy": "One scoop. 75+ high-quality ingredients, including pre- and probiotics, a multivitamin, superfoods, and greens.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cd7edf49-bf2c-488b-98f5-19c219a54f15/1759571685386911.mp4"
+    }
+  ]
+}

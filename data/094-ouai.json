@@ -1,0 +1,67 @@
+{
+  "name": "OUAI",
+  "category": "Health/beauty",
+  "logo": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/355674735_635952835225941_2378812104448345862_n.png?stp=dst-png_s148x148&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=g09r8pg15JQQ7kNvwF87NEZ&_nc_oc=AdrdknoC7eJq_jECNWYX1xo1GyF_VvCgTbl6k3gtrdNK-SagG5rKBZQTTk_L1DkUjw0&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&_nc_gid=Ek4SNwccyWvh722rQmjuGw&_nc_ss=7b289&oh=00_AQF-myHXpyXfBcHCuOEQU-YurXP7zEag7HqVwMpo6FoDtA&oe=6A83BA1C",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "THE DO-IT-ALL DETANGLER",
+      "launch": "2026-08-11",
+      "days": 2,
+      "trend": "Ranked #1 on Aug 13.",
+      "hook": "",
+      "angle": "",
+      "copy": "Feeling knotty? We've got your new go-to. Detangle, hydrate & fight frizz with best-selling Leave In Conditioner.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/390b3e73-398e-4ead-94d1-f37967785e49/4d8cdfad08898fbf63013cbc63c0d3612bc8b999676b94489106e4f96a3ac42b.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "THE DO-IT-ALL DETANGLER",
+      "launch": "2026-08-11",
+      "days": 2,
+      "trend": "Improved from #144 to #2 in 2d. Biggest jump: #144 → #2 on Aug 13 (+142).",
+      "hook": "KNOTTY GIRLS WEAR PROTECTION",
+      "angle": "Catchy Pun/Hook: Using 'Knotty Girls' to grab attention immediately.",
+      "copy": "Feeling knotty? We've got your new go-to. Detangle, hydrate & fight frizz with Leave In Conditioner.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/390b3e73-398e-4ead-94d1-f37967785e49/66136b360bd89902072ef810d16015dbf411579aff3106e262a626190224d4fc.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "KNOTTY GIRLS WEAR PROTECTION",
+      "launch": "2026-08-11",
+      "days": 2,
+      "trend": "Ranked #3 on Aug 13.",
+      "hook": "",
+      "angle": "",
+      "copy": "Feeling knotty? We've got your new go-to. Detangle, hydrate & fight frizz with best-selling Leave In Conditioner.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/390b3e73-398e-4ead-94d1-f37967785e49/d5bb5489f71979b0a1bad147092a5884345aa1c680f211abdcad634a48fcc571.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "KNOTTY GIRLS WEAR PROTECTION",
+      "launch": "2026-08-11",
+      "days": 2,
+      "trend": "Improved from #63 to #4 in 2d. Biggest jump: #63 → #4 on Aug 13 (+59).",
+      "hook": "KNOTTY GIRLS WEAR PROTECTION",
+      "angle": "Edgy humor hook ('Knotty Girls') to stop the scroll",
+      "copy": "Feeling knotty? We've got your new go-to. Detangle, hydrate & fight frizz with Leave In Conditioner.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/390b3e73-398e-4ead-94d1-f37967785e49/b603266ff5ca48d735f86649cae7ccbaa81d736071a6dce87957ec7dfecf2fa4.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "OUAI X DEDCOOL",
+      "launch": "2026-07-07",
+      "days": 37,
+      "trend": "Dropped from #2 to #5 in 14d. Biggest drop: #2 → #5 on Aug 13 (-3). Peak: #2 on Jul 30.",
+      "hook": "Have you ever seen a mist this fine?",
+      "angle": "Superior application through a fine, even mist",
+      "copy": "@theouai's Leave In Conditioner is like a tall drink of water for my hair 🚿 #OUAIPartner #LeaveInConditioner",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/390b3e73-398e-4ead-94d1-f37967785e49/1033087856076476.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "ILIA",
+  "category": "Health/beauty",
+  "logo": "https://scontent-phx1-1.xx.fbcdn.net/v/t1.6435-1/156800768_272618460887927_1931395124390614797_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=HWUQq1YS9IYQ7kNvwFCCDxz&_nc_oc=AdrRsCMwbdbKHMU19x54l8MDY52CIckUJvLOd2aht8AHgv8SOZsiwlmzEYZ9JRPhdAY&_nc_zt=24&_nc_ht=scontent-phx1-1.xx&_nc_gid=HI3hxZEvcZNyM82Th3ZaKA&_nc_ss=7b289&oh=00_AQGyYlIRa96J3ciIQcrKoACvQE1lFQWaYgirgk6jMiOmug&oe=6AA50295",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "HAIM x Skin Tint",
+      "launch": "2026-06-11",
+      "days": 63,
+      "trend": "Improved from #2 to #1 in 13d.",
+      "hook": "almost ready",
+      "angle": "Celebrity Endorsement: Leveraging the popularity and sisterly bond of the band HAIM.",
+      "copy": "The Grammy-nominated band—feat. Skin Tint. Meet Haim’s supporting act for makeup + skincare + SPF.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7f24b191-db8e-484e-bda9-52d60bbafe4a/902282199549969.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Limitless Lash in Brown",
+      "launch": "2026-05-22",
+      "days": 83,
+      "trend": "Improved from #3 to #2 in 13d.",
+      "hook": "lash care disguised as mascara",
+      "angle": "Hybrid beauty: Positioning mascara as a lash care treatment",
+      "copy": "NEW: Our cult-favorite clean mascara now comes in a new brown shade. 👁️ Shop Limitless Lash in Before Dawn.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7f24b191-db8e-484e-bda9-52d60bbafe4a/2273110843514081.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "HAIM x Skin Tint",
+      "launch": "2026-06-11",
+      "days": 63,
+      "trend": "Improved from #4 to #3 in 13d.",
+      "hook": "almost ready",
+      "angle": "Celebrity Collaboration: Utilizing the Haim sisters' cool, relatable aesthetic to build brand desire.",
+      "copy": "Meet Haim’s favorite for makeup + skincare + SPF that’s safe for sensitive skin.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7f24b191-db8e-484e-bda9-52d60bbafe4a/2083907965884904.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "HAIM x Skin Tint",
+      "launch": "2026-06-11",
+      "days": 63,
+      "trend": "Improved from #12 to #4 in 13d. Biggest jump: #12 → #9 on Aug 2 (+3).",
+      "hook": "I really need sunscreen in the Valley heat.",
+      "angle": "Practical necessity of SPF in hot climates",
+      "copy": "Sensitive skin loves Skin Tint. Discover Alana Haim’s 3-in-1 beauty routine—on and off the stage.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7f24b191-db8e-484e-bda9-52d60bbafe4a/1622730042146280.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "HAIM x Skin Tint",
+      "launch": "2026-06-11",
+      "days": 63,
+      "trend": "Improved from #6 to #5 in 13d. Biggest jump: #6 → #4 on Aug 2 (+2). Peak: #4 on Aug 2.",
+      "hook": "HAIM x ILIA",
+      "angle": "Celebrity endorsement leveraging the band HAIM's 'natural' aesthetic",
+      "copy": "One trio. Your whole routine. Makeup + skincare + SPF—made with sensitive skin in mind.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7f24b191-db8e-484e-bda9-52d60bbafe4a/983921897609954.jpg"
+    }
+  ]
+}

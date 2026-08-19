@@ -1,0 +1,67 @@
+{
+  "name": "Pet Honesty",
+  "category": "Pet Supplies",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc83dd8f-7ed9-4f21-aff3-8f6d3abd8c0c/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Gut + Immune Health Digestive Probiotic Chews for Dogs (Duck Flavor)",
+      "launch": "2026-03-09",
+      "days": 158,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Allergy Support",
+      "angle": "Improving coat appearance and shine",
+      "copy": "Healthy coat ✅ Happy tummy ✅ Strong joints ✅ Calm & chill ✅ Our full range of clean, nutritionally-complete supplements supports every part of your pet’s wellness. Subscribe & save 20% today!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc83dd8f-7ed9-4f21-aff3-8f6d3abd8c0c/1629823671376364.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Subscribe & Save 20%",
+      "launch": "2026-02-09",
+      "days": 186,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Here's how I keep Rascal healthy as he gets older and older each day.",
+      "angle": "Senior pet health and longevity focus",
+      "copy": "🌞 Boost Your Cat's Health with Daily Multivitamins! Get 20% off your first order and give your furry friend the nutrients they deserve. #CatHealthSupplements #PetCare #MultivitaminForCats",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc83dd8f-7ed9-4f21-aff3-8f6d3abd8c0c/841199125636449.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Subscribe & Save 20%",
+      "launch": "2026-04-13",
+      "days": 123,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "Here's how I keep Rascal healthy as he gets older and older each day.",
+      "angle": "Senior pet health and longevity focus",
+      "copy": "🌞 Boost Your Cat's Health with Daily Multivitamins! Get 20% off your first order and give your furry friend the nutrients they deserve. #CatHealthSupplements #PetCare #MultivitaminForCats",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc83dd8f-7ed9-4f21-aff3-8f6d3abd8c0c/1693193128758741.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "No. 1 Dental Supplements for Dogs",
+      "launch": "2026-05-26",
+      "days": 80,
+      "trend": "Improved from #5 to #4 in 12d.",
+      "hook": "30 days between this picture and this picture of my dog's teeth.",
+      "angle": "Before/After Transformation: Visual proof of dental cleaning in 30 days without professional medical intervention.",
+      "copy": "25% OFF YOUR FIRST ORDER: From teeth to tail and everything in between, this bundle is packed with clean ingredients like probiotics, postbiotics, & omegas to support their joints, skin, coat, digestio",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc83dd8f-7ed9-4f21-aff3-8f6d3abd8c0c/2148403305702633.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "No. 1 Dental Supplements for Dogs",
+      "launch": "2026-03-09",
+      "days": 158,
+      "trend": "Dropped from #4 to #5 in 12d. Peak: #4 on Aug 1.",
+      "hook": "\"My pups breath is no longer stinky!!\"",
+      "angle": "Eliminating the social embarrassment and discomfort of bad pet breath",
+      "copy": "Keep your dog's breath fresh and healthy with Pet Honesty dental care products. Take 20% off when you subscribe!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc83dd8f-7ed9-4f21-aff3-8f6d3abd8c0c/1249958710576916.jpg"
+    }
+  ]
+}

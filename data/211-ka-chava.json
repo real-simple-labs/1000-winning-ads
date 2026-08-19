@@ -1,0 +1,67 @@
+{
+  "name": "Ka'Chava",
+  "category": "Health/beauty",
+  "logo": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/427866911_788419226664642_3029196956616923055_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=numOWopFhQEQ7kNvwHyMUA3&_nc_oc=AdrsS13bXrO2BQfMlMr6x_mXVYGSertCu3b-MOOsoj4F3LJipe4aZh7UeoDJBTa1e6I&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&_nc_gid=aBAWlpdnpGRCEpmugHqzAg&_nc_ss=7b289&oh=00_AQFsPe0oXWQyiHA6bPlf2SobKtJcp98WSQlGxcP67e-xfg&oe=6A80590F",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "NEW Chocolate Mint is Back!",
+      "launch": "2026-06-05",
+      "days": 70,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Chocolate Mint",
+      "angle": "Flavor-first positioning emphasizing indulgence over utility",
+      "copy": "You deserve more than protein. Ka'Chava is packed with protein + fiber + omegas + vitamins + minerals + so much more for complete nutrition 💪 Just 2 scoops + water. Mix, sip & go!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8eb820cf-3655-499c-969a-6bfae9988efe/1768028697911775.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The community has spoken.",
+      "launch": "2026-06-02",
+      "days": 73,
+      "trend": "Improved from #3 to #2 in 12d.",
+      "hook": "Ka'Chava Tested....",
+      "angle": "",
+      "copy": "Whole-body nutrition, community approved. 25g protein, 6g fiber, 26 vitamins & minerals, omegas, and so much more in just 2 scoops + water. Mix, sip and go!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8eb820cf-3655-499c-969a-6bfae9988efe/864273612771441.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "7-Serve Shakes",
+      "launch": "2026-06-02",
+      "days": 73,
+      "trend": "Improved from #4 to #3 in 12d.",
+      "hook": "ALL-IN-ONE NUTRITION SHAKE",
+      "angle": "Eliminating choice paralysis with a multi-flavor variety pack",
+      "copy": "Whole-body nutrition, community approved. 25g protein, 6g fiber, 26 vitamins & minerals, omegas, and so much more in just 2 scoops + water. Mix, sip and go!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8eb820cf-3655-499c-969a-6bfae9988efe/1502400728341702.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "$40 off subscriptions",
+      "launch": "2026-07-02",
+      "days": 43,
+      "trend": "Dropped from #2 to #4 in 12d. Biggest drop: #2 → #4 on Aug 11 (-2). Peak: #2 on Aug 1.",
+      "hook": "Everything Tastes Better ON SALE",
+      "angle": "Economic incentive through a significant subscription discount ($40 off)",
+      "copy": "Hit your summer nutritional goals with a month's supply of Ka'Chava for $40 off! For a limited time, subscribe to a 30-serving and save BIG.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8eb820cf-3655-499c-969a-6bfae9988efe/988219643840846.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Try All 6 Delicious Flavors",
+      "launch": "2026-06-24",
+      "days": 51,
+      "trend": "Stable at #5 over 12d.",
+      "hook": "NEW! 15 Single Serve Variety Pack",
+      "angle": "Flavor Variety: Showcasing six different flavors in one convenient pack.",
+      "copy": "Try all 6 delicious flavors in our NEW Single Serve Variety Pack! 🤎 Chocolate 🩵 Vanilla 🩷 Strawberry 💚 Matcha 🧡 Chai 💜 Coconut Acai 15 single serve packets of 25g protein, 6g fiber, vitamins & minerals",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8eb820cf-3655-499c-969a-6bfae9988efe/1540690901124996.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Garden of Life",
+  "category": "Vitamins/supplements",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1780078e-6f39-4fac-ba97-6a26f93ed338/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Digestive and Immune Support†",
+      "launch": "2026-05-18",
+      "days": 87,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "From the number one probiotics brand for women and men.",
+      "angle": "Social Proof: Positioning as the #1 probiotics brand for both men and women.",
+      "copy": "New Triple Action Probiotics from the #1 Probiotic Brand for Men and Women* *Based on Circana(TM) 52 week multi-outlet unit sales ending 11/30/25.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1780078e-6f39-4fac-ba97-6a26f93ed338/26918739621118382.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Digestive and Immune Support†",
+      "launch": "2026-05-18",
+      "days": 87,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "From the number one probiotics brand for women and men.",
+      "angle": "Social Proof: Positioning as the #1 probiotics brand for both men and women.",
+      "copy": "New Triple Action Probiotics from the #1 Probiotic Brand for Men and Women* *Based on Circana(TM) 52 week multi-outlet unit sales ending 11/30/25.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1780078e-6f39-4fac-ba97-6a26f93ed338/1529615055438050.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Growing good things starts from the inside out. #GOLPartner",
+      "launch": "2026-07-21",
+      "days": 23,
+      "trend": "Improved from #4 to #3 in 14d.",
+      "hook": "Your gut is like a garden and what you put in it actually matters.",
+      "angle": "The gut-as-a-garden metaphor for intuitive health understanding",
+      "copy": "Growing good things starts from the inside out. #GOLPartner Today I'm in the garden planting vegetables, checking on my tomatoes and peppers, and making my @gardenoflife Dr. Formulated Once Daily Men's Probiotic part of the routine.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1780078e-6f39-4fac-ba97-6a26f93ed338/861591930043749.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Organic Once Daily Multivitamin",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #5 to #4 in 6d. Biggest jump: #14 → #4 on Aug 11 (+10).",
+      "hook": "We're not in California anymore.",
+      "angle": "Sourcing transparency: Showing exactly where the wild lichen comes from.",
+      "copy": "Why does Garden of Life go all the way to Newfoundland for lichen? Dylan Efron searches for the answer.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1780078e-6f39-4fac-ba97-6a26f93ed338/1576640167253414.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Organic Once Daily Multivitamin",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #17 to #5 in 6d. Biggest jump: #16 → #5 on Aug 11 (+11).",
+      "hook": "We're not in California anymore.",
+      "angle": "Sourcing transparency: Showing exactly where the wild lichen comes from.",
+      "copy": "Why does Garden of Life go all the way to Newfoundland for lichen? Dylan Efron searches for the answer.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1780078e-6f39-4fac-ba97-6a26f93ed338/1764811971210677.mp4"
+    }
+  ]
+}

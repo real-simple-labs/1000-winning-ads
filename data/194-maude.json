@@ -1,0 +1,67 @@
+{
+  "name": "Maude",
+  "category": "Shopping & retail",
+  "logo": "https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-1/409431136_778005174361897_6310378323440125034_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=E7MMpyH2lu4Q7kNvwEVTeA2&_nc_oc=AdoQE61K6nubzSOArLWh8Seh6g2H7taIhaYQ-yazDqyO4HdBnhudXXb4Jzyv0YYSYP8&_nc_zt=24&_nc_ht=scontent-mia3-3.xx&_nc_gid=7T2GXNuOxnpJUFArAXzEXQ&_nc_ss=7b289&oh=00_AQE98X442vRE1a8F10ZIWXuCo1XnTLToo6l8EprVWsUDtg&oe=6A839897",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "modern intimacy essentials for all.",
+      "launch": "2026-04-14",
+      "days": 122,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "made for the nightstand.",
+      "angle": "Aesthetic-led sexual wellness (products as home decor)",
+      "copy": "Thoughtfully crafted, inclusive, body-safe products for simple, everyday intimacy.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/985f1776-6008-44ae-89b1-db97491ec67a/994333333021508.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "modern intimacy essentials for all.",
+      "launch": "2026-04-14",
+      "days": 122,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "made for the nightstand.",
+      "angle": "Aesthetic-first sexual wellness (products as home decor)",
+      "copy": "Thoughtfully crafted, inclusive, body-safe products for simple, everyday intimacy.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/985f1776-6008-44ae-89b1-db97491ec67a/956910710069355.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "modern intimacy essentials for all.",
+      "launch": "2026-04-14",
+      "days": 122,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "made for the nightstand.",
+      "angle": "Aesthetic-led sexual wellness (products as home decor)",
+      "copy": "Thoughtfully crafted, inclusive, body-safe products for simple, everyday intimacy.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/985f1776-6008-44ae-89b1-db97491ec67a/1689395028737334.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "modern intimacy essentials for all.",
+      "launch": "2026-04-14",
+      "days": 122,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "made for the nightstand.",
+      "angle": "Aesthetic appeal: Positioning the product as a design-forward object that belongs on display.",
+      "copy": "Thoughtfully crafted, inclusive, body-safe products for simple, everyday intimacy.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/985f1776-6008-44ae-89b1-db97491ec67a/937082445739074.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "modern intimacy essentials for all.",
+      "launch": "2026-07-06",
+      "days": 39,
+      "trend": "Stable at #5 over 12d.",
+      "hook": "made for the nightstand.",
+      "angle": "Positioning a wellness product as high-end home decor to remove stigma",
+      "copy": "Thoughtfully crafted, inclusive, body-safe products for simple, everyday intimacy.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/985f1776-6008-44ae-89b1-db97491ec67a/1336896151958737.jpg"
+    }
+  ]
+}

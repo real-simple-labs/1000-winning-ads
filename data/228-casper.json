@@ -1,0 +1,67 @@
+{
+  "name": "Casper",
+  "category": "Shopping & retail",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/127c68cb-b91f-4d8f-b42f-706e0d208ff0/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Back to School Savings Available Now",
+      "launch": "2026-07-30",
+      "days": 15,
+      "trend": "Improved from #15 to #1 in 12d. Biggest jump: #15 → #10 on Aug 3 (+5).",
+      "hook": "Here's a closer look at the Casper mattress we chose for our son's room",
+      "angle": "Back-to-School seasonal savings for kids' rooms",
+      "copy": "110,000+ five-star reviews. 100-night trial. Free shipping. Free returns.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/127c68cb-b91f-4d8f-b42f-706e0d208ff0/910057734859956.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Back to School Savings Available Now",
+      "launch": "2026-07-31",
+      "days": 14,
+      "trend": "Improved from #23 to #2 in 12d. Biggest jump: #20 → #9 on Aug 5 (+11).",
+      "hook": "Here's a closer look at the Casper mattress we chose for our son's room",
+      "angle": "Back-to-school sale promotion for bedroom upgrades",
+      "copy": "110,000+ five-star reviews. 100-night trial. Free shipping. Free returns.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/127c68cb-b91f-4d8f-b42f-706e0d208ff0/2129542044652709.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Cloud One - Premium Foam Mattress",
+      "launch": "2026-05-22",
+      "days": 84,
+      "trend": "Dropped from #1 to #3 in 12d. Peak: #1 on Aug 1.",
+      "hook": "Our most popular mattress, upgraded.",
+      "angle": "Product comparison to simplify the buying decision",
+      "copy": "Our most popular mattress just got an upgrade. Featuring all-new patent-pending Casper Core+™ technology, Cloud One delivers a boost of plushness while giving you all the support of The One.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/127c68cb-b91f-4d8f-b42f-706e0d208ff0/2248685125971563.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Cloud One - Premium Foam Mattress",
+      "launch": "2026-05-26",
+      "days": 80,
+      "trend": "Dropped from #2 to #4 in 12d. Biggest drop: #2 → #4 on Aug 11 (-2). Peak: #2 on Aug 1.",
+      "hook": "Our most popular mattress, upgraded.",
+      "angle": "The 'Upgraded Best Seller' angle: Leveraging existing popularity to sell a new version",
+      "copy": "Our most popular mattress just got an upgrade. Featuring all-new patent-pending Casper Core+™ technology, Cloud One delivers a boost of plushness while giving you all the support of The One.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/127c68cb-b91f-4d8f-b42f-706e0d208ff0/1015172831088797.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Back to School Savings Available Now",
+      "launch": "2026-07-30",
+      "days": 15,
+      "trend": "Improved from #22 to #5 in 12d. Biggest jump: #22 → #15 on Aug 3 (+7).",
+      "hook": "If you've been thinking about upgrading your bedroom, this is your sign.",
+      "angle": "Transformation: Turning a bedroom into a 'sleep sanctuary'",
+      "copy": "If your bed isn’t your favorite place at the end of the day, it’s time for an upgrade 🤍 We switched to @casper and the difference is unreal! It’s the perfect mix of soft and supportive.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/127c68cb-b91f-4d8f-b42f-706e0d208ff0/1803651187715437.mp4"
+    }
+  ]
+}

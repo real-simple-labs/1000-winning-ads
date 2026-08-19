@@ -1,0 +1,67 @@
+{
+  "name": "Cymbiotika",
+  "category": "Vitamin Supplement Shop",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/91047412-6e93-4561-af48-67f97c6855f0/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Activated Charcoal",
+      "launch": "2026-05-20",
+      "days": 85,
+      "trend": "Stable at #1 over 13d.",
+      "hook": "Aloha, I've come to the clear conclusion that even if you're getting four or five hours of equatorial sun in the summer...",
+      "angle": "The necessity of supplementation even for those with high sun exposure",
+      "copy": "Consistency creates transformation. Save up to 30% when you subscribe! Your best self awaits.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/91047412-6e93-4561-af48-67f97c6855f0/77ce445a31622849ce941b2f2a277160c84dd5c2af781f4561796bfe120f6969.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "The Omega",
+      "launch": "2026-05-20",
+      "days": 85,
+      "trend": "Stable at #2 over 13d.",
+      "hook": "Aloha, I've come to the clear conclusion that even if you're getting four or five hours of equatorial sun in the summer...",
+      "angle": "The necessity of supplementation even for those with high sun exposure",
+      "copy": "Gym bag? Check. Office desk? Check. Premium nutrition anywhere life takes you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/91047412-6e93-4561-af48-67f97c6855f0/e8935f8fb4a6b6d7f61d05e560169f7bb63b4bc0142591110b692a3c72aa749b.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Find Your Favorite",
+      "launch": "2026-07-29",
+      "days": 15,
+      "trend": "Improved from #50 to #3 in 13d. Biggest jump: #50 → #12 on Aug 2 (+38).",
+      "hook": "Four Best Sellers. One Box.",
+      "angle": "Curated bundle of proven best-sellers to remove decision fatigue",
+      "copy": "Everyone has a favorite Cymbiotika formula. This is your chance to discover yours. Four best sellers. One simple starter pack.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/91047412-6e93-4561-af48-67f97c6855f0/b83a4420c1a4d6b157eaa0541cbac4573e7bc5e87b08628c7b424d5f5024619c.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Try Liposomal NAD+",
+      "launch": "2026-06-08",
+      "days": 66,
+      "trend": "Stable at #4 over 13d. Biggest jump: #6 → #4 on Aug 13 (+2).",
+      "hook": "What happens when you combine three hundred milligrams of pure NAD",
+      "angle": "Scientific biohacking/longevity focus",
+      "copy": "Coffee gives you a temporary lift. NAD+ helps support the cellular energy systems your body relies on every day. Cymbiotika's formula includes pure NAD+, TMG, apigenin, niacin, and Lutemax in one easy daily packet.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/91047412-6e93-4561-af48-67f97c6855f0/78742dc14953da1599185a10d2c6d8ed3416efe382cd445ac3a53cabe64c1311.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Find Your Favorite",
+      "launch": "2026-07-31",
+      "days": 13,
+      "trend": "Improved from #31 to #5 in 11d. Biggest jump: #31 → #13 on Aug 4 (+18).",
+      "hook": "Four Best Sellers. One box.",
+      "angle": "Low-friction entry point for a premium wellness brand",
+      "copy": "Everyone has a favorite Cymbiotika formula. This is your chance to discover yours. Four best sellers. One simple starter pack.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/91047412-6e93-4561-af48-67f97c6855f0/59afaa696ef93c673a18c168ea395474992ca28be106c7275fc3b2d771156225.jpg"
+    }
+  ]
+}

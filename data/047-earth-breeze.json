@@ -1,0 +1,67 @@
+{
+  "name": "Earth Breeze",
+  "category": "Brand",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/11cefe2b-ddb8-49db-891d-9a11a2613b1f/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "What Clean Should Mean™",
+      "launch": "2026-06-25",
+      "days": 49,
+      "trend": "Improved from #3 to #1 in 14d. Biggest jump: #3 → #1 on Aug 1 (+2).",
+      "hook": "Give me one minute and you'll stop using dish detergent pods forever.",
+      "angle": "Health and safety: Traditional pods contain harmful chemicals like artificial dyes and ethoxylated alcohols.",
+      "copy": "Clean dishes shouldn't come with hidden leftover ingredients... Earth Breeze Pure Clean Dish Tablets give you everything you want: ✅ Clean dishes ✅ Dissolves fully, even in eco cycles ✅ Free of harsh chemicals",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/11cefe2b-ddb8-49db-891d-9a11a2613b1f/277505bcf0d93d458c33be64cf589fb6629ab1f4cb9466fb9870fda31b97fcb8.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "NEW: Pure Clean Dish Tablets 🫧",
+      "launch": "2026-05-13",
+      "days": 92,
+      "trend": "Stable at #2 over 2d.",
+      "hook": "Why are we eating off of plates that we wash in these?",
+      "angle": "Health/Safety: Avoiding harmful chemicals (ethoxylated alcohols) that stay on dishes and cause gut damage.",
+      "copy": "NEW: Pure Clean Dishwasher Tablets 🫧 Say goodbye to pods. Earth Breeze Pure Clean Dish Tablets deliver a powerful clean with ingredients you can actually trust. ✅ Tackles grease & stuck-on food ✅ No parabens or dyes",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/11cefe2b-ddb8-49db-891d-9a11a2613b1f/337c84100f169aa5e96fb2dafb00dccba3e97d35bcfef8f2aa06e9badb43da74.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Ditch the pod. Keep the clean 🫧",
+      "launch": "2026-07-06",
+      "days": 38,
+      "trend": "Improved from #8 to #3 in 14d. Biggest jump: #8 → #4 on Aug 1 (+4). Peak: #2 on Aug 3.",
+      "hook": "The last year our dishwasher took a shit, and the one piece of advice that our repair guy had was to stop using these dishwasher pods.",
+      "angle": "Health concern: pods leave toxic residue linked to gut damage",
+      "copy": "Your dishwasher detergent is feeding your family chemicals linked to gut damage — here are 9 reasons to stop",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/11cefe2b-ddb8-49db-891d-9a11a2613b1f/4e7d24c0bf0cad8592234fc414312cff69d4942c6bb38f2fae844ddc5669e511.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "NEW: Miracle Stain Remover Spray ✨",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Improved from #12 to #4 in 14d. Biggest jump: #12 → #5 on Aug 1 (+7). Peak: #3 on Aug 5.",
+      "hook": "NEW: Miracle Stain Remover Spray ✨",
+      "angle": "",
+      "copy": "Earth Breeze Miracle Stain Remover Spray is formulated to help lift everyday stains from clothing, carpet, and upholstery. Made without harsh chemicals like bleach, peroxide, or phosphates. Just spray, wait, and see results!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/11cefe2b-ddb8-49db-891d-9a11a2613b1f/86fb2c0ed53f75876219e6eb4f46a5e0a3a09df69e44cb6946216817a38ddbc9.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Limited Time: Up to 58% Off with 4 FREE Gifts",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Improved from #23 to #5 in 14d. Biggest jump: #23 → #7 on Aug 1 (+16). Peak: #4 on Aug 5.",
+      "hook": "We made too many dish tablets. Way too many.",
+      "angle": "Overstock liquidation sale due to inventory forecasting error",
+      "copy": "We made too many... Right now, our Pure Clean Dish Tablets are up to 58% off with 4 FREE gifts while supplies last ➡️ 🧼 3-in-1 formula cuts grease, fights stains, and rinses to a shine 🚫 No parabens, dyes, or preservatives",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/11cefe2b-ddb8-49db-891d-9a11a2613b1f/cfea49de129956c8e98a0a5b48be4a4c4bdf6b6f7679646efcf12a718a52c7f3.mp4"
+    }
+  ]
+}

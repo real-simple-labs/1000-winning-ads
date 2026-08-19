@@ -1,0 +1,67 @@
+{
+  "name": "SKIMS",
+  "category": "Clothing (Brand)",
+  "logo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/355872632_814659553620933_8226695718749502422_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=cmJJYjd1sosQ7kNvwETIH0p&_nc_oc=AdrGDEsEh1BA2Dz9_6ccpxcXjKzpzFqVbWUmzJoXwhyohmwTJBD-6p7zkvl0Se8zWWc&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=pERPh3YTj5wCmpDwFAeYNA&_nc_ss=7b289&oh=00_AQGkDpRjy024VOhfZ_Hyb3wrJFM76AUHsBD1O5XHbAL-SA&oe=6A839730",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Fits Everybody Triangle Bralette",
+      "launch": "2026-05-01",
+      "days": 104,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "n/a",
+      "angle": "",
+      "copy": "You'll look as good as you feel in SKIMS. Shop now!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5da76be4-a5a3-44b8-bf1f-617fde389ca7/a0ef01bc7f2e12bf5788916c407369e110f2b12802c2b34209fe25485bf733ef.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "SKIMS Lightweight Cotton",
+      "launch": "2026-06-24",
+      "days": 50,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "BEFORE AFTER",
+      "angle": "",
+      "copy": "5 for $35: Save on SKIMS panties. Shop our 5 for $35 deal on new Lightweight Cotton panties!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5da76be4-a5a3-44b8-bf1f-617fde389ca7/58ec8550e79192e63d15c8253e4846fee07cd1e3f4e19ef3d5a0f762f97f6d05.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Fits Everybody Cheeky Brief",
+      "launch": "2026-05-02",
+      "days": 103,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "n/a",
+      "angle": "",
+      "copy": "You'll look as good as you feel in SKIMS. Shop now!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5da76be4-a5a3-44b8-bf1f-617fde389ca7/12f21c2ec99b40a020b89b7d4eb7d8becbf278e9d36adeef20bcbdae838524d2.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Fits Everybody Cheeky Brief",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Improved from #5 to #4 in 14d.",
+      "hook": "BEFORE AFTER",
+      "angle": "Direct visual proof of dramatic lift and volume",
+      "copy": "You'll look as good as you feel in SKIMS. Shop now!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5da76be4-a5a3-44b8-bf1f-617fde389ca7/59d332eaefe2dbfdee657e9ce9bf48ce2a6ff5f44029f61147586a1b43010a3e.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "SKIMS Bras",
+      "launch": "2026-06-08",
+      "days": 66,
+      "trend": "Improved from #6 to #5 in 14d.",
+      "hook": "It's the way that this bra literally makes the girls look absolutely insane is the reason why I'm obsessed with this.",
+      "angle": "Dramatic aesthetic improvement (\"makes the girls look absolutely insane\")",
+      "copy": "You won't believe your boobs. Shop the SKIMS Ultimate Bra in a new balconette neckline for flawless lift, shape, and fullness.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/5da76be4-a5a3-44b8-bf1f-617fde389ca7/69bc81c8f51a7c6bdb996cffdcb8d6b8ada1029eecfb019814461d3a2acd1dd1.mp4"
+    }
+  ]
+}

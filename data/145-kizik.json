@@ -1,0 +1,67 @@
+{
+  "name": "Kizik",
+  "category": "Clothing (Brand)",
+  "logo": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/615218071_1323999346433336_7254470172256603777_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=vVgnudHGOJ4Q7kNvwFSyl0y&_nc_oc=Ado326Pd-Mx9Ms2ndJJkHOOLJYOoZkWX7IwpQhKu5pYWX2htbhHJRE9w3y4erzM8hDY&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&_nc_gid=HzJwL1yCbiGvr3uitC778w&_nc_ss=7b289&oh=00_AQGofTEIq_sJeg2-DXjnzCVXOdyIjluEdJv04ADBi20DEg&oe=6A834F13",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Step into a new style",
+      "launch": "2026-07-10",
+      "days": 34,
+      "trend": "Improved from #4 to #1 in 14d.",
+      "hook": "LOCK INTO COMFORT",
+      "angle": "Leveraging social proof by highlighting 'Bestseller' status",
+      "copy": "Step into a confidence boost. Lock into all-day comfort. Shop the latest styles.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c6761dd9-a6c2-4178-bec2-c0ffb4d61ad1/2070198083913261.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Just step in and go.",
+      "launch": "2026-05-28",
+      "days": 77,
+      "trend": "Dropped from #1 to #2 in 14d. Peak: #1 on Jul 30.",
+      "hook": "Kizik hands-free shoes are super easy and comfortable.",
+      "angle": "The 'Hands-Free' convenience factor for busy or active lifestyles.",
+      "copy": "Kizik hands-free shoes are super easy and comfortable. Even if things somehow get a little... uncomfortable😳. Get ready to step into Kizik hands-free shoes. ☁️ All-day comfort 👟 Easy hands-free tech 🔥 Premium Style ⭐ 100,000+ 5-star reviews",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c6761dd9-a6c2-4178-bec2-c0ffb4d61ad1/2467215917122316.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Just Step In and Run",
+      "launch": "2026-07-10",
+      "days": 34,
+      "trend": "Stable at #3 over 14d. Peak: #2 on Aug 1.",
+      "hook": "The ultra responsive high rebound foam absorbs impact",
+      "angle": "Maximum efficiency for people who are 'always on the go'",
+      "copy": "Who would've thought hands-free and high-performance could come in the same shoe — the Kizik Freedom Run proves it's possible every single run.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c6761dd9-a6c2-4178-bec2-c0ffb4d61ad1/2015382129183557.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Step into a new style",
+      "launch": "2026-07-17",
+      "days": 27,
+      "trend": "Improved from #7 to #4 in 14d. Biggest jump: #7 → #5 on Aug 3 (+2).",
+      "hook": "LOCK INTO COMFORT",
+      "angle": "Social proof by identifying the product as a 'bestseller'",
+      "copy": "Step into a confidence boost. Lock into all-day comfort. Shop the latest styles.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c6761dd9-a6c2-4178-bec2-c0ffb4d61ad1/917912891328478.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Just step in and go.",
+      "launch": "2026-06-07",
+      "days": 67,
+      "trend": "Dropped from #2 to #5 in 14d. Biggest drop: #2 → #4 on Aug 1 (-2). Peak: #2 on Jul 30.",
+      "hook": "Kizik hands-free shoes are super easy and comfortable.",
+      "angle": "",
+      "copy": "Kizik hands-free shoes are super easy and comfortable. Even if things somehow get a little... uncomfortable😳. Get ready to step into Kizik hands-free shoes. ☁️ All-day comfort 👟 Easy hands-free tech 🔥 Premium Style ⭐ 100,000+ 5-star reviews",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c6761dd9-a6c2-4178-bec2-c0ffb4d61ad1/994228830134225.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Lumineux",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/940ffd5e-637e-4f76-8824-ac85a0716e25/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Whiten Your Teeth SAFELY in 2 Weeks",
+      "launch": "2026-04-20",
+      "days": 115,
+      "trend": "Improved from #11 to #1 in 14d. Biggest jump: #16 → #1 on Aug 11 (+15). Biggest drop: #14 → #18 on Aug 3 (-4).",
+      "hook": "me, a grown woman, thinking i can whiten my teeth before my wedding in 30 DAYS after not caring about my teeth for 10 years 😭😭😭",
+      "angle": "The 'Wedding Prep' Angle: Targeting brides-to-be who need fast, visible results before their big day.",
+      "copy": "Still using those traditional whitening strips that make your teeth ache? You know the ones. For years, we thought sensitivity was a necessary evil for a whiter smile. Not anymore. Lumineux is the dentist-formulated, peroxide-free way.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/940ffd5e-637e-4f76-8824-ac85a0716e25/2112381399690322.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "The Toothpaste NASA Helped Develop",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #30 to #2 in 6d. Biggest jump: #25 → #2 on Aug 11 (+23).",
+      "hook": "“We’re on our third tube of this and will never use anything else.”",
+      "angle": "High product retention and customer loyalty (the 'third tube' effect)",
+      "copy": "Not all Nano-Hydroxyapatite is created equal. Lumineux uses 10% Nano-Hydroxyapatite with particle sizing designed to help reach microscopic imperfections in enamel, replenishing enamel-essential minerals.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/940ffd5e-637e-4f76-8824-ac85a0716e25/880669278172891.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "The Toothpaste NASA Helped Develop",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #95 to #3 in 6d. Biggest jump: #54 → #3 on Aug 11 (+51).",
+      "hook": "Oh my god. Are you joking me right now?",
+      "angle": "Immediate visual results through dramatic tooth whitening",
+      "copy": "Not all Nano-Hydroxyapatite is created equal. Lumineux uses 10% Nano-Hydroxyapatite with particle sizing designed to help reach microscopic imperfections in enamel, replenishing enamel-essential minerals.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/940ffd5e-637e-4f76-8824-ac85a0716e25/1548006300099799.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "A Cleaner Way to Whiten",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Ranked #4 on Aug 13.",
+      "hook": "“We’re on our third tube of this and will never use anything else.”",
+      "angle": "Social proof and repeat-purchase loyalty through customer testimonials",
+      "copy": "Not all Nano-Hydroxyapatite is created equal. Lumineux uses 10% Nano-Hydroxyapatite with particle sizing designed to help reach microscopic imperfections in enamel, replenishing enamel-essential minerals.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/940ffd5e-637e-4f76-8824-ac85a0716e25/a0f17cef5d2e35e8a0a546cf7c44369d087d79bf8ec56e94d767c341f34bd2ba.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "30 Minutes. No Sensitivity. Whiter Teeth.",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Improved from #73 to #5 in 2d. Biggest jump: #73 → #5 on Aug 13 (+68).",
+      "hook": "Hi, good morning. I ran out of my white strips.",
+      "angle": "Gentle whitening for sensitive teeth (peroxide-free and enamel-safe)",
+      "copy": "If your whitening strips cause sensitivity, they're damaging your enamel. And enamel doesn't grow back. Lumineux Whitening Strips are clinically proven to whiten without peroxide by using Dead Sea salt, coconut oil, and lemon peel oil.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/940ffd5e-637e-4f76-8824-ac85a0716e25/a899cf797f71a863d8f53a78a91e2a3448e4b97937e84797080a963ba4c1ebce.mp4"
+    }
+  ]
+}

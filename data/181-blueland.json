@@ -1,0 +1,67 @@
+{
+  "name": "Blueland",
+  "category": "Shopping & retail",
+  "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/632248493_968850278797952_1087500508153499752_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=100&ccb=1-7&_nc_sid=418b77&_nc_ohc=NrHsCRC0BXMQ7kNvwHpXIue&_nc_oc=AdrhM5cykYd-9Thdm6VbgIN7zxvyV4YODkloTgsHlI9FdnIWFQVncPacdEsrZ46pzRs&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=2OqdeYocNex0crfgwlhb_g&_nc_ss=7b289&oh=00_AQFfA0g8sVUa3GVuFaBiqgM2GxrhBmbTedZ6ZVNjgiZYRA&oe=6A823962",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Powerful Clean, 100% Plastic-Free Tablets",
+      "launch": "2026-04-17",
+      "days": 118,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Start swapping out the biggest offender: dishwasher detergent!",
+      "angle": "Eliminating microplastics and 'hidden' plastics from the kitchen environment",
+      "copy": "Stop washing your dishes with microplastics ❌ Blueland's Dishwasher Detergent Tablets are 100% plastic-free, made with clean ingredients, and leave your dishes sparkling ✨",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/efef2dfd-0787-4846-9b3b-14036d6efbe9/1272978291000606.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Powerful Clean, 100% Plastic-Free Tablets",
+      "launch": "2026-05-06",
+      "days": 99,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Start swapping out the biggest offender: dishwasher detergent!",
+      "angle": "Health-conscious: Reducing microplastic exposure in the kitchen",
+      "copy": "Stop washing your dishes with microplastics ❌ Blueland's Dishwasher Detergent Tablets are 100% plastic-free, made with clean ingredients, and leave your dishes sparkling ✨",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/efef2dfd-0787-4846-9b3b-14036d6efbe9/949725481262975.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Free Gifts with Purchase",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "Free Gifts with Your Welcome Kit",
+      "angle": "High-value bundle offer (the 'Welcome Kit') for new customers",
+      "copy": "Get our Dishwasher Welcome Kit and receive free gifts with your order. 🎁 Blueland's Dishwasher Detergent Tablets give you a powerful, plastic-free clean. 🌱 Made with clean ingredients ✅ 100% plastic-free tablets",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/efef2dfd-0787-4846-9b3b-14036d6efbe9/1648497266433490.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "See Why Everyone's Switching",
+      "launch": "2026-04-17",
+      "days": 118,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "From this 👇 to THIS 👆 without harsh chemicals??",
+      "angle": "The 'Before and After' transformation: Visually proving the product's effectiveness against extreme grime.",
+      "copy": "Powerful clean. No plastic. No nonsense. Blueland's Toilet Bowl Cleaner Tablets are: 🚽 Septic-safe 🌱 Made with clean ingredients ✅ 100% plastic-free 🫧 Proven to be effective 🇺🇸 Manufactured in the USA 🍋 Fresh lemon cedar scented",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/efef2dfd-0787-4846-9b3b-14036d6efbe9/1593978961697455.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "See Why Everyone's Switching",
+      "launch": "2026-04-17",
+      "days": 118,
+      "trend": "Stable at #5 over 12d.",
+      "hook": "If you want your bathroom to smell like a spa",
+      "angle": "Elevating a mundane chore into a luxury spa experience",
+      "copy": "Blueland's Toilet Bowl Cleaner Tablets are: 🚽 Septic-safe 🌱 Made with only certified clean ingredients 🫧 Proven to be effective ✅ 100% plastic-free 🌿 Fresh peppermint & cooling eucalyptus scent",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/efef2dfd-0787-4846-9b3b-14036d6efbe9/1258833283113509.mp4"
+    }
+  ]
+}

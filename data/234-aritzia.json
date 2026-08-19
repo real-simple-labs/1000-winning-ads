@@ -1,0 +1,67 @@
+{
+  "name": "Aritzia",
+  "category": "Clothing (Brand)",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8d852bf4-0261-4351-b754-05ad47b96ed4/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Aritzia Women's Classic Mini Skirt in Light Birch | 6",
+      "launch": "2026-07-23",
+      "days": 27,
+      "trend": "Improved from #3 to #1 in 12d. Biggest jump: #3 → #1 on Aug 12 (+2).",
+      "hook": "Everyday Luxury To Elevate Your World®",
+      "angle": "Minimalist luxury aesthetic",
+      "copy": "Everyday Luxury To Elevate Your World®",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8d852bf4-0261-4351-b754-05ad47b96ed4/1052115957771903.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Aritzia",
+      "launch": "2026-08-06",
+      "days": 13,
+      "trend": "Improved from #16 to #2 in 10d. Biggest jump: #16 → #9 on Aug 10 (+7).",
+      "hook": "ARITZIA",
+      "angle": "Reimagining outdoor utility patterns as high-fashion aesthetic staples",
+      "copy": "Get lost in new camo. Now available in Sweatfleece and HomeStretch™.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/8d852bf4-0261-4351-b754-05ad47b96ed4/ebbc2ac8434fa9fdee0da2680aa973d5f1254f21cccd855e7219a4a4fd11d87e.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Aritzia Women's Classic Mini Skirt in Light Birch | 10",
+      "launch": "2026-07-23",
+      "days": 27,
+      "trend": "Improved from #7 to #3 in 12d. Biggest jump: #7 → #5 on Aug 8 (+2).",
+      "hook": "Everyday Luxury To Elevate Your World®",
+      "angle": "Minimalist luxury aesthetic",
+      "copy": "Everyday Luxury To Elevate Your World®",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8d852bf4-0261-4351-b754-05ad47b96ed4/2868109926877347.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Wilfred Women's Golden Hour Dress in Black size 2XS",
+      "launch": "2026-08-11",
+      "days": 8,
+      "trend": "Improved from #212 to #5 in 6d. Biggest jump: #212 → #15 on Aug 14 (+197).",
+      "hook": "Everyday Luxury. To Elevate Your World®.",
+      "angle": "Quiet luxury and minimalist aesthetic",
+      "copy": "Everyday Luxury. To Elevate Your World®.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/8d852bf4-0261-4351-b754-05ad47b96ed4/bc0e065953c7aa64ab16b8c3aa672aaa895540cd8e9c0a44160d9f0b39e236fb.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Aritzia",
+      "launch": "2026-05-04",
+      "days": 107,
+      "trend": "Dropped from #5 to #7 in 12d. Biggest jump: #6 → #4 on Aug 14 (+2). Biggest drop: #4 → #7 on Aug 10 (-3). Peak: #4 on Aug 8.",
+      "hook": "ARITZIA",
+      "angle": "Aspirational summer lifestyle and vacation vibes",
+      "copy": "Sun-bathed hues, flowy silhouettes, air-dried hair that looks like that — summer’s on.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8d852bf4-0261-4351-b754-05ad47b96ed4/3373845359451011.jpg"
+    }
+  ]
+}

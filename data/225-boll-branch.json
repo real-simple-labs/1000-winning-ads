@@ -1,0 +1,67 @@
+{
+  "name": "Boll & Branch",
+  "category": "Home Goods Store",
+  "logo": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/766072278_1380688497507778_93804735901436269_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=7mGddfUgKBcQ7kNvwH7G_zB&_nc_oc=AdqljvCopnK3bbSO0d07usuWnEhEiRDM2d-GWwbdPEhpI1Ongp6Xb4PMYi79hkT8r4o&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=VniekThQpY7JCrKmvR6Vxg&_nc_ss=7b289&oh=00_AQGDz-vPt6bMdDj39A49f2KB_EG8JOa_KpsTGGSECoXU6w&oe=6A805EF0",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "50K+ 5 Star Reviews",
+      "launch": "2026-07-23",
+      "days": 22,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "What if you could design your dream bed before spending a single dollar?",
+      "angle": "Design before buying (Zero-risk visualization)",
+      "copy": "Jenna Bush Hager wakes up before the sun—and her secret to deeper, more refreshing sleep starts with our Percale Sheets. Cool, crisp, and endlessly breathable, these sheets offer the exact comfort...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/d17da0b7-8ce7-4428-b5d0-9f4758cf9f4c/1100315982577178.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "50K+ 5 Star Reviews",
+      "launch": "2026-07-23",
+      "days": 22,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Jenna Bush Hager wakes up before the sun—and her secret to deeper, more refreshing sleep starts with our Percale Sheets.",
+      "angle": "Celebrity endorsement leveraging the trust and relatability of Jenna Bush Hager",
+      "copy": "Jenna Bush Hager wakes up before the sun—and her secret to deeper, more refreshing sleep starts with our Percale Sheets. Cool, crisp, and endlessly breathable, these sheets offer the exact comfort...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/d17da0b7-8ce7-4428-b5d0-9f4758cf9f4c/1370055795095406.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Signature Textured Stitch Quilt",
+      "launch": "2026-06-29",
+      "days": 46,
+      "trend": "Improved from #6 to #3 in 12d. Biggest jump: #6 → #3 on Aug 13 (+3).",
+      "hook": "Plum is finally back, in all our bestselling styles (plus a few more).",
+      "angle": "Highlighting premium craftsmanship through detailed texture shots",
+      "copy": "Plum is finally back, in all our bestselling styles (plus a few more). Don’t miss out. Be one of the first to shop the restock.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/d17da0b7-8ce7-4428-b5d0-9f4758cf9f4c/1021185933843555.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "10,000+ 5 Star Reviews",
+      "launch": "2026-08-04",
+      "days": 10,
+      "trend": "Improved from #288 to #4 in 8d. Biggest jump: #288 → #65 on Aug 7 (+223).",
+      "hook": "The Coldest Sheets For The Hottest Sleepers",
+      "angle": "Extreme cooling metaphor via snowy mountain imagery",
+      "copy": "ICE-COLD PERCALE SHEETS — Naturally cool, cold-to-the-touch Percale from Boll & Branch is every hot sleeper’s dream come true. Leave night sweats and waking up hot in the past when you upgrade.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/d17da0b7-8ce7-4428-b5d0-9f4758cf9f4c/1246268595236191.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Percale Quilted Down Alternative Comforter",
+      "launch": "2026-06-17",
+      "days": 58,
+      "trend": "Improved from #11 to #5 in 12d. Biggest jump: #10 → #5 on Aug 13 (+5).",
+      "hook": "Night sweats and waking up hot aren’t normal.",
+      "angle": "Attracting design-conscious consumers with trending color palettes",
+      "copy": "COOLING PERCALE — Night sweats and waking up hot aren’t normal. Start sleeping through the night with the breathable, cool-to-the-touch comfort of Percale Sheets from Boll & Branch.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/d17da0b7-8ce7-4428-b5d0-9f4758cf9f4c/982849241312231.jpg"
+    }
+  ]
+}

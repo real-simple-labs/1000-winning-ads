@@ -1,0 +1,67 @@
+{
+  "name": "Lovevery",
+  "category": "Baby goods/kids goods",
+  "logo": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/352759309_822548872833161_8868723614656158711_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=OGuFdBWVHH8Q7kNvwG0vo-M&_nc_oc=Adr9uODoXE9ofWYIToSF650O_p83GrH07_1ZMLXCYszIXUZGdcilTm2q7m-5y4Y-lww&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=vE8n5gXleelMwcgAeRORjw&_nc_ss=7b289&oh=00_AQE9Hhq0sDTT4zkafetQ2K2uxtJuzYErp1naH3btl6uf1Q&oe=6A837B19",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "The Looker Kit by Lovevery",
+      "launch": "2026-05-21",
+      "days": 84,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "POV YOU FOUND THE BEST PLAY KIT FOR DEVELOPMENT",
+      "angle": "Developmental milestones and sensory engagement for newborns",
+      "copy": "\"We have absolutely been loving our @lovevery Play Gym + The Looker Play Kit (0-12 weeks). She is obsessed with the ladybug and the noise it makes. This is such an awesome subscription to help with your child's development.\"",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b26b061c-91f2-4956-8236-a189a60f2726/1992364004708978.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The Looker Kit by Lovevery",
+      "launch": "2026-05-22",
+      "days": 83,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "POV YOU FOUND THE BEST PLAY KIT FOR DEVELOPMENT",
+      "angle": "Developmental milestones and sensory engagement for newborns",
+      "copy": "\"We have absolutely been loving our @lovevery Play Gym + The Looker Play Kit (0-12 weeks). She is obsessed with the ladybug and the noise it makes. This is such an awesome subscription to help with your child's development.\"",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b26b061c-91f2-4956-8236-a189a60f2726/2841199229566482.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "The Play Kits by Lovevery",
+      "launch": "2026-06-05",
+      "days": 69,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "My coffee's hot / My baby's happy",
+      "angle": "Solving the 'cold coffee' parental struggle",
+      "copy": "POV: your baby is fully entertained, and you suddenly remember you're a person too. Lovevery Play Kits = toys designed by experts to actually hold your child's attention with play that matches their stage.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b26b061c-91f2-4956-8236-a189a60f2726/1683133726354180.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Weeks 0-12: The Looker Play Kit",
+      "launch": "2026-06-06",
+      "days": 68,
+      "trend": "Stable at #4 over 14d.",
+      "hook": "LOVEVERY Play Kit Weeks 0-12 The Looker",
+      "angle": "Milestone-based curation for specific developmental stages (Months 9-10)",
+      "copy": "POV: your baby is fully entertained, and you suddenly remember you're a person too. Lovevery Play Kits = toys designed by experts to actually hold your child's attention with play that matches their stage.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b26b061c-91f2-4956-8236-a189a60f2726/974249528924230.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "The Play Kits by Lovevery",
+      "launch": "2026-06-15",
+      "days": 59,
+      "trend": "Stable at #5 over 14d.",
+      "hook": "Newborn parents, this is what you need for wake windows.",
+      "angle": "Solving the 'wake window' problem for new parents with research-backed play (Developmental expertise)",
+      "copy": "The Looker Play Kit just got even better 🎉 From day one, your baby is learning. That's why we added three brand-new items to support early visual tracking and focus during those first wake windows.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b26b061c-91f2-4956-8236-a189a60f2726/900643883054478.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Rhode",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cdf34d15-a1a5-45b6-a0f3-18b7bc657156/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "highlight milk",
+      "launch": "2026-06-19",
+      "days": 55,
+      "trend": "Improved from #2 to #1 in 12d.",
+      "hook": "meet highlight milk 🌟",
+      "angle": "Luxury minimalism and 'clean girl' aesthetic",
+      "copy": "meet highlight milk 🌟",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cdf34d15-a1a5-45b6-a0f3-18b7bc657156/36419593834354234.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "rhode",
+      "launch": "2026-05-19",
+      "days": 86,
+      "trend": "Improved from #3 to #2 in 12d. Biggest jump: #18 → #2 on Aug 11 (+16). Biggest drop: #3 → #18 on Aug 9 (-15).",
+      "hook": "rhode",
+      "angle": "Founder-led celebrity endorsement leveraging Hailey Bieber's personal brand",
+      "copy": "meet rhode 🎀 a line of curated skincare essentials and hybrid makeup developed by hailey rhode bieber.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cdf34d15-a1a5-45b6-a0f3-18b7bc657156/971491768826079.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "get ready with rhode",
+      "launch": "2026-06-16",
+      "days": 58,
+      "trend": "Improved from #5 to #3 in 12d. Biggest jump: #35 → #5 on Aug 5 (+30). Biggest drop: #5 → #35 on Aug 3 (-30).",
+      "hook": "rhode",
+      "angle": "Minimalist aesthetic as a lifestyle status symbol",
+      "copy": "more than makeup 🎀 hybrid lip and cheek essentials for an everyday touch of color with skincare benefits.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cdf34d15-a1a5-45b6-a0f3-18b7bc657156/4358696431057020.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "the rhode kit",
+      "launch": "2026-06-02",
+      "days": 72,
+      "trend": "Improved from #6 to #4 in 12d. Biggest jump: #11 → #6 on Aug 5 (+5). Biggest drop: #6 → #11 on Aug 3 (-5).",
+      "hook": "rhode",
+      "angle": "",
+      "copy": "the routine you'll always look forward to 🤍",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cdf34d15-a1a5-45b6-a0f3-18b7bc657156/1272081558230169.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "rhode",
+      "launch": "2026-05-19",
+      "days": 86,
+      "trend": "Improved from #7 to #5 in 12d. Biggest jump: #11 → #5 on Aug 11 (+6). Biggest drop: #7 → #11 on Aug 9 (-4).",
+      "hook": "rhode",
+      "angle": "Celebrity founder authority and 'it-girl' aesthetic",
+      "copy": "meet rhode 🌟 a line of curated skincare essentials and hybrid makeup developed by hailey rhode bieber.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cdf34d15-a1a5-45b6-a0f3-18b7bc657156/1644369986779559.jpg"
+    }
+  ]
+}

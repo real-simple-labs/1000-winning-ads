@@ -1,0 +1,67 @@
+{
+  "name": "Athletic Brewing",
+  "category": "Brewery",
+  "logo": "https://scontent.fsgu1-1.fna.fbcdn.net/v/t39.30808-1/326926138_484076183931847_5930731291431387771_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=xcze1nvByJMQ7kNvwHUTYFr&_nc_oc=Adrp8F7YzJ9d942PQbzGxhXOM0lv_Yo9nKWhObYFRx6RkC57B9M3iAy0W5l_jEcPB_E&_nc_zt=24&_nc_ht=scontent.fsgu1-1.fna&_nc_gid=M1GQWGxt2dhycvnj8s6OuA&_nc_ss=7b289&oh=00_AQFiZgw3Xsd0DtMbrVmRoCyGsOOgBAweYoq9konGyM1pTg&oe=6A83AD9C",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Lite Brew",
+      "launch": "2025-06-05",
+      "days": 434,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "ATHLETIC LITE",
+      "angle": "Leveraging international awards to prove superior taste in the non-alcoholic category",
+      "copy": "Online only limited-edition brews and best-selling classics delivered right to you. 🚪 Get free shipping when you stock up on orders of $50 or more.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cb802242-757c-4ba1-9244-3fc6b92972d3/3630020123798545.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Shop These Fruity Explosions",
+      "launch": "2026-04-23",
+      "days": 112,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "MANGO SOUR",
+      "angle": "Positioning as a refreshing, non-alcoholic alternative to traditional craft beer.",
+      "copy": "You won't want to miss these - meet our non-alcoholic Mango Sour & Raspberry Sour available now!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cb802242-757c-4ba1-9244-3fc6b92972d3/3367874873391214.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Spicy. Sweet. Fuego.",
+      "launch": "2026-06-09",
+      "days": 65,
+      "trend": "Stable at #3 over 14d. Biggest jump: #18 → #3 on Aug 7 (+15). Biggest drop: #3 → #18 on Aug 5 (-15).",
+      "hook": "OUR SPICY-SWEET IPA",
+      "angle": "Limited edition availability to drive immediate purchase",
+      "copy": "You asked. We brewed. Non-alcoholic Mango Picante IPA is officially back, delivering the sweet heat of real mango and habanero. Flavor that refuses to play it cool.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cb802242-757c-4ba1-9244-3fc6b92972d3/1025434356509845.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Try Athletic For Less",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Improved from #6 to #4 in 14d. Biggest jump: #5 → #3 on Aug 5 (+2). Biggest drop: #3 → #5 on Aug 7 (-2). Peak: #3 on Aug 5.",
+      "hook": "KEEP THE PARTY FRIDGE FULL FOR LESS",
+      "angle": "Direct price promotion and savings ($3 off per 6-pack)",
+      "copy": "Your go-to party NA beers are now more affordable, so you can bring the flavor to every hangout without thinking twice. Grab a 6-pack of our best-selling NA beers for just $10.99!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cb802242-757c-4ba1-9244-3fc6b92972d3/2082989259304158.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "It's Spicy Season",
+      "launch": "2026-07-21",
+      "days": 23,
+      "trend": "Improved from #17 to #5 in 14d. Biggest jump: #10 → #5 on Aug 5 (+5). Biggest drop: #5 → #7 on Aug 7 (-2).",
+      "hook": "SAVORY, SPICY, & SWEET TOMATO",
+      "angle": "Flavor-focused alternative to traditional non-alcoholic beer",
+      "copy": "Crafted with sweet tomato, a squeeze of lime, and a kick of pepper, Chelada Amada is the perfect non-alcoholic beer to take things up a notch.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cb802242-757c-4ba1-9244-3fc6b92972d3/872319695638033.jpg"
+    }
+  ]
+}

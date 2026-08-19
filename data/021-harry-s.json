@@ -1,0 +1,67 @@
+{
+  "name": "Harry's",
+  "category": "Product/service",
+  "logo": "",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "NEW! Harry's Plus",
+      "launch": "2026-05-11",
+      "days": 94,
+      "trend": "Stable at #1 over 14d. Biggest jump: #6 → #1 on Aug 7 (+5). Biggest drop: #1 → #6 on Aug 5 (-5).",
+      "hook": "Introducing the new Harry's Plus.",
+      "angle": "Premium product upgrade (The 'Plus' model)",
+      "copy": "More contour. More comfort. More still-less-expensive-than-the-other-guys.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b0f6edcd-5759-4615-bebb-66887f3f5dca/0401408d141ac4e8b10e6a013a25cd4f06c830d73c314750cee339f4e6d5796d.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "NEW! Harry's Plus",
+      "launch": "2026-05-16",
+      "days": 89,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "Introducing the new Harry's Plus.",
+      "angle": "Premium product upgrade (The 'Plus' model)",
+      "copy": "More contour. More comfort. More still-less-expensive-than-the-other-guys.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b0f6edcd-5759-4615-bebb-66887f3f5dca/5d5c6c4f805a0a5d3ae74f900ab775373d083bb26ef706c17f9cec15c6a368b2.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "NEW! Harry's Plus",
+      "launch": "2026-05-11",
+      "days": 94,
+      "trend": "Improved from #5 to #3 in 14d.",
+      "hook": "Introducing the new Harry's Plus.",
+      "angle": "Engineering-led performance (advanced physics and blade geometry)",
+      "copy": "Introducing Harry's Plus. More pivotiness for maximum comfortableness. Only at Harrys.com",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b0f6edcd-5759-4615-bebb-66887f3f5dca/af7de1ebea870a2f1601ca9022235f6e06b91a12805bc16615abaab31e37ba6e.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Depuff Your Face with Harry's New Product",
+      "launch": "2026-01-22",
+      "days": 203,
+      "trend": "Stable at #4 over 14d. Peak: #3 on Aug 3.",
+      "hook": "Ahhh... Have you ever seen a boxer's trainers use one of these under their eyes?",
+      "angle": "Professional-grade grooming (boxing trainer comparison)",
+      "copy": "Say goodbye to puffy, tired-looking eyes with our Cooling Eye Kit!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b0f6edcd-5759-4615-bebb-66887f3f5dca/4c67dbff12111c1145c1fe2f8f19106ec7d1225526f36f7348b14d1b133d1465.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Fresh Clean Scent",
+      "launch": "2026-05-13",
+      "days": 92,
+      "trend": "Dropped from #3 to #5 in 14d. Biggest jump: #4 → #1 on Aug 5 (+3). Biggest drop: #1 → #5 on Aug 7 (-4). Peak: #1 on Aug 5.",
+      "hook": "Gives you an expensive-smelling clean*",
+      "angle": "Affordable luxury through high-end scent profiles ('expensive-smelling clean')",
+      "copy": "Enjoy a rich, elevated scent and thick, sudsy lather. No sulfates, parabens, or dyes. Leaves skin feeling smooth and soft.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b0f6edcd-5759-4615-bebb-66887f3f5dca/c6436b6c8a3c28268b384201c67f312a071b49f0cbcfb297d4e3fb4b4b215d2d.mp4"
+    }
+  ]
+}

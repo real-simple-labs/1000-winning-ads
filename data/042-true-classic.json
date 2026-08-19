@@ -1,0 +1,67 @@
+{
+  "name": "True Classic",
+  "category": "Men's clothing store",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/63553483-d0a7-4e33-a684-11b8af7db4c5/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Look Good. Feel Good",
+      "launch": "2026-04-24",
+      "days": 117,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "FLASH DEALS ENDING SOON",
+      "angle": "Time-sensitive urgency to drive immediate purchase behavior",
+      "copy": "Baggy, scratchy, overpriced? Skip it. True Classic tees are tailored to flatter, soft from day one!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/63553483-d0a7-4e33-a684-11b8af7db4c5/d3208588ca6bd3eba4be1f50ae90e1340c20f5baae1e7afbc4a723e8dffe3ece.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Look Good. Feel Good",
+      "launch": "2026-03-19",
+      "days": 153,
+      "trend": "Improved from #4 to #3 in 12d.",
+      "hook": "Yes... no... yes... no...",
+      "angle": "The 'Polished' Look: Positioning the shirt as a way to instantly upgrade from an 'average' appearance to a more sophisticated one.",
+      "copy": "True Classic gives you a sharper fit, softer fabric, and confidence from the first wear.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/63553483-d0a7-4e33-a684-11b8af7db4c5/411e0f368e6e8be46ba45b086601a34955ed7e9778a17bc0146b1d2df12a3116.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Built To Look Better",
+      "launch": "2026-06-02",
+      "days": 78,
+      "trend": "Improved from #5 to #4 in 12d.",
+      "hook": "6'2, 263. I've been seeing a lot of people wear these True Classic Tees and they look jacked.",
+      "angle": "Transformation for the 'Everyday Man' with a 'dad bod' or larger physique",
+      "copy": "True Classic gives you a sharper fit, softer fabric, and confidence from the first wear.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/63553483-d0a7-4e33-a684-11b8af7db4c5/f73d487c92cc44aabb7a012aef80117b343533111e92bd2ebfe29a63ed0ddbd6.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Built To Look Better",
+      "launch": "2026-07-02",
+      "days": 48,
+      "trend": "Improved from #16 to #6 in 12d. Biggest jump: #10 → #6 on Aug 16 (+4).",
+      "hook": "If you have skinny arms, watch what a regular shirt does.",
+      "angle": "Muscle enhancement for thinner frames",
+      "copy": "True Classic gives you a sharper fit, softer fabric, and confidence from the first wear.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/63553483-d0a7-4e33-a684-11b8af7db4c5/558ae64ff3b44798ba75b0ad614b808a0f27323ede805835e10ac1b4718df69f.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Get the Tee That Started It All ➡️",
+      "launch": "2026-05-20",
+      "days": 91,
+      "trend": "Improved from #11 to #7 in 12d. Biggest jump: #11 → #7 on Aug 16 (+4).",
+      "hook": "1 SOLD EVERY 5 SECONDS",
+      "angle": "Social proof and high-volume popularity to establish trust",
+      "copy": "Shop premium quality tees you can wear again and again and again and again and again and again and again and again and again and",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/63553483-d0a7-4e33-a684-11b8af7db4c5/f7d7ceb6fc3766e0919cf15719e9b0f29a9e5bd8ea2ea59baeef8a8109e4dc57.jpg"
+    }
+  ]
+}

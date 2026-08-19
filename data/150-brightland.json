@@ -1,0 +1,67 @@
+{
+  "name": "Brightland",
+  "category": "Health/beauty",
+  "logo": "https://scontent-den2-1.xx.fbcdn.net/v/t39.30808-1/352296946_257892286784261_5409360323392787514_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=100&ccb=1-7&_nc_sid=418b77&_nc_ohc=jMkzjb9VGVAQ7kNvwEcShXC&_nc_oc=AdoJBgNvLKVNJf6NUl2UuPGnPJNDZ0QG1BGAFMFxByDzVeIHN-HqVdi2v7gg5p5pIn8&_nc_zt=24&_nc_ht=scontent-den2-1.xx&_nc_gid=p7PNCF4r-q8TGk59HQGjtA&_nc_ss=7b289&oh=00_AQF1PDoRk8m8YxtTh_w0I25_5pMCCdCpEP6ds-XhKqmCEQ&oe=6A836F2F",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Shop before it sells out",
+      "launch": "2026-06-19",
+      "days": 55,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "If you're having a euro summer at home, you're gonna want these in your kitchen.",
+      "angle": "Tapping into the popular 'Euro Summer' lifestyle trend (lifestyle aspiration)",
+      "copy": "The Mediterranean Duo: After selling out 2x, Castelvetrano Olive Oil is joined by a brand-new Kalamata Olive Oil. Hand-harvested, and cold-pressed, single origin extra virgin olive oils. Available in l",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/df30fa45-20f1-4b6e-8e26-5a659e8300a8/1929257544458136.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Shop before it sells out",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Improved from #4 to #2 in 14d.",
+      "hook": "Yay! Oh my god, it looks so good. Okay, I'm seeing this for the first time.",
+      "angle": "Limited edition scarcity ('limited run', 'sold out each time')",
+      "copy": "The Mediterranean Duo: After selling out 2x, Castelvetrano Olive Oil is joined by a brand-new Kalamata Olive Oil. Hand-harvested, and cold-pressed, single origin extra virgin olive oils. Available in l",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/df30fa45-20f1-4b6e-8e26-5a659e8300a8/1939957566659060.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Shop before it sells out",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Dropped from #2 to #3 in 14d. Peak: #2 on Jul 30.",
+      "hook": "Sold out 2x.",
+      "angle": "Scarcity and social proof based on high demand and previous sell-outs",
+      "copy": "The Mediterranean Duo: After selling out 2x, Castelvetrano Olive Oil is joined by a brand-new Kalamata Olive Oil. Hand-harvested, and cold-pressed, single origin extra virgin olive oils. Available in l",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/df30fa45-20f1-4b6e-8e26-5a659e8300a8/1330429782610022.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Shop before it sells out",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Dropped from #3 to #4 in 14d. Peak: #3 on Jul 30.",
+      "hook": "Sold out 2x.",
+      "angle": "Scarcity and social proof ('Sold out 2x.')",
+      "copy": "The Mediterranean Duo: After selling out 2x, Castelvetrano Olive Oil is joined by a brand-new Kalamata Olive Oil. Hand-harvested, and cold-pressed, single origin extra virgin olive oils. Available in l",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/df30fa45-20f1-4b6e-8e26-5a659e8300a8/1664618444649000.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Shop before it sells out",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Stable at #5 over 14d.",
+      "hook": "We came out with Castelvetrano twice and it sold out each time.",
+      "angle": "Scarcity and High Demand: Highlighting that previous similar releases sold out twice.",
+      "copy": "The Mediterranean Duo: After selling out 2x, Castelvetrano Olive Oil is joined by a brand-new Kalamata Olive Oil. Hand-harvested, and cold-pressed, single origin extra virgin olive oils. Available in l",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/df30fa45-20f1-4b6e-8e26-5a659e8300a8/2130916987854987.mp4"
+    }
+  ]
+}

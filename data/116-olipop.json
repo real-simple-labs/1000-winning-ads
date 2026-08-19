@@ -1,0 +1,67 @@
+{
+  "name": "OLIPOP",
+  "category": "Food & beverage",
+  "logo": "https://qccrqxnnqpkeqvjdwogy.supabase.co/storage/v1/object/public/internal-facebook-ads/external-brands/ce1a28f2-2b6a-4f08-a3c5-38882b78c642/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "OLIPOP | Healthy Prebiotic Soda",
+      "launch": "2026-06-02",
+      "days": 72,
+      "trend": "Stable at #1 over 6d.",
+      "hook": "OLIPOP strawberry vanilla",
+      "angle": "A healthier, low-sugar alternative to traditional sodas.",
+      "copy": "Strawberry Vanilla got a fresh new look… and somehow became even cuter (didn't think that was possible) 🍓❤️💅 The same yummy, creamy strawberry + vanilla sip you're obsessed with, now in packaging that",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ce1a28f2-2b6a-4f08-a3c5-38882b78c642/787826770964086.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Current obsession: turning every OLIPOP flavor into a frozen",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Stable at #2 over 6d.",
+      "hook": "Let's do it.",
+      "angle": "DIY Recipe: Showing consumers how to make a unique 'Cherry Cola Crush' at home.",
+      "copy": "Current obsession: turning every OLIPOP flavor into a frozen drink 🍒 @bevsbybeverly Cherry Cola Crush: (Serves 2) 1 can OLIPOP Cherry Cola, 2 cups frozen cherries, 4 oz vodka, 1 oz fresh lime juice,",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ce1a28f2-2b6a-4f08-a3c5-38882b78c642/2163200630918357.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Current obsession: turning every OLIPOP flavor into a frozen",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Stable at #3 over 6d.",
+      "hook": "Let's do it.",
+      "angle": "DIY Recipe: Showing consumers how to make a unique 'Cherry Cola Crush' at home.",
+      "copy": "Current obsession: turning every OLIPOP flavor into a frozen drink 🍒 @bevsbybeverly Cherry Cola Crush: (Serves 2) 1 can OLIPOP Cherry Cola, 2 cups frozen cherries, 4 oz vodka, 1 oz fresh lime juice,",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ce1a28f2-2b6a-4f08-a3c5-38882b78c642/1711241186964066.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "The feel good soda",
+      "launch": "2026-06-02",
+      "days": 72,
+      "trend": "Stable at #4 over 6d.",
+      "hook": "(Singing) Olipop, Olipop",
+      "angle": "Healthy soda alternative with 'Sip some feel good' emotional positioning",
+      "copy": "Deliciously refreshing with high fiber... and a catchy song 🎶💛",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ce1a28f2-2b6a-4f08-a3c5-38882b78c642/991728053443359.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "The feel good soda",
+      "launch": "2026-06-02",
+      "days": 72,
+      "trend": "Stable at #5 over 6d.",
+      "hook": "Olipop, Olipop, oh Olipop...",
+      "angle": "Healthy soda alternative focusing on digestive health benefits",
+      "copy": "Deliciously refreshing with high fiber... and a catchy song 🎶💛",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ce1a28f2-2b6a-4f08-a3c5-38882b78c642/1516018186881676.mp4"
+    }
+  ]
+}

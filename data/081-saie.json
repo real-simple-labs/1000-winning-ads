@@ -1,0 +1,67 @@
+{
+  "name": "Saie",
+  "category": "Brand",
+  "logo": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-1/354053867_657872396373267_3431014872814044816_n.png?stp=dst-png_s148x148&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=NmXZ_lDTlIgQ7kNvwEURiy4&_nc_oc=Adpw9VTKOkoKGZ03YvDsSiK1uLLVepFXZfts0oI7SUpHSHkxv0Bc8o4LIvHN5IyZ878&_nc_zt=24&_nc_ht=scontent-sjc6-1.xx&_nc_gid=dfjj2it9UniOvx6YSgICQQ&_nc_ss=7b289&oh=00_AQFLsW6j_IvZbjR0t-ZbUeM1NsAxOUpDspz99QXAm_bIDg&oe=6A819FA4",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Saie Beauty",
+      "launch": "2026-06-18",
+      "days": 56,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "allure BEST OF BEAUTY AWARD WINNER 2025",
+      "angle": "Industry-validated authority through the Allure Best of Beauty award",
+      "copy": "Buildable, blendable, and dewy— Dew Blush™ is the ultimate essential for a summertime flush!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e7cd3c57-24be-4429-b1e0-f2fb1405c98a/1514198346356633.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Dew Blush™ — Available in 11 shades",
+      "launch": "2026-06-12",
+      "days": 62,
+      "trend": "Improved from #3 to #2 in 12d.",
+      "hook": "Your Summer Flush is Here",
+      "angle": "Seasonal relevance targeting the 'summer glow' trend",
+      "copy": "Buildable, blendable, and dewy— Dew Blush™ is the ultimate essential for a summertime flush!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e7cd3c57-24be-4429-b1e0-f2fb1405c98a/1804831360924674.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Dew Blush™ — Available in 11 shades",
+      "launch": "2026-06-25",
+      "days": 49,
+      "trend": "Improved from #4 to #3 in 12d. Peak: #2 on Aug 10.",
+      "hook": "Your Summer Flush is Here",
+      "angle": "Seasonal trend alignment (Summer makeup looks)",
+      "copy": "Buildable, blendable, and dewy— Dew Blush™ is the ultimate essential for a summertime flush!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e7cd3c57-24be-4429-b1e0-f2fb1405c98a/4454379361505750.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Saie Sunvisor Radiant Moisturizing Face Sunscreen SPF 35 1.35 oz/ 40 mL",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Improved from #5 to #4 in 12d.",
+      "hook": "saie",
+      "angle": "Authority and trust through the Allure Best of Beauty award",
+      "copy": "Buildable, blendable, and dewy— Dew Blush™ is the ultimate essential for a summertime flush!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e7cd3c57-24be-4429-b1e0-f2fb1405c98a/1415750760400927.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Hydrated, glowing, gorgeous.",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Improved from #13 to #5 in 12d. Biggest jump: #13 → #11 on Aug 2 (+2).",
+      "hook": "the most buttery blendable liquid bronzer I think I have ever used",
+      "angle": "Texture-first approach focusing on 'buttery' and 'blendable' qualities",
+      "copy": "bronzer of the summer @saiebeauty #saiebeauty",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e7cd3c57-24be-4429-b1e0-f2fb1405c98a/1675960251199320.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Youth To The People",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/06826424-33dc-4620-b3e1-15f186cb4f1e/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Dream With Pride",
+      "launch": "2021-08-06",
+      "days": 1839,
+      "trend": "n/a",
+      "hook": "Introducing The Pride Dream Mask",
+      "angle": "Limited edition Pride Month product launch",
+      "copy": "Help us build a fully representative + equal future. 100% of profits of our Pride Dream Mask go to diverse nonprofits empowering our LGBTQIA+ communities.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/06826424-33dc-4620-b3e1-15f186cb4f1e/1193722607811666.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Limited Edition Earth Day Cleanser 🌍",
+      "launch": "2019-04-18",
+      "days": 2680,
+      "trend": "n/a",
+      "hook": "KALE + GREEN TEA SPINACH VITAMINS EARTH DAY CLEANSER",
+      "angle": "Limited edition exclusivity tied to a global event (Earth Day)",
+      "copy": "\"The new Earth Day Cleanser is one you're going to want to add to cart ASAP.\" - The Zoe Report",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/06826424-33dc-4620-b3e1-15f186cb4f1e/309940003007555.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Dream With Pride",
+      "launch": "2021-07-29",
+      "days": 1847,
+      "trend": "n/a",
+      "hook": "We’re excited to share that 100% of profits from our June sales of our Pride Edition Dream Mask will be split evenly across two organizations:",
+      "angle": "Radical transparency in charitable giving by showing exact dollar amounts",
+      "copy": "Help us build a fully representative + equal future. 100% of profits of our Pride Dream Mask go to diverse nonprofits empowering our LGBTQIA+ communities.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/06826424-33dc-4620-b3e1-15f186cb4f1e/1639298439612527.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Limited Edition Superfood Cleanser",
+      "launch": "2019-04-14",
+      "days": 2684,
+      "trend": "n/a",
+      "hook": "A white silhouette of a pump bottle rapidly flashes against various nature backgrounds, including a dark starry space, lush green leaves, a flowing forest river, and textured tree bark.",
+      "angle": "Limited Edition Earth Day product launch",
+      "copy": "Meet our Limited Edition, Supersize Earth Day Superfood Cleanser 🌍 Nourish your skin with clean, effective ingredients while saving the planet.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/06826424-33dc-4620-b3e1-15f186cb4f1e/193996214817075.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Limited Edition Superfood Cleanser",
+      "launch": "2019-04-18",
+      "days": 2680,
+      "trend": "n/a",
+      "hook": "A white silhouette of a pump-top bottle is centered against a dark, swirling background, quickly transitioning to a background of vibrant green leaves.",
+      "angle": "Limited Edition Earth Day product launch",
+      "copy": "Meet our Limited Edition, Supersize Earth Day Superfood Cleanser 🌍 Nourish your skin with clean, effective ingredients while saving the planet.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/06826424-33dc-4620-b3e1-15f186cb4f1e/2003367926459258.mp4"
+    }
+  ]
+}

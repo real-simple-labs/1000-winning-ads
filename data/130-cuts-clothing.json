@@ -1,0 +1,67 @@
+{
+  "name": "Cuts Clothing",
+  "category": "Men's clothing store",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6a870668-3c70-43ea-8b1c-451bf1a273bb/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "AO Curve-Hem Tee | Black Signature-fit PYCA Pro®",
+      "launch": "2025-12-30",
+      "days": 226,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "CUTS",
+      "angle": "The unique curved-hem silhouette as a modern style upgrade",
+      "copy": "Start strong with essentials designed to carry you through every season.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6a870668-3c70-43ea-8b1c-451bf1a273bb/9583ebd06526cad7d927d249b7a9e9ee6899ec1ec1d5bddea5aa3b3fb38854e9.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The Ultimate Summer Pant.",
+      "launch": "2026-04-09",
+      "days": 126,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "If you've got summer events coming up, these are the only pants you need.",
+      "angle": "The 'Old Money' aesthetic for summer",
+      "copy": "Stop settling for stiff dress pants. The Soho Trousers guarantee you'll be the best-dressed guy in the room while staying ridiculously comfortable. Perfect for weddings, date nights, and everything in between.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6a870668-3c70-43ea-8b1c-451bf1a273bb/04bdd181d4e738d08c331b6a1f2e7967eff035abd591d5d1fdc467330e8e024b.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "The Spring-Summer Collection",
+      "launch": "2026-03-12",
+      "days": 154,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "CUTS",
+      "angle": "Showcasing premium fabric texture and material quality",
+      "copy": "Breathable fabrics. Elevated designs. Limited colors. Upgrade your warm-weather wardrobe with our latest knits, trousers, and tees.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6a870668-3c70-43ea-8b1c-451bf1a273bb/f07cb0f04726f880e6bd3377418f5662f8e2ed93a9a8ead13692f620b44afb8a.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Premium Look. Unmatched Comfort.",
+      "launch": "2026-07-08",
+      "days": 36,
+      "trend": "Improved from #11 to #4 in 14d. Biggest jump: #8 → #4 on Aug 5 (+4).",
+      "hook": "When a girl says your shirt makes you look jacked, you order four more.",
+      "angle": "Compliment-pulling athletic fit for fit men",
+      "copy": "The button up that feels like your favorite tee. Clean, tailored, soft enough to forget you're wearing it. Meet the AO Button Up. Shop now.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6a870668-3c70-43ea-8b1c-451bf1a273bb/7d8edd7b1bdd652732db1a7862d868f8a77c6b0563e91938d20433469806c43a.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Up to 50% Off",
+      "launch": "2026-01-07",
+      "days": 218,
+      "trend": "Dropped from #4 to #5 in 14d. Peak: #4 on Jul 30.",
+      "hook": "UP TO 50% OFF",
+      "angle": "Exclusive access to discounted premium essentials via an 'Archive Sale' framing",
+      "copy": "Last chance to grab premium staples. End of season styles, up to 50% off during our Archive Sale.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6a870668-3c70-43ea-8b1c-451bf1a273bb/226f6c00e6ec7cbbcf387a510a205934dcec44ec3eada27f227589e883f6877c.jpg"
+    }
+  ]
+}

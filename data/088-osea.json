@@ -1,0 +1,67 @@
+{
+  "name": "OSEA",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/daa7e673-5c17-473e-9eb9-dfcf1bc620d6/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Save $38 & Free Shipping",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #15 to #1 in 6d. Biggest jump: #15 → #7 on Aug 9 (+8).",
+      "hook": "Why would you buy any of these separately?!? OSEA really took their most viral body products and said \"let's bundle all of them together\"",
+      "angle": "",
+      "copy": "Why would you buy any of these separately?!? OSEA really took their most viral body products and said \"let's bundle all of them together\" The scent? Exclusive spa. The glow? Insane. The skin after? Silky smooth!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/daa7e673-5c17-473e-9eb9-dfcf1bc620d6/1289293469793482.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Save 16% & Free Shipping",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Dropped from #1 to #2 in 14d. Peak: #1 on Jul 30.",
+      "hook": "You'll Wish You Went Jumbo",
+      "angle": "Upselling to a larger size through value-based pricing",
+      "copy": "Go jumbo & save!✨ Shop Undaria Algae Body Oil Jumbo and save 16%, Plus get free shipping on our #1 bestseller for silky-soft skin all over.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/daa7e673-5c17-473e-9eb9-dfcf1bc620d6/1743069633365683.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Body Hydration Heroes",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #16 to #3 in 14d. Biggest jump: #16 → #10 on Aug 1 (+6). Peak: #2 on Aug 9.",
+      "hook": "2 Award Winners, 1 Iconic Bundle",
+      "angle": "Authority-based selling using award-winner status",
+      "copy": "The ultimate duo for hydrated, glowing skin ✨ Save 16% on this two-step routine that instantly boosts hydration & improves skin elasticity.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/daa7e673-5c17-473e-9eb9-dfcf1bc620d6/1739499870570578.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Look Less Tired In Seconds",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Improved from #9 to #4 in 14d. Biggest jump: #9 → #6 on Aug 1 (+3). Peak: #3 on Aug 9.",
+      "hook": "Get Rid of Your Puffy Eyes",
+      "angle": "Direct solution for a specific aesthetic pain point (puffy eyes)",
+      "copy": "Get bright, wide-awake-looking eyes ☀️ Our award-winning Ocean Eyes Serum is clinically shown to visibly brighten, smooth, depuff and hydrate in just one step.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/daa7e673-5c17-473e-9eb9-dfcf1bc620d6/890428700373371.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Look Less Tired In Seconds",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Improved from #10 to #5 in 14d. Biggest jump: #11 → #9 on Aug 3 (+2).",
+      "hook": "Get Rid of Your Puffy Eyes",
+      "angle": "Direct solution for a specific aesthetic insecurity (under-eye puffiness)",
+      "copy": "Get bright, wide-awake-looking eyes ☀️ Our award-winning Ocean Eyes Serum is clinically shown to visibly brighten, smooth, depuff and hydrate in just one step.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/daa7e673-5c17-473e-9eb9-dfcf1bc620d6/1535391194748403.jpg"
+    }
+  ]
+}

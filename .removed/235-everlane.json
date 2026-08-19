@@ -1,0 +1,67 @@
+{
+  "name": "Everlane",
+  "category": "Clothing Company",
+  "logo": "https://scontent-det1-1.xx.fbcdn.net/v/t39.30808-1/496002479_1107449031423427_6718290838205085847_n.jpg?stp=dst-jpg_p148x148_tt6&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=ZHG9YOhJFncQ7kNvwEv8mq2&_nc_oc=AdpbN6vYdyb7osUu4IGVELokau1eiOjpIpl27ok4AkXRrfF712iC_McvoldWQsX1NLQ&_nc_zt=24&_nc_ht=scontent-det1-1.xx&_nc_gid=XFs-cfIWPsq0x1MEPAtMBg&_nc_ss=7b289&oh=00_AQHIP2RsSIi3IxLPEyveawmlwTL8jmvjhOFBuznV_G-8CA&oe=6A835504",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Everlane Luxe Italian Leather Crossbody In Cognac",
+      "launch": "2026-05-28",
+      "days": 78,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Did you forget these? They'll look great on you.",
+      "angle": "Minimalist aesthetic appeal focusing on clean lines and neutral tones",
+      "copy": "Did you forget these? They'll look great on you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/267b7135-1ff6-46c2-972e-b521b4e88a73/937819085904316.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Everlane Essential Organic Long-Sleeve Tshirt In Black, Size XS, Cotton",
+      "launch": "2026-06-01",
+      "days": 74,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Discover why everyone is obsessing over these pieces.",
+      "angle": "Minimalist aesthetic appeal focusing on clean lines and neutral tones",
+      "copy": "Discover why everyone is obsessing over these pieces.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/267b7135-1ff6-46c2-972e-b521b4e88a73/2179154169548624.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Everlane Invisible High-Rise Thong In Black, Size XXS, Nylon",
+      "launch": "2026-05-28",
+      "days": 78,
+      "trend": "Improved from #6 to #3 in 12d. Biggest jump: #6 → #4 on Aug 3 (+2).",
+      "hook": "Did you forget these? They'll look great on you.",
+      "angle": "Showcasing the fit and drape of a premium wardrobe essential",
+      "copy": "Did you forget these? They'll look great on you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/267b7135-1ff6-46c2-972e-b521b4e88a73/977133095183907.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Discover why everyone is obsessing over these pieces.",
+      "launch": "2026-06-04",
+      "days": 71,
+      "trend": "Improved from #8 to #4 in 12d. Biggest jump: #7 → #4 on Aug 7 (+3).",
+      "hook": "Discover why everyone is obsessing over these pieces.",
+      "angle": "Minimalist, timeless design for everyday versatility",
+      "copy": "Discover why everyone is obsessing over these pieces.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/267b7135-1ff6-46c2-972e-b521b4e88a73/1651222939476799.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Did you forget these? They'll look great on you.",
+      "launch": "2026-06-02",
+      "days": 73,
+      "trend": "Improved from #9 to #5 in 12d. Biggest jump: #8 → #5 on Aug 7 (+3).",
+      "hook": "Did you forget these? They'll look great on you.",
+      "angle": "Premium basics focused on superior fit and fabric quality",
+      "copy": "Did you forget these? They'll look great on you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/267b7135-1ff6-46c2-972e-b521b4e88a73/1720597505634206.jpg"
+    }
+  ]
+}

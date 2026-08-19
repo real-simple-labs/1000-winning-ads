@@ -1,0 +1,67 @@
+{
+  "name": "Laird Superfood",
+  "category": "Health Food Store",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6f9df1a4-8e71-4d0b-8519-8538424ec95b/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "The Protein Bar Built for Big Days 💪",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "So when I'm traveling I always bring bars with me just because you never know when you want a snack.",
+      "angle": "Celebrity authority and lifestyle endorsement (Laird Hamilton)",
+      "copy": "Laird Hamilton & Gabby Reece fuel their adventures with Laird Superfood Protein Bars! New customers, use code FIRST20 for 20% off your first purchase + free shipping! ✅ 10g protein + 6g fiber to power the grind",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6f9df1a4-8e71-4d0b-8519-8538424ec95b/1586736243105727.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Vanilla Superfood Creamer®",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Improved from #3 to #2 in 12d.",
+      "hook": "That 2pm crash isn't normal. It's your morning catching up with you.",
+      "angle": "Functional energy through a blend of matcha, MCTs, and mushrooms",
+      "copy": "That 2pm crash isn't normal. It's your morning catching up with you. There's a better way to fuel your day - sustained energy from functional mushrooms + plant-based MCTs. No spike. No wall. Just steady fuel.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6f9df1a4-8e71-4d0b-8519-8538424ec95b/1977865182866924.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Sweet & Creamy Superfood Creamer®",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Improved from #5 to #3 in 12d. Biggest jump: #6 → #3 on Aug 6 (+3).",
+      "hook": "Flip the label. Seed oils. \"Natural flavors\" made in a lab. Artificial sweeteners. That's not food. That's a chemistry experiment ☕",
+      "angle": "Functional health upgrade for daily coffee routines",
+      "copy": "Flip the label. Seed oils. \"Natural flavors\" made in a lab. Artificial sweeteners. That's not food. That's a chemistry experiment ☕ We use real ingredients. Coconut milk. Adaptogens. Functional mushrooms. Nothing artificial. Ever.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6f9df1a4-8e71-4d0b-8519-8538424ec95b/2095393548001086.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "The Cheaper One Is the Organic One",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Dropped from #2 to #4 in 12d. Peak: #2 on Jul 31.",
+      "hook": "Every scoop contains: 22 Superfoods | 5g Fiber",
+      "angle": "Founder authority and endorsement by elite athlete Laird Hamilton",
+      "copy": "You've been paying a podcast tax for your Greens. $99 a month for a greens powder that isn't even organic. You're not buying greens at that price. You're buying their ad budget. Laird Organic Prebiotic Daily Greens",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6f9df1a4-8e71-4d0b-8519-8538424ec95b/27590309223957224.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Go until the gas runs out.",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Improved from #7 to #5 in 12d. Biggest jump: #9 → #7 on Aug 4 (+2).",
+      "hook": "Well first of all, I use the product every day.",
+      "angle": "Personal endorsement from a world-class athlete and founder",
+      "copy": "You have goals. We have the fuel. Our products are made with real, clean ingredients to help you go the distance. For us, that means having the sustained energy to go until the gas runs out. You'll feel the difference.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6f9df1a4-8e71-4d0b-8519-8538424ec95b/1398509472148270.mp4"
+    }
+  ]
+}

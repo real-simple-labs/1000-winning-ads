@@ -1,0 +1,67 @@
+{
+  "name": "Outdoor Voices",
+  "category": "Sports & recreation",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0917a21d-c5bf-45a5-814c-36e655ec2aa9/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Find Your Fleece",
+      "launch": "2023-09-29",
+      "days": 1049,
+      "trend": "n/a",
+      "hook": "Outdoor Voices",
+      "angle": "The outdoors as a space for social connection and joy",
+      "copy": "A super-soft full-zip to keep you warm 'n' toasty during cold-weather Recreation.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0917a21d-c5bf-45a5-814c-36e655ec2aa9/642815444500453.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "{{product.name}}",
+      "launch": "2023-09-29",
+      "days": 1049,
+      "trend": "n/a",
+      "hook": "n/a",
+      "angle": "Modular versatility for outdoor activities",
+      "copy": "{{product.brand}}",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0917a21d-c5bf-45a5-814c-36e655ec2aa9/842552317251767.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Find Your Fleece",
+      "launch": "2023-09-28",
+      "days": 1050,
+      "trend": "n/a",
+      "hook": "Fleece.",
+      "angle": "Tactile comfort and high-quality material texture",
+      "copy": "A super-soft full-zip to keep you warm 'n' toasty during cold-weather Recreation.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0917a21d-c5bf-45a5-814c-36e655ec2aa9/632234728801891.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Outdoor Voices",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "n/a",
+      "hook": "n/a",
+      "angle": "Functional fashion: High-performance activewear that looks like a stylish dress",
+      "copy": "Say hi to our best sellers. Easy styles you'll be reaching for all season long.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0917a21d-c5bf-45a5-814c-36e655ec2aa9/4337452593173314.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Shop OV",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "n/a",
+      "hook": "n/a",
+      "angle": "Functional fashion: High-performance activewear that looks like a stylish dress",
+      "copy": "Say hi to our best sellers. Easy styles you'll be reaching for all season long.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0917a21d-c5bf-45a5-814c-36e655ec2aa9/1499218935278530.jpg"
+    }
+  ]
+}

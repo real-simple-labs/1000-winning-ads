@@ -1,0 +1,67 @@
+{
+  "name": "amika",
+  "category": "Health/beauty",
+  "logo": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/339120013_194920446617324_8924365369361014541_n.png?stp=dst-png_s148x148&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=7sgMPs9RlMMQ7kNvwEMUleC&_nc_oc=AdpDHqVDrwBbxRdzP8IvfSPkbyHkGwHJZJTMUFejqyYCi2hUf8hENcYXiZ-q7hv9SzU&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=ENNnljWaPh_qjOIYF0QK2Q&_nc_ss=7b289&oh=00_AQG2f-4H8gUORDnLXZDZNwdKWzEg5JC74OBbjhvnDoW4hw&oe=6A83B38A",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "keep your hair vibrant",
+      "launch": "2026-08-03",
+      "days": 11,
+      "trend": "Improved from #17 to #1 in 8d. Biggest jump: #17 → #9 on Aug 7 (+8).",
+      "hook": "meet: the protector",
+      "angle": "Protecting high-maintenance hair color from fading in outdoor elements",
+      "copy": "the protector color protect + strengthen treatment shields against heat, UV + chlorine so your hair color looks vibrant longer.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc710371-ea80-48f1-b34d-e533077947a2/2250765505761715.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "amika:",
+      "launch": "2026-08-03",
+      "days": 11,
+      "trend": "Improved from #21 to #2 in 8d. Biggest jump: #21 → #12 on Aug 7 (+9).",
+      "hook": "meet: the protector",
+      "angle": "Vibrant color maintenance for high-fade shades like red",
+      "copy": "the protector color protect + strengthen treatment shields against heat, UV + chlorine so your hair color looks vibrant longer.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc710371-ea80-48f1-b34d-e533077947a2/1068463815536796.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "A good weekly blowout will save you hours throughout the week",
+      "launch": "2026-08-07",
+      "days": 7,
+      "trend": "Improved from #14 to #3 in 4d. Biggest jump: #14 → #6 on Aug 11 (+8).",
+      "hook": "If you want to have a good hair week with minimal effort, you need to be doing a weekly hair prep.",
+      "angle": "Efficiency hack: spend 1 hour now to save 4 hours later in the week",
+      "copy": "A good weekly blowout will save you hours throughout the week & @amika helps to ensure stays hydrated & frizz free!! shop now at @sephora #amikapartner",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/cc710371-ea80-48f1-b34d-e533077947a2/b0ba198be956a4606e151f584858ad5ca9c2e2d76112395804bb3ec8f04a3875.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "frizz is out. summer's on.",
+      "launch": "2026-07-02",
+      "days": 43,
+      "trend": "Improved from #5 to #4 in 12d. Biggest jump: #7 → #5 on Aug 9 (+2). Biggest drop: #5 → #7 on Aug 5 (-2). Peak: #3 on Aug 11.",
+      "hook": "summer doesn't stop for frizz",
+      "angle": "Overcoming seasonal hair struggles to maintain summer joy",
+      "copy": "if you want to fight frizz, this step’s essential. frizz-me-not makes this the summer you stop stressing about your hair.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc710371-ea80-48f1-b34d-e533077947a2/1665112458117988.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "frizz is out. summer's on.",
+      "launch": "2026-07-02",
+      "days": 43,
+      "trend": "Dropped from #3 to #5 in 12d. Biggest drop: #3 → #5 on Aug 5 (-2). Peak: #3 on Aug 1.",
+      "hook": "summer doesn't stop for frizz",
+      "angle": "Overcoming seasonal hair struggles to maintain summer joy",
+      "copy": "if you want to fight frizz, this step’s essential. frizz-me-not makes this the summer you stop stressing about your hair.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc710371-ea80-48f1-b34d-e533077947a2/883336128170878.jpg"
+    }
+  ]
+}

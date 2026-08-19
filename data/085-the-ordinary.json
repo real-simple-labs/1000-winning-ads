@@ -1,0 +1,67 @@
+{
+  "name": "The Ordinary",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/860ce9bc-21ad-4739-91ce-f56d5ed24160/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Enter the Pore Playground.",
+      "launch": "2026-07-28",
+      "days": 16,
+      "trend": "Improved from #40 to #1 in 12d. Biggest jump: #40 → #3 on Aug 2 (+37).",
+      "hook": "Our Acne Portfolio. Your Choice.",
+      "angle": "Empowering the consumer to build a custom acne routine ('Your Choice')",
+      "copy": "Acne is normal. Our clinical formulations make navigating it simpler.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/860ce9bc-21ad-4739-91ce-f56d5ed24160/1397767548906896.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Enter the Pore Playground.",
+      "launch": "2026-07-28",
+      "days": 16,
+      "trend": "Improved from #55 to #2 in 12d. Biggest jump: #55 → #13 on Aug 2 (+42).",
+      "hook": "Improves signs of congestion.",
+      "angle": "Targeting specific skin concerns like congestion and pores",
+      "copy": "Acne is normal. Our clinical formulations make navigating it simpler.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/860ce9bc-21ad-4739-91ce-f56d5ed24160/1060108313198137.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Enter the Pore Playground.",
+      "launch": "2026-07-28",
+      "days": 16,
+      "trend": "Improved from #65 to #3 in 12d. Biggest jump: #65 → #6 on Aug 2 (+59). Peak: #2 on Aug 4.",
+      "hook": "Our Acne Portfolio. Your Choice.",
+      "angle": "Empowering consumer autonomy in skincare ('Your Choice.')",
+      "copy": "Acne is normal. Our clinical formulations make navigating it simpler.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/860ce9bc-21ad-4739-91ce-f56d5ed24160/1588091352860456.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Enter the Pore Playground.",
+      "launch": "2026-07-28",
+      "days": 16,
+      "trend": "Improved from #83 to #4 in 12d. Biggest jump: #83 → #16 on Aug 2 (+67).",
+      "hook": "Improves signs of congestion.",
+      "angle": "Targeting specific skin concerns: congestion and visible pores",
+      "copy": "Acne is normal. Our clinical formulations make navigating it simpler.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/860ce9bc-21ad-4739-91ce-f56d5ed24160/1035817289441877.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Enter the Pore Playground.",
+      "launch": "2026-07-28",
+      "days": 16,
+      "trend": "Improved from #74 to #5 in 12d. Biggest jump: #74 → #18 on Aug 2 (+56).",
+      "hook": "Visibly reduces breakouts in under 1 hour",
+      "angle": "Speed of results (breakout reduction in under 1 hour)",
+      "copy": "Acne is normal. Our clinical formulations make navigating it simpler.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/860ce9bc-21ad-4739-91ce-f56d5ed24160/1366455672130019.mp4"
+    }
+  ]
+}

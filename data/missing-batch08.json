@@ -1,0 +1,11 @@
+{
+  "missing": [
+    {"name": "Fly By Jing", "reason": "Not in Parker's database (name and domain lookups both returned no match)."},
+    {"name": "Bachan's", "reason": "Not in Parker's database (tried Bachan's, Bachan, bachans.com — no match)."},
+    {"name": "Hu Kitchen", "reason": "Not in Parker's database. 'Hu' prefix matches (Hume Health, Hungryroot, Huel, etc.) are all unrelated brands; hukitchen.com also no match."},
+    {"name": "Once Upon a Farm", "reason": "Not in Parker's database (tried name variants and onceuponafarmorganics.com — no match)."},
+    {"name": "GoMacro", "reason": "Not in Parker's database (name and gomacro.com both returned no match)."},
+    {"name": "Simple Mills", "reason": "Not in Parker's database (name and simplemills.com both returned no match)."},
+    {"name": "Recess", "reason": "Exact brand match found (takearecess) but totalAdsScraped is 0 — no ad data available."}
+  ]
+}

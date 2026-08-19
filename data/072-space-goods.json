@@ -1,0 +1,67 @@
+{
+  "name": "Space Goods",
+  "category": "Brand",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4648a103-65a0-4079-8fb8-934fd1547e6d/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "You've Been Missing This",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Improved from #4 to #1 in 6d. Biggest jump: #3 → #1 on Aug 10 (+2).",
+      "hook": "My husband replaced his morning coffee with Rainbow Dust and lost a stone without changing his diet.",
+      "angle": "Weight loss without dietary changes",
+      "copy": "You've tried everything. The routine. The sleep. The supplements on the counter. Managing stress. What you didn't realise is that you didn't fail the routine, it was missing something. Rainbow Dust. One scoop every morning.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4648a103-65a0-4079-8fb8-934fd1547e6d/1761724601916188.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "You've Been Missing This",
+      "launch": "2026-06-11",
+      "days": 63,
+      "trend": "Stable at #2 over 13d. Peak: #1 on Aug 6.",
+      "hook": "Cortisol belly?",
+      "angle": "Targeting stress-induced weight gain as a specific health problem",
+      "copy": "You've tried everything. The routine. The sleep. The supplements on the counter. Managing stress. What you didn't realise is that you didn't fail the routine, it was missing something. Rainbow Dust. One scoop every morning.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4648a103-65a0-4079-8fb8-934fd1547e6d/875807218620252.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Nobody Talks About This Side Of Coffee",
+      "launch": "2026-06-12",
+      "days": 62,
+      "trend": "Improved from #5 to #3 in 13d. Biggest drop: #3 → #5 on Aug 8 (-2).",
+      "hook": "One hormone is causing your belly fat, your bloating, your inflammation and your fatigue.",
+      "angle": "Influencer-driven social proof via a personalized discount code",
+      "copy": "3 reasons you can't concentrate — and none of them are your phone. 1. Your cortisol is permanently elevated. Every cup of coffee fires your fight-or-flight response. Do that 3 times a day for 5 years...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4648a103-65a0-4079-8fb8-934fd1547e6d/2121227092070039.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "You've Been Missing This",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "Ranked #4 on Aug 12.",
+      "hook": "There's a double discount on Rainbow Dust running right now",
+      "angle": "High-Value Financial Incentive: Using 'Double Discount' and '58% Off' as the primary hook.",
+      "copy": "You've tried everything. The routine. The sleep. The supplements on the counter. Managing stress. What you didn't realise is that you didn't fail the routine, it was missing something. Rainbow Dust. One scoop every morning.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/4648a103-65a0-4079-8fb8-934fd1547e6d/a8c46ce785e1d64f66c4c3675be8d8d679cc77a40689495e4c39fc492cd0daa6.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "You've Been Missing This",
+      "launch": "2026-07-29",
+      "days": 15,
+      "trend": "Improved from #16 to #5 in 6d. Biggest jump: #16 → #8 on Aug 8 (+8).",
+      "hook": "Right now you can get a double discount on Rainbow Dust.",
+      "angle": "High-value discount (58% off + extra double discount)",
+      "copy": "You've tried everything. The routine. The sleep. The supplements on the counter. Managing stress. What you didn't realise is that you didn't fail the routine, it was missing something. Rainbow Dust. One scoop every morning.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4648a103-65a0-4079-8fb8-934fd1547e6d/2102429927288102.mp4"
+    }
+  ]
+}

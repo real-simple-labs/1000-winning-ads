@@ -1,0 +1,67 @@
+{
+  "name": "Four Sigmatic",
+  "category": "Vitamins/supplements",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e080802d-bad0-44b0-9253-f88122de8a56/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "The COFFEE LOVER'S Bundle ☕️ 61% OFF",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Stable at #1 over 4d.",
+      "hook": "FLASH SALE THE COFFEE LOVER'S BUNDLE",
+      "angle": "High-discount urgency (61% Off Flash Sale)",
+      "copy": "Love mushroom coffee? This bundle is the easiest way to stock up and find your favorite. Get three best-selling ground mushroom coffees, creamy upgrades, and instant options for focused mornings",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e080802d-bad0-44b0-9253-f88122de8a56/2085217385726019.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "The COFFEE LOVER'S Bundle ☕️ 61% OFF",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Improved from #5 to #2 in 6d. Biggest jump: #5 → #2 on Aug 8 (+3).",
+      "hook": "Coffee Lovers Bundle",
+      "angle": "Extreme social proof via volume of sales and high ratings",
+      "copy": "Love mushroom coffee? This bundle is the easiest way to stock up and find your favorite. Get three best-selling ground mushroom coffees, creamy upgrades, and instant options for focused mornings",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e080802d-bad0-44b0-9253-f88122de8a56/4549076711980571.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "The COFFEE LOVER'S Bundle ☕️ 61% OFF",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Dropped from #1 to #3 in 6d. Biggest drop: #1 → #3 on Aug 8 (-2). Peak: #1 on Aug 6.",
+      "hook": "You guys, look at this insane coffee haul.",
+      "angle": "High-value bundle offer (61% discount)",
+      "copy": "Love mushroom coffee? This bundle is the easiest way to stock up and find your favorite. Get three best-selling ground mushroom coffees, creamy upgrades, and instant options for focused mornings",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e080802d-bad0-44b0-9253-f88122de8a56/1308395760781559.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "The COFFEE LOVER'S Bundle ☕️ 61% OFF",
+      "launch": "2026-08-07",
+      "days": 6,
+      "trend": "Improved from #10 to #4 in 4d. Biggest jump: #10 → #6 on Aug 10 (+4).",
+      "hook": "Coffee Lovers Bundle",
+      "angle": "Massive social proof through high-volume sales numbers",
+      "copy": "Love mushroom coffee? This bundle is the easiest way to stock up and find your favorite. Get three best-selling ground mushroom coffees, creamy upgrades, and instant options for focused mornings",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/e080802d-bad0-44b0-9253-f88122de8a56/7627b28bd47d943edcf4c802ce4ce6d1dee526db40a111e82209d52c6231f830.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "The COFFEE LOVER'S Bundle ☕️ 61% OFF",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Dropped from #2 to #5 in 6d. Biggest drop: #2 → #4 on Aug 8 (-2). Peak: #2 on Aug 6.",
+      "hook": "A lot of people say that they love coffee, but coffee doesn't love them back",
+      "angle": "Solving digestive issues for coffee lovers",
+      "copy": "Love mushroom coffee? This bundle is the easiest way to stock up and find your favorite. Get three best-selling ground mushroom coffees, creamy upgrades, and instant options for focused mornings",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e080802d-bad0-44b0-9253-f88122de8a56/1712276409979206.mp4"
+    }
+  ]
+}

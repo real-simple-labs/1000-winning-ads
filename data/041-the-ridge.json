@@ -1,0 +1,67 @@
+{
+  "name": "The Ridge",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f5d17734-ded7-4eef-83ce-e51d3cf380a5/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Ridge Wallets",
+      "launch": "2026-06-26",
+      "days": 48,
+      "trend": "Stable at #1 over 14d. Biggest jump: #12 → #1 on Aug 11 (+11). Biggest drop: #1 → #12 on Aug 9 (-11).",
+      "hook": "Upgrade your wallet to Ridge.",
+      "angle": "",
+      "copy": "Upgrade your wallet to Ridge. Metal, RFID-blocking wallets designed to carry cards and cash safely and securely.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f5d17734-ded7-4eef-83ce-e51d3cf380a5/80fe40e30431ac657cf34569c5a5b79f027c82e0253c46e07be3431e17d8846e.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Built to Last. Backed for Life.",
+      "launch": "2026-05-30",
+      "days": 75,
+      "trend": "Improved from #7 to #2 in 14d. Biggest jump: #21 → #2 on Aug 11 (+19). Biggest drop: #4 → #21 on Aug 9 (-17).",
+      "hook": "Did you know that Ridge rings come with a lifetime warranty...",
+      "angle": "Comprehensive risk-reversal through lifetime warranty and loss/theft protection.",
+      "copy": "The Ridge Ring Set delivers unmatched comfort with a no-pinch fit and the durability you need every day. Get two rings, a travel case, and 2 free replacements — all backed for life.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f5d17734-ded7-4eef-83ce-e51d3cf380a5/d7154a5479987f7afe4909808ac3a797e1cdb60218941eb43d8ce31b406a081d.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Limited Edition",
+      "launch": "2026-07-18",
+      "days": 26,
+      "trend": "Improved from #19 to #3 in 14d. Biggest jump: #19 → #10 on Aug 1 (+9).",
+      "hook": "So how much louder is the AirTag compared to the Ridge Find My Tracker Card?",
+      "angle": "Volume comparison (Louder chirping than AirTag)",
+      "copy": "Introducing the Limited Edition Atomic Purple Wallet. Straight from the clear-tech era. Holds 1-12 cards, blocks RFID, and comes with a Built-for-Life warranty.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f5d17734-ded7-4eef-83ce-e51d3cf380a5/dd557e0cfec5f9b9b04e8c1bc850700173d2806e19bd416e6dcdb73e5a4b1ca5.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "5 in 1 Powerbank",
+      "launch": "2026-05-26",
+      "days": 79,
+      "trend": "Improved from #8 to #4 in 14d. Biggest jump: #8 → #5 on Aug 1 (+3).",
+      "hook": "This is the perfect pair for your iPhone and it replaces three different chargers.",
+      "angle": "The ultimate travel companion that eliminates cable clutter",
+      "copy": "Charge iPhones with magsafe, Qi phones, USB-C wired, lightning wired AND an Apple Watch and get 10,000mAh in the palm of your hand. One thing to pack, five ways to power.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f5d17734-ded7-4eef-83ce-e51d3cf380a5/b31cbc1c7ee613fc6ead6fa0932fdb96eb12fdbf494f91508572ea049e05025b.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "5 in 1 Powerbank",
+      "launch": "2026-05-26",
+      "days": 79,
+      "trend": "Improved from #10 to #5 in 14d. Biggest jump: #42 → #5 on Aug 11 (+37). Biggest drop: #8 → #42 on Aug 9 (-34).",
+      "hook": "Introducing the Ridge Powerbank.",
+      "angle": "Versatility through 5-in-1 charging capabilities",
+      "copy": "Charge iPhones with magsafe, Qi phones, USB-C wired, lightning wired AND an Apple Watch and get 10,000mAh in the palm of your hand. One thing to pack, five ways to power.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/f5d17734-ded7-4eef-83ce-e51d3cf380a5/5f149b6a7b05e978464433049c1d81f6a17dc72ab3acc025dc33d169eb3daae6.mp4"
+    }
+  ]
+}

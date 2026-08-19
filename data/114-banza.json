@@ -1,0 +1,67 @@
+{
+  "name": "Banza",
+  "category": "Food & beverage company",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9845a0be-f246-4dfe-ad19-848e6382445b/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "@eatbanza new Protein Pasta is NOW available at Kroger! It'",
+      "launch": "2026-06-16",
+      "days": 58,
+      "trend": "n/a",
+      "hook": "Y'all know if there's a new product at Kroger, I have to try it.",
+      "angle": "New product launch excitement at a major retailer (Kroger)",
+      "copy": "@eatbanza new Protein Pasta is NOW available at Kroger! It's made with semolina wheat and chickpeasand tastes just like traditional pasta. With 22 grams of protein per serving, it's the perfect way to",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9845a0be-f246-4dfe-ad19-848e6382445b/1449616090513689.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "YOUR FAMILY WON'T TASTE THE DIFFERENCE",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "n/a",
+      "hook": "YOUR FAMILY WON'T TASTE THE DIFFERENCE",
+      "angle": "",
+      "copy": "NEW protein pasta made from wheat and chickpeas. 22g of protein. Classic pasta taste. No compromises. Available at Kroger.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9845a0be-f246-4dfe-ad19-848e6382445b/816900528020837.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "NEW protein pasta made from wheat and chickpeas. 22g of prot",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "n/a",
+      "hook": "PROTEIN PASTA NEW! Made from wheat + chickpeas",
+      "angle": "Retail availability at Kroger (Convenience focus)",
+      "copy": "NEW protein pasta made from wheat and chickpeas. 22g of protein. Classic pasta taste. No compromises. Available at Kroger.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9845a0be-f246-4dfe-ad19-848e6382445b/1333985852281739.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "PASTA THAT DOESN'T TASTE HEALTHY",
+      "launch": "2026-06-16",
+      "days": 58,
+      "trend": "n/a",
+      "hook": "PASTA THAT DOESN'T TASTE HEALTHY",
+      "angle": "Overcoming the 'healthy food tastes bad' objection",
+      "copy": "NEW protein pasta made from wheat and chickpeas. 22g of protein. Classic pasta taste. No compromises. Available at Kroger.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9845a0be-f246-4dfe-ad19-848e6382445b/1062594216427911.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "HIGH PROTEIN PASTA THAT TASTES LIKE REAL PASTA.",
+      "launch": "2026-06-16",
+      "days": 58,
+      "trend": "n/a",
+      "hook": "HIGH PROTEIN PASTA THAT TASTES LIKE REAL PASTA.",
+      "angle": "Taste parity: Positioning a healthy alternative as indistinguishable from traditional wheat pasta.",
+      "copy": "NEW protein pasta made from wheat and chickpeas. 22g of protein. Classic pasta taste. No compromises. Available at Kroger.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9845a0be-f246-4dfe-ad19-848e6382445b/1529617428871462.jpg"
+    }
+  ]
+}

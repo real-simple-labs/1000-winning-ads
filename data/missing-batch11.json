@@ -1,0 +1,9 @@
+{
+  "missing": [
+    {"name": "Parachute", "reason": "Exact match in Parker (page id 36311833517) but totalAdsScraped is 0 — no ad data available."},
+    {"name": "Coop Home Goods", "reason": "Not in Parker's database (no brand match)."},
+    {"name": "Spot & Tango", "reason": "Not in Parker's database (no brand match)."},
+    {"name": "Sundays for Dogs", "reason": "Not in Parker's database (no brand match)."},
+    {"name": "Jinx", "reason": "Not in Parker's database (no brand match)."}
+  ]
+}

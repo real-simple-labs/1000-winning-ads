@@ -1,0 +1,67 @@
+{
+  "name": "Wild",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/76dbcabc-4b6f-4dbd-a5f7-9475e26ec4ba/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Wild Refillable 72hr Antiperspirant",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Improved from #288 to #1 in 12d. Biggest jump: #288 → #27 on Aug 2 (+261).",
+      "hook": "Get max sweat protection with our refillable antiperspirant",
+      "angle": "",
+      "copy": "Get max sweat protection with our refillable antiperspirant. Our unique formula contains 72hr anti-sweat technology to keep you dry, and 90% natural origin ingredients to gently nourish your skin.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/76dbcabc-4b6f-4dbd-a5f7-9475e26ec4ba/24a354506a6dfc67f1f1c6a5257f1b58e5f37497192f8fa02025b45840694764.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Wild Refillable 72hr Antiperspirant",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Improved from #95 to #2 in 12d. Biggest jump: #95 → #34 on Aug 2 (+61).",
+      "hook": "Get max sweat protection with our refillable antiperspirant",
+      "angle": "",
+      "copy": "Get max sweat protection with our refillable antiperspirant. Our unique formula contains 72hr anti-sweat technology to keep you dry, and 90% natural origin ingredients to gently nourish your skin.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/76dbcabc-4b6f-4dbd-a5f7-9475e26ec4ba/6e76d84a52e0a1f9eb8da0d5dfcd1fa08203377ae60dd0cb4b334a562021b0e6.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Start a refillable romance 🌸",
+      "launch": "2026-07-06",
+      "days": 38,
+      "trend": "Stable at #3 over 12d. Peak: #2 on Aug 10.",
+      "hook": "Wild LOVESHACKFANCY",
+      "angle": "Aesthetic lifestyle branding: Positioning deodorant as a beautiful accessory for a curated home.",
+      "copy": "Express yourself with indulgent new scents ✨ 🍦 Brown Sugar & Vanilla 🥥 Coconut & Hibiscus 🍐 Pear Blossom 🍓 Summer Berries",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/76dbcabc-4b6f-4dbd-a5f7-9475e26ec4ba/121f272587814b8da0d0072a9adf1204d4c3b3b8dd5a72d21bfbedc43b755a6a.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Get 40% off our Summerween sale! 🎃",
+      "launch": "2026-07-08",
+      "days": 36,
+      "trend": "Dropped from #1 to #4 in 12d. Peak: #1 on Jul 31.",
+      "hook": "SUMMERWEEN",
+      "angle": "Capitalizing on the 'Summerween' seasonal trend to create urgency",
+      "copy": "Summerween is here! 🎃☀️ Snag our limited-edition Halloween stock at a scarily good 40% off before it completely vanishes! ☀️ Single-use plastic-free case 🎃 Deo made from 98% natural origin ingredients 👻 24hr odour protection",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/76dbcabc-4b6f-4dbd-a5f7-9475e26ec4ba/df2b1c436898590bfb27a2fc1ec154cf6b3f1ab67be85f17ec41fb87b68aee48.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Stay 24hr fresh with Wild x Emma Raducanu",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Dropped from #2 to #5 in 12d. Biggest drop: #2 → #4 on Aug 8 (-2). Peak: #2 on Jul 31.",
+      "hook": "CHANGE YOUR DEO GAME",
+      "angle": "Celebrity endorsement leveraging athletic performance to prove product efficacy",
+      "copy": "Serve champion freshness! Emma's Garden of England deodorant provides 24hr odour protection, in a refillable case for life🏆",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/76dbcabc-4b6f-4dbd-a5f7-9475e26ec4ba/97e889d01f860177a733c4eeca67be67fba78fd1d5efadfd8d11e696fcb5ebc7.jpg"
+    }
+  ]
+}

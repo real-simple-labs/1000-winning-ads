@@ -1,0 +1,67 @@
+{
+  "name": "Boka",
+  "category": "Health/beauty",
+  "logo": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/352710397_3372895416353940_4555034161115377582_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=f9wAKRUzbYQQ7kNvwEBrxpp&_nc_oc=Ado9SGVRxGao2oR2cdR1f0N7FCSeoJikv7kCTU1rhMK9xBSW6eSm9tMOEKxjfw3mqZw&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=_HBe0YWXzpLrbHGCH7Xx4g&_nc_ss=7b289&oh=00_AQEAnbjKWPM49CCjiY6jyy4GCw9ty1GGme2N1Fi-2GV5Rw&oe=6A813502",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "#1 Bestseller on Amazon",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Improved from #3 to #1 in 12d.",
+      "hook": "My teeth haven't looked like this since before I started drinking coffee",
+      "angle": "Combatting 10 years of coffee stains",
+      "copy": "Finally find a whitening solution that actually lasts! After 10 years of coffee drinking and trying various strips, toothpastes, and tray kits with no success, this whitening powder delivered noticeable results in just weeks.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5eb1e9fd-f4da-4b13-853a-14ebef1b0794/1756643052178552.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "#1 Bestseller on Amazon",
+      "launch": "2026-07-10",
+      "days": 34,
+      "trend": "Stable at #2 over 12d. Biggest jump: #4 → #2 on Aug 11 (+2).",
+      "hook": "My teeth haven't looked like this since before I started drinking coffee",
+      "angle": "Combatting 10 years of coffee stains",
+      "copy": "Finally find a whitening solution that actually lasts! After 10 years of coffee drinking and trying various strips, toothpastes, and tray kits with no success, this whitening powder delivered noticeable results in just weeks.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5eb1e9fd-f4da-4b13-853a-14ebef1b0794/1929802324244859.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "#1 Bestseller on Amazon",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Improved from #5 to #3 in 12d. Biggest jump: #5 → #3 on Aug 3 (+2). Biggest drop: #1 → #3 on Aug 11 (-2). Peak: #1 on Aug 7.",
+      "hook": "If you're getting your teeth whitened at the dentist to be in pain afterwards, this is for you.",
+      "angle": "Pain-free alternative to professional whitening",
+      "copy": "No harsh bleach. No expensive dentist visits. Just a smarter way to whiten. ✅ Week 1: Fresher smile, stains from coffee + wine start to lift ✅ Week 2: Nano-hydroxyapatite supports enamel ✅ Week 3: Noticeably brighter teeth",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5eb1e9fd-f4da-4b13-853a-14ebef1b0794/1673855583670122.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "#1 Bestseller on Amazon",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Stable at #4 over 12d. Peak: #3 on Aug 9.",
+      "hook": "If you're getting your teeth whitened at the dentist to be in pain afterwards, this is for you.",
+      "angle": "Pain-free alternative to professional whitening",
+      "copy": "No harsh bleach. No expensive dentist visits. Just a smarter way to whiten. ✅ Week 1: Fresher smile, stains from coffee + wine start to lift ✅ Week 2: Nano-hydroxyapatite mimics enamel ✅ Week 3: Noticeably brighter teeth",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5eb1e9fd-f4da-4b13-853a-14ebef1b0794/1544437120393792.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "#1 Bestseller on Amazon",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Improved from #6 to #5 in 12d.",
+      "hook": "There's a Reason This Whitening Powder Keeps Selling Out",
+      "angle": "Social Proof/Popularity: Framing the product as a viral sensation that 'keeps selling out'.",
+      "copy": "No harsh bleach. No expensive dentist visits. Just a smarter way to whiten. ✅ Week 1: Fresher smile, stains from coffee + wine start to lift ✅ Week 2: Nano-hydroxyapatite mimics enamel ✅ Week 3: Noticeably brighter teeth",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5eb1e9fd-f4da-4b13-853a-14ebef1b0794/27726264157014116.mp4"
+    }
+  ]
+}

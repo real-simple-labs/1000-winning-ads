@@ -1,0 +1,67 @@
+{
+  "name": "Mack Weldon",
+  "category": "Clothing (Brand)",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/d216dd7b-a9a4-4b89-8d51-05445c62c837/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Humidity’s Worst Nightmare",
+      "launch": "2026-08-09",
+      "days": 5,
+      "trend": "Improved from #30 to #1 in 2d. Biggest jump: #30 → #1 on Aug 12 (+29).",
+      "hook": "BREATHABLE BY NATURE",
+      "angle": "Leveraging natural, outdoor imagery to signify freshness and airiness",
+      "copy": "Introducing AIRKNITx Cotton, engineered with breathable micro mesh for maximum breathability and comfort.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d216dd7b-a9a4-4b89-8d51-05445c62c837/a14964c33c064c6125a6d9416a2d87547d563b058895d899c1419d9029b240c2.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Need Clothes for College?",
+      "launch": "2026-08-08",
+      "days": 6,
+      "trend": "Improved from #9 to #2 in 4d. Biggest jump: #9 → #2 on Aug 10 (+7).",
+      "hook": "YOUR COLLEGE STARTER PACK",
+      "angle": "Positioning underwear as a critical 'back-to-school' essential",
+      "copy": "Add Mack Weldon’s sharp, comfortable essentials and apparel to your packing list.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d216dd7b-a9a4-4b89-8d51-05445c62c837/6f9caccc6b88df207342a4a7df5582a7228e0681ab996d3ba479ecb1ea9f1d76.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "18-Hour Jersey Boxer Brief",
+      "launch": "2026-08-10",
+      "days": 4,
+      "trend": "Ranked #3 on Aug 12.",
+      "hook": "Add Mack Weldon’s sharp, comfortable essentials and apparel to your packing list.",
+      "angle": "Minimalist premium product showcase",
+      "copy": "Add Mack Weldon’s sharp, comfortable essentials and apparel to your packing list.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d216dd7b-a9a4-4b89-8d51-05445c62c837/67b6d563e7c8dd1413f04b98fdd6190ce21b8ab13857888cdba1daa4e4f4e415.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Need Clothes for College?",
+      "launch": "2026-08-08",
+      "days": 6,
+      "trend": "Improved from #31 to #4 in 4d. Biggest jump: #31 → #3 on Aug 10 (+28). Peak: #3 on Aug 10.",
+      "hook": "FOR COLLEGE",
+      "angle": "Back-to-school essential positioning for the college demographic",
+      "copy": "Add Mack Weldon’s sharp, comfortable essentials and apparel to your packing list.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d216dd7b-a9a4-4b89-8d51-05445c62c837/4a48b3bbe3af6f8ae4095609e9c56a15622428d80d72c1392d1b5adf5059ebdb.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Our First-Ever Blazer",
+      "launch": "2026-08-06",
+      "days": 8,
+      "trend": "Improved from #21 to #5 in 4d. Biggest jump: #21 → #4 on Aug 10 (+17). Peak: #4 on Aug 10.",
+      "hook": "This Blazer Has a Secret...",
+      "angle": "Combining formal style with sweatshirt-level comfort",
+      "copy": "Finally, someone made a blazer that’s as soft as your favorite sweatshirt. (That someone is us.)",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/d216dd7b-a9a4-4b89-8d51-05445c62c837/1697924127943577.mp4"
+    }
+  ]
+}

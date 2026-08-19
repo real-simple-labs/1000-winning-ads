@@ -1,0 +1,12 @@
+{
+  "missing": [
+    {
+      "name": "Pair Eyewear",
+      "reason": "Not in Parker's database — no match for 'Pair Eyewear', 'paireyewear.com', or 'PAIR' (only prefix hit was 'Paire', an unrelated clothing brand)."
+    },
+    {
+      "name": "Roka",
+      "reason": "Not in Parker's database — no match for 'Roka', 'ROKA', or 'roka.com'."
+    }
+  ]
+}

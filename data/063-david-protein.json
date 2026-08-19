@@ -1,0 +1,67 @@
+{
+  "name": "David Protein",
+  "category": "Health Food Store",
+  "logo": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/457019116_122112066122428393_7422159975055319070_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=p6vNTuYtwTMQ7kNvwGCaNwO&_nc_oc=AdpaA35XD7r6fBlL6-9ZbzdK72Kc57gGj5m2bMoFSK1-orVOR4TIjleVH6vZdkQ2tQk&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=NyWCqBu4-pVCt6hVaZFxGQ&_nc_ss=7b289&oh=00_AQEmMTssjwN4SKbP1Wl49KO4sWXP4pQ8nBnFBGHtahea_A&oe=6A834C26",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "28g Protein. 150 Calories. 0g Sugar.",
+      "launch": "2026-03-27",
+      "days": 139,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "Buy 4, Get 1 Free",
+      "angle": "High-value bundle offer (Buy 4, Get 1 Free)",
+      "copy": "Superior protein for the human body. David perfects protein for full-body health, wellness, and longevity.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44e3cfb2-cd5a-4310-85d9-753e10196fce/1653252342793953.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "28g Protein. 150 Calories. 0g Sugar.",
+      "launch": "2026-05-22",
+      "days": 83,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "The final protein bar.",
+      "angle": "The 'Holy Grail' of macro-nutrients (unusually high protein to calorie ratio)",
+      "copy": "David delivers the most protein for the fewest calories. Perfected taste, texture, and macros. Have it all with David.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44e3cfb2-cd5a-4310-85d9-753e10196fce/1328295522560836.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Take a bite.",
+      "launch": "2026-04-13",
+      "days": 122,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "Buy 4, Get 1 Free",
+      "angle": "Bulk value and 'Buy X Get Y' promotional offer",
+      "copy": "28g protein for long days and short windows.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44e3cfb2-cd5a-4310-85d9-753e10196fce/2571129469949176.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Take a bite.",
+      "launch": "2026-05-24",
+      "days": 81,
+      "trend": "Stable at #4 over 14d.",
+      "hook": "The final protein bar.",
+      "angle": "Industry-leading protein-to-calorie ratio (28g/150cal)",
+      "copy": "Exceptional macros without sacrificing on taste.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44e3cfb2-cd5a-4310-85d9-753e10196fce/1306047395055306.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "28g Protein. 150 Calories. 0g Sugar.",
+      "launch": "2026-03-25",
+      "days": 141,
+      "trend": "Stable at #5 over 14d.",
+      "hook": "28g of Protein. 150 Calories. 0g of Sugar.",
+      "angle": "Industry-leading protein-to-calorie ratio",
+      "copy": "Superior protein for the human body. David perfects protein for full-body health, wellness, and longevity.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44e3cfb2-cd5a-4310-85d9-753e10196fce/728098530270776.jpg"
+    }
+  ]
+}

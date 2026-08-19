@@ -1,0 +1,67 @@
+{
+  "name": "Chomps",
+  "category": "E-commerce website",
+  "logo": "https://qccrqxnnqpkeqvjdwogy.supabase.co/storage/v1/object/public/internal-facebook-ads/external-brands/1ea594f8-2420-4f39-a4f7-331528e8677e/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Pick up new snacks near you",
+      "launch": "2026-06-15",
+      "days": 59,
+      "trend": "Improved from #3 to #1 in 12d.",
+      "hook": "FIND CHICKEN NEAR YOU",
+      "angle": "Portability for active, on-the-go lifestyles",
+      "copy": "Get NEW Chicken sticks in a store near you! Choose between Original Chicken, Nashville Hot Chicken, and Savory Breakfast Chicken.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1ea594f8-2420-4f39-a4f7-331528e8677e/1306817474938231.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Pick up new snacks near you",
+      "launch": "2026-06-27",
+      "days": 47,
+      "trend": "Improved from #6 to #2 in 12d. Biggest jump: #5 → #2 on Aug 12 (+3).",
+      "hook": "FIND CHICKEN NEAR YOU",
+      "angle": "",
+      "copy": "Get NEW Chicken sticks in a store near you! Choose between Original Chicken, Nashville Hot Chicken, and Savory Breakfast Chicken.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1ea594f8-2420-4f39-a4f7-331528e8677e/2374057216457136.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Chomps Chicken is Here!",
+      "launch": "2026-04-15",
+      "days": 120,
+      "trend": "Improved from #7 to #3 in 12d. Biggest jump: #7 → #3 on Aug 12 (+4).",
+      "hook": "CHOMPS CHICKEN HAS LANDED",
+      "angle": "New product launch announcement for chicken flavor",
+      "copy": "3 new chicken flavors. Zero reasons not to try them. Nashville Hot Chicken is a fiery flavor imported straight from Broadway street with a burst of bold heat, that will leave your taste buds buzzing. O",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1ea594f8-2420-4f39-a4f7-331528e8677e/925233120322308.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Chomps Chicken is Here!",
+      "launch": "2026-04-15",
+      "days": 120,
+      "trend": "Improved from #5 to #4 in 12d. Biggest jump: #8 → #4 on Aug 12 (+4). Biggest drop: #6 → #8 on Aug 8 (-2).",
+      "hook": "NEW! CHOMPS NASHVILLE HOT CHICKEN",
+      "angle": "New flavor announcement (Nashville Hot Chicken)",
+      "copy": "3 new chicken flavors. Zero reasons not to try them. Nashville Hot Chicken is a fiery flavor imported straight from Broadway street with a burst of bold heat, that will leave your taste buds buzzing. O",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1ea594f8-2420-4f39-a4f7-331528e8677e/1331726325675939.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Chomps Chicken is Here!",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Improved from #16 to #5 in 12d. Biggest jump: #22 → #9 on Aug 6 (+13). Biggest drop: #16 → #19 on Aug 2 (-3).",
+      "hook": "CHOMPS CHICKEN HAS LANDED",
+      "angle": "New flavor announcement (Chicken) to expand the current product line",
+      "copy": "3 new chicken flavors. Zero reasons not to try them. Nashville Hot Chicken is a fiery flavor imported straight from Broadway street with a burst of bold heat, that will leave your taste buds buzzing. O",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1ea594f8-2420-4f39-a4f7-331528e8677e/37482398441351452.jpg"
+    }
+  ]
+}

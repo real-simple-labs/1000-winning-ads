@@ -1,0 +1,67 @@
+{
+  "name": "Auri Nutrition",
+  "category": "Health/beauty",
+  "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/464340284_578842051474549_8395110994320116959_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=wxxjbBUDZo8Q7kNvwFqBYNa&_nc_oc=Adrz_7vZ_U4ZFuDP_FbSokgKnXZrnGTl5mXPQLEeT-OGl-7MLM85Dm90WRK4wjQUNA0&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=2J0hGr0bqpW5V2tj5FglGg&_nc_ss=7b289&oh=00_AQGSeVr2g0ed5xizyH5uLz0GCF_wdZDgXMrcUDqYFirfCw&oe=6A83A07F",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Super Mushroom Infused Focus Gummies 🍄",
+      "launch": "2026-07-23",
+      "days": 21,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "When you finally try mushroom gummies with a constantly distracted brain",
+      "angle": "Overcoming ADHD-like symptoms/distraction for better productivity",
+      "copy": "🧠 \"SO GOOD! Both my husband and I notice immediate results. Energy, yet with a nice calmness/happiness side to these. They taste amazing! We are now monthly subscribers!\" - Johanna N",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21605233-a3c2-438d-a5fa-d8c28847c1c5/1297173129159505.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The 'Viral' Mushroom Infused Cleaning Gummies 🍄",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #69 to #2 in 10d. Biggest jump: #69 → #12 on Aug 5 (+57).",
+      "hook": "I don't know what's in these mushroom gummies, but I blacked out and deep cleaned my entire house.",
+      "angle": "Extreme productivity 'superpower' (cleaning the whole house while 'blacked out')",
+      "copy": "Coffee didn't work. The timer apps didn't work. Nothing actually got you to *start* — until now. These focus gummies give you calm tunnel vision without the crash or jitters, so the stuff you've been avoiding suddenly feels manageable.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21605233-a3c2-438d-a5fa-d8c28847c1c5/909560658294509.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "The 'Viral' Mushroom Infused Cleaning Gummies 🍄",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #33 to #3 in 10d. Biggest jump: #33 → #13 on Aug 5 (+20).",
+      "hook": "My best friend cleans her entire house in an afternoon and I can't get past the dishwasher.",
+      "angle": "Overcoming chronic procrastination and distraction",
+      "copy": "If you're the person who opens the dishwasher and somehow ends up scrolling for an hour, this one's for you. She kept telling me about these lion's mane gummies—how they helped her actually finish the things she'd been avoiding.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21605233-a3c2-438d-a5fa-d8c28847c1c5/808158952325257.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Super Mushroom Infused Focus Gummies 🍄",
+      "launch": "2026-07-18",
+      "days": 26,
+      "trend": "Stable at #4 over 14d.",
+      "hook": "She doesn't know it yet but the mushroom gummies her old roommate left behind are going to make her deep clean every crevice in her home and rearrange her entire life for the next 12 hours",
+      "angle": "Productivity-inducing supplements",
+      "copy": "🧠 \"SO GOOD! Both my husband and I notice immediate results. Energy, yet with a nice calmness/happiness side to these. They taste amazing! We are now monthly subscribers!\" - Johanna N",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21605233-a3c2-438d-a5fa-d8c28847c1c5/1379296234058773.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Super Mushroom Infused Focus Gummies 🍄",
+      "launch": "2026-07-11",
+      "days": 33,
+      "trend": "Stable at #5 over 14d. Biggest jump: #7 → #5 on Aug 13 (+2). Biggest drop: #4 → #6 on Aug 9 (-2). Peak: #4 on Aug 7.",
+      "hook": "60 Days. Full Refund. No Excuse Left.",
+      "angle": "Risk-reversal and satisfaction guarantee",
+      "copy": "🧠 \"SO GOOD! I noticed immediate results. Energy and focus, yet with a nice calmness/happiness side to these. They taste amazing! I'm now a monthly subscriber!\" - Mehr R.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21605233-a3c2-438d-a5fa-d8c28847c1c5/1385344056777569.jpg"
+    }
+  ]
+}

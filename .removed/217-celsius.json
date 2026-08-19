@@ -1,0 +1,67 @@
+{
+  "name": "CELSIUS",
+  "category": "Food & beverage company",
+  "logo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/622376257_1313398467487996_2995090983352635737_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=ExaF9ew8mBsQ7kNvwFV-W5t&_nc_oc=AdromfEgxcUYx7X0d8aTtuyPxCpz5U3MOGwRrwjwGbi8cx-l1zfIGyAmzET_ju04tPM&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=3-pqiFQORLe5FORFJ9RxKQ&_nc_ss=7b289&oh=00_AQFgCZO6A-Ak88Yla93VR3LxbitNQO0QxiNpkgIwoADXuQ&oe=6A83BFE8",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Game Day Starts with CELSIUS",
+      "launch": "2026-06-30",
+      "days": 45,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "CELSIUS LIVE FIT",
+      "angle": "Professional athletic partnership and endorsement",
+      "copy": "Fuel the first whistle to the final minute. CELSIUS keeps you match ready. ⚽️🔥 #CELSIUSLiveFit",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5e9c3e56-ac47-47ce-a782-6d3e99edfec0/2050055219202242.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Try Spritz VIBE Now",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "Improved from #7 to #2 in 12d. Biggest jump: #6 → #3 on Aug 7 (+3).",
+      "hook": "CELSIUS LIVE FIT",
+      "angle": "Associating Celsius with professional-level soccer and athletic skill",
+      "copy": "CELSIUS Spritz VIBE adds a sparkling limoncello twist to your summer routine. Zero sugar, bold flavor, limited time only.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5e9c3e56-ac47-47ce-a782-6d3e99edfec0/1628293548723068.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Try Spritz VIBE Now",
+      "launch": "2026-07-23",
+      "days": 22,
+      "trend": "Improved from #9 to #3 in 12d. Biggest jump: #9 → #3 on Aug 13 (+6).",
+      "hook": "SUMMER EDITION LIMONCELLO Twist",
+      "angle": "Seasonal refreshment specifically for summer lifestyle activities",
+      "copy": "CELSIUS Spritz VIBE adds a sparkling limoncello twist to your summer routine. Zero sugar, bold flavor, limited time only.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5e9c3e56-ac47-47ce-a782-6d3e99edfec0/966159913096102.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Taste La Dolce Vita",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "Improved from #5 to #4 in 12d. Biggest jump: #6 → #4 on Aug 9 (+2). Peak: #3 on Aug 11.",
+      "hook": "CELSIUS LIVE FIT SPARKLING ORANGE",
+      "angle": "Positioning as a refreshing, fruit-forward energy solution",
+      "copy": "CELSIUS Spritz VIBE adds a sparkling limoncello twist to your summer routine. Zero sugar, bold flavor, limited time only.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5e9c3e56-ac47-47ce-a782-6d3e99edfec0/1537021607318399.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Peach Vibe. Full Throttle.",
+      "launch": "2026-06-30",
+      "days": 45,
+      "trend": "Dropped from #4 to #5 in 12d. Peak: #4 on Aug 1.",
+      "hook": "CELSIUS LIVE FIT PEACH VIBE",
+      "angle": "Association with elite, high-performance Formula One racing lifestyle",
+      "copy": "Peach Vibe brings essential energy to every lap.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/5e9c3e56-ac47-47ce-a782-6d3e99edfec0/950604371355308.jpg"
+    }
+  ]
+}

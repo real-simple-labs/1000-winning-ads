@@ -1,0 +1,67 @@
+{
+  "name": "Bioma",
+  "category": "Health & wellness website",
+  "logo": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/449101649_455825883994748_8197059352394129472_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=LX45kMfq6fUQ7kNvwHSmomi&_nc_oc=AdqT9gMu05mSmFFdOL7jFtNbDLPsH3hZsPpLuHtbBd4sA99UqE2dlmO1ZgLhXa5hEVY&_nc_zt=24&_nc_ht=scontent-lga3-3.xx&_nc_gid=NGW9ziCjJiCx1syLVtaIWA&_nc_ss=7b289&oh=00_AQEMM5-UbupScRjU_7w0rTTY43LpYrk5Y6DiEOQ5t-kTvA&oe=6A82AF02",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Take a Free Quiz And Get 35% OFF",
+      "launch": "2025-10-02",
+      "days": 316,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "3 bottles in and I'm the same size as I was in my 20's!",
+      "angle": "Reclaiming Youth: Positioned as a way to return to your '20s size' after years of weight gain.",
+      "copy": "😱🌿 BIOMA SALE ALERT! 🌿😱 Achieve sustainable weight loss with Bioma: ✅ Say goodbye to bloating ✅ Boost your energy levels ✅ Enjoy regularity after years ✅ Kick sugar cravings to the curb",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1850acc0-a8f1-4b41-b012-1aaf00115207/9b97318509f4ad7d4af5fe9e7e78c8a93125e51f25fb00fdcdc6474ec5fe03fa.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "🎉 35% OFF + 3 FREE Gifts + FREE Shipping 🎉",
+      "launch": "2026-06-29",
+      "days": 46,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "YES, IT’S PRICEY",
+      "angle": "Using a damaging admission to build trust and signal premium quality",
+      "copy": "🇺🇲❗️JULY 4th SALE IS LIVE❗️🇺🇲 Clinically researched ingredients within BIOMA's Prebiotic + Probiotic + Postbiotic formula are designed to activate fat burn, reduce cravings, and support long-term gut",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1850acc0-a8f1-4b41-b012-1aaf00115207/f5200cf72a40c758b08ee94e1a0252536ed87c5f84e540574b046bbbf176f5a1.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "🔥 60% OFF + FREE Shipping 🔥",
+      "launch": "2026-05-11",
+      "days": 95,
+      "trend": "Improved from #4 to #3 in 12d.",
+      "hook": "If you start Bioma this November, you’ll be unrecognizable by Christmas!",
+      "angle": "Rapid holiday transformation timeline",
+      "copy": "❗️BLACK FRIDAY SALE IS LIVE❗️ Clinically researched ingredients within BIOMA's Prebiotic + Probiotic + Postbiotic formula are designed to activate fat burn, reduce cravings, and support long-term gut",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1850acc0-a8f1-4b41-b012-1aaf00115207/17053d02379dfc83fda43362f961c9c15ed0aee871e333252346c6fc014e1af3.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Weight Loss Made Easy",
+      "launch": "2026-04-27",
+      "days": 109,
+      "trend": "Dropped from #3 to #4 in 12d. Peak: #3 on Jul 31.",
+      "hook": "If you’re considering Liposuction, at least give Bioma a try.",
+      "angle": "Positioning a supplement as a non-invasive alternative to surgery",
+      "copy": "Ever wonder why you can’t lose weight? It might not be your diet or workouts… it could be your gut. Since adding Bioma to my morning routine: 🥳 My belly’s flatter 🍔 Cravings disappeared",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1850acc0-a8f1-4b41-b012-1aaf00115207/d6223c5a2ffd3c7d372a201c173e9039426aeb4c88ff919f925575a20ee5d3dd.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "🎉 35% OFF + 3 FREE Gifts + FREE Shipping 🎉",
+      "launch": "2026-06-29",
+      "days": 46,
+      "trend": "Improved from #6 to #5 in 12d.",
+      "hook": "What comes with BIOMA",
+      "angle": "Positioning a natural supplement as a friction-less alternative to pharmaceutical injections",
+      "copy": "🇺🇲❗️JULY 4th SALE IS LIVE❗️🇺🇲 Clinically researched ingredients within BIOMA's Prebiotic + Probiotic + Postbiotic formula are designed to activate fat burn, reduce cravings, and support long-term gut",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1850acc0-a8f1-4b41-b012-1aaf00115207/4fce9dca6252f0521c597724792eabfb3dcf62c41510e566af26f07efbba7372.jpg"
+    }
+  ]
+}

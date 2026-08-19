@@ -1,0 +1,67 @@
+{
+  "name": "Bite",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/349974973_566401815695154_4299505647019376060_n.png?stp=dst-png_s148x148&_nc_cat=100&ccb=1-7&_nc_sid=418b77&_nc_ohc=FSm2iq_T6IIQ7kNvwHG7YjL&_nc_oc=AdoigR2ptvNn1sI8zcJnmrfA1p4WR76f5lJN2IbLW_A96olFeyegCQCgB2C4ihaZoks&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=bhh3Cyk4iHdICYhZV5-ESQ&_nc_ss=7b289&oh=00_AQF6-QNzMqpbklM481X7k4QkOOLRCiapeUisdGM8mSaZtw&oe=6A82A695",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Shop the Bite Toothpaste Bits",
+      "launch": "2026-06-26",
+      "days": 48,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "This finally got rid of the yellow stains on my teeth.",
+      "angle": "Permanent removal of yellow stains for a better first impression",
+      "copy": "Clean ingredients. Visibly whiter teeth. Zero waste. The Bite Toothpaste Bits are the easiest way to upgrade your oral care routine. Right now, subscribers get a FREE Whitening Gel ($24 value).",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ad4c7831-ee1a-4d2e-bdce-d7fe20f0678f/1021443703870323.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Bamboo Toothbrush",
+      "launch": "2026-06-18",
+      "days": 56,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "BRUSH",
+      "angle": "Sustainability through modular and replaceable product components",
+      "copy": "Science-backed formulas. Zero plastic. A routine upgrade that's actually good — for you and the planet. Try Bite today! • 22,000+ five-star reviews • Free shipping on orders over $32 • 30-day money-back guarantee",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ad4c7831-ee1a-4d2e-bdce-d7fe20f0678f/1377744614274983.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Floss",
+      "launch": "2026-07-03",
+      "days": 41,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "Bite",
+      "angle": "Complete plastic-free oral care ecosystem",
+      "copy": "Science-backed formulas. Zero plastic. A routine upgrade that's actually good — for you and the planet. Try Bite today! • 22,000+ five-star reviews • Free shipping on orders over $32 • 30-day money-back guarantee",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ad4c7831-ee1a-4d2e-bdce-d7fe20f0678f/1727402315170972.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Your Whitening Gel, on us",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Stable at #4 over 12d. Biggest jump: #6 → #4 on Aug 12 (+2). Biggest drop: #4 → #6 on Aug 8 (-2).",
+      "hook": "Whitening that's safe for sensitive teeth.",
+      "angle": "Safety for sensitive teeth as the primary hook",
+      "copy": "Clean ingredients. Visibly whiter teeth. Zero waste. The Bite Toothpaste Bits are the easiest way to upgrade your oral care routine. Right now, subscribers get a FREE Whitening Gel ($24 value).",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ad4c7831-ee1a-4d2e-bdce-d7fe20f0678f/1327203199606247.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Your Whitening Gel, on us",
+      "launch": "2026-07-31",
+      "days": 13,
+      "trend": "Improved from #8 to #5 in 4d. Biggest jump: #8 → #5 on Aug 12 (+3).",
+      "hook": "$200 for dentist whitening?",
+      "angle": "Extreme cost savings compared to professional dental procedures",
+      "copy": "Clean ingredients. Visibly whiter teeth. Zero waste. The Bite Toothpaste Bits are the easiest way to upgrade your oral care routine. Right now, subscribers get a FREE Whitening Gel ($24 value).",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ad4c7831-ee1a-4d2e-bdce-d7fe20f0678f/a40ae92cf04502dbf2d0d75ceaa90bdd5f686652c8191d9df6e8fa9592a6d8d2.jpg"
+    }
+  ]
+}

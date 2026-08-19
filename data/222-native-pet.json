@@ -1,0 +1,67 @@
+{
+  "name": "Native Pet",
+  "category": "Pet Supplies",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4a95ecff-60a5-4012-8810-66f3ecea2b94/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Buy 1, Get 1 Free",
+      "launch": "2026-07-14",
+      "days": 36,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "This is what 2 weeks did for my 8 year old golden retriever (it's buy one get one free right now)",
+      "angle": "",
+      "copy": "Buy 1, Get 1 FREE on your choice of Native Pet's Bestsellers, + get a FREE Probiotic! Vet-formulated, whole-food formulas designed to support digestion, joints, skin, immunity, and vitality. For a limited…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4a95ecff-60a5-4012-8810-66f3ecea2b94/1011631804692697.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Buy 1, Get 1 Free",
+      "launch": "2026-07-14",
+      "days": 36,
+      "trend": "Improved from #5 to #3 in 14d. Biggest jump: #5 → #3 on Aug 7 (+2).",
+      "hook": "Pack my four year old son's lunch with me.",
+      "angle": "Bait-and-switch storytelling (referring to a dog as a child)",
+      "copy": "Buy 1, Get 1 FREE on your choice of Native Pet's Bestsellers, + get a FREE Probiotic! Vet-formulated, whole-food formulas designed to support digestion, joints, skin, immunity, and vitality. For a limited…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4a95ecff-60a5-4012-8810-66f3ecea2b94/1552276206605238.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Buy 1, Get 1 Free",
+      "launch": "2026-07-14",
+      "days": 36,
+      "trend": "Improved from #7 to #5 in 14d. Biggest jump: #7 → #5 on Aug 7 (+2).",
+      "hook": "BIRTHDAY SALE",
+      "angle": "",
+      "copy": "It's our birthday and your dog gets the gift! Buy 1, get 1 FREE on your choice of Native Pet's Bestsellers, + get a FREE Probiotic! Vet-formulated, whole-food formulas designed to support digestion…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4a95ecff-60a5-4012-8810-66f3ecea2b94/1039255152036936.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Buy 1, Get 1 Free",
+      "launch": "2026-07-18",
+      "days": 32,
+      "trend": "Improved from #8 to #6 in 14d. Biggest jump: #8 → #6 on Aug 7 (+2).",
+      "hook": "BIRTHDAY SALE",
+      "angle": "High-value promotional offer (Buy One Get One Free) for customer acquisition",
+      "copy": "It's our birthday and your dog gets the gift! Buy 1, get 1 FREE on your choice of Native Pet's Bestsellers, + get a FREE Probiotic! Vet-formulated, whole-food formulas designed to support digestion…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4a95ecff-60a5-4012-8810-66f3ecea2b94/1313749733862393.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Buy 1, Get 1 Free",
+      "launch": "2026-07-14",
+      "days": 36,
+      "trend": "Improved from #10 to #7 in 14d. Biggest jump: #10 → #8 on Aug 7 (+2).",
+      "hook": "buy one get one free",
+      "angle": "",
+      "copy": "Buy 1, Get 1 FREE on your choice of Native Pet's Bestsellers, + get a FREE Probiotic! Vet-formulated, whole-food formulas designed to support digestion, joints, skin, immunity, and vitality. For a limited…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4a95ecff-60a5-4012-8810-66f3ecea2b94/37326803363584678.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Milk Makeup",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/492401648_976825214665585_7834067398543179670_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=110&ccb=1-7&_nc_sid=418b77&_nc_ohc=eu-XZY7dBisQ7kNvwFl95gl&_nc_oc=Adqpv-Pxmw19QiPwQboh2Y1n_9ch6bFRdFm7JVvkdjnBUQB30jrTzbpI3znTf94D-iM&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=Sz4dcFJ6Kn4OZuzt82F9KA&_nc_ss=7b289&oh=00_AQFN-S_9wT3be66tAbqAds7JS7uE1jOvIYp9cA1sMVG0Ng&oe=6A82C5CA",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Plus qu'une simple teinte.",
+      "launch": "2026-08-05",
+      "days": 14,
+      "trend": "Improved from #47 to #1 in 12d. Biggest jump: #47 → #23 on Aug 8 (+24).",
+      "hook": "What was your last 12 hours?",
+      "angle": "Behind-the-scenes brand transparency",
+      "copy": "Couvrance moyenne. Jusqu'à 12 heures de tenue. Hydro Grip Skin Tint fait toute la différence. Découvrez-le dès maintenant chez Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f29786e-944e-4996-aad3-44d9b8528474/1443776410923134.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Couvrance moyenne. Jusqu'à 12 heures de tenue. Hydro Grip Sk",
+      "launch": "2026-08-06",
+      "days": 13,
+      "trend": "Improved from #30 to #2 in 12d. Biggest jump: #31 → #22 on Aug 10 (+9).",
+      "hook": "What was your last 12 hours?",
+      "angle": "Behind-the-scenes brand transparency",
+      "copy": "Couvrance moyenne. Jusqu'à 12 heures de tenue. Hydro Grip Skin Tint fait toute la différence. Découvrez-le dès maintenant chez Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f29786e-944e-4996-aad3-44d9b8528474/1800927677738139.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "12HR Skin Tint",
+      "launch": "2026-06-24",
+      "days": 56,
+      "trend": "Improved from #5 to #3 in 12d. Biggest jump: #7 → #2 on Aug 14 (+5). Biggest drop: #5 → #7 on Aug 8 (-2). Peak: #2 on Aug 14.",
+      "hook": "HYDRO GRIP 12-HOUR GEL TINT",
+      "angle": "Leveraging 'Hydro Grip' brand authority for product expansion",
+      "copy": "Looks like your skin on its best day. Our clean + non-comedogenic formula lasts up to 12HRS—no creasing, caking, or fading.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f29786e-944e-4996-aad3-44d9b8528474/985093791026776.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "12HR Skin Tint",
+      "launch": "2026-06-25",
+      "days": 55,
+      "trend": "Improved from #11 to #4 in 12d. Biggest jump: #9 → #5 on Aug 14 (+4). Biggest drop: #5 → #7 on Aug 16 (-2).",
+      "hook": "HYDRO GRIP 12-HOUR GEL TINT",
+      "angle": "12-hour long-wear performance",
+      "copy": "Looks like your skin on its best day. Our clean + non-comedogenic formula lasts up to 12HRS—no creasing, caking, or fading.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f29786e-944e-4996-aad3-44d9b8528474/866177009868657.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Milk Makeup Holographic Stick Mars 0.25 oz/ 7.1 g",
+      "launch": "2026-06-20",
+      "days": 60,
+      "trend": "Improved from #9 to #5 in 4d. Biggest jump: #9 → #5 on Aug 18 (+4).",
+      "hook": "KUSH FIBER BROW GEL",
+      "angle": "Positioning as a Sephora-approved 'Clean' beauty product",
+      "copy": "Clean at Sephora. 100% Vegan. Cruelty-free. And it WORKS. Consider this your sign to try Milk Makeup asap.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f29786e-944e-4996-aad3-44d9b8528474/923952480704885.jpg"
+    }
+  ]
+}

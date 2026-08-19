@@ -1,0 +1,67 @@
+{
+  "name": "Supergoop",
+  "category": "Health/beauty",
+  "logo": "https://scontent.flas1-2.fna.fbcdn.net/v/t39.30808-1/269937557_10158669122971134_3892766326290296338_n.png?stp=dst-png_s148x148&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=YQ7cl6HVhhMQ7kNvwGz9Yq5&_nc_oc=AdppOXh9Bezo7wQo981xhQzI5_qROtPR6Ydt8mTDMa952aMJoQwFNkaRM0JSJjODhec&_nc_zt=24&_nc_ht=scontent.flas1-2.fna&_nc_gid=A_kjQsaZqDMYAqInrvxi7Q&_nc_ss=7b289&oh=00_AQEKw_ziGny-8CWNjhDUtBPriBY34b0XR1-1pLOq5ZzNmQ&oe=6A83C290",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "FIND YOUR NEW FAVORITE SUNSCREEN",
+      "launch": "2026-08-09",
+      "days": 4,
+      "trend": "Improved from #2 to #1 in 2d.",
+      "hook": "FIND YOUR NEW FAVORITE SUNSCREEN",
+      "angle": "Product discovery and trial kit for new customers",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19b5dd9b-cc17-416a-9594-59295832e14e/910ecc225e47b55f81129f19060edf678c9c328a812a705c5bfc7bd2d9e9bc4e.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Supergoop! Glowscreen UGC",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #3 to #2 in 4d. Biggest jump: #3 → #1 on Aug 11 (+2). Peak: #1 on Aug 11.",
+      "hook": "Okay, I know this might look crazy to some people, but I genuinely want to look like a glazed donut.",
+      "angle": "Achieving the 'Glazed Donut' skin trend",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/19b5dd9b-cc17-416a-9594-59295832e14e/1050498650787196.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "IT'S A BIG DEAL",
+      "launch": "2026-08-09",
+      "days": 4,
+      "trend": "Improved from #5 to #3 in 2d. Biggest jump: #5 → #3 on Aug 13 (+2).",
+      "hook": "IT'S A BIG DEAL",
+      "angle": "Value and savings through a larger 'jumbo' size",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19b5dd9b-cc17-416a-9594-59295832e14e/03f4fb3da6b2048ace48ccd7cfa7876ddfd0e4c03ccd3ccd57cc5493ef187499.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Unseen Sunscreen SPF 50",
+      "launch": "2026-08-12",
+      "days": 1,
+      "trend": "Ranked #4 on Aug 13.",
+      "hook": "Obsessed with Unseen Sunscreen SPF 50?",
+      "angle": "",
+      "copy": "Obsessed with Unseen Sunscreen SPF 50? Upgrade to a jumbo to keep your invisible sun protection going and save on your favorite.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19b5dd9b-cc17-416a-9594-59295832e14e/f41f9e0a60fd88a1fcb89d599624b31daf642da9b3dcbb04348b9ea40ce31829.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Your Soft Summer Glow",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Improved from #6 to #5 in 2d.",
+      "hook": "Okay, I know this might look crazy to some people, but I genuinely want to look like a glazed donut.",
+      "angle": "Achieving the viral 'glazed donut' skin trend",
+      "copy": "The tinted mineral drops that blur, protect and leave skin looking effortlessly radiant. Shop Mineral Glowscreen Soft-Radiance Drops SPF 40.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19b5dd9b-cc17-416a-9594-59295832e14e/621456f164f6bc9a450ab68a730dc96a15e6289e808549c0ad950704f9b23f60.mp4"
+    }
+  ]
+}

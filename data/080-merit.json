@@ -1,0 +1,67 @@
+{
+  "name": "Merit",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/55addbeb-69c1-486a-aedd-e5665b0187d7/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Wear The Uniform by MERIT",
+      "launch": "2026-04-15",
+      "days": 120,
+      "trend": "Improved from #2 to #1 in 14d.",
+      "hook": "SPF that doubles as a blur filter",
+      "angle": "Multi-functional beauty: combining high-level SPF protection with cosmetic blurring benefits",
+      "copy": "The Uniform delivers sheer, skin-evening coverage and SPF 45 protection with a velvet, soft-focus finish. Lightweight, oil-free, and designed to be the easiest part of your day. Available at Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/55addbeb-69c1-486a-aedd-e5665b0187d7/02aba574c9d9152fb523172b6aad4be1407430a4198d822cca12e6cfc954b083.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "MERIT Tinted Mineral Sunscreen at Sephora",
+      "launch": "2026-05-09",
+      "days": 96,
+      "trend": "Improved from #4 to #2 in 14d. Biggest jump: #4 → #2 on Aug 1 (+2).",
+      "hook": "SPF that doubles as a blur filter",
+      "angle": "Multi-tasking efficiency: combining high-level SPF with a cosmetic skin-blurring effect",
+      "copy": "The Uniform delivers sheer, skin-evening coverage and SPF 45 protection with a velvet, soft-focus finish. Lightweight, oil-free, and designed to be the easiest part of your day. Available at Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/55addbeb-69c1-486a-aedd-e5665b0187d7/48269adf12b4d66d54a6bc0124f1865468baefdbef63f36d78aec14fb3a2448a.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "NEW - MERIT Clean Volume Mascara",
+      "launch": "2026-06-29",
+      "days": 45,
+      "trend": "Improved from #15 to #3 in 14d. Biggest jump: #9 → #5 on Aug 9 (+4).",
+      "hook": "SMALL BRUSH. BIG IMPACT.",
+      "angle": "Extreme before-and-after photographic proof of performance",
+      "copy": "A volumizing tubing mascara that gives 16 hours of precise, buildable volume, length and lift — no clumps, flakes or smudges. Now available at Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/55addbeb-69c1-486a-aedd-e5665b0187d7/8442e8c5a121884359639fbae286e714e07cb4975b9697d52e589e65a7383d7e.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Wear The Uniform by MERIT",
+      "launch": "2026-04-15",
+      "days": 120,
+      "trend": "Improved from #10 to #4 in 14d. Biggest jump: #7 → #3 on Aug 9 (+4). Peak: #3 on Aug 9.",
+      "hook": "Sunscreen so perfect, it becomes a daily habit",
+      "angle": "Reframing sunscreen as a seamless, desirable daily habit",
+      "copy": "The Uniform delivers sheer, skin-evening coverage and SPF 45 protection with a velvet, soft-focus finish. Lightweight, oil-free, and designed to be the easiest part of your day. Available at Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/55addbeb-69c1-486a-aedd-e5665b0187d7/d6be9aaaddc12593df2ae0cec37a294c5fd12f191450996d932d21be53ec33a5.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Get this bag for FREE.",
+      "launch": "2026-02-17",
+      "days": 177,
+      "trend": "Improved from #11 to #5 in 14d. Biggest jump: #8 → #4 on Aug 9 (+4). Peak: #4 on Aug 9.",
+      "hook": "Free Signature Bag",
+      "angle": "Incentivizing first-time conversion with a high-perceived-value gift",
+      "copy": "Score the chicest bag you’ve ever laid eyes on — for free. The Signature Bag is complimentary with your first MERIT purchase. Exclusively available on our website.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/55addbeb-69c1-486a-aedd-e5665b0187d7/b21003d3b108fec78bab0ac2b9037855d05ff83f2ffdd422a8c7ce16377a0152.jpg"
+    }
+  ]
+}

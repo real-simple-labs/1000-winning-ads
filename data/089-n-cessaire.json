@@ -1,0 +1,67 @@
+{
+  "name": "Nécessaire",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/86949856-f278-4373-b300-b5084de00ed3/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "The Body Serum | 0.5% Hyaluronic Acid",
+      "launch": "2026-03-26",
+      "days": 140,
+      "trend": "Stable at #1 over 10d.",
+      "hook": "Nécessaire — The Body Serum — The Body Retinol",
+      "angle": "Minimalist luxury and 'clean girl' aesthetic",
+      "copy": "Advanced Facial-Grade Ingredients. Now For The Body. Nécessaire's daily essentials are formulated with signature scents + actives for the Best in Body Care.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/86949856-f278-4373-b300-b5084de00ed3/1238557851593205.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Sink Essentials | Cyprès-Citronné",
+      "launch": "2026-07-13",
+      "days": 31,
+      "trend": "Improved from #4 to #2 in 10d. Biggest jump: #4 → #2 on Aug 5 (+2).",
+      "hook": "Softer Hands Start At The Sink.",
+      "angle": "Positioning hand wash as the essential first step in a skincare routine",
+      "copy": "New. The Hand Wash + The Hand Lotion. Now in our most-loved citrus scent. Upgrade your sink to Cyprès-Citronné.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/86949856-f278-4373-b300-b5084de00ed3/1331249139222777.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Santal Body Care",
+      "launch": "2026-04-23",
+      "days": 112,
+      "trend": "Stable at #3 over 10d.",
+      "hook": "Extreme close-up of a hand rubbing a glistening, wet leg with the brand name 'Nécessaire' appearing in the center.",
+      "angle": "Sensory Luxury: Using high-end visuals and sound to position body care as a sensual experience.",
+      "copy": "Facial-grade formulas, optimized for body skin. Reinvent your everyday ritual with our most sensual and comforting scent, Santal.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/86949856-f278-4373-b300-b5084de00ed3/1274172654803082.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "$10 Off First Order.",
+      "launch": "2026-02-09",
+      "days": 185,
+      "trend": "Dropped from #2 to #4 in 10d. Peak: #2 on Aug 1.",
+      "hook": "BODY TREATMENT COLLECTION",
+      "angle": "The 'Skinfication' of body care: using face-grade actives for the whole body",
+      "copy": "Four treatments. Four solutions. Better skin from the neck down.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/86949856-f278-4373-b300-b5084de00ed3/901891672777457.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Sink Essentials | Cyprès-Citronné",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #27 to #5 in 10d. Biggest jump: #27 → #5 on Aug 3 (+22).",
+      "hook": "Softer Hands Start At The Sink.",
+      "angle": "Reframing hand washing as a foundational skincare step",
+      "copy": "New. The Hand Wash + The Hand Lotion. Now in our most-loved citrus scent. Upgrade your sink to Cyprès-Citronné.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/86949856-f278-4373-b300-b5084de00ed3/2393032187766914.jpg"
+    }
+  ]
+}

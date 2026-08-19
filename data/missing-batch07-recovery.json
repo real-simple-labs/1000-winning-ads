@@ -1,0 +1,8 @@
+{
+  "missing": [
+    {"name": "Dior", "reason": "Not in Parker's database (no match in search_brand_by_name); luxury house genuinely absent as anticipated."},
+    {"name": "Act+Acre", "reason": "Not in Parker's database (no match in search_brand_by_name)."},
+    {"name": "Bread Beauty Supply", "reason": "Not in Parker's database (no match in search_brand_by_name)."},
+    {"name": "Perfect Snacks", "reason": "Not in Parker's database (no match in search_brand_by_name)."}
+  ]
+}

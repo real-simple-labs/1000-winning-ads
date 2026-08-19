@@ -1,0 +1,67 @@
+{
+  "name": "Our Place",
+  "category": "Kitchen/cooking",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/d5686c02-5457-422c-b8b7-076a9aef919c/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Non-Toxic Cookware from Our Place",
+      "launch": "2026-06-09",
+      "days": 71,
+      "trend": "Improved from #15 to #1 in 12d. Biggest jump: #10 → #2 on Aug 11 (+8).",
+      "hook": "Our Place",
+      "angle": "Aesthetic kitchen organization and home styling",
+      "copy": "Your classic cookware set, but actually good. Meet the Essentials Collection. ✅Non-toxic, high-performance Thermakind® nonstick coating ✅Ultra-organized storage design ✅All-new aesthetic from the brand...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d5686c02-5457-422c-b8b7-076a9aef919c/5a4de3a07a03dbf5bb86e39ccd865dd621ac158377c08428e0ffe9acde1cbcf6.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Non-Toxic Cookware from Our Place",
+      "launch": "2026-07-30",
+      "days": 20,
+      "trend": "Improved from #17 to #2 in 12d. Biggest jump: #13 → #4 on Aug 11 (+9).",
+      "hook": "Our Place",
+      "angle": "Aesthetic kitchen organization and 'home decor' positioning",
+      "copy": "Your classic cookware set, but actually good. Meet the Essentials Collection. ✅Non-toxic, high-performance Thermakind® nonstick coating ✅Ultra-organized storage design ✅All-new aesthetic from the brand...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d5686c02-5457-422c-b8b7-076a9aef919c/8588bf5ee6fc6fe12d01cb2fa3fd3feeedca57c5bbd82df16353129de1f69b2e.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "NEW! Wonder Oven PRO",
+      "launch": "2026-02-20",
+      "days": 180,
+      "trend": "Dropped from #1 to #3 in 12d. Biggest drop: #1 → #3 on Aug 15 (-2). Peak: #1 on Aug 5.",
+      "hook": "The iconic Wonder Oven has gone pro.",
+      "angle": "Upgrading a beloved product ('Pro' version)",
+      "copy": "This is not your average air fryer. ✅8-in-1 air fryer, now with 2 extra functions (proof and dehydrate) ✅Precise digital controls, faster preheat times, non-toxic interiors ✅The original Wonder Oven...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d5686c02-5457-422c-b8b7-076a9aef919c/544095536920a8abaf562aebbad719357228d95c943a5b044be666f1294555c2.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Welcome to Our Place",
+      "launch": "2026-06-30",
+      "days": 50,
+      "trend": "Improved from #8 to #5 in 12d. Biggest jump: #8 → #6 on Aug 11 (+2).",
+      "hook": "Our Place",
+      "angle": "Aesthetic as a lifestyle: positioning the cookware as a piece of home decor",
+      "copy": "Our Place is the best place for cookware, appliances, dinnerware, and kitchen tools designed to make home cooking easier. 🌍 Made without Forever Chemicals ⭐Over 80,000+ five-star reviews ☑️ 100 day trial",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d5686c02-5457-422c-b8b7-076a9aef919c/4553bb792a675b76a7318f84d820771872e6ac61f62872cb72d58769b2191633.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "My wok is back in stock! This has been a dream collab with",
+      "launch": "2026-07-17",
+      "days": 33,
+      "trend": "Improved from #7 to #6 in 12d.",
+      "hook": "Everybody, it's Kenji. Um, so in January when Our Place and I, um, released my wok...",
+      "angle": "Restock Alert / Scarcity: Highlighting that the product previously sold out quickly due to high demand.",
+      "copy": "My wok is back in stock! This has been a dream collab with @ourplace to design the most functional and beautiful wok I’ve ever used. Carbon steel for supreme responsiveness. Flat bottom to work on any...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/d5686c02-5457-422c-b8b7-076a9aef919c/dc5eac2df04f689f1fcbd96eeb085c0c56cc9d75d950a27b5a5b2f77aa79b5ff.mp4"
+    }
+  ]
+}

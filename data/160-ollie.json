@@ -1,0 +1,67 @@
+{
+  "name": "Ollie",
+  "category": "Pet Supplies",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9eb82ebe-f990-4e15-b335-f7ae2ce8b7b6/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Get 50% OFF Your First Box!",
+      "launch": "2026-06-01",
+      "days": 73,
+      "trend": "Stable at #1 over 13d.",
+      "hook": "My dog is definitely my son.",
+      "angle": "Aesthetic and organized lifestyle integration",
+      "copy": "FETCH 50% OFF + FREE WELCOME KIT 🧡 Ollie creates fresh meals with a simple mission: your dog's wellness. 🐾 Custom meal plans for your pup 🥕 100% fresh, human-grade ingredients 🩺 Formulated with vet nutritionists…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9eb82ebe-f990-4e15-b335-f7ae2ce8b7b6/4573263319664179.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Feed The Obsession",
+      "launch": "2026-04-02",
+      "days": 133,
+      "trend": "Improved from #3 to #2 in 13d. Biggest jump: #4 → #2 on Aug 13 (+2).",
+      "hook": "Close-up of tiny dog clothes on hangers labeled 'BILLY WILLY' in a closet.",
+      "angle": "Validating the 'obsessed' pet parent lifestyle",
+      "copy": "If your bed space depends on where your dog is sleeping, you're obsessed. 🛏️ And honestly? We love that! 💜 Ollie is here to make sure the way you feed them matches that energy. Fresh food. Real ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9eb82ebe-f990-4e15-b335-f7ae2ce8b7b6/929526959576268.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Nourish Your Dog with Ollie",
+      "launch": "2026-04-13",
+      "days": 122,
+      "trend": "Improved from #6 to #3 in 13d. Biggest jump: #6 → #4 on Aug 6 (+2).",
+      "hook": "Close-up of wooden hangers with 'BILLY WILLY' labels in a closet.",
+      "angle": "The 'Obsessed Dog Parent' angle: Validating and celebrating owners who treat their dogs like children.",
+      "copy": "If 90% of your camera roll is your dog, we respect the dedication. 🤳 🐕 That's not extra. That's love. 💜 Ollie is here to make sure their meals get that same level of attention. Fresh food. Real ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9eb82ebe-f990-4e15-b335-f7ae2ce8b7b6/1620948355795056.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Feed The Obsession",
+      "launch": "2026-06-01",
+      "days": 73,
+      "trend": "Improved from #5 to #4 in 13d. Biggest jump: #6 → #4 on Aug 9 (+2).",
+      "hook": "At Ollie, we know you're obsessed with them.",
+      "angle": "The 'Pet Parent' Angle: Validating the deep emotional bond and 'obsession' owners have with their dogs.",
+      "copy": "If your bed space depends on where your dog is sleeping, you're obsessed. 🛏️ And honestly? We love that! 💜 Ollie is here to make sure the way you feed them matches that energy. Fresh food. Real ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9eb82ebe-f990-4e15-b335-f7ae2ce8b7b6/1599968484578775.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Feed The Obsession",
+      "launch": "2026-06-01",
+      "days": 73,
+      "trend": "Improved from #7 to #5 in 13d. Biggest jump: #8 → #5 on Aug 13 (+3).",
+      "hook": "At Ollie, we know you're obsessed with him...",
+      "angle": "Humorous 'dog over partner' priority for pet owners",
+      "copy": "If your bed space depends on where your dog is sleeping, you're obsessed. 🛏️ And honestly? We love that! 💜 Ollie is here to make sure the way you feed them matches that energy. Fresh food. Real ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9eb82ebe-f990-4e15-b335-f7ae2ce8b7b6/1495092578864597.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Paula's Choice",
+  "category": "Skin Care Service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c87fc08-cdb4-4542-9829-d93f68236608/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Odkryj swój naturalny blask",
+      "launch": "2026-03-06",
+      "days": 166,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "Już od 49 zł",
+      "angle": "Low-cost entry point for a premium skincare brand",
+      "copy": "Zabierz ze sobą nasz kultowy 2% BHA i odkryj, jak czysta i promienna może być Twoja skóra – gdziekolwiek jesteś.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/9c87fc08-cdb4-4542-9829-d93f68236608/f73084f124b62ae0c0cba83ff9feb713520457e97596633cd1595e37e9193767.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Framhäv din inre lyster",
+      "launch": "2026-03-06",
+      "days": 166,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "Endast 149 kr",
+      "angle": "Low-cost entry point for a premium skincare brand",
+      "copy": "Se till att ha glow var du än är med 2% BHA, vår bästsäljande ikon ✨ Upplev de tydliga och strålande resultaten själv!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/9c87fc08-cdb4-4542-9829-d93f68236608/8e710b6dc25abf43be860b94c0ffe67561a10da62433f299c5dfaceba9557100.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Kultowa pielęgnacja 🖤",
+      "launch": "2026-04-13",
+      "days": 128,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "Już od 49 zł",
+      "angle": "Low-cost entry point for a premium skincare brand",
+      "copy": "Odblokuj pory i zredukuj niedoskonałości z z naszym bestsellerowym 2% BHA – numer 1 wśród produktów do złuszczania.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/9c87fc08-cdb4-4542-9829-d93f68236608/cd629df9eef0a7066ebcfb4b90990b65ebceb7f69d469ee0fba793710ec92f54.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Ora a 12€ + Spedizione gratis",
+      "launch": "2026-06-04",
+      "days": 76,
+      "trend": "Improved from #7 to #4 in 14d. Biggest jump: #7 → #5 on Aug 11 (+2).",
+      "hook": "La mia pelle prima",
+      "angle": "Three-day skincare transformation journey",
+      "copy": "Il nostro iconico esfoliante 2% BHA libera i pori in profondità, riduce le imperfezioni e illumina la pelle.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/9c87fc08-cdb4-4542-9829-d93f68236608/683a78044337094bb9aaddae8e4d4ee64ba3ceeaf0f6596e31733788ed60bf62.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Meet the peptide collection",
+      "launch": "2026-08-03",
+      "days": 16,
+      "trend": "Improved from #167 to #6 in 12d. Biggest jump: #167 → #54 on Aug 9 (+113).",
+      "hook": "WHY IS EVERYONE TALKING ABOUT PEPTIDES?",
+      "angle": "Ingredient education (Peptides) to capture interest in trending skincare science",
+      "copy": "Tired skin? Dull complexion? Fine lines? We've got you! Explore our peptide collection.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/9c87fc08-cdb4-4542-9829-d93f68236608/01858ac4936bb0f241f75aa565ff6236a8a633a1cd3c93f73a14675c8a7e94d9.mp4"
+    }
+  ]
+}

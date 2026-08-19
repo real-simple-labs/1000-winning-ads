@@ -1,0 +1,67 @@
+{
+  "name": "Serene Herbs",
+  "category": "Vitamins/supplements",
+  "logo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/457405747_122183142740222638_1337046556892014090_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=ksGSS00BQc4Q7kNvwFPdlHz&_nc_oc=Adpy4sWfg2T5Ztc7GqtwPJBvHOPFkT5QGyY2R9jlZko8dfgB_poNiJfAdT3FCFBMwqM&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=_PsmPSur5FKkqZwTSRODzQ&_nc_ss=7b289&oh=00_AQFNn80KWGLltrAXhq4UNoSafe1pVGfv-jc9vtheo5Dh3w&oe=6A8AA337",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Shop Soursop Bitters Now!",
+      "launch": "2026-06-16",
+      "days": 64,
+      "trend": "Improved from #2 to #1 in 12d.",
+      "hook": "This is what drops off your body when you take two tablespoons of African bitter herbs every morning for two weeks straight.",
+      "angle": "Parasite/organism-based weight gain",
+      "copy": "Unlock Nature's Best with Serene Herbs! 🌱 Discover the secret to vitality with our Soursop Bitter blend. Boost your immunity, rejuvenate your energy, and support your gut health naturally.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e565867e-0035-4ddb-8ae9-89d538532f15/982367358036706.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Shop Soursop Bitters Now!",
+      "launch": "2026-07-02",
+      "days": 48,
+      "trend": "Stable at #2 over 10d.",
+      "hook": "Unlock Nature's Best with Serene Herbs! 🌱",
+      "angle": "",
+      "copy": "Unlock Nature's Best with Serene Herbs! 🌱 Discover the secret to vitality with our Soursop Bitter blend. Boost your immunity, rejuvenate your energy, and support your gut health naturally.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e565867e-0035-4ddb-8ae9-89d538532f15/1931690200877664.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Shop Soursop Bitters Now!",
+      "launch": "2026-07-07",
+      "days": 43,
+      "trend": "Improved from #12 to #3 in 12d. Biggest jump: #11 → #5 on Aug 10 (+6).",
+      "hook": "Your parasite cleanse didn't fail because the ingredients were bad. It failed because it couldn't get through the wall.",
+      "angle": "The 'Biofilm' Secret: Explaining that most cleanses fail because they can't penetrate a physical protective barrier parasites build.",
+      "copy": "Unlock Nature's Best with Serene Herbs! 🌱 Discover the secret to vitality with our Soursop Bitter blend. Boost your immunity, rejuvenate your energy, and support your gut health naturally.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e565867e-0035-4ddb-8ae9-89d538532f15/1740308553774223.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Shop Soursop Bitters Now!",
+      "launch": "2026-06-20",
+      "days": 60,
+      "trend": "Improved from #6 to #4 in 12d. Biggest jump: #6 → #4 on Aug 10 (+2). Peak: #3 on Aug 14.",
+      "hook": "Harsh truth. Over 80% of Americans have parasites laying eggs in their guts.",
+      "angle": "Parasites as the hidden 'unspoken' cause of all gut issues",
+      "copy": "Unlock Nature's Best with Serene Herbs! 🌱 Discover the secret to vitality with our Soursop Bitter blend. Boost your immunity, rejuvenate your energy, and support your gut health naturally.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e565867e-0035-4ddb-8ae9-89d538532f15/1318954919801701.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Shop Soursop Bitters Now!",
+      "launch": "2026-05-17",
+      "days": 94,
+      "trend": "Stable at #5 over 12d. Biggest jump: #5 → #3 on Aug 10 (+2). Peak: #3 on Aug 10.",
+      "hook": "If you walk barefoot over dirt, a hookworm can use its sharp mouth to penetrate your skin and enter your body directly through your feet.",
+      "angle": "Fear-based medical warning (the 'hidden' cause of your symptoms)",
+      "copy": "Unlock Nature's Best with Serene Herbs! 🌱 Discover the secret to vitality with our Soursop Bitter blend. Boost your immunity, rejuvenate your energy, and support your gut health naturally.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e565867e-0035-4ddb-8ae9-89d538532f15/26945079198480657.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Arrae",
+  "category": "Health & wellness website",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e3e0d59c-1f1e-448c-9ea0-79af493eeede/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "The most delicious way to get strong 🍏🍉🍓",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Stable at #1 over 7d.",
+      "hook": "I totally thought I scored when I found a creatine gummy that actually tastes like candy, but then I realized I messed up.",
+      "angle": "The 'Negative Hook' strategy to reveal a variety pack product launch",
+      "copy": "Creatine that tastes like candy?? 🍏🍉🍓 arrae just dropped their Tone creatine gummies in a sour variety pack and now getting strong feels like having a sweet treat",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/e3e0d59c-1f1e-448c-9ea0-79af493eeede/e723893247247e4da8c46c8eee99b2211b6254fbea42c22d69cec0788762e98f.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The Sour Way to Sculpt",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #5 to #2 in 7d. Biggest jump: #5 → #3 on Aug 9 (+2).",
+      "hook": "this & never feeling sk!nny f@t again",
+      "angle": "Improving body composition to avoid the 'skinny fat' look",
+      "copy": "Can't decide on a favorite flavor? Now you don't have to: ✨ All 3 viral sour flavors in one bag (Watermelon, Green Apple, & Mixed Berry) ✨ Sculpt lean muscle definition without the bloat ✨ Convenient, delicious daily dose…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/e3e0d59c-1f1e-448c-9ea0-79af493eeede/a11298af4fab32ec2a19351c578675d622ddca7df2c41caf52168f189a4b3a6c.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Goodbye Post-Meal Bloat, Hello 1 Hour Relief",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #4 to #3 in 7d. Biggest jump: #4 → #2 on Aug 9 (+2). Peak: #2 on Aug 9.",
+      "hook": "Okay, we're going to see if these things really work because I am so uncomfortable right now.",
+      "angle": "Authentic 'skeptical user' product test and review",
+      "copy": "Meet arrae Bloat Gummies: fast-acting digestive gummies in a dreamy, peach lemon flavor. This clinically-studied formula works instantly to reduce visible belly bloat while supporting overall gut health.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/e3e0d59c-1f1e-448c-9ea0-79af493eeede/67ce38edcaf2f012f7d444f8d8d6a5021612b308cb055455ada164623edc1eb0.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Not Just for the Gym Girls",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #6 to #4 in 4d. Biggest jump: #6 → #4 on Aug 11 (+2).",
+      "hook": "Goodbye brain fog. Hello mental clarity",
+      "angle": "",
+      "copy": "Fuel your muscles AND your mind with arrae Tone: Creatine Monohydrate gummies with the gold standard 5g per serving",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/e3e0d59c-1f1e-448c-9ea0-79af493eeede/60122ec95ac03623ddfdec17800b4b9cc0791dd325c45ee24db115c5b7ed05b3.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Grow Your Booty, Without the Bloat",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Stable at #5 over 4d.",
+      "hook": "JUST DROPPED: SOUR WATERMELON CREATINE GUMMIES — Goodbye Creatine Belly, Hello Sculpted Booty",
+      "angle": "",
+      "copy": "Meet arrae Tone Sour Watermelon: creatine body composition gummies – without the bloat or the bulk. ✨ Sculpt lean muscle ✨ Optimize body composition ✨ Boost strength & endurance ✨ Support cognition",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/e3e0d59c-1f1e-448c-9ea0-79af493eeede/838b57f351db32b986bf8a61855065f2526ccdf3b0867defcf2bdad5db501be1.mp4"
+    }
+  ]
+}

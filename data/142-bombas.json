@@ -1,0 +1,67 @@
+{
+  "name": "Bombas",
+  "category": "Apparel & clothing",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/449c6a6e-bb3c-4e4b-b4d9-04d9be952249/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "20% Off Your First Order With COMFORT20",
+      "launch": "2026-03-19",
+      "days": 147,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "If you're new to running or just on your feet all day cheering someone on...",
+      "angle": "Beginner runner support and recovery",
+      "copy": "Bombas Compression Sleeves. Fresh legs, strong finish.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/449c6a6e-bb3c-4e4b-b4d9-04d9be952249/1312664554035039.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Women's Lightweight No Show Sock 12-Pack - White - Small - Cotton Blend - Bombas",
+      "launch": "2026-04-10",
+      "days": 125,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "n/a",
+      "angle": "Highlighting signature honeycomb arch support technology",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/449c6a6e-bb3c-4e4b-b4d9-04d9be952249/976214191591102.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Women's Running Ankle Socks - Charcoal - Medium - Cotton Blend - Bombas",
+      "launch": "2026-04-10",
+      "days": 125,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "BOM",
+      "angle": "Visual demonstration of signature honeycomb arch support technology",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/449c6a6e-bb3c-4e4b-b4d9-04d9be952249/1658938248775503.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "default_collection_headline",
+      "launch": "2026-04-11",
+      "days": 124,
+      "trend": "Stable at #4 over 14d. Biggest jump: #6 → #4 on Aug 11 (+2). Biggest drop: #4 → #6 on Aug 3 (-2).",
+      "hook": "BOM",
+      "angle": "Highlighting signature honeycomb arch support technology",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/449c6a6e-bb3c-4e4b-b4d9-04d9be952249/2419119938549741.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "default_collection_headline",
+      "launch": "2026-04-13",
+      "days": 122,
+      "trend": "Improved from #9 to #5 in 14d. Biggest jump: #10 → #8 on Aug 3 (+2).",
+      "hook": "n/a",
+      "angle": "Highlighting signature honeycomb arch support technology",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/449c6a6e-bb3c-4e4b-b4d9-04d9be952249/929276586578396.jpg"
+    }
+  ]
+}

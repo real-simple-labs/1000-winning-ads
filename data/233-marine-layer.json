@@ -1,0 +1,67 @@
+{
+  "name": "Marine Layer",
+  "category": "Clothing store",
+  "logo": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/352568847_212064444990938_2078546349812213619_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=HXPi0YzIrZIQ7kNvwHl3Fg3&_nc_oc=Adq4Ic_6e7nSe_VeqGehwStFkaTAPmPHKkxtiTCfwuOhrvD_L9OyfiBLblRSAwGH5n4&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=i3_HwzR6yO3OQV8ePaldFA&_nc_ss=7b289&oh=00_AQG5yjJd_-tO4sr2tGd77AOxM6kaEkBe0piQJAY2jRBQrg&oe=6A841FB9",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Men's Sport Jogger | Grey | X-Large By Marine Layer",
+      "launch": "2026-05-08",
+      "days": 98,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "Say hello to your new favorites.",
+      "angle": "Focus on premium fabric quality and tactile heathered texture",
+      "copy": "Say hello to your new favorites.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0216590-7e89-4860-89aa-7a34b6dede1b/1150923507170138.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "E-Gift Card | Multi Color | One Size By Marine Layer",
+      "launch": "2026-05-08",
+      "days": 98,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "Effortlessly comfortable, forever favorites.",
+      "angle": "Leveraging retro aesthetic as a core brand identifier",
+      "copy": "Effortlessly comfortable, forever favorites.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0216590-7e89-4860-89aa-7a34b6dede1b/1464495358697127.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Men's Signature Lined Blanket | Grey | One Size By Marine Layer",
+      "launch": "2026-05-08",
+      "days": 98,
+      "trend": "Improved from #4 to #3 in 14d.",
+      "hook": "Say hello to your new favorites.",
+      "angle": "Highlighting premium fabric texture and construction quality",
+      "copy": "Say hello to your new favorites.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0216590-7e89-4860-89aa-7a34b6dede1b/1651485225976479.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "E-Gift Card | Multi Color | One Size By Marine Layer",
+      "launch": "2026-05-08",
+      "days": 98,
+      "trend": "Improved from #7 to #4 in 14d. Biggest jump: #7 → #4 on Aug 12 (+3).",
+      "hook": "Effortlessly comfortable, forever favorites.",
+      "angle": "Leveraging retro aesthetic as a core brand identifier",
+      "copy": "Effortlessly comfortable, forever favorites.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0216590-7e89-4860-89aa-7a34b6dede1b/1289392216024538.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Better-Than-Linen Collection",
+      "launch": "2026-07-23",
+      "days": 22,
+      "trend": "Improved from #48 to #5 in 14d. Biggest jump: #48 → #26 on Aug 2 (+22).",
+      "hook": "Your new favorite travel uniform",
+      "angle": "The 'Travel Uniform' concept for simplified packing",
+      "copy": "Did someone say elastic waist?? The perfect travel pant - roomy, stretchy, comfy and flattering. I wear them on every flight or long car ride. Comment “PANTS” for details on all outfit items.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0216590-7e89-4860-89aa-7a34b6dede1b/1660746145014696.mp4"
+    }
+  ]
+}

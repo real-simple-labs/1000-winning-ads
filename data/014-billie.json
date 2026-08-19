@@ -1,0 +1,67 @@
+{
+  "name": "Billie",
+  "category": "Health/beauty",
+  "logo": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/355849805_662591609242685_389396877036643528_n.png?stp=dst-png_s148x148&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=FxK2OSM546YQ7kNvwE-CwCf&_nc_oc=Adq1orh1Ng9c33ykpyOpQxvTS9EG60MqnLNjHT_rDQb9VJX_KTV4VB_lUstp11uFmTg&_nc_zt=24&_nc_ht=scontent-hou1-1.xx&_nc_gid=ICU3AEU9P6yxMejsPSn3EQ&_nc_ss=7b289&oh=00_AQH7S-f2a_k0tmiqNNEprLLT8ioOqlyDSrKhWXfR_RhPPQ&oe=6A83C7EC",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "FREE Travel Case Included",
+      "launch": "2026-04-16",
+      "days": 119,
+      "trend": "Improved from #5 to #1 in 11d. Biggest jump: #5 → #2 on Aug 6 (+3).",
+      "hook": "FREE TRAVEL CASE ALERT",
+      "angle": "Incentivizing purchase through a free gift-with-purchase (travel case)",
+      "copy": "Get the award-winning Razor and get a FREE Sparkle Travel Case. 💝📦 Hurry, it's only while supplies last.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f326b8f-b5ec-4997-9130-8460f4b9547b/1401967838342152.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "FREE Travel Case Included",
+      "launch": "2026-05-05",
+      "days": 100,
+      "trend": "Improved from #9 to #2 in 11d. Biggest jump: #8 → #3 on Aug 6 (+5).",
+      "hook": "FREE TRAVEL CASE ALERT",
+      "angle": "Gift with purchase incentive (Free Travel Case)",
+      "copy": "Get the award-winning Razor and get a FREE Sparkle Travel Case. 💝📦 Hurry, it's only while supplies last.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f326b8f-b5ec-4997-9130-8460f4b9547b/1004773368554545.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Your New Fave Razor",
+      "launch": "2026-06-16",
+      "days": 58,
+      "trend": "Improved from #5 to #3 in 7d.",
+      "hook": "LET'S BREAK IT DOWN...",
+      "angle": "Logical breakdown of product mechanics (5 blades = efficiency)",
+      "copy": "We designed our razors with womankind in mind 💕Relentlessly tested to check every box for the smoothest shave ever.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f326b8f-b5ec-4997-9130-8460f4b9547b/915474097696355.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Billie | The Award-Winning Razor",
+      "launch": "2026-04-10",
+      "days": 125,
+      "trend": "Improved from #8 to #4 in 11d. Biggest jump: #9 → #4 on Aug 6 (+5). Peak: #3 on Aug 9.",
+      "hook": "New Sparkle",
+      "angle": "Product novelty and aesthetic 'sparkle' as a key differentiator",
+      "copy": "🆕✨🆕✨🆕✨🆕✨🆕✨🆕✨🆕✨🆕✨🆕",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f326b8f-b5ec-4997-9130-8460f4b9547b/951586260925688.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Your New Fave Razor",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #52 to #5 in 7d. Biggest jump: #52 → #6 on Aug 9 (+46).",
+      "hook": "In Billie Labs, we see the fan-favorite razor get put to the test",
+      "angle": "Positioning the product through a playful, fictionalized 'laboratory' setting",
+      "copy": "We designed our razors with womankind in mind 💕Relentlessly tested to check every box for the smoothest shave ever.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2f326b8f-b5ec-4997-9130-8460f4b9547b/987144030893981.jpg"
+    }
+  ]
+}

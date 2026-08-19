@@ -1,0 +1,67 @@
+{
+  "name": "Carpe",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/137afa4e-75af-4144-aa6b-e7076753bd09/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Don't sweat it - Carpe's got you covered! 🚫💦",
+      "launch": "2026-03-23",
+      "days": 149,
+      "trend": "Stable at #1 over 13d.",
+      "hook": "Do NOT buy this on Amazon.",
+      "angle": "Price comparison/Discount (56% off vs Amazon prices)",
+      "copy": "🗑️ Ditch your drugstore deodorants today! 🗑️ Sick of deodorants that promise the world but leave you sweating? It's time for a change with Carpe! Stop wasting money on products that don't work...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/137afa4e-75af-4144-aa6b-e7076753bd09/fa919a908acae5ec855f7a23b6ff26c6281afa3c60dc22f08a773457ceb4d19a.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Derm-Approved Face Towels, FREE With up to 67% OFF",
+      "launch": "2026-03-03",
+      "days": 169,
+      "trend": "Stable at #2 over 13d.",
+      "hook": "UP TO 67% OFF",
+      "angle": "Deep discount pricing to incentivize first-time trial",
+      "copy": "Sweat less, save more 💦 Up to 67% OFF w/ free Clean Skin Club face towels!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/137afa4e-75af-4144-aa6b-e7076753bd09/16760b4242ffc327525ec99dd2284a67b7b755ab0de17db8b8ad52a74cf8c310.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Don't sweat it - Carpe's got you covered! 🚫💦",
+      "launch": "2026-03-03",
+      "days": 169,
+      "trend": "Stable at #4 over 13d.",
+      "hook": "Y'all bout to get this for free. Terry we cannot afford that, please do not do that.",
+      "angle": "Gamified discount (spins = percentage off)",
+      "copy": "🗑️ Ditch your drugstore deodorants today! 🗑️ Sick of deodorants that promise the world but leave you sweating? It's time for a change with Carpe! Stop wasting money on products that don't work...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/137afa4e-75af-4144-aa6b-e7076753bd09/03d14d4adb984dcafe49d4e868a8b4bc90737fa853bd49fc6fc4dc55e933f674.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Save up to 56% with 4 free gifts! Try Carpe completely risk-free today!",
+      "launch": "2026-03-03",
+      "days": 169,
+      "trend": "Stable at #5 over 13d.",
+      "hook": "Every time I've worn sandalwood, a girl says, 'Holy ****, you smell really good.'",
+      "angle": "Attraction: The scent is so good that women notice and compliment it.",
+      "copy": "🗑️ Ditch your drugstore deodorants today! 🗑️ Sick of deodorants that promise the world but leave you sweating? It's time for a change with Carpe! Stop wasting money on products that don't work...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/137afa4e-75af-4144-aa6b-e7076753bd09/6812643fd541efd1cfe4846ca1d95304feb939fc05ff47d75762d4efa25850b0.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "100 hours of sweat control, one free pack of Neuro Gum",
+      "launch": "2026-05-01",
+      "days": 110,
+      "trend": "Improved from #8 to #6 in 13d. Biggest jump: #8 → #6 on Aug 11 (+2).",
+      "hook": "Do not buy this crap on Amazon. You're gonna pay too much for it.",
+      "angle": "Price comparison: Highlighting the high cost of buying single items on Amazon vs. the bundle deal.",
+      "copy": "Our Premium Scents are Selling FAST 🏃‍♂️🔥 And there's never been a better time to see if Carpe is right for you: ✅ FREE & FAST Worldwide Shipping ✅ 100% money-back guarantee ✅ Special offer: Save...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/137afa4e-75af-4144-aa6b-e7076753bd09/ccba983c85ae4e7df5cd6d2b8193020d301452ea248c63cb88abdb4bdd80b41d.mp4"
+    }
+  ]
+}

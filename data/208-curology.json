@@ -1,0 +1,67 @@
+{
+  "name": "Curology",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/287a05aa-bd49-4b41-b3ae-9f2a7fa48a93/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Stop Guessing Your Routine",
+      "launch": "2026-07-01",
+      "days": 44,
+      "trend": "Stable at #1 over 4d.",
+      "hook": "Want to simplify your skincare routine? You need to try Curology.",
+      "angle": "Simplifying complex skincare routines through a single personalized product",
+      "copy": "Acne, pores, dark spots? We'll build a routine around what matters most to you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/287a05aa-bd49-4b41-b3ae-9f2a7fa48a93/1805374300444842.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "$72 Routine, Now FREE",
+      "launch": "2026-07-24",
+      "days": 21,
+      "trend": "Dropped from #2 to #3 in 13d. Peak: #2 on Jul 31.",
+      "hook": "Try prescription skincare for $71 FREE*",
+      "angle": "",
+      "copy": "$72 skincare routine, now FREE. Start today with fast shipping options.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/287a05aa-bd49-4b41-b3ae-9f2a7fa48a93/1019695084307841.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Up to $88 Value—Yours FREE just pay shipping!",
+      "launch": "2026-08-08",
+      "days": 6,
+      "trend": "Improved from #12 to #4 in 2d. Biggest jump: #12 → #4 on Aug 13 (+8).",
+      "hook": "A skincare routine on us",
+      "angle": "Free Plus Shipping loss-leader offer to lower entry barriers",
+      "copy": "Personalized skincare that works—FREE to try. Pay shipping, see results!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/287a05aa-bd49-4b41-b3ae-9f2a7fa48a93/a29e2fad7bbdaa0b729bc0a090106153040e1025fa6ee2d75ff6dda937b6c956.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Your Skin Grew Up Too",
+      "launch": "2026-05-27",
+      "days": 79,
+      "trend": "Improved from #6 to #5 in 4d.",
+      "hook": "Try prescription skincare for $75 FREE*",
+      "angle": "High-value anchor price ($75) vs. free trial offer to maximize conversion",
+      "copy": "Your teen skincare routine had a good run. Meet HydrotretRx for adult skin concerns.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/287a05aa-bd49-4b41-b3ae-9f2a7fa48a93/1327750452617610.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Your Skin Grew Up Too",
+      "launch": "2026-05-27",
+      "days": 79,
+      "trend": "Improved from #8 to #6 in 4d. Biggest jump: #8 → #6 on Aug 13 (+2).",
+      "hook": "Try prescription skincare for $75 FREE*",
+      "angle": "High-value anchor price ($75) vs. free trial offer to maximize conversion",
+      "copy": "Your teen skincare routine had a good run. Meet HydrotretRx for adult skin concerns.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/287a05aa-bd49-4b41-b3ae-9f2a7fa48a93/4471008203221369.mp4"
+    }
+  ]
+}

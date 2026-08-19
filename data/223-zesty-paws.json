@@ -1,0 +1,67 @@
+{
+  "name": "Zesty Paws",
+  "category": "Pet Supplies",
+  "logo": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-1/339599934_185206694326606_7579919733126942808_n.png?stp=dst-png_s148x148&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=nnR_cXS9Z6gQ7kNvwFo8QDl&_nc_oc=AdpFZDmRJDckaslnkf3oPALJkr4gYA8n5aGrahOovxaG9T5Kt6YIVyp4Sn0WKzhigpY&_nc_zt=24&_nc_ht=scontent-phx1-1.xx&_nc_gid=nDgbYEV4L4mF1ECxlgJLxQ&_nc_ss=7b289&oh=00_AQH3yjQ_wJlue7J_eHVtVgHikd0Px_02U04jnaJB1wwisQ&oe=6A842061",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Science-Led Support",
+      "launch": "2026-07-17",
+      "days": 28,
+      "trend": "Improved from #14 to #1 in 14d. Biggest jump: #14 → #8 on Aug 2 (+6).",
+      "hook": "From achoo to woohoo. Consider allergies dusted.",
+      "angle": "The 'relatable chaos' of pet ownership",
+      "copy": "From achoo to woohoo. Consider allergies dusted.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/699f3b0d-761a-4e70-8d4d-a10f2329b08b/4022868104680294.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Science-Led Support",
+      "launch": "2026-07-18",
+      "days": 27,
+      "trend": "Improved from #42 to #2 in 14d. Biggest jump: #28 → #10 on Aug 4 (+18).",
+      "hook": "From achoo to woohoo. Consider allergies dusted.",
+      "angle": "Relatable pet chaos and domestic life",
+      "copy": "From achoo to woohoo. Consider allergies dusted.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/699f3b0d-761a-4e70-8d4d-a10f2329b08b/1577408473792818.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "6 Billion Reasons to Try It",
+      "launch": "2026-07-17",
+      "days": 28,
+      "trend": "Improved from #23 to #3 in 14d. Biggest jump: #23 → #12 on Aug 2 (+11).",
+      "hook": "Your precious pup deserves premium bacteria. And we’ve got 6 billion CFUs to get them started.",
+      "angle": "The emotional bond between owner and pet as a driver for health",
+      "copy": "Your precious pup deserves premium bacteria. And we’ve got 6 billion CFUs to get them started.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/699f3b0d-761a-4e70-8d4d-a10f2329b08b/1659002925172378.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "A New Breed of Probiotics",
+      "launch": "2026-07-17",
+      "days": 28,
+      "trend": "Improved from #38 to #4 in 14d. Biggest jump: #38 → #24 on Aug 2 (+14). Biggest drop: #24 → #26 on Aug 4 (-2).",
+      "hook": "Every pet owner knows exactly what this face means.",
+      "angle": "Problem/Solution: Addressing the messy reality of dog diarrhea and rug cleaning.",
+      "copy": "Native Canine Probiotic contains three canine-specific probiotic strains for a digestive solution better attuned to your pup.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/699f3b0d-761a-4e70-8d4d-a10f2329b08b/27068094206203371.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Benefits in Every Bite",
+      "launch": "2026-07-17",
+      "days": 28,
+      "trend": "Improved from #24 to #5 in 14d. Biggest jump: #24 → #13 on Aug 2 (+11). Peak: #4 on Aug 12.",
+      "hook": "Zesty Paws Hip & Joint Bites",
+      "angle": "Proactive mobility support for aging or active dogs",
+      "copy": "Support your dog's mobility with science-led ingredients and furbaby-backed flavor.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/699f3b0d-761a-4e70-8d4d-a10f2329b08b/1709748610276401.jpg"
+    }
+  ]
+}

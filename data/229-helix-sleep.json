@@ -1,0 +1,67 @@
+{
+  "name": "Helix Sleep",
+  "category": "Mattress Store",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0eef478-eb4d-4584-87f2-f6a35ddafda0/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Sleep Better for 25% Less",
+      "launch": "2026-05-01",
+      "days": 105,
+      "trend": "n/a",
+      "hook": "MEMORIAL DAY SALE 25% OFF",
+      "angle": "Major seasonal holiday promotion",
+      "copy": "Big sleep upgrade, bigger discount. Take 25% off our doctor-recommended mattresses shown to improve your sleep. Your dreams will thank you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0eef478-eb4d-4584-87f2-f6a35ddafda0/1393536825827960.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Shop Award Winning Mattresses",
+      "launch": "2026-01-05",
+      "days": 221,
+      "trend": "n/a",
+      "hook": "Award-Winning Mattresses",
+      "angle": "Leveraging third-party authority and expert endorsements to build brand trust",
+      "copy": "Shop Helix mattresses in-store at Our Sleep Guide! Find a Texas showroom near you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0eef478-eb4d-4584-87f2-f6a35ddafda0/796843796731541.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "From Tossing to Dreaming",
+      "launch": "2025-10-22",
+      "days": 296,
+      "trend": "n/a",
+      "hook": "After endless nights of discomfort on our old mattress, we finally upgraded to",
+      "angle": "Solving chronic sleep discomfort and back pain",
+      "copy": "Better mornings start with better sleep. Helix combines personalized comfort with high-quality materials to deliver your best rest yet.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0eef478-eb4d-4584-87f2-f6a35ddafda0/2215515478958172.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Shop Award Winning Mattresses",
+      "launch": "2026-03-25",
+      "days": 142,
+      "trend": "n/a",
+      "hook": "Award-Winning Mattresses",
+      "angle": "Bridging the gap between online research and physical trial",
+      "copy": "Shop Helix mattresses in-store at The Sleep Loft! Find a showroom near you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0eef478-eb4d-4584-87f2-f6a35ddafda0/1837594443628295.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Shop Award Winning Mattresses",
+      "launch": "2026-04-28",
+      "days": 108,
+      "trend": "n/a",
+      "hook": "Award-Winning Mattresses",
+      "angle": "Overcoming the 'online-only' friction by highlighting physical retail locations",
+      "copy": "Shop Helix mattresses at a SleePare showroom near you! Try us in-store today.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f0eef478-eb4d-4584-87f2-f6a35ddafda0/2644984365858500.jpg"
+    }
+  ]
+}

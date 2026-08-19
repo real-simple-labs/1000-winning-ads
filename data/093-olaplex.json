@@ -1,0 +1,67 @@
+{
+  "name": "Olaplex",
+  "category": "Beauty Supply Store",
+  "logo": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/478504416_1103994361761596_4589697917114670126_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=3_OzxxP3TrAQ7kNvwE3ybg8&_nc_oc=Adq1h7C62beOeYALbnOIN-y9Lf8ZHJP17EuU4Ef_Z7ZB_3p29BnEQylZiNRD8JEG1Ag&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&_nc_gid=hEhHFhvosU0IRETo7WXHAg&_nc_ss=7b289&oh=00_AQGh0eDeYGZRIuujPHARAFP7nvCft04p92AnSZuC2BqDUQ&oe=6A83BC5A",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Ulta Beauty Savings",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Improved from #2 to #1 in 2d.",
+      "hook": "$20 Off Any 2 Full-Size Shampoo & Conditioner",
+      "angle": "High-value bundle discount for premium hair care",
+      "copy": "Save big on visibly healthier hair—get $20 off any 2 full-size shampoo & conditioner now through August 22.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/22918134-b62b-4fca-a36f-43f66fa675b3/a6982c702259cac24b907c167211ce2fb3412bb50090b3e1b8d1f6e993a80168.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Ulta Beauty Savings",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Dropped from #1 to #2 in 2d. Peak: #1 on Aug 11.",
+      "hook": "$20 Off",
+      "angle": "High-value bundle savings ($20 off) for a premium brand rarely on sale",
+      "copy": "Save big on visibly healthier hair—get $20 off any 2 full-size shampoo & conditioner now through August 22.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/22918134-b62b-4fca-a36f-43f66fa675b3/2d512a7c1ed9b8751bbf5414576844c26f9041881363744964b4a422f8ed673b.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "When suitcase space is limited, OLAPLEX N°.7 Bonding Oil™",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #4 to #3 in 14d. Biggest drop: #2 → #4 on Aug 11 (-2). Peak: #2 on Aug 9.",
+      "hook": "A hand opens a luxury silver suitcase to reveal a treasure-like stash of golden Olaplex oil bottles.",
+      "angle": "Luxury and prestige through association with high-end luggage",
+      "copy": "When suitcase space is limited, OLAPLEX N°.7 Bonding Oil™ is a travel must-have. The weightless styling oil does the work of multiple products in one tiny bottle: • Boosts shine up to 125% • 450ºF heat protection",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/22918134-b62b-4fca-a36f-43f66fa675b3/1298766738741786.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "New OLAPLEX Hydrating Curl Care",
+      "launch": "2026-06-03",
+      "days": 71,
+      "trend": "Dropped from #1 to #4 in 14d. Biggest drop: #1 → #3 on Aug 11 (-2). Peak: #1 on Jul 30.",
+      "hook": "1 Wash. No Compromises.",
+      "angle": "Immediate results with a '1 wash' promise",
+      "copy": "Finally, a no-compromise curl routine. 3D Bond Shaper™ Technology for instantly strong, defined, 7-day hydrated curls.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/22918134-b62b-4fca-a36f-43f66fa675b3/2040491723229096.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Ulta Beauty Savings",
+      "launch": "2026-08-02",
+      "days": 11,
+      "trend": "Improved from #83 to #5 in 10d. Biggest jump: #83 → #14 on Aug 5 (+69).",
+      "hook": "$20 Off Any 2 Full-Size Shampoo & Conditioner",
+      "angle": "High-value monetary discount on premium salon-grade products",
+      "copy": "Save big on visibly healthier hair—get $20 off any 2 full-size shampoo & conditioner now through August 22.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/22918134-b62b-4fca-a36f-43f66fa675b3/1770199907490422.jpg"
+    }
+  ]
+}

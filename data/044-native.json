@@ -1,0 +1,67 @@
+{
+  "name": "Native",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/25dc4f67-4fd2-42ab-b7b9-a4d902e50228/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "NATIVE: Now at Costco for a Limited Time",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #12 to #1 in 4d. Biggest jump: #12 → #4 on Aug 9 (+8).",
+      "hook": "YOUR CLEAN UPGRADE",
+      "angle": "Positioning 'clean' personal care as a premium lifestyle upgrade",
+      "copy": "Native has landed at Costco. Available for a limited time.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/25dc4f67-4fd2-42ab-b7b9-a4d902e50228/1fb7bf2244143ca97ba8a7d3eb8bbecdfd14e5236a796225b6677e6d44c3ca64.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "go.nativecos.com",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Dropped from #1 to #2 in 4d. Peak: #1 on Aug 7.",
+      "hook": "NATIVE SPRAY NO TO B.O.!",
+      "angle": "Clean ingredient transparency focusing on a minimalist formula (6 ingredients)",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/25dc4f67-4fd2-42ab-b7b9-a4d902e50228/275bcc6182b82f6680c4b9fc7b950d5e1c20762c66733af19fe363989fc0d21f.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Native, Aluminum Free Spray Deodorant",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Dropped from #2 to #3 in 4d. Peak: #2 on Aug 7.",
+      "hook": "NATIVE SPRAY NO TO B.O.!",
+      "angle": "Simplicity and transparency with a minimal 6-ingredient formula",
+      "copy": "Coconut & Vanilla 🥥 72 hr odor protection, with only 6 clean ingredients!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/25dc4f67-4fd2-42ab-b7b9-a4d902e50228/11cc5d990706c104d1f9af062e53837fbaed099fde2015f1e24f83e1fee02191.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Native Hair: Clean, Simple and Effective",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Dropped from #1 to #4 in 8d. Biggest drop: #1 → #3 on Aug 7 (-2). Peak: #1 on Aug 3.",
+      "hook": "WAIT TILL YOU TRY THIS",
+      "angle": "Sensory experience focusing on the rich, velvety lather",
+      "copy": "Visibly Nourished, Healthy Hair. No Sulfates, No Silicones",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/25dc4f67-4fd2-42ab-b7b9-a4d902e50228/48d51cc58b8423877afc8a134217c2cc03f43edc52a87121d161cd15a754c74b.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Native Hair: Clean, Simple and Effective",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Dropped from #2 to #5 in 8d. Biggest drop: #2 → #4 on Aug 7 (-2). Peak: #2 on Aug 3.",
+      "hook": "NATIVE BODY SCRUB GENTLE EXFOLIATION EVEN FOR SENSITIVE SKIN",
+      "angle": "Positioning exfoliation as a gentle, non-irritating process",
+      "copy": "Visibly Nourished, Healthy Hair. No Sulfates, No Silicones",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/25dc4f67-4fd2-42ab-b7b9-a4d902e50228/22affd0c0f0c7aed612103a09b8d4dd8f215a69757daf4c722800f89b155677e.jpg"
+    }
+  ]
+}

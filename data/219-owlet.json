@@ -1,0 +1,67 @@
+{
+  "name": "Owlet",
+  "category": "Baby goods/kids goods",
+  "logo": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/554095869_1111810607790433_7384649751355558848_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=0IZ8sLNhckAQ7kNvwEgm2me&_nc_oc=AdpdRXxfHSaluhddLM6qKmsoKqJUMMF5v0KwdY-dWwtzM0N2J1lwbGt_J62vz7FHS4Q&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&_nc_gid=IlNfLYOuWrl1D2ZgLvXhvA&_nc_ss=7b289&oh=00_AQHy7MFqnBWsiuVjnqmX6G89_F0Io_K1LC1tjd9nx2xl8Q&oe=6A844B0F",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Join the List",
+      "launch": "2025-06-18",
+      "days": 422,
+      "trend": "Ranked #1 on Aug 14.",
+      "hook": "Join the list for your exclusive welcome offer",
+      "angle": "Peace of mind through non-intrusive infant monitoring",
+      "copy": "Monitor what matters most with Owlet. Our smart baby monitors track heart rate and oxygen levels, sending you real-time notifications—so you can rest easy with peace of mind.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cfb6f9ad-128a-4c0a-b386-3f185c264cb8/687559334123474.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Owlet Dream Sock",
+      "launch": "2026-04-10",
+      "days": 126,
+      "trend": "Dropped from #1 to #2 in 14d. Peak: #1 on Jul 31.",
+      "hook": "Introducing Medically-Certified Dream Sock™",
+      "angle": "Medical certification and clinical-grade accuracy for baby monitoring",
+      "copy": "Welcome to a new era of infant care with the medically-certified Dream Sock smart baby monitor.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cfb6f9ad-128a-4c0a-b386-3f185c264cb8/822933213610998.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Dream Duo™",
+      "launch": "2026-02-09",
+      "days": 186,
+      "trend": "Ranked #3 on Aug 14.",
+      "hook": "It's Here",
+      "angle": "New product launch and availability",
+      "copy": "Meet your new partner in parenting. Dream Duo™ is the only all-in-one baby monitoring system that combines health tracking, sleep insights, and brand-new Dream Sight 2K HD video —all in one smart, con",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cfb6f9ad-128a-4c0a-b386-3f185c264cb8/2365246817281264.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Medically Certified Dream Sock",
+      "launch": "2026-03-30",
+      "days": 137,
+      "trend": "Dropped from #3 to #4 in 14d. Biggest drop: #2 → #4 on Aug 14 (-2). Peak: #2 on Aug 6.",
+      "hook": "NOW AVAILABLE: Medically-Certified Dream Sock™",
+      "angle": "Medical certification as a trust signal",
+      "copy": "Our new smart baby monitor redefines infant care by offering advanced, real-time health readings with timely notifications. Only Owlet delivers greater peace of mind for parents.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cfb6f9ad-128a-4c0a-b386-3f185c264cb8/26933783556228220.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Worth every penny 😴✨",
+      "launch": "2026-05-26",
+      "days": 80,
+      "trend": "Ranked #5 on Aug 14.",
+      "hook": "Who knew this little sock could give me so much peace of mind?!",
+      "angle": "Selling 'peace of mind' and reduced anxiety for new parents",
+      "copy": "Worth every penny 😴✨ Track your baby’s Sleep Quality Indicators with smart baby monitoring technology so you can rest easier 🤍 🎥: @evashuman_",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cfb6f9ad-128a-4c0a-b386-3f185c264cb8/1310018100751493.mp4"
+    }
+  ]
+}

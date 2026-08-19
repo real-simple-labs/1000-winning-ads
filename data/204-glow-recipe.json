@@ -1,0 +1,67 @@
+{
+  "name": "Glow Recipe",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f2966e4a-65f2-4a02-8cf8-953475989f60/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Your essential Korean skincare routine",
+      "launch": "2026-03-25",
+      "days": 147,
+      "trend": "n/a",
+      "hook": "Inside The Glow Recipe Experience Kit",
+      "angle": "Complete skincare routine in one travel-friendly kit",
+      "copy": "Meet the 7-piece routine of full-size Glow favorites—everything you need for healthy, glowing skin at 35% off.✨",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f2966e4a-65f2-4a02-8cf8-953475989f60/1522481979308602.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The @glowrecipe Vitamin C Brightening Toner Pads are ittt 🤩!",
+      "launch": "2026-06-01",
+      "days": 79,
+      "trend": "n/a",
+      "hook": "If you have dark spots, or you wake up looking puffy with under-eye darkness like me, you need these.",
+      "angle": "",
+      "copy": "The @glowrecipe Vitamin C Brightening Toner Pads are ittt 🤩! I’ve been using them for about a month now & safe to say these are a new staple. They’re Korean Facials in a pad! It’s like a mini facial",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f2966e4a-65f2-4a02-8cf8-953475989f60/3676195255854269.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "One Cream. 100-HR Deep Hydration.",
+      "launch": "2026-06-03",
+      "days": 77,
+      "trend": "n/a",
+      "hook": "Deep Hydration. Pillow Soft Skin.",
+      "angle": "Texture as a primary benefit (the 'Cushion' and 'Pillow Soft' promise)",
+      "copy": "100 hours of deep hydration and pillow-soft skin is now here... Shop our NEW Watermelon Milk Peptide Cushion Cream. 🍉",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f2966e4a-65f2-4a02-8cf8-953475989f60/1271849501696185.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "One Cream. 100-HR Deep Hydration.",
+      "launch": "2026-05-07",
+      "days": 104,
+      "trend": "n/a",
+      "hook": "WATERMELON MILK PEPTIDE CUSHION CREAM",
+      "angle": "Extreme long-wear hydration (100 hours)",
+      "copy": "100 hours of deep hydration and pillow-soft skin is now here... Shop our NEW Watermelon Milk Peptide Cushion Cream. 🍉",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f2966e4a-65f2-4a02-8cf8-953475989f60/936248316077336.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Flush Without The Fuss",
+      "launch": "2026-03-11",
+      "days": 161,
+      "trend": "n/a",
+      "hook": "GLOW RECIPE dewy flush",
+      "angle": "Achieving a natural 'dewy flush' with minimal effort",
+      "copy": "Dewy Flush - a tinted cheek serum powered by 100% skincare. Clinically proven to brighten dark spots, smooth, hydrate, and refine pores.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f2966e4a-65f2-4a02-8cf8-953475989f60/1630617417962579.mp4"
+    }
+  ]
+}

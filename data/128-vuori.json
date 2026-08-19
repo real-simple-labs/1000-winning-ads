@@ -1,0 +1,67 @@
+{
+  "name": "Vuori",
+  "category": "Clothing (Brand)",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1698581d-25db-44d8-8039-6e82a267c124/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Short Sleeve Manhattan Button Down | White",
+      "launch": "2026-02-10",
+      "days": 190,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Made to move, with maximum versatility.",
+      "angle": "Premium essentials for the modern man",
+      "copy": "Made to move, with maximum versatility. Vuori makes getting dressed the easiest part of your day.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1698581d-25db-44d8-8039-6e82a267c124/3f05200688f1bccde0c98c1242ffd8c9094d7724305e42f665aeac4f19aa1518.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Tuvalu T-Shirt | Ink",
+      "launch": "2026-03-10",
+      "days": 162,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Find your next go-to outfit at Vuori, where performance meets comfort.",
+      "angle": "The 'Perfect Fit' for the modern man",
+      "copy": "Find your next go-to outfit at Vuori, where performance meets comfort.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1698581d-25db-44d8-8039-6e82a267c124/cab65225d13a2e9c8751f7e0343f358bb1fb13d8f15c6a4f834cff25bcbd87c3.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Knit Twill Polo | Heather Grey",
+      "launch": "2026-02-10",
+      "days": 190,
+      "trend": "Improved from #4 to #3 in 12d.",
+      "hook": "Gear up for movement.",
+      "angle": "Premium athletic-fit apparel for men",
+      "copy": "Gear up for movement. Vuori designs premium performance apparel that transitions seamlessly from workout to life.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1698581d-25db-44d8-8039-6e82a267c124/92f2f5e6a52a107e440326a4169169887ae0b7872b4516347b4c169ff9085914.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "The Halo Essential Wideleg",
+      "launch": "2026-03-10",
+      "days": 162,
+      "trend": "Improved from #5 to #4 in 12d.",
+      "hook": "The Halo Essential Wideleg",
+      "angle": "Proprietary fabric technology (DreamKnit™) as a luxury differentiator",
+      "copy": "The Halo Essential Wideleg delivers effortless style with every outfit.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1698581d-25db-44d8-8039-6e82a267c124/b88582eca596f1fcbcd92d944693749356391536f878cfea60f110fe0d636b37.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Halo Essential Wideleg – Black Heather Pants – Joggers – Vuori Clothing",
+      "launch": "2026-04-09",
+      "days": 132,
+      "trend": "Improved from #7 to #6 in 12d.",
+      "hook": "The Halo Essential Wideleg",
+      "angle": "Highlighting proprietary fabric technology (DreamKnit™) for superior comfort",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1698581d-25db-44d8-8039-6e82a267c124/4662dccef50015d848b15b9a9f77767b32e9b615be361a7129b3e7308099b538.jpg"
+    }
+  ]
+}

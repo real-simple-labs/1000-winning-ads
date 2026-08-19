@@ -1,0 +1,67 @@
+{
+  "name": "Glossier",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/dc93050a-9c46-49a9-9fb5-b7fba73c3455/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Build your dream fragrance set",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Improved from #2 to #1 in 12d.",
+      "hook": "Glossier is letting you pick two full size fragrances for a bundled price",
+      "angle": "Expert guide to fragrance layering and selection",
+      "copy": "Build your own set with the pieces you love most. Fragrance and makeup, made your way.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/dc93050a-9c46-49a9-9fb5-b7fba73c3455/2339426790130732.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Build your dream fragrance set",
+      "launch": "2026-05-27",
+      "days": 78,
+      "trend": "Dropped from #1 to #2 in 12d. Peak: #1 on Jul 30.",
+      "hook": "Bundle your two favorite 50ml scents",
+      "angle": "Direct price savings through bundling ($164 value for $139)",
+      "copy": "Build your own set with the pieces you love most. Fragrance and makeup, made your way.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/dc93050a-9c46-49a9-9fb5-b7fba73c3455/1423144219569238.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Build your dream fragrance set",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Improved from #6 to #3 in 12d. Biggest jump: #6 → #4 on Aug 1 (+2).",
+      "hook": "Glossier is letting you pick two full size fragrances for a bundled price",
+      "angle": "Expert guide to fragrance layering and selection",
+      "copy": "Build your own set with the pieces you love most. Fragrance and makeup, made your way.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/dc93050a-9c46-49a9-9fb5-b7fba73c3455/2379963796144431.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Build your dream fragrance set",
+      "launch": "2026-06-13",
+      "days": 61,
+      "trend": "Dropped from #3 to #4 in 12d. Peak: #3 on Jul 30.",
+      "hook": "Bundle your two favorite 50ml scents",
+      "angle": "Economic incentive: Promoting a bundle discount ($164 value for $139)",
+      "copy": "Build your own set with the pieces you love most. Fragrance and makeup, made your way.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/dc93050a-9c46-49a9-9fb5-b7fba73c3455/1423222662951186.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Build your dream fragrance set",
+      "launch": "2026-05-27",
+      "days": 78,
+      "trend": "Dropped from #4 to #5 in 12d. Biggest jump: #7 → #5 on Aug 11 (+2). Biggest drop: #5 → #7 on Aug 3 (-2). Peak: #4 on Jul 30.",
+      "hook": "Glossier. Create your perfect travel trio",
+      "angle": "Customization: Build your own personalized set of scents",
+      "copy": "Build your own set with the pieces you love most. Fragrance and makeup, made your way.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/dc93050a-9c46-49a9-9fb5-b7fba73c3455/2174785086646188.mp4"
+    }
+  ]
+}

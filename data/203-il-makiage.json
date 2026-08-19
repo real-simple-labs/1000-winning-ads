@@ -1,0 +1,67 @@
+{
+  "name": "IL MAKIAGE",
+  "category": "Health/beauty",
+  "logo": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/352562428_779947376939629_4167760384980914118_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=108&ccb=1-7&_nc_sid=418b77&_nc_ohc=ZB5ZnoWGHwQQ7kNvwEM7_7a&_nc_oc=AdpxquVAHX85tPmLraKKo8e3EHqSNmFUBgr4zDvSFwU_2KQI-9bcBhdXt0XGZ2VEvxY&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=PBPfLsP9R4H-tFdNK3SFAg&_nc_ss=7b289&oh=00_AQHfMmglsDIvocA8zGjLXecnywyOZJdXIFKRdsRXO7hWOw&oe=6A83D3E5",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Try Before You Buy",
+      "launch": "2026-07-09",
+      "days": 36,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Plot twist. You almost quit foundation until this.",
+      "angle": "Solving the 'bad foundation' frustration",
+      "copy": "It’s 2026. I’m done with in-store shade matching. It’s always too complicated, and I never get it right. So I finally gave IL MAKIAGE a shot and honestly, the shade was spot on. It matched my undertone",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/543dad43-1f54-4a1a-a76d-1e3ef7ec9f01/1808194483482184.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Try Before You Buy",
+      "launch": "2026-07-07",
+      "days": 38,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Here's what makeup associates don't want you to know...",
+      "angle": "Convenience: Replacing the chore of driving to a store with a 90-second quiz.",
+      "copy": "Most common makeup mistake? Wearing the wrong shade foundation. Take the PowerMatch Quiz to find your perfect match in 90 seconds. Join more than 25 million who've found their perfect foundation match.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/543dad43-1f54-4a1a-a76d-1e3ef7ec9f01/1001695839146527.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Hypnotize Brow Mascara Latte",
+      "launch": "2026-07-08",
+      "days": 37,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "Plot twist. You almost quit foundation until this.",
+      "angle": "Solving the 'bad foundation' frustration",
+      "copy": "Most common makeup mistake? Wearing the wrong shade foundation. Take the PowerMatch Quiz to find your perfect match in 90 seconds. Join more than 25 million who've found their perfect foundation match.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/543dad43-1f54-4a1a-a76d-1e3ef7ec9f01/1527208189147848.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "",
+      "launch": "2026-08-05",
+      "days": 9,
+      "trend": "Improved from #32 to #4 in 6d. Biggest jump: #32 → #15 on Aug 9 (+17).",
+      "hook": "Monday. Tuesday. Wednesday.",
+      "angle": "Versatility for everyday wear (Monday-Friday hook)",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/543dad43-1f54-4a1a-a76d-1e3ef7ec9f01/995508583496403.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Find Your Shade Match",
+      "launch": "2026-07-08",
+      "days": 37,
+      "trend": "Improved from #6 to #5 in 12d. Biggest jump: #6 → #4 on Aug 7 (+2). Peak: #4 on Aug 7.",
+      "hook": "People don't realize that undertone really matters when finding the right foundation.",
+      "angle": "Expert authority: Professional makeup artists vouch for the product's accuracy and quality.",
+      "copy": "Stop playing guessing games with your foundation. Take our shade matching quiz and find your forever foundation in 2 minutes.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/543dad43-1f54-4a1a-a76d-1e3ef7ec9f01/1968138333867928.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Brooklinen",
+  "category": "Home decor",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/106bbfac-ec7d-4253-850a-530c3af32f0f/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Classic Percale Core Sheet Set",
+      "launch": "2026-05-04",
+      "days": 101,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "Better sleep starts here.",
+      "angle": "Minimalist aesthetic for modern home decor",
+      "copy": "Better sleep starts here. Award-winning sheets, naturally cool fabrics, and layers you will love night after night. Find out why we're the best in bed.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/106bbfac-ec7d-4253-850a-530c3af32f0f/1677177466801038.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Text Us for 15% Off",
+      "launch": "2026-07-10",
+      "days": 34,
+      "trend": "Improved from #10 to #2 in 14d. Biggest jump: #10 → #7 on Aug 3 (+3).",
+      "hook": "The layout of my room stresses me out and it's because the window is off-centered.",
+      "angle": "DIY Bedroom Transformation: Upgrading dated fixtures for a modern look.",
+      "copy": "You up? Then TEXT us! Get 15% off your first order when you sign up for texts & emails. It's fast, free, and the easiest way to get better in bed.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/106bbfac-ec7d-4253-850a-530c3af32f0f/1560954218958010.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Heathered Cashmere Hardcore Sheet Bundle",
+      "launch": "2026-05-04",
+      "days": 101,
+      "trend": "Dropped from #2 to #3 in 14d. Peak: #2 on Jul 30.",
+      "hook": "Mix. Match. Save. Sleep.",
+      "angle": "Minimalist luxury and 'quiet luxury' aesthetic",
+      "copy": "Mix. Match. Save. Sleep. We make making your bed easy with the bedding bundle. Pick your colors, pick your weave, and enjoy high-quality materials, lasting comfort, and better value all in one order.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/106bbfac-ec7d-4253-850a-530c3af32f0f/1648799589488990.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Check out with Truemed to use your pre-tax dollars with us",
+      "launch": "2026-07-08",
+      "days": 36,
+      "trend": "Stable at #4 over 14d. Biggest jump: #6 → #4 on Aug 11 (+2).",
+      "hook": "Our Pillows are HSA/FSA Eligible",
+      "angle": "Financial accessibility (HSA/FSA eligibility)",
+      "copy": "Invest in your best rest when you use your pre-tax HSA/FSA dollars on our Pillows now.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/106bbfac-ec7d-4253-850a-530c3af32f0f/988444047561366.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Plush But Make it Super",
+      "launch": "2026-06-15",
+      "days": 59,
+      "trend": "Stable at #5 over 14d. Biggest jump: #7 → #5 on Aug 11 (+2).",
+      "hook": "Sold Out in 72 Hours. Now Back & Selling Fast",
+      "angle": "Social proof highlighting previous viral success ('Sold Out in 72 Hours')",
+      "copy": "Plusher than plush, softer than soft, and more absorbent than the rest, shop our new and super-ior Super-Plush Towels in our Brooklinen-exclusive stripes now.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/106bbfac-ec7d-4253-850a-530c3af32f0f/3974712799325438.mp4"
+    }
+  ]
+}

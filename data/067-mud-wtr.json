@@ -1,0 +1,67 @@
+{
+  "name": "MUD\\WTR",
+  "category": "Food & beverage",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/183b7a74-dce7-4eb8-8bc7-7df7d56c9cff/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Get $20 off & a free frother",
+      "launch": "2026-05-20",
+      "days": 85,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "I'm the founder of MUD\\WTR and a lot of people ask me, what is the difference between MUD\\WTR and all these mushroom coffees out there?",
+      "angle": "Founder authority and transparency (Shane Heath explaining the product directly)",
+      "copy": "MUD\\WTR is powered by functional mushrooms, superfoods and spices. Designed by food scientists to boost your energy, focus, and immune system—without the jitters. Plus, it supports gut health.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/183b7a74-dce7-4eb8-8bc7-7df7d56c9cff/3226209410904037.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Try MUD\\WTR Now",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #5 to #2 in 12d. Biggest jump: #5 → #2 on Aug 7 (+3).",
+      "hook": "I'm the founder of MUD\\WTR and a lot of people ask what is the difference between MUD\\WTR and mushroom coffee?",
+      "angle": "Product differentiation: MUD\\WTR is coffee-free and has 10x more mushrooms than competitors",
+      "copy": "MUD\\WTR is powered by functional mushrooms, superfoods and spices. Designed by food scientists to boost your energy, focus, and immune system—without the jitters. Plus, it supports gut health.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/183b7a74-dce7-4eb8-8bc7-7df7d56c9cff/1635392748587780.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Try MUD\\WTR Today",
+      "launch": "2026-07-23",
+      "days": 21,
+      "trend": "Improved from #8 to #3 in 12d. Biggest jump: #6 → #3 on Aug 7 (+3).",
+      "hook": "",
+      "angle": "",
+      "copy": "MUD\\WTR is powered by functional mushrooms, superfoods and spices. Designed by food scientists to boost your energy, focus, and immune system—without the jitters. Plus, it supports gut health.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/183b7a74-dce7-4eb8-8bc7-7df7d56c9cff/1390999926228806.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Get $25 off & a free frother",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #7 to #4 in 4d. Biggest jump: #7 → #5 on Aug 9 (+2).",
+      "hook": "THE HIDDEN FREQUENCY OF FLAVOR",
+      "angle": "Positioning 'quick breakfasts' as a source of bodily and gut stress to drive problem awareness.",
+      "copy": "No more 2pm crash. No more wired-but-tired mornings. MUD\\WTR steps your caffeine down — not to zero, just to a level your body actually likes. Lion's mane and other functional mushrooms add sustained energy",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/183b7a74-dce7-4eb8-8bc7-7df7d56c9cff/dc795789716956b66f5b6a202d6fcf68d6fd2f945fd61e3984b01a57842cb56d.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Get $25 off & a free frother",
+      "launch": "2026-07-31",
+      "days": 13,
+      "trend": "Improved from #25 to #5 in 10d. Biggest jump: #25 → #11 on Aug 3 (+14).",
+      "hook": "SUMMER SALE",
+      "angle": "Financial incentive through a significant seasonal discount",
+      "copy": "No more 2pm crash. No more wired-but-tired mornings. MUD\\WTR steps your caffeine down — not to zero, just to a level your body actually likes. Lion's mane and other functional mushrooms add sustained energy",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/183b7a74-dce7-4eb8-8bc7-7df7d56c9cff/2122039422526979.jpg"
+    }
+  ]
+}

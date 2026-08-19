@@ -1,0 +1,67 @@
+{
+  "name": "Rhone",
+  "category": "Sportswear Store",
+  "logo": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/473617725_928840656091845_7896861684399955117_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=7GczAspCp3wQ7kNvwFiZmgB&_nc_oc=AdqFlyzJVa-D2ty9Dbc6qx_HCIEuWC40ICQd4kF7h5GN5GYXP4Qlscjpt7Gd7DTsyZc&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=D9eGgKxRfkYZUjSGfgbXAA&_nc_ss=7b289&oh=00_AQF1WnTPETLeCtB19IuFQAauWwcnF1xK1yKzK2uJfpBuTw&oe=6A83BB23",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Commuter® Pant Slim",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Improved from #2 to #1 in 14d.",
+      "hook": "n/a",
+      "angle": "Versatility for the modern man transitioning from office to leisure",
+      "copy": "Designed to move. Made with your comfort in mind.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fed21623-1c8e-4b9a-b282-f9f344571951/1603380384549404.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Commuter® Pant Slim",
+      "launch": "2026-06-18",
+      "days": 56,
+      "trend": "Dropped from #1 to #2 in 14d. Peak: #1 on Jul 30.",
+      "hook": "n/a",
+      "angle": "",
+      "copy": "Designed to move. Made with your comfort in mind. Take 15% off your first order and feel the Rhone difference.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fed21623-1c8e-4b9a-b282-f9f344571951/945603741849353.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "DreamGlow® Pullover -- Sand",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "n/a",
+      "angle": "The 'Quiet Luxury' of functional activewear",
+      "copy": "Clothing that adapts to you—not the other way around.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fed21623-1c8e-4b9a-b282-f9f344571951/1372038154857864.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "DreamGlow® Full Zip Hoodie Heather",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "Stable at #4 over 14d.",
+      "hook": "RHONE",
+      "angle": "Minimalist aesthetic as a luxury brand indicator",
+      "copy": "Clothing that adapts to you—not the other way around.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fed21623-1c8e-4b9a-b282-f9f344571951/1773504560536469.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "New arrivals",
+      "launch": "2026-07-30",
+      "days": 14,
+      "trend": "Improved from #30 to #5 in 12d. Biggest jump: #30 → #15 on Aug 3 (+15).",
+      "hook": "RHONE Fine Knit Sweater Polo",
+      "angle": "Aspirational Lifestyle: Positioning the garment as the choice for sophisticated, intellectual leisure.",
+      "copy": "Built to breathe easy, feel soft, and look sharp.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fed21623-1c8e-4b9a-b282-f9f344571951/1508316617273937.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Buffy",
+  "category": "Home decor",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f8b003e-795d-42f6-a171-bf377ed16cda/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Sleep Effortlessly with Buffy",
+      "launch": "2026-01-23",
+      "days": 208,
+      "trend": "n/a",
+      "hook": "Wake Up Recovered",
+      "angle": "Positioning bedding as a functional tool for physical and mental recovery",
+      "copy": "🛌 Sleep Should Be Part of Your Wellness Routine. Make it effortless with Buffy. If your bed leaves you sweaty, itchy, or annoyed—it's not you. It's your bedding. Meet Buffy — cooling, cloud-soft…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f8b003e-795d-42f6-a171-bf377ed16cda/1178700127587367.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Sleep Effortlessly with Buffy",
+      "launch": "2026-01-22",
+      "days": 209,
+      "trend": "n/a",
+      "hook": "It's made from eucalyptus tencel so it stays cool, silky and breathable.",
+      "angle": "Material-based luxury (Eucalyptus Tencel)",
+      "copy": "🛌 Sleep Should Be Part of Your Wellness Routine. Make it effortless with Buffy. If your bed leaves you sweaty, itchy, or annoyed—it's not you. It's your bedding. Meet Buffy — cooling, cloud-soft…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f8b003e-795d-42f6-a171-bf377ed16cda/1184573687207872.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Sleep Effortlessly with Buffy",
+      "launch": "2026-01-31",
+      "days": 200,
+      "trend": "n/a",
+      "hook": "Cooler sleep.",
+      "angle": "Temperature regulation for better sleep quality",
+      "copy": "🛌 Sleep Should Be Part of Your Wellness Routine. Make it effortless with Buffy. If your bed leaves you sweaty, itchy, or annoyed—it's not you. It's your bedding. Meet Buffy — cooling, cloud-soft…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f8b003e-795d-42f6-a171-bf377ed16cda/1584988469316430.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Sleep Effortlessly with Buffy",
+      "launch": "2026-01-26",
+      "days": 205,
+      "trend": "n/a",
+      "hook": "Close-up rhythmic shots of green threads on a loom and white thread spools spinning.",
+      "angle": "Material-led benefit: Eucalyptus for temperature regulation",
+      "copy": "🛌 Sleep Should Be Part of Your Wellness Routine. Make it effortless with Buffy. If your bed leaves you sweaty, itchy, or annoyed—it's not you. It's your bedding. Meet Buffy — cooling, cloud-soft…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f8b003e-795d-42f6-a171-bf377ed16cda/1190868709916419.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Sleep Effortlessly with Buffy",
+      "launch": "2026-01-26",
+      "days": 205,
+      "trend": "n/a",
+      "hook": "Cooler sleep for recovery.",
+      "angle": "",
+      "copy": "🛌 Sleep Should Be Part of Your Wellness Routine. Make it effortless with Buffy. If your bed leaves you sweaty, itchy, or annoyed—it's not you. It's your bedding. Meet Buffy — cooling, cloud-soft…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f8b003e-795d-42f6-a171-bf377ed16cda/2461518594302723.mp4"
+    }
+  ]
+}

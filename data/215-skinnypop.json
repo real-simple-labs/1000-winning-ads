@@ -1,0 +1,67 @@
+{
+  "name": "SkinnyPop",
+  "category": "Food & beverage company",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44bc3935-fbfe-414d-9a55-641704c19506/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "SKINNYPOP Popcorn",
+      "launch": "2026-07-01",
+      "days": 49,
+      "trend": "Stable at #1 over 11d.",
+      "hook": "Skinny Pop. Deliciously popped...",
+      "angle": "Simple, clean snacking with only 3 ingredients",
+      "copy": "Popular for a reason.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44bc3935-fbfe-414d-9a55-641704c19506/1037490931948965.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "SKINNYPOP Popcorn",
+      "launch": "2026-07-02",
+      "days": 48,
+      "trend": "Stable at #2 over 11d.",
+      "hook": "Skinny Pop White Cheddar.",
+      "angle": "Flavor focus: Highlighting the use of real white cheddar cheese",
+      "copy": "Popular for a reason.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44bc3935-fbfe-414d-9a55-641704c19506/1552587973024402.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "SKINNYPOP Popcorn",
+      "launch": "2026-07-02",
+      "days": 48,
+      "trend": "Stable at #4 over 11d.",
+      "hook": "SkinnyPop White Cheddar.",
+      "angle": "Flavor focus: Emphasizing the \"White Cheddar\" and \"Real Cheese\" ingredients",
+      "copy": "Popular for a reason.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44bc3935-fbfe-414d-9a55-641704c19506/1292651475993545.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "SKINNYPOP Popcorn",
+      "launch": "2026-07-04",
+      "days": 46,
+      "trend": "Stable at #5 over 11d.",
+      "hook": "SkinnyPop. Deliciously popped. Perfectly salted.",
+      "angle": "Simplicity and health-conscious ingredients (\"3 simple ingredients\")",
+      "copy": "Popular for a reason.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44bc3935-fbfe-414d-9a55-641704c19506/1550732773160641.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "SKINNYPOP Popcorn",
+      "launch": "2026-07-01",
+      "days": 49,
+      "trend": "Stable at #6 over 11d.",
+      "hook": "A bag of SkinnyPop popcorn on a bright lime-green background with falling popcorn kernels.",
+      "angle": "Clean-label snacking with minimal ingredients",
+      "copy": "Popular for a reason.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/44bc3935-fbfe-414d-9a55-641704c19506/1499457298596302.mp4"
+    }
+  ]
+}

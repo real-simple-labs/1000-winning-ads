@@ -1,0 +1,67 @@
+{
+  "name": "Seed",
+  "category": "Medical & health",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/25431651-6694-4f29-8599-14d7a84d863c/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "The #1 Digestive Health Probiotic",
+      "launch": "2026-07-31",
+      "days": 19,
+      "trend": "Improved from #7 to #1 in 2d. Biggest jump: #7 → #1 on Aug 18 (+6).",
+      "hook": "I have been taking @seed for SIX years now, it is the GOAT",
+      "angle": "",
+      "copy": "Free your gut this summer. DS-01® users reported less food avoidance and greater enjoyment of food, as well as fewer disruptions to daily activities due to digestive concerns.° Get 25% off today + free Welcome Kit.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/25431651-6694-4f29-8599-14d7a84d863c/1013854338267882.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Bloat Less, Feel Better with DS-01®",
+      "launch": "2026-07-31",
+      "days": 19,
+      "trend": "Improved from #44 to #2 in 12d. Biggest jump: #44 → #29 on Aug 10 (+15).",
+      "hook": "$50 $38",
+      "angle": "",
+      "copy": "Start DS-01® today and feel it by July. Get 25% off today + free Welcome Kit.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/25431651-6694-4f29-8599-14d7a84d863c/1004770498926122.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Use code 25BOBBY for 25% off Seed",
+      "launch": "2026-07-20",
+      "days": 30,
+      "trend": "Improved from #41 to #4 in 12d. Biggest jump: #33 → #12 on Aug 16 (+21).",
+      "hook": "This right here is not just a probiotic.",
+      "angle": "",
+      "copy": "Seed’s DS-01® Daily Synbiotic has 24 strains of bacteria that WORK!! It is not JUST a probiotic, its a prebiotic too. That's why it is so great!! Use my code 25BOBBY for 25% off Seed!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/25431651-6694-4f29-8599-14d7a84d863c/814131365082929.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "🔗 Use code 25BOBBY for 25% off Seed!",
+      "launch": "2026-08-04",
+      "days": 15,
+      "trend": "Improved from #223 to #5 in 12d. Biggest jump: #223 → #57 on Aug 10 (+166).",
+      "hook": "Most probiotics die in your tummy, but Seed's interesting.",
+      "angle": "Problem/Solution: Highlighting that standard probiotics are ineffective because they don't survive stomach acid.",
+      "copy": "Did you know that most probiotics die in your tummy? Seed does NOT! I have been taking Seed's DS-01® Daily Synbiotic for years now! Use my code 25BOBBY for 25% off Seed 🙌",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/25431651-6694-4f29-8599-14d7a84d863c/1457610279497845.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Try the #1 Digestive Health Probiotic",
+      "launch": "2026-08-04",
+      "days": 15,
+      "trend": "Improved from #159 to #6 in 12d. Biggest jump: #159 → #69 on Aug 10 (+90).",
+      "hook": "Pooping every day just got easier.",
+      "angle": "Targeting digestive regularity and bowel movement ease",
+      "copy": "DS-01® Daily Synbiotic contains probiotic strains that: 🚽Reduce bloating in 7 days 💩Improve regularity in 2 weeks 🧖‍♂️Reduce wrinkles in 1 month. Now 25% off plus 30 day money-back guarantee",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/25431651-6694-4f29-8599-14d7a84d863c/1471322011394791.jpg"
+    }
+  ]
+}

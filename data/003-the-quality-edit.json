@@ -1,0 +1,67 @@
+{
+  "name": "The Quality Edit",
+  "category": "Publisher",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6544a31f-7d45-4e78-b6a9-345fcf5b1645/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Ollie Ad",
+      "launch": "2026-07-06",
+      "days": 38,
+      "trend": "Stable at #1 over 11d.",
+      "hook": "The Food Your Vet Would Actually Feed Their Dog.",
+      "angle": "",
+      "copy": "The Food Your Vet Would Actually Feed Their Dog. 🩺🐾Fresh, vet-formulated meals made with real ingredients to support everyday health — from happy digestion to more energy and shine. 🥕🥩Use code TQE for 60% off! 🎉🐕",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6544a31f-7d45-4e78-b6a9-345fcf5b1645/1559206075555182.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Ollie Ad",
+      "launch": "2026-07-08",
+      "days": 36,
+      "trend": "Stable at #2 over 11d.",
+      "hook": "The Food Your Vet Would Actually Feed Their Dog.",
+      "angle": "",
+      "copy": "The Food Your Vet Would Actually Feed Their Dog. 🩺🐾Fresh, vet-formulated meals made with real ingredients to support everyday health — from happy digestion to more energy and shine. 🥕🥩Use code TQE for 60% off! 🎉🐕",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6544a31f-7d45-4e78-b6a9-345fcf5b1645/1534641968173593.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "The Quality Edit Ad",
+      "launch": "2026-07-08",
+      "days": 36,
+      "trend": "Stable at #3 over 11d.",
+      "hook": "I Tried Ollie for Two Weeks. Here's What Actually Showed Up at My Door",
+      "angle": "Personal testimonial and 'honest' review format",
+      "copy": "🐶 Thinking about switching your dog to fresh food? We unboxed Ollie's first box and reviewed everything inside 🥩🥕🥦 Vet-crafted meals made with whole ingredients you can actually see, a feeding guide personalized to your pup.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6544a31f-7d45-4e78-b6a9-345fcf5b1645/1043864721487055.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "The Quality Edit Ad",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #5 to #4 in 11d.",
+      "hook": "I Tried Ollie for Two Weeks.",
+      "angle": "Authentic customer testimonial/review style",
+      "copy": "🐶 Thinking about switching your dog to fresh food? We unboxed Ollie's first box and reviewed everything inside 🥩🥕🥦 Vet-crafted meals made with whole ingredients you can actually see, a feeding guide personalized to your pup.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6544a31f-7d45-4e78-b6a9-345fcf5b1645/883572141039636.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "The Quality Edit Ad",
+      "launch": "2026-04-16",
+      "days": 119,
+      "trend": "Dropped from #4 to #5 in 11d. Peak: #4 on Jul 31.",
+      "hook": "This is the best tattoo cream I've ever used and trust me I've tried them all.",
+      "angle": "Comparison ('Us vs. Them') focusing on texture and spreadability",
+      "copy": "Introducing Harry's Tattoo Frost- the solution to immediate relief and long-lasting hydration. Our innovative frosted black gel features a cool, textured formula that instantly soothes and provides deep hydration.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6544a31f-7d45-4e78-b6a9-345fcf5b1645/4400442456879372.mp4"
+    }
+  ]
+}

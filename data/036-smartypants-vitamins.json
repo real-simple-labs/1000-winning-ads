@@ -1,0 +1,67 @@
+{
+  "name": "SmartyPants Vitamins",
+  "category": "Vitamins/supplements",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/07df5c1b-c72b-46e5-8995-779fb1c14fca/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Their Biggest Dreams Start Here",
+      "launch": "2026-06-14",
+      "days": 60,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "If there's one thing I've learned in motherhood, it's that no two days are exactly the same and there is no such thing as a perfect day.",
+      "angle": "Rejecting the pressure of 'perfect' parenting in favor of realistic balance.",
+      "copy": "SmartyPants Kids Multi & Omegas is a constant in my house because it supports my kids' brain health†*",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/07df5c1b-c72b-46e5-8995-779fb1c14fca/936244026104617.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "SmartyPants Vitamins",
+      "launch": "2026-07-27",
+      "days": 17,
+      "trend": "Improved from #41 to #2 in 14d. Biggest jump: #37 → #7 on Aug 5 (+30). Biggest drop: #35 → #37 on Aug 3 (-2).",
+      "hook": "If there is one thing I've learned in motherhood, it's that no two days are exactly the same.",
+      "angle": "Prioritizing 'balance over perfection' in a chaotic parenting schedule",
+      "copy": "SmartyPants Supports Kids' Brain Health†* & Big Adventures!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/07df5c1b-c72b-46e5-8995-779fb1c14fca/4696170170611483.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "SmartyPants Kids Multi & Omegas + Toy Story 5. Get yours today!",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Dropped from #2 to #3 in 8d. Peak: #2 on Aug 5.",
+      "hook": "If your kids wake up ready for adventure before you've even had your coffee, you get it.",
+      "angle": "Positioning vitamins as a 'foundation' for a child's active imagination",
+      "copy": "SmartyPants Kids Multi & Omegas + Toy Story 5. Get yours today!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/07df5c1b-c72b-46e5-8995-779fb1c14fca/1197159175885429.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "SmartyPants Vitamins",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Dropped from #3 to #4 in 14d. Biggest jump: #7 → #3 on Aug 5 (+4). Biggest drop: #4 → #7 on Aug 3 (-3). Peak: #3 on Jul 30.",
+      "hook": "Support Their Big Ideas. To Infinity & Beyond.",
+      "angle": "Cognitive development and supporting 'big ideas' through nutrition",
+      "copy": "SmartyPants Supports Kids' Brain Health†* & Big Adventures!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/07df5c1b-c72b-46e5-8995-779fb1c14fca/1017510220633785.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "SmartyPants Vitamins",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #9 to #5 in 8d. Biggest jump: #8 → #5 on Aug 13 (+3).",
+      "hook": "Support Their Big Ideas. To Infinity & Beyond.",
+      "angle": "Leveraging a Disney Pixar Toy Story brand partnership for trust and kid-appeal",
+      "copy": "SmartyPants Supports Kids' Brain Health†* & Big Adventures!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/07df5c1b-c72b-46e5-8995-779fb1c14fca/1810648520378109.jpg"
+    }
+  ]
+}

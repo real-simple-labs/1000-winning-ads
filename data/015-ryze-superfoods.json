@@ -1,0 +1,67 @@
+{
+  "name": "RYZE Superfoods",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e649bd51-30a1-4575-bf8a-10b1f9f906c3/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Pour Yourself a Better Cup of Coffee ☕️",
+      "launch": "2026-03-11",
+      "days": 155,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "BYE BYE BEER BELLY",
+      "angle": "Targeting specific physical insecurities (bloating/weight gain) with a 'beer belly' hook",
+      "copy": "RYZE is powered by functional mushrooms and adaptogens. Our creamy and delicious blend features six functional mushrooms, prebiotics, zero added sugar and 100% organic or non-GMO ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e649bd51-30a1-4575-bf8a-10b1f9f906c3/1691540238483604.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Pour Yourself a Better Cup of Coffee ☕️",
+      "launch": "2026-04-08",
+      "days": 127,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Love RYZE but it's so expensive, can you guys lower the price?? Okay, I'm about to blow your mind right now.",
+      "angle": "Directly addressing price objections through a 'reply to comment' format",
+      "copy": "RYZE is powered by functional mushrooms and adaptogens. Our creamy and delicious blend features six functional mushrooms, prebiotics, zero added sugar and 100% organic or non-GMO ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e649bd51-30a1-4575-bf8a-10b1f9f906c3/1289610443091090.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Pour Yourself a Better Cup of Coffee ☕️",
+      "launch": "2026-05-22",
+      "days": 83,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "Most people don't realize how fast mushroom coffee works.",
+      "angle": "Timeline of results (Day 1 to Day 7 progression)",
+      "copy": "RYZE is powered by functional mushrooms and adaptogens. Our creamy and delicious blend features six functional mushrooms, prebiotics, zero added sugar and 100% organic or non-GMO ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/e649bd51-30a1-4575-bf8a-10b1f9f906c3/c677a8e0cb039019f1955698e0dbf41fb0c8dd15753213182ecf4390666e53aa.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Pour Yourself a Better Cup of Coffee ☕️",
+      "launch": "2026-03-11",
+      "days": 155,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "Wake Up With A FLAT BELLY",
+      "angle": "Weight loss and bloating reduction as a primary product benefit",
+      "copy": "RYZE is powered by functional mushrooms and adaptogens. Our creamy and delicious blend features six functional mushrooms, prebiotics, zero added sugar and 100% organic or non-GMO ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e649bd51-30a1-4575-bf8a-10b1f9f906c3/1799437241016301.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Pour Yourself a Better Cup of Coffee ☕️",
+      "launch": "2026-03-11",
+      "days": 155,
+      "trend": "Stable at #5 over 12d.",
+      "hook": "HANDLE CORTISOL, DROP 2 PANT SIZES.",
+      "angle": "Linking cortisol management to physical weight loss results",
+      "copy": "RYZE is powered by functional mushrooms and adaptogens. Our creamy and delicious blend features six functional mushrooms, prebiotics, zero added sugar and 100% organic or non-GMO ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/e649bd51-30a1-4575-bf8a-10b1f9f906c3/899585789516731.jpg"
+    }
+  ]
+}

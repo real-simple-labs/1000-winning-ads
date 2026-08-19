@@ -1,0 +1,12 @@
+# Regenerable caches, no need to version these
+.media-cache/
+.next/
+
+# macOS
+.DS_Store
+
+# Local dev
+.claude/
+
+# Internal build docs — never publish (contains Parker client id)
+AGENT-INSTRUCTIONS.md

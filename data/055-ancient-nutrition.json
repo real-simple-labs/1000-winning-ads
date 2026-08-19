@@ -1,0 +1,67 @@
+{
+  "name": "Ancient Nutrition",
+  "category": "Vitamins/supplements",
+  "logo": "",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Multi Collagen Protein",
+      "launch": "2026-05-21",
+      "days": 84,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "We're not saying this collagen is magic... but 👀",
+      "angle": "Curiosity-based hook suggesting 'magical' results without explicit claims",
+      "copy": "Multi Collagen Protein racks up 10 types of collagen from four real food sources, including clinically studied fermented eggshell membrane collagen known for its incredible joint support. Plus probiotics & vitamin C.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3c670b3b-150f-4a42-bd7c-3a055c39e4fb/2113611139494947.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Multi Collagen Protein",
+      "launch": "2026-05-23",
+      "days": 82,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "We're not saying this collagen is magic... but 👀",
+      "angle": "Transformation so good it feels like magic",
+      "copy": "Get the power of 10 types of collagen from 4 real food sources! • Fermented eggshell membrane for incredible joint support • Clinically studied probiotics for gut health • Vitamin C to boost immunity",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3c670b3b-150f-4a42-bd7c-3a055c39e4fb/1284390680061878.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Creatine + Collagen with Electrolytes",
+      "launch": "2026-05-21",
+      "days": 84,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "When life hands you lemons...",
+      "angle": "Playful subversion of a common idiom",
+      "copy": "💪🧠One daily supplement for your muscles and your mind with a side of hydration 💦This 3-in-1 science-backed formula combines 5g of creatine monohydrate, fermented eggshell membrane collagen and real food electrolytes.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3c670b3b-150f-4a42-bd7c-3a055c39e4fb/1309222761353498.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Time to love your hair ❤️",
+      "launch": "2026-07-10",
+      "days": 34,
+      "trend": "Improved from #20 to #4 in 8d. Biggest jump: #18 → #7 on Aug 8 (+11).",
+      "hook": "Lose 6x more weight. Burn 15% more calories.*",
+      "angle": "Quantitative weight loss results (6x more weight)",
+      "copy": "👩‍🦰 Get thicker, stronger, healthier hair plus 22 vitamins and minerals with this all-new multi blend! All of our multivitamin formulas include methylated B vitamins, are optimized for absorption and powered by peptides.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3c670b3b-150f-4a42-bd7c-3a055c39e4fb/2411105882750495.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Active Peptides Metabolism",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Improved from #6 to #5 in 12d. Peak: #4 on Aug 6.",
+      "hook": "90 days to the hair you love",
+      "angle": "Inside-out beauty focusing on nutritional foundations",
+      "copy": "Powered by bioactive peptides and plant-based extracts, this stimulant-free supplement helps regulate hunger hormones to reduce appetite and increase satiety – helping you manage your weight, without the side effects.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3c670b3b-150f-4a42-bd7c-3a055c39e4fb/1205114422681480.mp4"
+    }
+  ]
+}

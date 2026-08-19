@@ -1,0 +1,67 @@
+{
+  "name": "The Honest Company",
+  "category": "Product/service",
+  "logo": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/476633712_1010485537771090_3578648431186373139_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=OfzcK2KMs_cQ7kNvwFKtIVI&_nc_oc=AdqQ7zxB8WCtG1UZCmWx53DaD7LcfK5HHzl3QI7WzfO5oVx-YVFHiTE8zl5HHQeVQ3U&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=-PtVzA3Inx9YXU1EgvG-4A&_nc_ss=7b289&oh=00_AQGgvZKXixsyr0vsd4Oz_Wl0lmZr_UtOQuSj4atHhijJtw&oe=6A839F3D",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Clean Conscious Baby Care",
+      "launch": "2026-08-04",
+      "days": 9,
+      "trend": "Improved from #29 to #1 in 8d. Biggest jump: #29 → #1 on Aug 13 (+28).",
+      "hook": "Becoming a mom completely changed my standards",
+      "angle": "The 'New Mom Standard': Positioning the brand as the solution for parents who suddenly care about ingredient safety.",
+      "copy": "Baby care made to comfort delicate skin through every cuddle, bath, and bedtime. 🫧🌙",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc232f10-3187-41a2-bfa9-13c984b81fc6/2151281142100774.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Clean Conscious Baby Care",
+      "launch": "2026-08-07",
+      "days": 6,
+      "trend": "Improved from #4 to #2 in 4d. Biggest jump: #4 → #2 on Aug 11 (+2).",
+      "hook": "Becoming a mom completely changed my standards for the products I bring into our home.",
+      "angle": "Parenthood standards: How becoming a mom makes you care more about product quality.",
+      "copy": "Baby care made to comfort delicate skin through every cuddle, bath, and bedtime. 🫧🌙",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/fc232f10-3187-41a2-bfa9-13c984b81fc6/97008872c531ddce2a3581fb7f0ec0a152fc9d35d814c0b7ab3b314b7b19bbbb.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Clean Conscious™ Wipes",
+      "launch": "2026-08-04",
+      "days": 9,
+      "trend": "Improved from #33 to #3 in 8d. Biggest jump: #33 → #4 on Aug 11 (+29).",
+      "hook": "Love lives in the little things.",
+      "angle": "Emotional appeal through mother-child bonding",
+      "copy": "Your baby’s skin deserves care that works just as hard as you do. That’s why our Clean Conscious Wipes are designed for life’s most delicate skin. Hypoallergenic + derm-tested.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc232f10-3187-41a2-bfa9-13c984b81fc6/1028609723256474.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Clean Conscious™ Wipes",
+      "launch": "2026-06-29",
+      "days": 45,
+      "trend": "Improved from #9 to #4 in 14d. Biggest jump: #11 → #5 on Aug 5 (+6). Peak: #2 on Aug 7.",
+      "hook": "Derm-tested wipe designed for delicate skin.",
+      "angle": "Clinical validation through dermatologist testing",
+      "copy": "Our Clean Conscious Wipes are gentle on baby and tough on those mystery messes. Hypoallergenic, derm-tested, and kind to skin.✨",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc232f10-3187-41a2-bfa9-13c984b81fc6/2170454633740563.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Clean Conscious™ Wipes",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Improved from #7 to #5 in 2d. Biggest jump: #7 → #5 on Aug 13 (+2).",
+      "hook": "Love lives in the little things.",
+      "angle": "Emotional connection between mother and child",
+      "copy": "Your baby’s skin deserves care that works just as hard as you do. That’s why our Clean Conscious Wipes are designed for life’s most delicate skin. Hypoallergenic + derm-tested.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/fc232f10-3187-41a2-bfa9-13c984b81fc6/10759f81ffcc9ee7613cec21aa93a15dd78c7b372a0d42591f0d2184377eb5e1.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Ruggable",
+  "category": "Home decor",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3b2a05db-c28c-4e68-95ed-2df71a0c3b00/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Meet Dan Pelosi",
+      "launch": "2026-06-05",
+      "days": 69,
+      "trend": "Ranked #460 on Aug 3.",
+      "hook": "Dan Pelosi — RUGGABLE & FRIENDS",
+      "angle": "Leveraging influencer authority through a Dan Pelosi collaboration",
+      "copy": "Dan Pelosi's colorful vision comes to life in our newest collection, spreading warmth, delight, and a feast of color to homes everywhere. 🎨",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3b2a05db-c28c-4e68-95ed-2df71a0c3b00/1000039312823288.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "@ruggable for the win!",
+      "launch": "2026-06-15",
+      "days": 59,
+      "trend": "n/a",
+      "hook": "Time for an upgrade!",
+      "angle": "Effortless home transformation (the 'magic' install)",
+      "copy": "@ruggable for the win!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3b2a05db-c28c-4e68-95ed-2df71a0c3b00/1000075235980206.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "New Gateway Rugs: Ruggable x Marimekko",
+      "launch": "2026-04-26",
+      "days": 109,
+      "trend": "n/a",
+      "hook": "NEW NEW NEW",
+      "angle": "Brand Heritage: Leveraging 75 years of iconic Finnish design for credibility.",
+      "copy": "Marimekko prints belong on your floor, too. Bold color, playful pattern, fully washable.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3b2a05db-c28c-4e68-95ed-2df71a0c3b00/1000080069220949.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Stylish, safe, and washable. Rugs made for homes that live beautifully.",
+      "launch": "2026-06-09",
+      "days": 65,
+      "trend": "n/a",
+      "hook": "Walk all over us.",
+      "angle": "High-traffic durability positioning",
+      "copy": "Designed to handle life beautifully—our machine-washable rugs make cleanup easy and stress-free.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3b2a05db-c28c-4e68-95ed-2df71a0c3b00/1546013720445884.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Invitez la campagne anglaise chez vous",
+      "launch": "2026-06-12",
+      "days": 62,
+      "trend": "n/a",
+      "hook": "Du jardin à votre cuisine",
+      "angle": "",
+      "copy": "Inspirée par la beauté des jardins anglais, la collection Jardin d'été est entièrement lavable et naturellement sophistiquée.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/3b2a05db-c28c-4e68-95ed-2df71a0c3b00/1618461535901713.jpg"
+    }
+  ]
+}

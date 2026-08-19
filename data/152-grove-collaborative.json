@@ -1,0 +1,67 @@
+{
+  "name": "Grove Collaborative",
+  "category": "Health/beauty",
+  "logo": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-1/352810574_753859699754386_6718673538834813466_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=102&ccb=1-7&_nc_sid=418b77&_nc_ohc=Z8e-XzZXkZcQ7kNvwFNeqjn&_nc_oc=Adp9LSUpSENJ65ZPYZLqjKNAFcIfXPbCXWa4PM7KV8seXPa_6-f58gwoAOyBLdUUwOk&_nc_zt=24&_nc_ht=scontent-phx1-1.xx&_nc_gid=D8aadfh9o8TObKaP8X2s-Q&_nc_ss=7b289&oh=00_AQHSWCgUbJECw8LQSH3cxL1bffUKxnVzQnwmKaIRZRPMVg&oe=6A831A38",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Curated Clean Living Essentials",
+      "launch": "2026-07-10",
+      "days": 34,
+      "trend": "Improved from #6 to #1 in 14d. Biggest jump: #6 → #1 on Aug 1 (+5).",
+      "hook": "BREAKING: Moms are ditching Amazon for Grove, who curates trusted products so they don't have to decode labels",
+      "angle": "Curation vs. Comparison: Positioned as a specialized alternative to the chaos of Amazon",
+      "copy": "Grove is the one-stop-shop for better-for-you products. 350+ curated brands, 6,000+ vetted products, one checkout 🌿",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a2669794-03ac-4ded-94fa-efafdc7eae92/1580295167003045.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Curated Clean Living Essentials",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Improved from #14 to #2 in 14d. Biggest jump: #14 → #3 on Aug 1 (+11).",
+      "hook": "BREAKING: Moms are ditching Amazon for Grove, who curates trusted products so they don't have to decode labels",
+      "angle": "Positioning against mass-market giants like Amazon as a more trusted curator",
+      "copy": "Grove is the one-stop-shop for better-for-you products. 350+ curated brands, 6,000+ vetted products, one checkout 🌿",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a2669794-03ac-4ded-94fa-efafdc7eae92/1741845356956186.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Shop limited edition fall scents from Mrs. Meyer's",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #13 to #3 in 14d. Biggest jump: #13 → #4 on Aug 1 (+9).",
+      "hook": "They're back! 🍎 🍂 Shop limited edition fall scents from Mrs. Meyer's",
+      "angle": "",
+      "copy": "They're back! 🍎 🍂 Shop limited edition fall scents from Mrs. Meyer's, including returning favorites and NEW seasonal must-haves.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a2669794-03ac-4ded-94fa-efafdc7eae92/1902321437115460.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Bambu Baby's Feeding Spoons (6M+)",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Improved from #8 to #4 in 14d. Biggest jump: #8 → #2 on Aug 1 (+6). Peak: #2 on Aug 1.",
+      "hook": "Curious about reducing plastic in your home? Start here 👀",
+      "angle": "Highlighting natural material quality through minimalism",
+      "copy": "Curious about reducing plastic in your home? Start here 👀 Focus on the products you use every day. The Unplastic Shop can help you make simple swaps that add up.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a2669794-03ac-4ded-94fa-efafdc7eae92/1682770379713818.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Grove Co. Silicone Sleeve - Glass Foaming Hand Soap Dispenser",
+      "launch": "2026-06-25",
+      "days": 49,
+      "trend": "Improved from #18 to #5 in 14d. Biggest jump: #18 → #5 on Aug 1 (+13).",
+      "hook": "Grove x full circle",
+      "angle": "Aesthetic minimalist home goods for a clean kitchen",
+      "copy": "Make a healthier choice with reduced-plastic home goods, cleaning, and more from Grove Co.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a2669794-03ac-4ded-94fa-efafdc7eae92/3311390115715787.jpg"
+    }
+  ]
+}

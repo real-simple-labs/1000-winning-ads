@@ -1,0 +1,67 @@
+{
+  "name": "RXBAR",
+  "category": "Food & beverage company",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/564652da-4d22-4c68-9ef9-023fa168c3d4/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "No B.S.",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Stable at #1 over 10d.",
+      "hook": "Inside RXBAR.",
+      "angle": "Radical transparency: Listing every single ingredient clearly on the front of the packaging.",
+      "copy": "Fuel up with 10g of protein from simple ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/564652da-4d22-4c68-9ef9-023fa168c3d4/2277498192994120.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "No B.S.",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Stable at #2 over 10d.",
+      "hook": "Inside RXBAR",
+      "angle": "Transparency and Simple Ingredients ('No B.S.')",
+      "copy": "Fuel up with 10g of protein from simple ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/564652da-4d22-4c68-9ef9-023fa168c3d4/1492507948831664.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "No B.S.",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Stable at #3 over 10d.",
+      "hook": "I'm flying to one of the world's most remote islands.",
+      "angle": "Reliability during the stress and chaos of long-distance travel",
+      "copy": "Fuel up with 12g of protein from simple ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/564652da-4d22-4c68-9ef9-023fa168c3d4/1724442811917329.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "No B.S.",
+      "launch": "2026-07-03",
+      "days": 41,
+      "trend": "Stable at #4 over 10d.",
+      "hook": "I'm flying to one of the world's most remote islands.",
+      "angle": "Reliability during the stress and chaos of long-distance travel",
+      "copy": "Fuel up with 12g of protein from simple ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/564652da-4d22-4c68-9ef9-023fa168c3d4/892846633859806.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "No B.S.",
+      "launch": "2026-07-05",
+      "days": 39,
+      "trend": "Stable at #5 over 10d.",
+      "hook": "Inside RXBAR.",
+      "angle": "Ingredient transparency ('No B.S.' and clear ingredient listing)",
+      "copy": "Fuel up with 10g of protein from simple ingredients.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/564652da-4d22-4c68-9ef9-023fa168c3d4/1000877919346536.mp4"
+    }
+  ]
+}

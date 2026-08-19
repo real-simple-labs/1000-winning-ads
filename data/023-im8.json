@@ -1,0 +1,67 @@
+{
+  "name": "IM8",
+  "category": "Health & wellness website",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f039bb4-271a-4402-a7ec-ef76e56afd65/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "The Beckham Stack: Nutrition Meets Longevity",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #2 to #1 in 13d.",
+      "hook": "The Beckham Stack: Essentials + Longevity Set",
+      "angle": "Celebrity-curated health and longevity routine",
+      "copy": "Fuel your body today and protect it for tomorrow. 🌿 The Beckham Stack combines IM8 Daily Ultimate Essentials and IM8 Daily Ultimate Longevity — giving you full-spectrum nutrition, cellular support, and healthy aging…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f039bb4-271a-4402-a7ec-ef76e56afd65/1293412079368213.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Built For People Like You.",
+      "launch": "2026-06-23",
+      "days": 51,
+      "trend": "Improved from #23 to #2 in 13d. Biggest jump: #22 → #2 on Aug 12 (+20). Biggest drop: #18 → #22 on Aug 10 (-4).",
+      "hook": "Up To 30% Off Your First Quarter. Up To 90 Days To Decide If The Evidence Holds Up In Practice.",
+      "angle": "Scientific 'Verification' angle: framing the trial as a personal experiment to prove efficacy.",
+      "copy": "Most supplement brands hope you don't look too closely. IM8 was designed for the ones who do. Every dose on the label. Every ingredient peer-reviewed. NSF Certified for Sport, tested for 280+ banned substances every batch.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f039bb4-271a-4402-a7ec-ef76e56afd65/1803311653817266.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Built For People Like You.",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Improved from #40 to #3 in 13d. Biggest jump: #25 → #3 on Aug 12 (+22). Biggest drop: #20 → #25 on Aug 10 (-5).",
+      "hook": "Up To 30% Off Your First Quarter. Up To 90 Days To Decide If The Evidence Holds Up In Practice.",
+      "angle": "Empirical evidence and personal verification",
+      "copy": "Most supplement brands hope you don't look too closely. IM8 was designed for the ones who do. Every dose on the label. Every ingredient peer-reviewed. NSF Certified for Sport, tested for 280+ banned substances every batch.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f039bb4-271a-4402-a7ec-ef76e56afd65/1547525183420717.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Built For People Like You.",
+      "launch": "2026-07-13",
+      "days": 31,
+      "trend": "Improved from #29 to #4 in 8d. Biggest jump: #29 → #4 on Aug 12 (+25).",
+      "hook": "Up To 30% Off Your First Quarter. Up To 90 Days To Decide If The Evidence Holds Up In Practice.",
+      "angle": "Empirical evidence and personal verification",
+      "copy": "Most supplement brands hope you don't look too closely. IM8 was designed for the ones who do. Every dose on the label. Every ingredient peer-reviewed. NSF Certified for Sport, tested for 280+ banned substances every batch.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1f039bb4-271a-4402-a7ec-ef76e56afd65/4332174927034386.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Built For People Like You.",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Ranked #5 on Aug 12.",
+      "hook": "You Know Most Probiotics Die In Stomach Acid Before They Reach The Gut. So Why Are You Still Seeing Standard Strains On Labels?",
+      "angle": "Highlighting the failure of 'standard' probiotics to survive stomach acid",
+      "copy": "Most supplement brands hope you don't look too closely. IM8 was designed for the ones who do. Every dose on the label. Every ingredient peer-reviewed. NSF Certified for Sport, tested for 280+ banned substances every batch.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1f039bb4-271a-4402-a7ec-ef76e56afd65/7ad1f3a00f23ef4fd8e5e861dab5e5f32310ad9901d0b3dbe31a382411e1a054.jpg"
+    }
+  ]
+}

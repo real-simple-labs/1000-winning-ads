@@ -1,0 +1,67 @@
+{
+  "name": "Poppi",
+  "category": "Food & beverage",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abeaff69-c8f6-4e79-9c3b-404d98297b5a/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "soda's back, but better",
+      "launch": "2026-07-23",
+      "days": 21,
+      "trend": "Improved from #8 to #1 in 14d. Biggest jump: #8 → #4 on Aug 3 (+4).",
+      "hook": "BUY 1, GET 1 FREE innercircle rewards NOW AVAILABLE AT CIRCLE K",
+      "angle": "High-value BOGO (Buy 1 Get 1) promotion",
+      "copy": "Soda made with ingredients you can love, plus only 5g sugar and prebiotics. Buy a Poppi and get another (1) FREE at Circle K.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abeaff69-c8f6-4e79-9c3b-404d98297b5a/1550525563443940.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "soda's back, but better",
+      "launch": "2026-07-31",
+      "days": 13,
+      "trend": "Improved from #18 to #2 in 10d. Biggest jump: #18 → #10 on Aug 7 (+8).",
+      "hook": "poppi x SPIDER-MAN",
+      "angle": "Superhero movie tie-in exclusivity",
+      "copy": "Soda made with ingredients you can love, plus only 5g sugar and prebiotics. Buy a Poppi and get another (1) FREE at Circle K.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abeaff69-c8f6-4e79-9c3b-404d98297b5a/1763050391539492.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Mouthwatering Flavor",
+      "launch": "2026-07-17",
+      "days": 27,
+      "trend": "Improved from #28 to #3 in 14d. Biggest jump: #28 → #16 on Aug 3 (+12).",
+      "hook": "So I heard that Poppi came out with a new Spider-Man can in honor of the new movie, so let's go see if we can find it.",
+      "angle": "Product Hunt: Creating excitement by showing the journey of finding a 'limited edition' item.",
+      "copy": "Stock up on your favorite Poppi flavors, now 2 for $4.50 at Walgreens.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abeaff69-c8f6-4e79-9c3b-404d98297b5a/1578895033595715.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "A poppi raspberry rose spritz mocktail is what I consider sp",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #16 to #4 in 14d. Biggest jump: #16 → #9 on Aug 3 (+7).",
+      "hook": "If you were to ask me to create a drink that embodied spring in a glass, I would make you this.",
+      "angle": "Aesthetic spring hosting and tablescape inspiration",
+      "copy": "A poppi raspberry rose spritz mocktail is what I consider spring in glass 🌸🥂 It's tulip season & I wanted to create something that looked just as floral… I ended up dressing up the coupes to look like",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abeaff69-c8f6-4e79-9c3b-404d98297b5a/1583074476748307.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "soda's back, but better",
+      "launch": "2026-07-31",
+      "days": 13,
+      "trend": "Improved from #20 to #5 in 10d. Biggest jump: #14 → #8 on Aug 11 (+6).",
+      "hook": "poppi x Marvel Studios SPIDER-MAN BRAND NEW DAY",
+      "angle": "High-profile movie partnership for brand credibility",
+      "copy": "Soda made with ingredients you can love, plus only 5g sugar and prebiotics. Buy a Poppi and get another (1) FREE at Circle K.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abeaff69-c8f6-4e79-9c3b-404d98297b5a/1613194067130721.mp4"
+    }
+  ]
+}

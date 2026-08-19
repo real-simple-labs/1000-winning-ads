@@ -1,0 +1,67 @@
+{
+  "name": "Nutrafol",
+  "category": "Dermatologist",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ddcd6156-6946-48aa-8cc9-c361837dd865/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Save every single month.",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Stable at #1 over 2d.",
+      "hook": "NUTRAFOL WOMEN'S BALANCE",
+      "angle": "Clinical-grade nutraceutical positioning",
+      "copy": "Clinically proven to support visibly thicker, fuller hair. Save up to 20% when you subscribe.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ddcd6156-6946-48aa-8cc9-c361837dd865/894390316628839.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Lightweight formula for major results.",
+      "launch": "2026-08-07",
+      "days": 6,
+      "trend": "Stable at #2 over 2d.",
+      "hook": "For the girl who wants to see less hair breakage, and more hair confidence.",
+      "angle": "Solving hair breakage concerns for women",
+      "copy": "A little bit of Nutrafol Hair Serum goes a long way to support your hair health.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ddcd6156-6946-48aa-8cc9-c361837dd865/ad9444f4db20178b526046871996f509cb13692b3e092195c08992aeb17ffb2b.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Visible results in 3-6 months.",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Stable at #3 over 2d.",
+      "hook": "Pulling more hair out of the brush than felt normal.",
+      "angle": "Visualizing the visceral pain point of excessive hair shedding",
+      "copy": "When you commit to Nutrafol Women, you're committing to more than visibly thicker hair. It's about doing something for yourself—with results that speak for themselves.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ddcd6156-6946-48aa-8cc9-c361837dd865/1064549149561368.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Lightweight formula for major results.",
+      "launch": "2026-08-07",
+      "days": 6,
+      "trend": "Improved from #10 to #4 in 2d. Biggest jump: #10 → #4 on Aug 11 (+6).",
+      "hook": "For the girl who wants to see less hair breakage, and more hair confidence.",
+      "angle": "Combatting hair breakage for stronger strands",
+      "copy": "A little bit of Nutrafol Hair Serum goes a long way to support your hair health.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ddcd6156-6946-48aa-8cc9-c361837dd865/506d1e938c53e649bd08a5309d5cf7d3cb6ed7ee8f4fc9a74673076dbc60dcb3.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Women 45+ Toxin Cleanse Hair Growth Duo",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #7 to #5 in 2d. Biggest jump: #7 → #5 on Aug 11 (+2).",
+      "hook": "NUTRAFOL WOMEN'S BALANCE",
+      "angle": "Comprehensive hair growth system for women",
+      "copy": "Keep hair growth on track even as your body changes with Nutrafol's clinically tested supplements.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ddcd6156-6946-48aa-8cc9-c361837dd865/872475149039448.jpg"
+    }
+  ]
+}

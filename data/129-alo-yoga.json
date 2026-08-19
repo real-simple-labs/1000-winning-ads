@@ -1,0 +1,67 @@
+{
+  "name": "Alo Yoga",
+  "category": "Shopping & retail",
+  "logo": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/386343354_873027304194820_6575890937504158940_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=6fvpYr9DJ-wQ7kNvwG5NWB7&_nc_oc=AdqcyIX6SFSueABpWwAQeRz7KiM8j_L50kfh9ZxLYYgrhPngkT4Grp_h87lgYppWgTk&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=7m2j-l2-neSvGbk3LDKwYw&_nc_ss=7b289&oh=00_AQE_jLDGO2HHNKGfSddbR1hOQa2W6W4ctlddaBH4RK-ucA&oe=6A88D7AA",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "7/8 High-Waist Airbrush Legging",
+      "launch": "2026-08-14",
+      "days": 5,
+      "trend": "Improved from #14 to #1 in 2d. Biggest jump: #14 → #1 on Aug 17 (+13).",
+      "hook": "Closet refresh, incoming.",
+      "angle": "360-degree product visibility to demonstrate fit and opacity",
+      "copy": "Closet refresh, incoming.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/7ec554e0-5d7f-425c-9f78-49829fcd8652/30535dcd2ffd8742d2c4488dd8d91387aecc1d9368036c3fa2cd9755b8e5fe2c.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Muse Hoodie",
+      "launch": "2026-08-14",
+      "days": 5,
+      "trend": "Improved from #47 to #2 in 2d. Biggest jump: #47 → #2 on Aug 17 (+45).",
+      "hook": "This is your sign to snag these styles before someone else does.",
+      "angle": "Premium textured loungewear for a sophisticated home aesthetic",
+      "copy": "This is your sign to snag these styles before someone else does.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/7ec554e0-5d7f-425c-9f78-49829fcd8652/10e299fa04cd5f45aaab8f9fa70f39e55be2c152124a7c02b46620465ecb1162.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Rüzgarlı Kaliforniya kıyılarından ilham alan, doğanın en sev",
+      "launch": "2026-07-29",
+      "days": 21,
+      "trend": "Improved from #42 to #3 in 10d. Biggest jump: #34 → #1 on Aug 15 (+33). Biggest drop: #27 → #34 on Aug 13 (-7). Peak: #1 on Aug 15.",
+      "hook": "A woman in green activewear performing a graceful stretch on a wooden pilates reformer placed on a mossy rock outcrop beside the shimmering blue ocean.",
+      "angle": "Aspirational wellness lifestyle through nature-integrated fitness",
+      "copy": "Rüzgarlı Kaliforniya kıyılarından ilham alan, doğanın en sevdiği nötr renkle tanışın. Dune Grass şimdi ALO Zorlu Center mağazasında satışta.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/7ec554e0-5d7f-425c-9f78-49829fcd8652/c0c29b6e663f8fde239aa79e5d8b0aa904b9d18eead13c811f57f837bff22260.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "New Drop: Dune Grass",
+      "launch": "2026-08-04",
+      "days": 15,
+      "trend": "Improved from #123 to #4 in 10d. Biggest jump: #59 → #6 on Aug 15 (+53).",
+      "hook": "alo NEW DROP Dune Grass AVAILABLE IN STORES",
+      "angle": "Aesthetic-led marketing: Using high-end lifestyle visuals (beach/Pilates) to sell a vibe.",
+      "copy": "Inspired by the windswept California coast, meet nature’s favorite neutral.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/7ec554e0-5d7f-425c-9f78-49829fcd8652/c19d70171b87a2dc911d1cb30bdc7fd8053690e8119efa021c7012028fadc76e.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "New Drop: Dune Grass",
+      "launch": "2026-08-04",
+      "days": 15,
+      "trend": "Improved from #58 to #5 in 10d. Biggest jump: #53 → #4 on Aug 15 (+49). Biggest drop: #48 → #53 on Aug 13 (-5). Peak: #4 on Aug 15.",
+      "hook": "New Essentials DUNE GRASS",
+      "angle": "New seasonal color drop ('Dune Grass') for collection exclusivity",
+      "copy": "Wear-everywhere silhouettes, lightweight fabrics, and everyday versatility.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/7ec554e0-5d7f-425c-9f78-49829fcd8652/f3f4f91124a15c1b3f5b4d226a6795dd7032ffe2b96d49283b606b52de1ae000.jpg"
+    }
+  ]
+}

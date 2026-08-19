@@ -1,0 +1,67 @@
+{
+  "name": "Moon Juice",
+  "category": "Health & wellness website",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/04af39fe-b38f-4115-a161-a5c383c4a7db/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Ting®",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Improved from #2 to #1 in 12d.",
+      "hook": "SuperHair",
+      "angle": "Premium, clinical-grade hair health supplementation",
+      "copy": "Get 30% off your first month and 10% off forever. Stock up on wellness essentials now.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/04af39fe-b38f-4115-a161-a5c383c4a7db/3597708243713867.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Mineral support for every stage",
+      "launch": "2026-07-29",
+      "days": 15,
+      "trend": "Improved from #6 to #2 in 10d. Biggest jump: #6 → #3 on Aug 3 (+3).",
+      "hook": "Drinking for Two?",
+      "angle": "Twisting a familiar pregnancy idiom to highlight hydration needs",
+      "copy": "Summer pregnancy? Mini Dew provides essential minerals and electrolytes that hydrate deeper than water alone.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/04af39fe-b38f-4115-a161-a5c383c4a7db/1357697475808285.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Mineral support for every stage",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Stable at #3 over 4d. Biggest jump: #5 → #3 on Aug 11 (+2).",
+      "hook": "Drinking for Two?",
+      "angle": "Nutritional deficiency gap during pregnancy",
+      "copy": "Summer pregnancy? Mini Dew provides essential minerals and electrolytes that hydrate deeper than water alone.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/04af39fe-b38f-4115-a161-a5c383c4a7db/1993bcd5a8abd9a7722efa31b283ed83087ea8880c46f0ee78191629fd6c46fd.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Mineral support for every stage",
+      "launch": "2026-08-04",
+      "days": 9,
+      "trend": "Improved from #8 to #4 in 6d. Biggest jump: #8 → #4 on Aug 7 (+4).",
+      "hook": "Mineral requirements rise significantly during pregnancy",
+      "angle": "Educational problem/solution for pregnant and nursing mothers",
+      "copy": "Mini Dew quenches better than water alone. Pink salt electrolytes + ionic trace minerals to restore, not just rehydrate.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/04af39fe-b38f-4115-a161-a5c383c4a7db/2101175193771490.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "30% Off Today, 10% Off Forever",
+      "launch": "2026-07-29",
+      "days": 15,
+      "trend": "Improved from #13 to #5 in 12d. Biggest jump: #13 → #5 on Aug 3 (+8). Peak: #3 on Aug 5.",
+      "hook": "We didn't invent electrolytes. We just made them pregnancy-safe + microplastic-free",
+      "angle": "Differentiating via specialized safety for pregnancy",
+      "copy": "Water was never enough. Rehydrate with electrolytes + minerals–from the cleanest sources, in bioavailable forms, at clinically studied doses. Mini Dew is 2 in 1: electrolytes + minerals for whole-body hydration",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/04af39fe-b38f-4115-a161-a5c383c4a7db/1058752256726684.jpg"
+    }
+  ]
+}

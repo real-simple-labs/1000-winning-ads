@@ -1,0 +1,67 @@
+{
+  "name": "Wild One",
+  "category": "Pet Supplies",
+  "logo": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-1/433298158_966822028523985_7554721188911282549_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=dV5qNuREFsIQ7kNvwHIdvle&_nc_oc=AdparVISmdTMV4UimaoSaWcFHVOj8-sycYeYgu1XwUWIqfoMwQF807I_B8VRz70bIxg&_nc_zt=24&_nc_ht=scontent-iad3-2.xx&_nc_gid=QtPzMA5A98bA3f8ueRyiCQ&_nc_ss=7b289&oh=00_AQG2ZZteYqxBnuexXwjZ1KgXnZuoSn0DQCmRViKXRRE5yQ&oe=6A8155EE",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Cute Essentials for Cute Pups ❤️",
+      "launch": "2026-01-22",
+      "days": 203,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "POV shot of a small black dog on a blue leash walking on a street, framed within a retro Polaroid film border.",
+      "angle": "Lifestyle-centric pet fashion (stylish owners and dogs)",
+      "copy": "Go ahead, show off your pup at the dog park in the Wild One Walk Kit. There's a reason they keep selling out! Every pup deserves to be stylish AND comfortable.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/430e0921-8aa5-4399-9450-3990cd6676cd/830214916673842.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Cushioned Dog Harness",
+      "launch": "2026-04-10",
+      "days": 125,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Go ahead, show off your pup at the dog park in the Wild One Walk Kit.",
+      "angle": "Premium minimalist design for modern pet owners",
+      "copy": "Go ahead, show off your pup at the dog park in the Wild One Walk Kit. There's a reason they keep selling out! Every pup deserves to be stylish AND comfortable.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/430e0921-8aa5-4399-9450-3990cd6676cd/962945976212372.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Cushioned Dog Harness",
+      "launch": "2026-04-10",
+      "days": 125,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "Go ahead, show off your pup at the dog park in the Wild One Walk Kit.",
+      "angle": "Premium minimalist design for modern pet owners",
+      "copy": "Go ahead, show off your pup at the dog park in the Wild One Walk Kit. There's a reason they keep selling out! Every pup deserves to be stylish AND comfortable.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/430e0921-8aa5-4399-9450-3990cd6676cd/955517313794309.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Shop The Air Collection Now",
+      "launch": "2026-02-21",
+      "days": 173,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "Get ready with us to go on a coffee date.",
+      "angle": "Lifestyle-focused 'Get Ready With Me' (GRWM) for pets",
+      "copy": "The Air Collection is here—lighter, brighter, and now available at wildone.com",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/430e0921-8aa5-4399-9450-3990cd6676cd/2452925928493052.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "The cat's out of the bag… and it's never looked better.",
+      "launch": "2026-06-01",
+      "days": 73,
+      "trend": "Stable at #5 over 12d.",
+      "hook": "Cat Collection • Retro Harness Walk Kit",
+      "angle": "Retro/Y2K nostalgia as a fashion statement for pets",
+      "copy": "Introducing our thoughtfully designed essentials for cat, which perform beautifully and live effortlessly in your space. Now at wildone.com",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/430e0921-8aa5-4399-9450-3990cd6676cd/961001430030748.jpg"
+    }
+  ]
+}

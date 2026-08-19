@@ -1,0 +1,67 @@
+{
+  "name": "Feastables",
+  "category": "Food & beverage",
+  "logo": "https://qccrqxnnqpkeqvjdwogy.supabase.co/storage/v1/object/public/internal-facebook-ads/external-brands/9c61dc2d-f6d2-41c8-99c3-e3adf9d68b15/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Plot Twist 👀",
+      "launch": "2026-06-21",
+      "days": 53,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Alright, one of these bad boys is spicy.",
+      "angle": "",
+      "copy": "We told them it might be spicy 😭 They were relieved to find out it was just really good chocolate milk (with 13g of protein)",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61dc2d-f6d2-41c8-99c3-e3adf9d68b15/1004564565794580.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Plot Twist 👀",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Alright, one of these bad boys is spicy.",
+      "angle": "",
+      "copy": "We told them it might be spicy 😭 They were relieved to find out it was just really good chocolate milk (with 13g of protein)",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61dc2d-f6d2-41c8-99c3-e3adf9d68b15/1485288166242157.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Make It Official",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #60 to #3 in 6d. Biggest jump: #60 → #13 on Aug 8 (+47).",
+      "hook": "Look closely at the peanut butter...",
+      "angle": "Direct texture comparison (Creamy vs. Crumbly)",
+      "copy": "One = dry, crumbly One = ooey, gooey You can feel the difference through the screen.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61dc2d-f6d2-41c8-99c3-e3adf9d68b15/1370099917920384.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Make It Official",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #34 to #4 in 6d. Biggest jump: #34 → #14 on Aug 8 (+20).",
+      "hook": "Look closely at the peanut butter...",
+      "angle": "Texture comparison: highlighting Feastables' creaminess vs. competition's dryness",
+      "copy": "One = dry, crumbly One = ooey, gooey You can feel the difference through the screen.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61dc2d-f6d2-41c8-99c3-e3adf9d68b15/1766011141242313.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "We Did It Differently",
+      "launch": "2026-04-22",
+      "days": 113,
+      "trend": "Dropped from #3 to #5 in 12d. Biggest drop: #3 → #5 on Aug 12 (-2). Peak: #2 on Aug 2.",
+      "hook": "When Feastables started to work on its peanut butter cup, I didn't want to just be a me-too.",
+      "angle": "Quality comparison (creamy vs. clumpy filling)",
+      "copy": "We did something different: used real, creamy peanut butter, like you’d find in a jar.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61dc2d-f6d2-41c8-99c3-e3adf9d68b15/2414733695706580.mp4"
+    }
+  ]
+}

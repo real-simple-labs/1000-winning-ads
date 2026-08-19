@@ -1,0 +1,67 @@
+{
+  "name": "Mars Men",
+  "category": "Health & wellness website",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/be799fca-2222-4b99-972e-4527e26629b6/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Natural Hormonal Support for Men Over 35",
+      "launch": "2026-05-01",
+      "days": 110,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "Bro, before you start TRT injections, try this. You might not actually need them.",
+      "angle": "Natural alternative to permanent TRT dependency",
+      "copy": "You're not \"just getting old.\" Your hormones crashed. Here's how I restored mine in two months... Most testosterone support options leave you hanging. Either you're signed to TRT for life, never fixing the root problem.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/be799fca-2222-4b99-972e-4527e26629b6/1d93a060a15601d29c2c92391daade594650d7fcf3aac08e2b642a35175dd986.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "90-Day Guarantee Because We Know It Works.",
+      "launch": "2026-05-11",
+      "days": 100,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "50% OFF FOR LIFE",
+      "angle": "Permanent subscription savings (50% off forever)",
+      "copy": "Your grandfather had more testosterone at 60 than you do at 35. He didn't have: ❌ Plastics leaching estrogen into his water ❌ Seed oils in everything he ate ❌ Blue light frying his hormones at 11pm",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/be799fca-2222-4b99-972e-4527e26629b6/0db88035984e3eda4a39d9f48d7c81d4e0e5f5cd2146bedd0c083777b1224d6f.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Man Boobs Gone Or Money Back",
+      "launch": "2026-06-02",
+      "days": 78,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "MAN BOOBS GONE",
+      "angle": "Directly addressing a specific male physical insecurity (chest fat)",
+      "copy": "Three months from now, you're either shirtless and confident, or reaching for the cover-up again. Summer doesn't wait for you to figure it out. And that shirt you keep wearing at the pool? Your kids notice.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/be799fca-2222-4b99-972e-4527e26629b6/9b4cd4ecac59a99420b273e5b7648bca817935758fcc6757a7083da053359b3f.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "90-Day Guarantee Because We Know It Works.",
+      "launch": "2026-05-13",
+      "days": 98,
+      "trend": "Stable at #4 over 14d.",
+      "hook": "50% OFF FOR LIFE",
+      "angle": "Lifetime subscription discount to maximize long-term savings",
+      "copy": "Your grandfather had more testosterone at 60 than you do at 35. He didn't have: ❌ Plastics leaching estrogen into his water ❌ Seed oils in everything he ate ❌ Blue light frying his hormones at 11pm",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/be799fca-2222-4b99-972e-4527e26629b6/4e5b68a62e7daafcc8c28a8a01467f96d1c2aab1c11acfe329b2f465ad234a9d.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Crush Cortisol. Free Your T.",
+      "launch": "2026-05-23",
+      "days": 88,
+      "trend": "Stable at #5 over 14d.",
+      "hook": "8 SIGNS OF HIGH CORTISOL IN MEN",
+      "angle": "Identifying hidden hormonal imbalances as the root cause of daily struggles",
+      "copy": "You don't have 8 separate problems. You have one. Puffy face. Stubborn belly fat. Brain fog. Low libido. Waking up at 3AM staring at the ceiling. Your doctor might call it stress. Or aging. He's wrong.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/be799fca-2222-4b99-972e-4527e26629b6/9c8adba5f38d52a1f7a69522cdce4e296167b07f7067da38c857d0cd2fb3c8f9.jpg"
+    }
+  ]
+}

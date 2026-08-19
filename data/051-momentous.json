@@ -1,0 +1,67 @@
+{
+  "name": "Momentous",
+  "category": "Vitamins/supplements",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abfca80b-10c9-42f0-b88c-df41fabb269a/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Fiber Is the Missing Link",
+      "launch": "2026-06-24",
+      "days": 50,
+      "trend": "Improved from #8 to #1 in 13d. Biggest jump: #5 → #1 on Aug 12 (+4).",
+      "hook": "Built Different",
+      "angle": "",
+      "copy": "If your results don't match your effort, the problem may not be your discipline. It's your gut—and fiber is the foundation that makes everything else work.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abfca80b-10c9-42f0-b88c-df41fabb269a/987135380786844.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Daily Support for How You Move",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Improved from #14 to #2 in 13d. Biggest jump: #11 → #2 on Aug 12 (+9).",
+      "hook": "UP TO 25% OFF Collagen Peptides",
+      "angle": "High-dosage scientific formulation featuring branded ingredients (FORTIGEL®)",
+      "copy": "Your body relies on collagen every day. From training sessions to everyday movement, Momentous Collagen Peptides supports the connective tissue that helps you move well. Mixes easily, digests cleanly.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abfca80b-10c9-42f0-b88c-df41fabb269a/1575404137273451.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Reduce Muscle Loss",
+      "launch": "2026-06-24",
+      "days": 50,
+      "trend": "Improved from #15 to #3 in 13d. Biggest jump: #12 → #3 on Aug 12 (+9).",
+      "hook": "Women lose muscle faster with age. Creatine helps reduce muscle loss.",
+      "angle": "",
+      "copy": "Muscle changes with age, but strength and vitality are yours to keep. Women naturally start with lower creatine levels than men, and those levels continue to decline over time. Momentous Creatine provides a simple, proven way.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abfca80b-10c9-42f0-b88c-df41fabb269a/4603634353192675.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Backed by Dr. Stacy Sims",
+      "launch": "2026-06-25",
+      "days": 49,
+      "trend": "Improved from #16 to #4 in 13d. Biggest jump: #13 → #4 on Aug 12 (+9).",
+      "hook": "For women who are having lots of joint issues, joint pain,",
+      "angle": "",
+      "copy": "Dr. Stacy Sims recommends Momentous Collagen Peptides to protect joints through all stages of life. Strengthen joints, improve skin elasticity, and support long-term tissue resilience.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abfca80b-10c9-42f0-b88c-df41fabb269a/1553291793126949.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "The Highest Quality Creatine",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #31 to #5 in 13d. Biggest jump: #14 → #5 on Aug 12 (+9).",
+      "hook": "The future of creatine, backed by science.",
+      "angle": "Scientific validation and professional-grade quality",
+      "copy": "10x fewer impurities than other premium creatine. Tested by four independent agencies across six stages. This is Momentous® Signature Spec Creatine — and there's nothing else like it.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/abfca80b-10c9-42f0-b88c-df41fabb269a/2099844004222253.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Thorne",
+  "category": "Product/service",
+  "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/616369321_943688217984962_2808867380613942957_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=XfNhPcDs4AcQ7kNvwEe0E6g&_nc_oc=AdqlDM5t2KThZHPncsvxZU54Ai2JQ8gU35tOQPm0drk6LhOYs13r4C77BBr0EwdS7Oc&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=rmErp9gMLQ3cwJwxXpoWCg&_nc_ss=7b289&oh=00_AQGoRr7J20KCz7HJtCR5JshqeKsc7OI5AW0IcLhWRTXQCw&oe=6A83C2B2",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Save up to 20% when you subscribe to Thorne",
+      "launch": "2026-06-01",
+      "days": 79,
+      "trend": "Improved from #4 to #1 in 11d. Biggest jump: #4 → #1 on Aug 9 (+3).",
+      "hook": "Subscribe & save up to 20%",
+      "angle": "Financial incentive for recurring customers (20% discount)",
+      "copy": "Shorten your to-do list with automatic refills of your favorite Thorne supplements. Subscribe and save up to 20% + free shipping on all retail orders.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/463b8691-8894-4d90-aecd-7d56d4dd4a84/1644925833278116.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Thorne",
+      "launch": "2026-06-01",
+      "days": 79,
+      "trend": "Improved from #5 to #2 in 11d. Biggest jump: #5 → #2 on Aug 9 (+3).",
+      "hook": "Sourced and tested to serve biology, never shortcuts",
+      "angle": "Positioning quality as the primary differentiator over cheaper 'shortcut' alternatives",
+      "copy": "Premium isn’t a price tag, it’s a process. Thorne Creatine: clean sourcing, micronized for absorption, 4× testing #OnlyThorne",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/463b8691-8894-4d90-aecd-7d56d4dd4a84/877536872056680.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Get Started Today",
+      "launch": "2026-04-21",
+      "days": 120,
+      "trend": "Improved from #7 to #3 in 11d. Biggest jump: #7 → #3 on Aug 9 (+4).",
+      "hook": "A passive revenue stream.",
+      "angle": "Financial incentive: Positioning supplements as an effortless secondary income source for medical practices.",
+      "copy": "A new revenue stream, right at your fingertips. Get started today. #onlyThorne",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/463b8691-8894-4d90-aecd-7d56d4dd4a84/744495748025862.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Say hello to Magnesium Glycinate.",
+      "launch": "2026-06-01",
+      "days": 79,
+      "trend": "Improved from #8 to #5 in 11d. Biggest jump: #8 → #5 on Aug 9 (+3).",
+      "hook": "It’s finally here, and I can’t wait to try it.",
+      "angle": "Product launch hype and anticipation",
+      "copy": "Good news, quality sleep support is now available in capsule form.* Shop Thorne's new Magnesium Glycinate today. #onlyThorne",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/463b8691-8894-4d90-aecd-7d56d4dd4a84/1293388276000837.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Creatine Travel Packs",
+      "launch": "2026-06-01",
+      "days": 79,
+      "trend": "Improved from #9 to #6 in 11d. Biggest jump: #9 → #6 on Aug 9 (+3).",
+      "hook": "Okay ladies, I added a new supplement to my routine a few weeks ago.",
+      "angle": "Debunking the myth that creatine is only for men/bodybuilders",
+      "copy": "Busting the creatine myth! 💪 So many people think creatine is just for men or bodybuilders, but that’s SO outdated. Truth is, it’s one of the most researched supplements with amazing benefits for women...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/463b8691-8894-4d90-aecd-7d56d4dd4a84/2480191789155246.mp4"
+    }
+  ]
+}

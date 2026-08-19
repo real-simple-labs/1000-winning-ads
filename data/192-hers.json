@@ -1,0 +1,67 @@
+{
+  "name": "Hers",
+  "category": "Health & wellness website",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9b14b1d0-f271-4a39-b5f5-c37808cb8146/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Get Started Today",
+      "launch": "2026-07-14",
+      "days": 31,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "Wegovy Pill",
+      "angle": "Leveraging high-volume brand recognition for Wegovy to build immediate trust",
+      "copy": "Wegovy® is the most affordable* FDA-approved GLP-1 for weight loss, and it's now on a platform that actually puts you first. Why Hers? ✅ FDA-approved GLP-1 pill and pens available, if eligible ✅ Medication as low as $149/mo** ✅ 100% online",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9b14b1d0-f271-4a39-b5f5-c37808cb8146/1032455932474822.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Get Started Today",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "Improved from #12 to #5 in 12d. Biggest jump: #12 → #9 on Aug 3 (+3).",
+      "hook": "You didn't realize how tired you were until you weren't.",
+      "angle": "Weight loss as a solution for chronic fatigue and low energy",
+      "copy": "Get Wegovy® with Hers, along with personalized care that actually puts you first. Why Hers? ✅ FDA-approved GLP-1 pill and pens available ✅ Medication as low as $149/mo ✅ 100% online. No guesswork. Just real weight loss with provider-led treatment plans.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9b14b1d0-f271-4a39-b5f5-c37808cb8146/798226859983528.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "See if treatment is right for you",
+      "launch": "2026-04-13",
+      "days": 123,
+      "trend": "Dropped from #3 to #6 in 12d. Biggest drop: #3 → #5 on Aug 5 (-2). Peak: #3 on Aug 1.",
+      "hook": "I never thought I could get anxiety medication without the stress of seeing a doctor until...",
+      "angle": "Eliminating the logistical stress of doctor visits for mental health",
+      "copy": "Why Hers for mental health care? ✅ No office visits or pharmacy trips required ✅ Vetted, licensed healthcare providers ✅ Free shipping from licensed US pharmacies, if prescribed ✅ Unlimited ongoing check-ins",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9b14b1d0-f271-4a39-b5f5-c37808cb8146/2020520082178750.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Start Health Screening",
+      "launch": "2026-04-09",
+      "days": 127,
+      "trend": "Dropped from #8 to #11 in 12d. Biggest drop: #9 → #11 on Aug 13 (-2). Peak: #8 on Aug 1.",
+      "hook": "Get a health test",
+      "angle": "Comprehensive health monitoring with 130+ signals",
+      "copy": "Told “everything looks normal”, but still don’t feel like yourself? Get in-depth answers about your health, plus a provider-backed Action Plan to improve it, through Hers. Test for signals tied to 1,000+ conditions with one simple blood draw.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9b14b1d0-f271-4a39-b5f5-c37808cb8146/2234792676928222.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Get Started Today",
+      "launch": "2026-07-23",
+      "days": 22,
+      "trend": "Stable at #13 over 12d. Peak: #12 on Aug 3.",
+      "hook": "Lose weight.\nLower heart event risk¹.",
+      "angle": "Dual-action health benefit: cosmetic weight loss plus life-saving cardiovascular protection",
+      "copy": "Get Wegovy® with Hers, along with personalized care that actually puts you first. Why Hers? ✅ FDA-approved GLP-1 pill and pens available ✅ Medication as low as $149/mo ✅ 100% online. No guesswork. Just real weight loss with provider-led treatment plans.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9b14b1d0-f271-4a39-b5f5-c37808cb8146/3691289027702949.jpg"
+    }
+  ]
+}

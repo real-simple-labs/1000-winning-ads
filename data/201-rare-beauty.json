@@ -1,0 +1,67 @@
+{
+  "name": "Rare Beauty",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://scontent-det1-1.xx.fbcdn.net/v/t39.30808-1/440900791_996563342028785_2424862905317405543_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=VNS1T6hwAEsQ7kNvwFgaib2&_nc_oc=AdokRLRKaOYf4GNSZiGddpYdO7vJUIBKfO_M3kML9Ksm_V7THmqx1kDGKekeRcr4TwU&_nc_zt=24&_nc_ht=scontent-det1-1.xx&_nc_gid=8L2x3VDxVzySPBzy7xKpwA&_nc_ss=7b289&oh=00_AQHYPQKCR2BnTGy_0c-27YMRhEc5hdcBuwDi3bl_acRgmw&oe=6A82B473",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Soft Pinch Lip Oil Stick",
+      "launch": "2026-07-01",
+      "days": 44,
+      "trend": "Improved from #3 to #1 in 12d. Biggest jump: #3 → #1 on Aug 4 (+2).",
+      "hook": "If you have black hair, you're going to love this video because I found our perfect brow color.",
+      "angle": "Targeting a specific aesthetic problem (harsh black brows) for a specific audience (black hair).",
+      "copy": "BLACK HAIRED GIRLS THIS ONE IS FOR US!!!!! @joyceygrossey = 👑 @rarebeauty Brow Harmony Flexible Lifting and Laminating Eyebrow Gel in the shade Soft Black 👀 now available at @sephoracanada ❤️ #rarebeauty",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a79a518d-3c09-432c-b41d-e77783d72f57/1483553970483624.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Find Comfort Hydrating Body Lotion with Pump",
+      "launch": "2026-03-25",
+      "days": 142,
+      "trend": "Improved from #4 to #2 in 12d. Biggest jump: #4 → #2 on Aug 4 (+2).",
+      "hook": "matching my outfit to my lip",
+      "angle": "Aesthetic color coordination: Matching fashion to makeup for a cohesive look.",
+      "copy": "This is makeup made to feel good in, without hiding what makes you unique. Shop now and get free shipping on your $50+ order.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a79a518d-3c09-432c-b41d-e77783d72f57/930856579582144.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Soft Pinch Lip Oil Stick",
+      "launch": "2026-07-15",
+      "days": 30,
+      "trend": "Improved from #7 to #3 in 12d. Biggest jump: #7 → #5 on Aug 2 (+2).",
+      "hook": "matching my outfit to my lip",
+      "angle": "Aesthetic color coordination: Matching fashion to makeup for a cohesive look.",
+      "copy": "NEW to the Soft Pinch fam: The nourishment of an oil, the shine of a gloss, the pigment of lipstick.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a79a518d-3c09-432c-b41d-e77783d72f57/4412405015742188.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "are the new @rarebeauty tinted brow gels goopy on sparse brows??",
+      "launch": "2026-06-23",
+      "days": 52,
+      "trend": "Improved from #9 to #4 in 12d. Biggest jump: #10 → #5 on Aug 4 (+5). Peak: #3 on Aug 8.",
+      "hook": "NEW Rare Beauty tinted brow gel on ASIAN brows",
+      "angle": "Specific demographic solution (Asian eyebrows)",
+      "copy": "are the new @rarebeauty tinted brow gels goopy on sparse brows?? #newmakeup #makeupreview #rarebeauty #browgel #trendingmakeup",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a79a518d-3c09-432c-b41d-e77783d72f57/955730267441222.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Soft Pinch Lip Oil Stick",
+      "launch": "2026-07-21",
+      "days": 24,
+      "trend": "Improved from #10 to #5 in 12d. Biggest jump: #9 → #5 on Aug 12 (+4).",
+      "hook": "Selena's been posting this Rare Beauty Lip Oil Stick for weeks",
+      "angle": "Leveraging celebrity founder hype and personal brand authority",
+      "copy": "Drench your lips in color with NEW Soft Pinch Lip Oil Stick—the best of a lip oil + gloss + lipstick all in one.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a79a518d-3c09-432c-b41d-e77783d72f57/2020788682132301.mp4"
+    }
+  ]
+}

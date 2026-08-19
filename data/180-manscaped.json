@@ -1,0 +1,67 @@
+{
+  "name": "Manscaped",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-1/600521008_1266497282011795_7619234097840903098_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=lDbkp9GH_IIQ7kNvwHrVKBQ&_nc_oc=AdqGI0gC0HwOkeu1t-7s6d-pZrFp3GKfMROiDHp7ttNhq3xT2kLJIqS8InhyPi-UOrA&_nc_zt=24&_nc_ht=scontent-hou1-1.xx&_nc_gid=4sGett32DqqS6aLP12svHA&_nc_ss=7b289&oh=00_AQGqMyxR6HNuSBzIwyxbN0ctAfiwPLIX5j1sp-1FnetwJA&oe=6A833D97",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "The Lawn Mower® 3.0 Plus White Hot",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #5 to #1 in 14d. Biggest jump: #5 → #1 on Aug 11 (+4).",
+      "hook": "This is the Lawn Mower 3.0 Plus, now in the White Hot edition.",
+      "angle": "Special edition product launch (White Hot colorway)",
+      "copy": "Groom with confidence with the ultimate grooming tools from MANSCAPED®! ✔️ Trusted by over 14 million men ✔️ Inventors of SkinSafe® Technology ✔️ One-stop shop for all your grooming needs ✔️ Premium packaging and unboxing experience",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7b35268a-6bcf-41e5-bbb9-ef772ace622b/1345642991082632.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The Lawn Mower® 5.0 Ultra Forged Gold",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #8 to #2 in 14d. Biggest jump: #8 → #2 on Aug 11 (+6).",
+      "hook": "This is the Lawn Mower 3.0 Plus, now in the White Hot edition.",
+      "angle": "Special edition product launch (White Hot colorway)",
+      "copy": "Groom with confidence with the ultimate grooming tools from MANSCAPED®! ✔️ Trusted by over 14 million men ✔️ Inventors of SkinSafe® Technology ✔️ One-stop shop for all your grooming needs ✔️ Premium packaging and unboxing experience",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7b35268a-6bcf-41e5-bbb9-ef772ace622b/814593075073120.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "15% Off Kits & Bundles",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "Stable at #3 over 2d.",
+      "hook": "THE LAWN MOWER 5.0 ULTRA",
+      "angle": "Direct financial incentive through a bundle discount",
+      "copy": "Discover the essential grooming essentials from MANSCAPED®. For a limited time, get 15% off kits & bundles.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/7b35268a-6bcf-41e5-bbb9-ef772ace622b/bc57a14cf274406e0f701fc972af4672da892cac4f4a90d43c105918cafbcd81.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "The Buffer Trio Bundle!",
+      "launch": "2026-06-18",
+      "days": 56,
+      "trend": "Improved from #12 to #4 in 14d. Biggest jump: #12 → #4 on Aug 11 (+8).",
+      "hook": "PSA: Your grooming drawer is a mess!",
+      "angle": "Organization as a solution for grooming clutter",
+      "copy": "Upgrade your grooming routine with The Buffer Trio Bundle by MANSCAPED® . 🚀 ✔️ Scalp Buffer ✔️ Body Buffer ✔️ Face Buffer Bundle and save today!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7b35268a-6bcf-41e5-bbb9-ef772ace622b/1511655420641486.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "The Lawn Mower® 5.0 Ultra Desert Sand!",
+      "launch": "2026-07-20",
+      "days": 24,
+      "trend": "Improved from #18 to #5 in 14d. Biggest jump: #18 → #5 on Aug 11 (+13).",
+      "hook": "THE LAWN MOWER 5.0 ULTRA",
+      "angle": "Premium design and aesthetic appeal through the 'Desert Sand' special edition colorway",
+      "copy": "Meet The Lawn Mower® 5.0 Ultra Desert Sand Colorway special edition trimmer. 😎 Interchangeable dual-head system 🥵 SkinSafe® Technology helps reduce nicks and cuts 💡 Dual LED Spotlight 💦 Waterproof for easy clean-up",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7b35268a-6bcf-41e5-bbb9-ef772ace622b/27627245270289159.jpg"
+    }
+  ]
+}

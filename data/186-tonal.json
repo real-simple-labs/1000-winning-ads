@@ -1,0 +1,67 @@
+{
+  "name": "Tonal",
+  "category": "Sports & Fitness Instruction",
+  "logo": "https://scontent-phl2-1.xx.fbcdn.net/v/t39.30808-1/387023500_731552585677207_1548618460505744642_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=100&ccb=1-7&_nc_sid=418b77&_nc_ohc=hUM3Ed7JP-kQ7kNvwFWXxQr&_nc_oc=AdrwopLkLV4CbKDrJ9XVXO19GFFqNbhU2wxbccM_PXQHKlxgE5hO4V3Xeq-fv8SQrIU&_nc_zt=24&_nc_ht=scontent-phl2-1.xx&_nc_gid=fJ8XZk_vzIw37FQeGt9vtg&_nc_ss=7b289&oh=00_AQEEonpBYNqpOuiwcoogxTRh8MnO6CUygAOHL_6xtU8j5A&oe=6A8283EB",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Shop Tonal 2 now",
+      "launch": "2026-07-28",
+      "days": 17,
+      "trend": "Improved from #8 to #1 in 12d. Biggest jump: #8 → #3 on Aug 2 (+5).",
+      "hook": "GET IT ALL ON YOUR WALL",
+      "angle": "Complete gym replacement in one device",
+      "copy": "Everything you need to replace traditional gym machines like squat rack, free weights, and more—in one sleek, wall-mounted system.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/65fc6977-157b-4b4a-b03b-d322b86f5bda/2110273689844971.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "After 1M Pounds Lifted, This Is My Verdict",
+      "launch": "2026-07-28",
+      "days": 17,
+      "trend": "Improved from #12 to #2 in 12d. Biggest jump: #12 → #5 on Aug 2 (+7).",
+      "hook": "Tonal 2 home gym review: a smarter, quieter, more complete strength system",
+      "angle": "Authority/Editorial social proof through a third-party review",
+      "copy": "Years of real-world use and more reps than I can count, here's what held up and what didn’t. Full Tonal breakdown here.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/65fc6977-157b-4b4a-b03b-d322b86f5bda/3273902342816996.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Shop Tonal 2 now",
+      "launch": "2026-08-04",
+      "days": 10,
+      "trend": "Improved from #5 to #3 in 6d. Biggest jump: #5 → #3 on Aug 10 (+2).",
+      "hook": "GET IT ALL ON YOUR WALL",
+      "angle": "All-in-one home gym solution",
+      "copy": "Everything you need to replace traditional gym machines like squat rack, free weights, and more—in one sleek, wall-mounted system.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/65fc6977-157b-4b4a-b03b-d322b86f5bda/1562386775358542.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Featured On T3",
+      "launch": "2026-07-28",
+      "days": 17,
+      "trend": "Improved from #9 to #4 in 12d. Biggest jump: #9 → #4 on Aug 2 (+5). Peak: #3 on Aug 8.",
+      "hook": "“With its huge library of live and on-demand classes, engaging trainers and intuitive weight adjustments, Tonal delivers the best at-home workout experience on the market today.”",
+      "angle": "Leveraging third-party authority and editorial awards for instant credibility",
+      "copy": "The Tonal is a compact home gym with smart, progressive strength-training programs and ability to do nearly every strength-training move.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/65fc6977-157b-4b4a-b03b-d322b86f5bda/944306192009729.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "how has my body changed after 2 babies?",
+      "launch": "2026-07-10",
+      "days": 35,
+      "trend": "Dropped from #2 to #5 in 12d. Peak: #1 on Aug 2.",
+      "hook": "How has my body changed after two babies?",
+      "angle": "Postpartum body transformation and physical recovery journey",
+      "copy": "how has my body changed after 2 babies? 9 months postpartum and the biggest shift hasn't been physical. it's how i see it now. moving to take care of my body, not to fix it. grateful for @tonal for being part of that 🤍",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/65fc6977-157b-4b4a-b03b-d322b86f5bda/911838177846556.mp4"
+    }
+  ]
+}

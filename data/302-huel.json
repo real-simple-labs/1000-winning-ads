@@ -1,0 +1,67 @@
+{
+  "name": "Huel",
+  "category": "Food & beverage company",
+  "logo": "https://scontent-atl3-1.xx.fbcdn.net/v/t39.30808-1/350533515_642608694581173_1009925636442542664_n.png?stp=dst-png_s148x148&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=EOyB1r987D4Q7kNvwGhmF49&_nc_oc=AdpAun2DFNjsFuzv3vu9TBFAtEqyF-tBQaHToObenlG9-5YTAx-qW5cW-nvI4l4iUmc&_nc_zt=24&_nc_ht=scontent-atl3-1.xx&_nc_gid=vc_tgINzvL_fpvFqHljZEA&_nc_ss=7b289&oh=00_AQEdRoCqzexEZU35EYgpE0Cbju8bqQ7vfH0UzZ0LBopnbw&oe=6A8989DC",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Your wallet will thank you",
+      "launch": "2026-03-20",
+      "days": 152,
+      "trend": "Improved from #3 to #1 in 12d.",
+      "hook": "A week of breakfast for less than £20",
+      "angle": "Affordability and budget-friendly meal planning",
+      "copy": "Convenient meals usually cut corners. That's the compromise most people make. Huel refuses to. In one 60-second meal, you get: ✔ 40g protein to keep you full for hours ✔ High fibre ✔ All essential vitamins & minerals",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/cfa8ac9d-6ded-4e28-a167-ec0ff19f96f6/43a9cb288f7f122d80dddf2fd128090b4e72bf1b7e595004c43e52465c48f0ca.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Stop paying twice for breakfast",
+      "launch": "2026-04-12",
+      "days": 129,
+      "trend": "Improved from #4 to #2 in 12d. Biggest jump: #4 → #2 on Aug 14 (+2).",
+      "hook": "A week of breakfast for less than £20",
+      "angle": "Cost-effective meal planning for busy mornings",
+      "copy": "That £5 'quick breakfast' costs more than money. It usually leaves you hungry again and reaching for snacks by 10am. Huel gives you: ✅ 40g protein ⚡ Ready in 60 seconds 💷 Less than £2 per meal",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/cfa8ac9d-6ded-4e28-a167-ec0ff19f96f6/c5132ee8219cfa77548a7c3dae0abafcf9ff5c2712a118757944edc3f42fb1c0.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "✅ Nutrition You Can Rely On",
+      "launch": "2026-05-13",
+      "days": 98,
+      "trend": "Improved from #5 to #3 in 12d. Biggest jump: #5 → #3 on Aug 14 (+2).",
+      "hook": "A week of low sugar lunches for under 25 €",
+      "angle": "Affordable healthy eating (A week of lunches for under 25€)",
+      "copy": "You already know most convenient meals sacrifice nutrition. Huel doesn't. We deliver: ✅ All 26 vitamins & minerals 💪 25g protein + 9g fiber 🧪 A science-backed formula. Real nutrition, ready whenever you are.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/cfa8ac9d-6ded-4e28-a167-ec0ff19f96f6/0c41b0370a5262c5f3b50e0a22415c4722089a9cc323cc46f9468e7109007f78.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "✅ Nutrition You Can Rely On",
+      "launch": "2026-02-23",
+      "days": 177,
+      "trend": "Improved from #7 to #4 in 12d. Biggest jump: #7 → #4 on Aug 14 (+3).",
+      "hook": "FREE 2026 Welcome Kit",
+      "angle": "High-value introductory offer for new customers",
+      "copy": "Say goodbye to hours of meal prep! 🙅‍♂️ Say Hello to Huel Meal Packs: 💪 25g protein, 400 calories, Complete Nutrition ⏲️ Ready in 5 minutes, no cooking required 🏃 No prep, No mess",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/cfa8ac9d-6ded-4e28-a167-ec0ff19f96f6/b9c675f752c9364a1d4ee4c29d5f9023961e630ac3ccce8dd5972466ee56859b.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "🚫 Stop Choosing Between Easy and Nutritious",
+      "launch": "2026-01-21",
+      "days": 210,
+      "trend": "Improved from #9 to #5 in 12d. Biggest jump: #8 → #5 on Aug 14 (+3).",
+      "hook": "FREE 2026 Welcome Kit",
+      "angle": "Value Stacking: Highlighting the monetary value of free gifts to increase perceived ROI.",
+      "copy": "Who said eating well needs to break the bank? 💰 You don't need a personal chef to feel like a pro. Get all the goodness you need with Huel Black Edition. Packed with 40g of protein for less than 3 € per meal.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/cfa8ac9d-6ded-4e28-a167-ec0ff19f96f6/bf331bef9d447b257691da18cc7a42fd7c5b014cd42f106d412bbd299e686c72.jpg"
+    }
+  ]
+}

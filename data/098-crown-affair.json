@@ -1,0 +1,67 @@
+{
+  "name": "Crown Affair",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9be57770-e46d-4b37-b7eb-2947b7c6b114/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Now available at Sephora",
+      "launch": "2026-06-23",
+      "days": 51,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "DON’T HAVE TIME TO WASH YOUR HAIR? NO PROBLEM.",
+      "angle": "",
+      "copy": "The Dry Shampoo absorbs oil, restores volume, and refreshes roots, no wash needed.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9be57770-e46d-4b37-b7eb-2947b7c6b114/986522020757840.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Now available at Sephora",
+      "launch": "2026-06-23",
+      "days": 51,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "DON’T HAVE TIME TO WASH YOUR HAIR? NO PROBLEM.",
+      "angle": "",
+      "copy": "The Dry Shampoo absorbs oil, restores volume, and refreshes roots, no wash needed.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9be57770-e46d-4b37-b7eb-2947b7c6b114/4557282894485213.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Last Chance To Get The Towel in Pink",
+      "launch": "2026-07-22",
+      "days": 22,
+      "trend": "Improved from #5 to #3 in 12d.",
+      "hook": "",
+      "angle": "",
+      "copy": "Our limited-edition pink colorway is almost sold out - shop the collaboration now while it's still available.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9be57770-e46d-4b37-b7eb-2947b7c6b114/1752638992595091.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Now available at Sephora",
+      "launch": "2026-06-23",
+      "days": 51,
+      "trend": "Dropped from #3 to #4 in 12d. Peak: #3 on Jul 30.",
+      "hook": "ONE STEP FOR FRIZZ FREE, HYDRATED HAIR.",
+      "angle": "",
+      "copy": "Lightweight hydration that smooths frizz and softens strands without weighing hair down.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9be57770-e46d-4b37-b7eb-2947b7c6b114/1687813025807696.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Now available at Sephora",
+      "launch": "2026-06-26",
+      "days": 48,
+      "trend": "Dropped from #4 to #5 in 12d. Peak: #4 on Jul 30.",
+      "hook": "ONE STEP FOR FRIZZ FREE, HYDRATED HAIR.",
+      "angle": "Simplicity through a one-step hair care routine",
+      "copy": "Lightweight hydration that smooths frizz and softens strands without weighing hair down.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9be57770-e46d-4b37-b7eb-2947b7c6b114/2220999638653931.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Living Proof",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://scontent-dfw6-1.xx.fbcdn.net/v/t39.30808-1/763050706_1488337416654917_3339272952856177392_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=U7NIKHHRxgcQ7kNvwHdVRoB&_nc_oc=AdqibJ5L_Olf8XzN2GW6Q3Nly0jiky1Q3oJPstOjlRoKzCCb78q0pnc69c5CxJhpnqI&_nc_zt=24&_nc_ht=scontent-dfw6-1.xx&_nc_gid=p1x3vQYX1hDVpNzRE4HD4Q&_nc_ss=7b289&oh=00_AQHjvpm4K5FWRrNzEsPLZryUPB1KRgcvmo0hV3ZlLcUVGg&oe=6A8371C5",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Get long-lasting volume, texture, and soft hold.",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Improved from #4 to #1 in 14d. Biggest jump: #4 → #1 on Aug 7 (+3).",
+      "hook": "Same hair, two sides, but the only difference is that on one side I used Living Proof's Dry Volume and Texture Spray.",
+      "angle": "Side-by-side comparison for immediate visual proof of volume",
+      "copy": "Instantly transform fine, flat, or thin hair while adding major volume, coveted texture, and buildable hold.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2c939aaa-fec5-4b7e-a76f-1ed31dde758a/1000357106102357.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "48 hours of smoothness (Yes, really)",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #6 to #2 in 8d. Biggest jump: #6 → #3 on Aug 7 (+3).",
+      "hook": "48 hours of smoothness (Yes, really)",
+      "angle": "Longevity of style: Promising results that last for two full days.",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2c939aaa-fec5-4b7e-a76f-1ed31dde758a/1008388975355975.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Full Conditioner",
+      "launch": "2026-06-23",
+      "days": 51,
+      "trend": "Stable at #3 over 14d. Peak: #2 on Aug 7.",
+      "hook": "Living proof. full conditioner",
+      "angle": "Specific solution for fine, thin, or flat hair",
+      "copy": "Rethink what your hair really needs. Living Proof delivers science-backed results in every bottle.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2c939aaa-fec5-4b7e-a76f-1ed31dde758a/2193006338178649.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Living Proof Perfect Hair Day Heat Styling Spray – Smoothness for 48 Hours",
+      "launch": "2026-08-03",
+      "days": 10,
+      "trend": "Improved from #28 to #4 in 8d. Biggest jump: #28 → #4 on Aug 7 (+24).",
+      "hook": "48 hours of smoothness (Yes, really)",
+      "angle": "Longevity of style: Promising results that last for two full days.",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2c939aaa-fec5-4b7e-a76f-1ed31dde758a/1601111534997946.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "NEW Advanced Clean Dry Shampoo Sun-Kissed Pear Limited Edition",
+      "launch": "2026-07-17",
+      "days": 27,
+      "trend": "Improved from #16 to #5 in 14d. Biggest jump: #14 → #8 on Aug 5 (+6).",
+      "hook": "Okay, holy grail to fixing my second, third day curls.",
+      "angle": "Solving the 'multi-day hair' struggle for curly-haired consumers",
+      "copy": "Removes oil, sweat, and odor while leaving hair smelling like a warm, sun-kissed summer day.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2c939aaa-fec5-4b7e-a76f-1ed31dde758a/1060249053191775.mp4"
+    }
+  ]
+}

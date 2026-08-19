@@ -1,0 +1,67 @@
+{
+  "name": "Quince",
+  "category": "Shopping & retail",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b4505a1d-f4b8-4655-813b-78684377ca14/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "100% Washable Silk Skirt",
+      "launch": "2026-03-14",
+      "days": 158,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Their best sale price is still more than ours.",
+      "angle": "Effortless elegance through texture-rich styling",
+      "copy": "Their best sale price is still more than ours.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b4505a1d-f4b8-4655-813b-78684377ca14/6a77da7f86fde194b9c31868e42502f06b296f6764705aaaf25dbfa880746383.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Luxury Bedding, No Luxury Markup",
+      "launch": "2026-07-22",
+      "days": 28,
+      "trend": "Improved from #6 to #2 in 12d. Biggest jump: #6 → #3 on Aug 8 (+3).",
+      "hook": "The perfect summer dress for half the price",
+      "angle": "Luxury quality at an affordable price point ('half the price')",
+      "copy": "Soft, breathable, and made to last—our bedding brings that 5-star luxury feel to your everyday routine. Timeless design. Uncompromising quality. Thoughtfully priced.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b4505a1d-f4b8-4655-813b-78684377ca14/4004d7b3648cbe188de1e17a07bc1c12cea8e6100102dd4e97faa73a6a313606.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Mongolian Cashmere V-Neck Sweater",
+      "launch": "2026-03-13",
+      "days": 159,
+      "trend": "Dropped from #2 to #4 in 12d. Biggest drop: #2 → #4 on Aug 12 (-2). Peak: #2 on Aug 6.",
+      "hook": "Their best sale price is still more than ours.",
+      "angle": "Classic knitwear as a foundation for a modern, sophisticated wardrobe",
+      "copy": "Their best sale price is still more than ours.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b4505a1d-f4b8-4655-813b-78684377ca14/ed7723f7bc897a368aea2430d829d310fb07250f68484f606ea818d10df18c17.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "650,000+ 5-star reviews can't be wrong...",
+      "launch": "2026-07-22",
+      "days": 28,
+      "trend": "Improved from #18 to #5 in 12d. Biggest jump: #14 → #5 on Aug 10 (+9).",
+      "hook": "LIGHTWEIGHT COTTON. 6 panties for $30",
+      "angle": "High-value bundle pricing ($30 for 6 items)",
+      "copy": "😍 Ever wonder why luxury products are so expensive? 🎁 At Quince, they don't have to be. We connect you directly with the factories that make for the world's leading luxury brands.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b4505a1d-f4b8-4655-813b-78684377ca14/0248a4de0c22ffc1cde697bd05ec18c86ebc4f50f5d7fc699ed6b9030bc87543.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Free shipping on everything and 1 full year to return.",
+      "launch": "2026-02-07",
+      "days": 193,
+      "trend": "Dropped from #3 to #6 in 12d. Biggest drop: #3 → #5 on Aug 12 (-2). Peak: #3 on Aug 6.",
+      "hook": "The viral relaxed straight jeans from Quince are so good they've sold out 3 times",
+      "angle": "Scarcity and Social Proof: Highlighting that the product has sold out 3 times and is 'viral'.",
+      "copy": "😍 Ever wonder why luxury products are so expensive? 🎁 At Quince, they don't have to be. We connect you directly with the factories that make for the world's leading luxury brands.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b4505a1d-f4b8-4655-813b-78684377ca14/ecdd203a500b00b0fc223968f19fbac61b1d5fcc93bf9c706fe96b87bc7725ce.mp4"
+    }
+  ]
+}

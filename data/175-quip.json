@@ -1,0 +1,67 @@
+{
+  "name": "quip",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4bec0221-b623-46b5-bcca-01a8c35692ba/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Upgrade to Ultra Lite",
+      "launch": "2026-06-26",
+      "days": 48,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Big Mouth Energy",
+      "angle": "Cultural trendjacking (Big Mouth Energy)",
+      "copy": "Talk a big game. Brush a bigger one. The Ultra Lite Sonic Electric Toothbrush is powerful, personal, & designed to keep up.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4bec0221-b623-46b5-bcca-01a8c35692ba/890767543396777.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Upgrade to Ultra Lite",
+      "launch": "2026-06-29",
+      "days": 45,
+      "trend": "Improved from #3 to #2 in 12d.",
+      "hook": "Big Mouth Energy",
+      "angle": "Leveraging internet culture and slang to build brand personality",
+      "copy": "Talk a big game. Brush a bigger one. The Ultra Lite Sonic Electric Toothbrush is powerful, personal, & designed to keep up.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4bec0221-b623-46b5-bcca-01a8c35692ba/1859093598667920.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "A masterpiece in design",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "Dropped from #2 to #3 in 12d. Peak: #2 on Jul 31.",
+      "hook": "quip",
+      "angle": "Surrealism and visual metaphor as a scroll-stopping hook",
+      "copy": "Your mouth is the canvas. Ultra Lite is the brush. 🎨 Sonic power meets soft, gunk-free silicone for a better, cleaner sonic electric toothbrush.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4bec0221-b623-46b5-bcca-01a8c35692ba/879553088535303.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "A masterpiece in design",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "Your mouth is the canvas. Ultra Lite is the brush.",
+      "angle": "Surrealist imagery as a thumb-stopping hook",
+      "copy": "Your mouth is the canvas. Ultra Lite is the brush. 🎨 Sonic power meets soft, gunk-free silicone for a better clean.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4bec0221-b623-46b5-bcca-01a8c35692ba/781950021594630.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "quip",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Stable at #5 over 12d.",
+      "hook": "Rev Smart",
+      "angle": "Introduction of a new, innovative dental care product",
+      "copy": "Know how well you brush and get better with the NEW Rev Smart Oscillating Toothbrush 🪥 🦷 Removes up to 11x more plaque ☁️ Whitens up to 2x more starting day 1 📲 Connects via Bluetooth to auto-track, improve, and earn rewards",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4bec0221-b623-46b5-bcca-01a8c35692ba/994781903403081.jpg"
+    }
+  ]
+}

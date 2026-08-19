@@ -1,0 +1,28 @@
+{
+  "missing": [
+    {
+      "name": "Javy Coffee",
+      "reason": "Not in Parker's database (searched 'Javy Coffee', 'Javy', 'javycoffee.com'). Only match was 'Javvy Protein Coffee', a different brand."
+    },
+    {
+      "name": "Kin Euphorics",
+      "reason": "Brand exists in Parker (exact match) but totalAdsScraped is 0 — no ad data available."
+    },
+    {
+      "name": "Spindrift",
+      "reason": "Not in Parker's database (searched 'Spindrift', 'Spindrift Sparkling Water', 'drinkspindrift.com')."
+    },
+    {
+      "name": "Waterloo",
+      "reason": "Not in Parker's database (searched 'Waterloo Sparkling Water', 'Waterloo', 'waterloosparklingwater.com')."
+    },
+    {
+      "name": "Cann",
+      "reason": "Brand exists in Parker (exact match, Food & beverage) but totalAdsScraped is 0 — no ad data available."
+    },
+    {
+      "name": "Girlfriend Collective",
+      "reason": "Not in Parker's database (searched 'Girlfriend Collective', 'girlfriend.com')."
+    }
+  ]
+}

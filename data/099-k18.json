@@ -1,0 +1,67 @@
+{
+  "name": "K18",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a8caaa15-f06b-4a86-99ee-58f0e8876bb1/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "jumbo mask is back",
+      "launch": "2026-05-06",
+      "days": 105,
+      "trend": "Stable at #1 over 14d. Biggest jump: #6 → #1 on Aug 15 (+5). Biggest drop: #1 → #6 on Aug 13 (-5).",
+      "hook": "BACK IN STOCK jumbo mask",
+      "angle": "Scarcity and Urgency: Leveraging the 'Back in Stock' status of a popular item",
+      "copy": "More shine, bounce, and biotech-powered repair in every bottle—shop before it sells out (again).",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a8caaa15-f06b-4a86-99ee-58f0e8876bb1/2100559427170995.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "2x the healthy hair days",
+      "launch": "2026-05-06",
+      "days": 105,
+      "trend": "Stable at #2 over 14d. Biggest jump: #7 → #2 on Aug 15 (+5). Biggest drop: #2 → #7 on Aug 13 (-5).",
+      "hook": "JUMBO mask double the size",
+      "angle": "Value and Savings: Highlighting the $150 value of the larger size",
+      "copy": "More soft, strong, bouncy hair—and fewer restocks.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a8caaa15-f06b-4a86-99ee-58f0e8876bb1/1304715237660423.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "supersized biotech washcare",
+      "launch": "2026-05-06",
+      "days": 105,
+      "trend": "Stable at #3 over 14d. Biggest jump: #8 → #3 on Aug 15 (+5). Biggest drop: #4 → #8 on Aug 13 (-4).",
+      "hook": "K18 JUMBO wash care",
+      "angle": "Restocking for power users who want more of their favorite product",
+      "copy": "More of the soft, smooth hair days you love—and fewer restocks.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a8caaa15-f06b-4a86-99ee-58f0e8876bb1/1324666822949202.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "K18 Biomimetic Hairscience Mini Molecular Repair Hair Oil 0.34 oz / 10 mL",
+      "launch": "2026-05-14",
+      "days": 97,
+      "trend": "Stable at #4 over 14d. Biggest jump: #9 → #4 on Aug 15 (+5). Biggest drop: #5 → #9 on Aug 13 (-4).",
+      "hook": "K18 BIOMIMETIC HAIRSCIENCE™ PEPTIDE PREP™",
+      "angle": "Scientific and clinical hair care efficacy",
+      "copy": "Ready for strong, shiny, smooth hair? Get started with bio-tech-powered hair care. Available at Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a8caaa15-f06b-4a86-99ee-58f0e8876bb1/1524979639170185.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "2x the healthy hair days",
+      "launch": "2026-07-25",
+      "days": 25,
+      "trend": "Improved from #6 to #5 in 14d. Biggest jump: #10 → #5 on Aug 15 (+5). Biggest drop: #6 → #10 on Aug 13 (-4).",
+      "hook": "JUMBO mask",
+      "angle": "Volume-based value proposition (double the size)",
+      "copy": "More soft, strong, bouncy hair—and fewer restocks.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a8caaa15-f06b-4a86-99ee-58f0e8876bb1/1869122364947100.jpg"
+    }
+  ]
+}

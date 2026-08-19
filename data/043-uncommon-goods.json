@@ -1,0 +1,67 @@
+{
+  "name": "Uncommon Goods",
+  "category": "Retail company",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/97af66ac-d72c-4bd9-896c-38ab250005bf/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Home Team Baseball Game",
+      "launch": "2026-07-03",
+      "days": 41,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "Hi, I'm Kim. Across the Board handcrafts the home team baseball game in St. Louis, Missouri.",
+      "angle": "American-made craftsmanship (Handcrafted in St. Louis, MO)",
+      "copy": "\"Perfect gift for your baseball fan and board game lover. Beautifully crafted. As soon as he opened it he wanted to play it. Very simple to play but still very enjoyable!\" Jess, Oklahoma.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/97af66ac-d72c-4bd9-896c-38ab250005bf/1781725389906603.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "NFL Helmet Garden Stakes",
+      "launch": "2026-05-26",
+      "days": 79,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "THE NFL YARD DÉCOR EVERYONE WILL ASK ABOUT",
+      "angle": "Positioning fan gear as sophisticated home decor rather than just merchandise",
+      "copy": "A touchdown for football dads and garden lovers 🏈🌿",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/97af66ac-d72c-4bd9-896c-38ab250005bf/1644893753387595.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "60 Hour Candle | Unique Candles, Candle Holders",
+      "launch": "2026-06-24",
+      "days": 50,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "n/a",
+      "angle": "Visual novelty and curiosity-driven engagement",
+      "copy": "⚠️Warning: these gifts may cause excessive smiling, immediate texting, and “how did you find this?” energy.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/97af66ac-d72c-4bd9-896c-38ab250005bf/27859706276960270.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Upcycled Record Coasters",
+      "launch": "2026-06-05",
+      "days": 69,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "Hi I'm Jeff and I hand craft the upcycled record coasters...",
+      "angle": "Sustainability and upcycling (turning waste into art)",
+      "copy": "\"These coasters are so cool! They are great quality and have excellent print/labels. I purchased these for my stepdad who used to own and manage a nightclub in the 70's.\" - Megan, Santa Barbara.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/97af66ac-d72c-4bd9-896c-38ab250005bf/2571611219946912.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "NFL Helmet Garden Stakes",
+      "launch": "2026-07-26",
+      "days": 18,
+      "trend": "Improved from #10 to #5 in 14d. Biggest jump: #10 → #7 on Aug 1 (+3).",
+      "hook": "THE NFL YARD DÉCOR EVERYONE WILL ASK ABOUT",
+      "angle": "Using social validation to position the product as a conversation starter",
+      "copy": "A touchdown for football dads and garden lovers 🏈🌿",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/97af66ac-d72c-4bd9-896c-38ab250005bf/1056315867344165.jpg"
+    }
+  ]
+}

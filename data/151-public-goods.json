@@ -1,0 +1,67 @@
+{
+  "name": "Public Goods",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/694625513_1411613444340548_5008900738538841237_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=107&ccb=1-7&_nc_sid=418b77&_nc_ohc=j-mkQPZORAEQ7kNvwFtR7ue&_nc_oc=AdqfYuVbk8wpwq4isW5c4iw1h8iUUDoxwTFyshLvaJ3zDf_HLTbQbYofd34TLc_R1iE&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=KUWax5q0xpK-NZsKUwU5ig&_nc_ss=7b289&oh=00_AQE6gMd97x73VNXdVCB72F5hTDd1Hz9RSAVdKCZHQray_g&oe=6A82D69C",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Three letters. No plastic anywhere in sight.",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Improved from #2 to #1 in 12d.",
+      "hook": "Cut the plastic. Start with the board",
+      "angle": "Eliminating microplastics from food preparation",
+      "copy": "Eco-friendly. Plastic-free. BPA-free. The Public Goods Cutting Board doesn't just perform — it does it without a single gram of plastic. Compressed paper and wood fiber, non-slip silicone corners.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6794be01-750d-4cfe-a8ee-ad1e0b148ac7/1732403574453971.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Dracaena Janet Craig 8\"",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Dropped from #1 to #2 in 12d. Peak: #1 on Jul 31.",
+      "hook": "VANILLA EXTRACT",
+      "angle": "Clean label purity emphasizing 'Organic' and 'All Natural' ingredients",
+      "copy": "Everything you need. Nothing you don't. Public Goods makes clean, non-toxic essentials — from bath to kitchen to laundry — without the markup or the filler.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6794be01-750d-4cfe-a8ee-ad1e0b148ac7/1776332910444531.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Three letters. No plastic anywhere in sight.",
+      "launch": "2026-07-17",
+      "days": 27,
+      "trend": "Improved from #4 to #3 in 12d.",
+      "hook": "Cut the plastic. Start with the board",
+      "angle": "Reducing microplastic exposure in food preparation",
+      "copy": "Eco-friendly. Plastic-free. BPA-free. The Public Goods Cutting Board doesn't just perform — it does it without a single gram of plastic. Compressed paper and wood fiber, non-slip silicone corners.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6794be01-750d-4cfe-a8ee-ad1e0b148ac7/1320747320223979.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Three letters. No plastic anywhere in sight.",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #14 to #4 in 12d. Biggest jump: #14 → #4 on Aug 8 (+10).",
+      "hook": "Cut the plastic. Start with the board",
+      "angle": "Small, manageable steps toward a plastic-free lifestyle",
+      "copy": "Eco-friendly. Plastic-free. BPA-free. The Public Goods Cutting Board doesn't just perform — it does it without a single gram of plastic. Compressed paper and wood fiber, non-slip silicone corners.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6794be01-750d-4cfe-a8ee-ad1e0b148ac7/28143552508564577.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Stoneware Hand Soap Dispenser",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Dropped from #3 to #5 in 12d. Peak: #3 on Jul 31.",
+      "hook": "LIP BALM",
+      "angle": "Radical transparency through minimalist labeling",
+      "copy": "Fragrance-free options. Refillable formats. Cruelty-free formulas. The essentials you reach for every day, made with a little more intention.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6794be01-750d-4cfe-a8ee-ad1e0b148ac7/2134115980796823.jpg"
+    }
+  ]
+}

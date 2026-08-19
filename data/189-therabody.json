@@ -1,0 +1,67 @@
+{
+  "name": "Therabody",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1d0c6be7-7337-42bb-8469-449579afc27c/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Efficient. Effective. Effortless.",
+      "launch": "2026-04-21",
+      "days": 115,
+      "trend": "Stable at #1 over 10d.",
+      "hook": "New\nTheraFace Mask Glo",
+      "angle": "Clinical validation and proven results for skincare efficacy",
+      "copy": "Dermatologist-approved treatments. Clinically proven results.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1d0c6be7-7337-42bb-8469-449579afc27c/2045622016002347.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Fresh legs for your next run",
+      "launch": "2026-04-17",
+      "days": 119,
+      "trend": "Stable at #2 over 10d.",
+      "hook": "The only 3-in-1\nrecovery boots",
+      "angle": "Exclusive 3-in-1 technology combining compression, light, and vibration",
+      "copy": "3 therapies help reduce heavy-leg fatigue faster with JetBoots PRO Plus.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1d0c6be7-7337-42bb-8469-449579afc27c/1631201127917945.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Self care, packed.",
+      "launch": "2026-05-28",
+      "days": 78,
+      "trend": "Improved from #5 to #3 in 10d.",
+      "hook": "Sleep in the air. Land with a glow.",
+      "angle": "Arriving at a destination looking refreshed and 'glowing' rather than fatigued",
+      "copy": "Glow that travels with you. Shop your new carry-on essentials",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1d0c6be7-7337-42bb-8469-449579afc27c/1402920931642368.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Efficiente. Efficace. Pratica.",
+      "launch": "2026-03-24",
+      "days": 143,
+      "trend": "Dropped from #3 to #4 in 10d. Peak: #3 on Aug 4.",
+      "hook": "Nuova TheraFace Mask Glo",
+      "angle": "New product innovation in the beauty-tech space",
+      "copy": "La maschera LED clinicamente testata per una pelle luminosa. 💫",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1d0c6be7-7337-42bb-8469-449579afc27c/1624300398914061.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Efficient. Effective. Effortless.",
+      "launch": "2026-04-21",
+      "days": 115,
+      "trend": "Dropped from #4 to #5 in 10d. Peak: #4 on Aug 4.",
+      "hook": "New\nTheraFace Mask Glo",
+      "angle": "Clinical validation and proven results for skincare efficacy",
+      "copy": "Dermatologist-approved treatments. Clinically proven results.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1d0c6be7-7337-42bb-8469-449579afc27c/4342303912653220.jpg"
+    }
+  ]
+}

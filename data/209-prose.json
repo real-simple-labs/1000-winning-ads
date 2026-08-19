@@ -1,0 +1,67 @@
+{
+  "name": "Prose",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b7bcc1f9-0f7e-4c80-8f3e-d6298cf188fc/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Haircare for Your Unique Needs",
+      "launch": "2026-06-25",
+      "days": 50,
+      "trend": "Improved from #4 to #1 in 12d. Biggest jump: #4 → #1 on Aug 6 (+3).",
+      "hook": "When your roots are oily but your ends are dry...",
+      "angle": "Solving the 'oily roots/dry ends' hair contradiction",
+      "copy": "Raise your hand if your scalp gets greasy in 1 day 🙋‍♀️ 😩 💸 60% off your first order of Prose* 🧴 Custom formulas for your hair type, goals, & environment 🌿 No sulfates, no silicones, no build-up",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b7bcc1f9-0f7e-4c80-8f3e-d6298cf188fc/1548819656922775.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Good Hair Day, Every Day",
+      "launch": "2026-07-01",
+      "days": 44,
+      "trend": "Improved from #8 to #2 in 12d. Biggest jump: #8 → #5 on Aug 2 (+3).",
+      "hook": "When your roots are oily but your ends are dry, that means your products aren't working for your hair type.",
+      "angle": "Solving the 'oily roots/dry ends' contradiction",
+      "copy": "Greasy, itchy scalp and parched ends? It's not you, it's your hair products: 💧 Custom formulas made for your hair 🌿 No sulfates, no silicones, no build-up 🧴 Shampoo, conditioner + styling that work",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b7bcc1f9-0f7e-4c80-8f3e-d6298cf188fc/979657968225932.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Get 60% OFF custom haircare from Prose",
+      "launch": "2026-07-09",
+      "days": 36,
+      "trend": "Improved from #5 to #3 in 12d. Biggest jump: #6 → #3 on Aug 6 (+3). Biggest drop: #5 → #7 on Aug 2 (-2).",
+      "hook": "Irish curls versus Nordic curls. Do you know the difference?",
+      "angle": "Educational comparison of hair types (Irish vs. Nordic)",
+      "copy": "SURPRISE: Get 60% OFF your first Prose order when you click today!* 🎯 Formulas made for your hair goals ⭐️ 600,000+ 5-star Prose product reviews** on Review & Refine® 😊 The Prose Promise™",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b7bcc1f9-0f7e-4c80-8f3e-d6298cf188fc/1033143386102903.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Get 60% OFF custom haircare from Prose",
+      "launch": "2026-06-25",
+      "days": 50,
+      "trend": "Improved from #12 to #4 in 12d. Biggest jump: #10 → #5 on Aug 6 (+5).",
+      "hook": "Is this why your waves keep losing their bounce?",
+      "angle": "Identifying common causes of wave disruption (brushing, heat, buildup)",
+      "copy": "SURPRISE: Get 60% OFF your first Prose order when you click today!* 🎯 Formulas made for your hair goals ⭐️ 600,000+ 5-star Prose product reviews** on Review & Refine® 😊 The Prose Promise™",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b7bcc1f9-0f7e-4c80-8f3e-d6298cf188fc/2097261531138556.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Get 60% OFF custom haircare from Prose",
+      "launch": "2026-06-25",
+      "days": 50,
+      "trend": "Improved from #15 to #5 in 12d. Biggest jump: #14 → #7 on Aug 6 (+7).",
+      "hook": "I'm done letting my age (48) determine how I wear my hair.",
+      "angle": "Empowering mature women to ignore traditional age-based hair expectations.",
+      "copy": "SURPRISE: Get 60% OFF your first Prose order when you click today!* 🎯 Formulas made for your hair goals ⭐️ 600,000+ 5-star Prose product reviews** on Review & Refine® 😊 The Prose Promise™",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b7bcc1f9-0f7e-4c80-8f3e-d6298cf188fc/2349158899188130.mp4"
+    }
+  ]
+}

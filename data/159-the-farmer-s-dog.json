@@ -1,0 +1,67 @@
+{
+  "name": "The Farmer's Dog",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/98bf04f4-a7ab-4353-a941-788016c62053/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Get 50% off your first box",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "Improved from #3 to #1 in 13d.",
+      "hook": "Real, fresh dog food — 50% off your first box!",
+      "angle": "",
+      "copy": "Feeding real, fresh food has real, healthy benefits for dogs. Get 50% off your first box and give your dog a fresh start.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/98bf04f4-a7ab-4353-a941-788016c62053/d16ae0f17dacbb7a042e60482123f272ca87e338f62f0f040080cedbea53c8ed.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Sign up now for 50% off your order!",
+      "launch": "2026-03-26",
+      "days": 140,
+      "trend": "Stable at #2 over 13d. Peak: #1 on Aug 1.",
+      "hook": "Human-grade / Whole foods / Made fresh",
+      "angle": "Personalized nutrition tailored to your specific dog's name and needs",
+      "copy": "Dog food should be food, not burnt brown balls. Switch to a smarter, healthy pet food today and get 50% off your first box.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/98bf04f4-a7ab-4353-a941-788016c62053/21c07ed581f4a9190f3421e996c95af3be62079dfc1d88cd3537620d8836b0ad.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Get 50% off your first box",
+      "launch": "2026-03-26",
+      "days": 140,
+      "trend": "Improved from #4 to #3 in 13d.",
+      "hook": "Defense wins championships. 🏆",
+      "angle": "Positioning fresh food as a 'defensive' health strategy for longevity",
+      "copy": "Their recipe for a long, healthy career? Fresh food that's clinically shown to support healthy aging in dogs. Get 50% off your first box today!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/98bf04f4-a7ab-4353-a941-788016c62053/f6950746aef8ed3294eae617c95c55a65a27257ffc7ba6c6146742917e02b32a.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Get 50% off your first box",
+      "launch": "2026-04-09",
+      "days": 126,
+      "trend": "Improved from #5 to #4 in 13d.",
+      "hook": "Defense wins championships. 🏆",
+      "angle": "Framing pet nutrition as a proactive 'defensive' health strategy",
+      "copy": "More healthy seasons starts in the bowl. Get 50% off your first box of fresh food that supports healthy aging in dogs.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/98bf04f4-a7ab-4353-a941-788016c62053/644ca5441c30336aefab4b42e3e62ff72524968b661be12e304d6b98d56ff7a8.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Get 50% off your first box",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "Improved from #6 to #5 in 13d.",
+      "hook": "Real, fresh dog food",
+      "angle": "",
+      "copy": "Feeding real, fresh food has real, healthy benefits for dogs. Get 50% off your first box and give your dog a fresh start.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/98bf04f4-a7ab-4353-a941-788016c62053/1bc3d235037116a099c7191c533ade654ed91df258f73f5f174c0d84c1ae2cc6.jpg"
+    }
+  ]
+}

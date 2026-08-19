@@ -1,0 +1,67 @@
+{
+  "name": "Hello Bello",
+  "category": "Retail company",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8253141d-1f2f-4bad-bc23-e668eecc399f/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Easy Sun Protection",
+      "launch": "2026-08-04",
+      "days": 15,
+      "trend": "Improved from #48 to #1 in 3d. Biggest jump: #48 → #1 on Aug 8 (+47).",
+      "hook": "hello bello",
+      "angle": "Positioning baby products as the essential 'entertainment' and focus for traveling parents",
+      "copy": "Flying with a baby means the whole plane is riding on what’s in your bag. These are the essentials you’ll be glad you packed. 💛✈️ #HelloBello #Diapers #MomLife #FlyingWithBaby",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8253141d-1f2f-4bad-bc23-e668eecc399f/1760231768327146.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "hello bello Mineral Sunscreen Lotion",
+      "launch": "2026-08-08",
+      "days": 11,
+      "trend": "Ranked #2 on Aug 8.",
+      "hook": "hello bello Mineral Sunscreen Lotion",
+      "angle": "The all-in-one preparation angle for busy parents",
+      "copy": "Forget the girl grip — we’ve perfected the mom grip. Sunscreen, diapers, a beach bucket, and somehow still not spilling the water bottle. #HelloBello #MomGrip #GirlGrip #SummerEssentials",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/8253141d-1f2f-4bad-bc23-e668eecc399f/0a2f3f4522cc781988a5ac4b7eab89e321c6750cee727d5f92222938cf54d6f3.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Month of Diapers, Solved",
+      "launch": "2026-07-22",
+      "days": 28,
+      "trend": "Ranked #26 on Aug 5.",
+      "hook": "Set it & forget it all summer long!",
+      "angle": "Emphasizing the convenience of a recurring subscription for busy parents",
+      "copy": "Get a full month of premium diapers, plant-based wipes, and a freebie delivered straight to you! ✨",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8253141d-1f2f-4bad-bc23-e668eecc399f/1024036113365855.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Hello Bello",
+      "launch": "2026-07-27",
+      "days": 23,
+      "trend": "n/a",
+      "hook": "Proof and cute prints? Yeah, I get the hype now.",
+      "angle": "Performance proof: Side-by-side absorption test against a market-leading competitor.",
+      "copy": "A few reminders before the first day. Swipe for the full guide. 🎒 #HelloBello #BabyWipes #CleanIngredients #BackToSchool #ParentingTips",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8253141d-1f2f-4bad-bc23-e668eecc399f/1025479236790716.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "20% Off The First 3 Months",
+      "launch": "2026-07-23",
+      "days": 27,
+      "trend": "n/a",
+      "hook": "shhhh... the comfiest diapers JUST dropped...",
+      "angle": "Resolving infant discomfort and skin irritation caused by 'other' diapers",
+      "copy": "These prints have stolen my heart, they’re just so cute (& comfy)!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8253141d-1f2f-4bad-bc23-e668eecc399f/1025525690183787.mp4"
+    }
+  ]
+}

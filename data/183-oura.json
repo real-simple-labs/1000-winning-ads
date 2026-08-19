@@ -1,0 +1,67 @@
+{
+  "name": "Oura",
+  "category": "Product/service",
+  "logo": "https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-1/352528709_156435497417304_3289663476120261962_n.png?stp=dst-png_s148x148&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=2VaFGvxBx5UQ7kNvwFW1Axq&_nc_oc=AdqF-yNvqtcBM2OLqix9-6qGK1-QO3SeEBsndoi_7QjsABoq1HbAvRxqtjcnFhP2Gbc&_nc_zt=24&_nc_ht=scontent-lga3-2.xx&_nc_gid=e2teV1izV_daTXk7vL9Ovg&_nc_ss=7b289&oh=00_AQGkRbcCXd3eZCzpuu8qpKdJ-omyZeUr4_tlMXoMTr9-9w&oe=6A8B3763",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Oura Ring 4",
+      "launch": "2026-08-03",
+      "days": 16,
+      "trend": "Improved from #2 to #1 in 14d.",
+      "hook": "ŌURA / Your body talks",
+      "angle": "Sophisticated health technology in a discreet ring format",
+      "copy": "Personalized health insights about sleep, activity, stress, and more – at your fingertips.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b28c7ab6-7485-438c-a577-4b5b382d9b12/c8fa1eb3d1f90ca73657e98d9326b4f833aeadca15a694e263ef8745e6344215.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Oura Ring 4",
+      "launch": "2026-08-03",
+      "days": 16,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "A clean shot of the OURA logo followed immediately by a high-speed macro spin showing pulsing internal red and green sensors.",
+      "angle": "Sophisticated tech as fine jewelry (aesthetic appeal)",
+      "copy": "Make health a daily practice with Oura Ring 4. Get insights into your sleep, heart health, stress, activity, and more.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b28c7ab6-7485-438c-a577-4b5b382d9b12/370fe492f634a5a08545f6ed73ab855f5710932a0013876e39081fe5e90c006e.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Oura Ring 4",
+      "launch": "2026-08-03",
+      "days": 16,
+      "trend": "Improved from #7 to #5 in 14d. Peak: #4 on Aug 15.",
+      "hook": "The original smart ring",
+      "angle": "Positioning as the category pioneer and market leader ('The original')",
+      "copy": "Health isn’t one-size-fits-all. Oura delivers personalized insights to help you feel your best — now and in the long run.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b28c7ab6-7485-438c-a577-4b5b382d9b12/18143a0978dd72c9a62fc348ebe4ec1c5b3be7253a32251e165d45aeb5c3cf05.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Oura Ring 4",
+      "launch": "2026-08-03",
+      "days": 16,
+      "trend": "Dropped from #1 to #6 in 14d. Biggest drop: #1 → #4 on Aug 7 (-3). Peak: #1 on Aug 5.",
+      "hook": "The original smart ring",
+      "angle": "Brand Authority: Positioning as the first and leading innovator in the smart ring category.",
+      "copy": "Make health a daily practice with Oura Ring 4. Get insights into your sleep, heart health, stress, activity, and more.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b28c7ab6-7485-438c-a577-4b5b382d9b12/9a5057210815706fc3c234e7158170bcbffb1e70f9f6554f7df3c5c9b5bf3031.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Oura Ring 4",
+      "launch": "2026-08-03",
+      "days": 16,
+      "trend": "Improved from #14 to #7 in 14d. Biggest jump: #14 → #8 on Aug 7 (+6).",
+      "hook": "A minimalist Oura logo on a light background quickly giving way to a high-tech macro shot of glowing ring sensors.",
+      "angle": "Biological translation: Positioning the ring as a tool that interprets your body's hidden signals.",
+      "copy": "Personalized health insights about sleep, activity, stress, and more – at your fingertips.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b28c7ab6-7485-438c-a577-4b5b382d9b12/cf4125cbf34d95c5880cfb0440c6cfef3a4207da6bd8e862795b9e98ce5a3396.mp4"
+    }
+  ]
+}

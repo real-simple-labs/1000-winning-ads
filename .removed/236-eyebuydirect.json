@@ -1,0 +1,67 @@
+{
+  "name": "Eyebuydirect",
+  "category": "Sunglasses & Eyewear Store",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc300400-ef23-4d22-aa59-3f80db431483/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Eyebuydirect",
+      "launch": "2026-02-20",
+      "days": 175,
+      "trend": "n/a",
+      "hook": "3000+ Frames",
+      "angle": "Massive selection and variety",
+      "copy": "Yes, you read that right! Eyewear starting at $6, because great style should be for everyone.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc300400-ef23-4d22-aa59-3f80db431483/4314321228810834.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Bandon in Black/Navy/Coffee",
+      "launch": "2026-02-13",
+      "days": 182,
+      "trend": "n/a",
+      "hook": "Say yes to cute glasses! 😍 Explore over 3,000 styles and express your unique vision.",
+      "angle": "Minimalist product showcase",
+      "copy": "Say yes to cute glasses! 😍 Explore over 3,000 styles and express your unique vision.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc300400-ef23-4d22-aa59-3f80db431483/2017439405517999.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Corvallis in Black",
+      "launch": "2026-03-10",
+      "days": 157,
+      "trend": "n/a",
+      "hook": "CORVALLIS 55",
+      "angle": "The 'invisible' frame for a clean professional look",
+      "copy": "Say yes to cute glasses! 😍 Explore over 3,000 styles and express your unique vision.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc300400-ef23-4d22-aa59-3f80db431483/1444128427482010.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Bandon in Black",
+      "launch": "2026-02-20",
+      "days": 175,
+      "trend": "n/a",
+      "hook": "Say yes to cute glasses! 😍 Explore over 3,000 styles and express your unique vision.",
+      "angle": "Professional styling with a subtle, modern 'pop' of interior color",
+      "copy": "Say yes to cute glasses! 😍 Explore over 3,000 styles and express your unique vision.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc300400-ef23-4d22-aa59-3f80db431483/1008726028283010.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Sutherlin in Tortoise $9",
+      "launch": "2026-02-20",
+      "days": 175,
+      "trend": "n/a",
+      "hook": "CORVALLIS 55",
+      "angle": "Minimalist product-first showcase",
+      "copy": "Explore our collection of over 3,000 frames—because finding the perfect match shouldn’t be hard.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/fc300400-ef23-4d22-aa59-3f80db431483/1397924345723964.jpg"
+    }
+  ]
+}

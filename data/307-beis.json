@@ -1,0 +1,67 @@
+{
+  "name": "Beis",
+  "category": "Bags/Luggage",
+  "logo": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/352707196_283447960719342_6929655750865769661_n.png?stp=dst-png_s148x148&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=jRNm3X07SkUQ7kNvwGNLd6i&_nc_oc=Adoj59gOGh-xR-BRmshrPR7uUIpmHoPYdlykkMqS_0EGM9r0rnrP1Gcgr5V6zWduJt0&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=Z4ZL8kwYtTVLsMC8tksCOQ&_nc_ss=7b289&oh=00_AQG1UBR7F60Usn6EUs0C7QLAFbXLf0ntFXQenitxSiJ7-Q&oe=6A8A4BEF",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "The Cosmetic Case in Beige",
+      "launch": "2026-05-13",
+      "days": 98,
+      "trend": "Stable at #1 over 13d.",
+      "hook": "A range of timeless bags designed for where high-function meets your on-the-go life.",
+      "angle": "Minimalist and premium lifestyle aesthetic",
+      "copy": "A range of timeless bags designed for where high-function meets your on-the-go life.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/0d761218-7130-4383-80c3-9bf8c4ba7968/55a893f2eaa1d282a540076cc834f74c513bf3f0ec842fed623ad50a63b5f9f5.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "The Large Check-In Roller in Black",
+      "launch": "2026-05-14",
+      "days": 97,
+      "trend": "Stable at #2 over 13d. Peak: #1 on Aug 12.",
+      "hook": "BÉIS",
+      "angle": "Minimalist and sophisticated travel aesthetic",
+      "copy": "A range of timeless bags designed for where high-function meets your on-the-go life.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/0d761218-7130-4383-80c3-9bf8c4ba7968/955d15b6d0c5d9ccfa5d914c584d170393ca0c131d594dad31233b78d3e9dd28.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "NEW @beis weekender bag launching tomorrow 7/16!!",
+      "launch": "2026-07-22",
+      "days": 28,
+      "trend": "Improved from #10 to #5 in 13d. Biggest jump: #10 → #8 on Aug 7 (+2).",
+      "hook": "NEW @beis weekender bag launching tomorrow 7/16!! So many changes & I LOVE this green color!!",
+      "angle": "",
+      "copy": "NEW @beis weekender bag launching tomorrow 7/16!! So many changes & I LOVE this green color!! Linked for you guys in my shopmy 🤭✈️🧳 #Beis #travel #beisweekender #weekenderbag",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/0d761218-7130-4383-80c3-9bf8c4ba7968/0f945e5cee6f53d316610790ab22195394fd5891a191c42b51b7ee9d11d0b648.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Find your color, pack your weekend",
+      "launch": "2026-06-23",
+      "days": 57,
+      "trend": "Dropped from #5 to #6 in 13d. Peak: #5 on Aug 5.",
+      "hook": "My BÉIS suitcase has made traveling so much easier and let me tell you why.",
+      "angle": "Maximum organization for chronic overpackers",
+      "copy": "Bestselling weekender in every shade—designed to make packing easier and travel smoother.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/0d761218-7130-4383-80c3-9bf8c4ba7968/a694cff1a028223f25c2f761a1520e135293f2e78063f746b17be70c21db8cad.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "The Iconic Road Trip Essential",
+      "launch": "2026-06-23",
+      "days": 57,
+      "trend": "Dropped from #6 to #7 in 13d. Peak: #5 on Aug 9.",
+      "hook": "How to pack smarter:",
+      "angle": "Organizational efficiency through modular packing cubes",
+      "copy": "The Weekender—toss it all in, and go. Built for quick getaways, spontaneous trips, and effortless packing.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/0d761218-7130-4383-80c3-9bf8c4ba7968/0568166a23623a45b9fa67e32cc81f94f74cc2b0ce36b58eebd07dab74fd0808.mp4"
+    }
+  ]
+}

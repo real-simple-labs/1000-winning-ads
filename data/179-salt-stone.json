@@ -1,0 +1,67 @@
+{
+  "name": "Salt & Stone",
+  "category": "Beauty, cosmetic & personal care",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ad1a2b4b-60eb-41dd-ae91-875b807ab2b2/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Find Your Scent With Mini Deodorant",
+      "launch": "2026-02-19",
+      "days": 175,
+      "trend": "Stable at #1 over 11d.",
+      "hook": "The best way to try this viral deodorant. @saltandstone's mini discovery set",
+      "angle": "Low-risk trial through a multi-scent discovery set",
+      "copy": "\"This deodorant replaced my perfume, everyone asks what fragrance I'm wearing. It's my holy grail.\" Try five award-winning scents in this Mini Deodorant Discovery Set. Get aluminum-free, 48-hour protection that actually works.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ad1a2b4b-60eb-41dd-ae91-875b807ab2b2/21e6fd3a9a3ff5294f149b222730f21903a8129ec730a1aa5037611a07da5148.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Your Signature Scent Is Waiting",
+      "launch": "2026-02-19",
+      "days": 175,
+      "trend": "Stable at #2 over 11d.",
+      "hook": "I'm actually mad about how much I love this product.",
+      "angle": "Extreme product obsession and satisfaction",
+      "copy": "100% effective, 100% more compliments ✨ Prepare to lose count of how many times you hear, \"You smell amazing—what are you wearing?\"",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ad1a2b4b-60eb-41dd-ae91-875b807ab2b2/c2dadbfefcbc1b96bad0f86b77a77f726034e53d959276ac6a5c46c9a88d5f77.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Get The Fresh, New Lily & Yuzu Scent",
+      "launch": "2026-06-16",
+      "days": 58,
+      "trend": "Stable at #3 over 11d.",
+      "hook": "If you want to smell like... beachy fresh euro summer",
+      "angle": "Aspirational 'Euro Summer' lifestyle association",
+      "copy": "New Lily & Yuzu is here. Sparkling and sunlit, with notes of crisp apple and fresh yuzu 🍏🍋 Shop the collection now.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ad1a2b4b-60eb-41dd-ae91-875b807ab2b2/006c4302bb7bc495c3dd982fff6da5e3530e120b59e086d94425a4c69a37738f.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Find Your Favorite Mini Mist",
+      "launch": "2026-05-01",
+      "days": 104,
+      "trend": "Stable at #4 over 11d.",
+      "hook": "I’ve never smelled sexier",
+      "angle": "Aspirational luxury lifestyle association",
+      "copy": "Four award-winning fragrances. One that's meant to be your signature scent. Explore four Mini Body Mists in this discovery set—try them, layer them, and take them anywhere.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ad1a2b4b-60eb-41dd-ae91-875b807ab2b2/13b082ac97159e86db0f2cf3a27eff59dcfb99900fb3e8619eda36b501821c8f.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Get the Mini Body Mist Set",
+      "launch": "2026-04-30",
+      "days": 105,
+      "trend": "Improved from #7 to #5 in 11d.",
+      "hook": "SALT & STONE BODY MIST DISCOVERY SET",
+      "angle": "Tactile ASMR focusing on high-quality packaging textures",
+      "copy": "This always-sold-out set is back—now with our newest, most viral scent. Get the Mini Body Mist discovery set and try Saffron & Cedar, plus three other irresistible fragrances.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ad1a2b4b-60eb-41dd-ae91-875b807ab2b2/19e6e9723aa5b914b8c7e62dda7dd20bbb349f834a590df9c19c4eda3e331a92.mp4"
+    }
+  ]
+}

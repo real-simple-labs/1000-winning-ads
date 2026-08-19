@@ -1,0 +1,67 @@
+{
+  "name": "Function Health",
+  "category": "Health & wellness website",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4e88d250-fddb-4c28-bfcc-db6d1f086341/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Check your health.",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "What Function tests.",
+      "angle": "Comparison of 'Standard Care' vs. 'Comprehensive Care'",
+      "copy": "160+ lab tests for deeper health insights. That’s 5x more than the average physical—without surprise bills.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4e88d250-fddb-4c28-bfcc-db6d1f086341/1558476502593946.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Less than $1/day.",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Improved from #3 to #2 in 14d.",
+      "hook": "Your body's talking. Listen early. Act now.",
+      "angle": "Preventative health and early detection as a form of empowerment",
+      "copy": "$365/year. Because your health is worth more than guesswork.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4e88d250-fddb-4c28-bfcc-db6d1f086341/2041364790106079.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Function Health",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #4 to #3 in 14d.",
+      "hook": "Your body's talking. Listen early. Act now.",
+      "angle": "Preventative health and early detection as a form of empowerment",
+      "copy": "$365/year. Because your health is worth more than guesswork.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4e88d250-fddb-4c28-bfcc-db6d1f086341/1567011018287849.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "This time I used @function health",
+      "launch": "2026-06-01",
+      "days": 73,
+      "trend": "Dropped from #2 to #4 in 14d. Peak: #2 on Jul 30.",
+      "hook": "This time I used @function health",
+      "angle": "Comprehensive health monitoring through 100+ lab markers",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4e88d250-fddb-4c28-bfcc-db6d1f086341/1004806752039174.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "160+ lab tests, Private AI Chat, and clinician review—$365/year.",
+      "launch": "2026-07-14",
+      "days": 30,
+      "trend": "Improved from #8 to #5 in 14d. Biggest jump: #8 → #5 on Aug 1 (+3).",
+      "hook": "Check your health.",
+      "angle": "Premium, comprehensive health monitoring (160+ tests)",
+      "copy": "Know sooner. Act faster.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/4e88d250-fddb-4c28-bfcc-db6d1f086341/1696672631555177.mp4"
+    }
+  ]
+}

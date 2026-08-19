@@ -1,0 +1,67 @@
+{
+  "name": "Quasi",
+  "category": "E-commerce website",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b1b2350c-b7dd-4aff-b872-4e1b82320b35/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Here's What Actually Works…",
+      "launch": "2026-07-25",
+      "days": 25,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "THIS is what collagen does for your skin…",
+      "angle": "",
+      "copy": "THIS is what collagen does for your skin…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b1b2350c-b7dd-4aff-b872-4e1b82320b35/09efdc6a1a6eb0f01c71212bf984f36076fdf832fc973dcac6936ad353593444.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Here's what actually works...",
+      "launch": "2026-07-22",
+      "days": 28,
+      "trend": "Improved from #3 to #2 in 12d. Peak: #1 on Aug 13.",
+      "hook": "THIS is what collagen does for your skin…",
+      "angle": "",
+      "copy": "THIS is what collagen does for your skin…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b1b2350c-b7dd-4aff-b872-4e1b82320b35/0c8b06552ae70e386ad4dc6f861ce723f3ab722228e9dc81aa559ba7a8716409.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Here's What Actually Works…",
+      "launch": "2026-07-21",
+      "days": 29,
+      "trend": "Dropped from #2 to #3 in 12d. Peak: #2 on Aug 5.",
+      "hook": "THIS is what collagen does for your skin…",
+      "angle": "",
+      "copy": "THIS is what collagen does for your skin…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b1b2350c-b7dd-4aff-b872-4e1b82320b35/9cf0e526656661bd5c47eae404b41f8f0c71e12d813ac98769d11691cf69200a.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Sale Ends Today",
+      "launch": "2026-07-21",
+      "days": 29,
+      "trend": "Improved from #6 to #4 in 12d.",
+      "hook": "When you put a hydrogel collagen mask on your face, here's what happens to your skin.",
+      "angle": "Science-based education: Explaining molecular size (Daltons) to justify efficacy.",
+      "copy": "Here's what happens to your face when you use a Quasi Glow Up Collagen Face Mask…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b1b2350c-b7dd-4aff-b872-4e1b82320b35/e5baae998c976283b4d7228753da28958ae3c03e8d57e3e4441777a5d618e528.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Feel Beautiful In Your Own Skin Again 😍",
+      "launch": "2026-07-21",
+      "days": 29,
+      "trend": "Stable at #5 over 12d. Biggest jump: #6 → #3 on Aug 13 (+3). Biggest drop: #3 → #6 on Aug 15 (-3). Peak: #3 on Aug 13.",
+      "hook": "Reverse Aging with One Mask ✨",
+      "angle": "",
+      "copy": "Reverse Aging with One Mask ✨ 💧40g of marine collagen that works in 2 hours 🌸 Deeply hydrates and revitalises your face 💫 Reduces fine lines and wrinkles ⚡ 1 Mask, Results last 7 days",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/b1b2350c-b7dd-4aff-b872-4e1b82320b35/0f21d6400a40760b739fcc13a48a94dbe9fbf22a369ad6a865106e1e134ff7c0.mp4"
+    }
+  ]
+}

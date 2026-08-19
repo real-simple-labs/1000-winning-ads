@@ -1,0 +1,67 @@
+{
+  "name": "Liquid I.V.",
+  "category": "Health & wellness website",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f3d2037-65a4-4a14-8bb6-8b6e56bd78b5/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "CHILL OUT. SIP A PICKLE AGAIN.",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #35 to #1 in 6d. Biggest jump: #43 → #9 on Aug 11 (+34). Biggest drop: #35 → #43 on Aug 9 (-8).",
+      "hook": "how I like my water",
+      "angle": "Unexpected Brand Collaboration (Liquid I.V. x Grillo's Pickles)",
+      "copy": "Hydration Multiplier® Grillo's Pickles® is officially back in stock for a limited-time. Get yours before it's sold out for good...don't say we didn't warn you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f3d2037-65a4-4a14-8bb6-8b6e56bd78b5/2135036467396048.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Your Friendly Neighborhood Hydration",
+      "launch": "2026-07-28",
+      "days": 16,
+      "trend": "Improved from #15 to #2 in 8d. Biggest jump: #15 → #5 on Aug 7 (+10). Biggest drop: #5 → #7 on Aug 11 (-2).",
+      "hook": "Whew! Hot one out there!",
+      "angle": "Celebrity and IP crossover (Spider-Man/Ned Leeds)",
+      "copy": "The best way to save the day? Start by feeling your best.💧 Hydrate with Liquid I.V. and catch Spider-Man: Brand New Day exclusively in theaters July 31. 🕷️",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f3d2037-65a4-4a14-8bb6-8b6e56bd78b5/1989265368422921.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Faster Hydration. We Scienced It.",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #13 to #3 in 6d. Biggest jump: #13 → #8 on Aug 9 (+5).",
+      "hook": "PERFORMANCE STARTS WITH HYDRATION",
+      "angle": "Athletic performance and recovery",
+      "copy": "Liquid I.V. is clinically tested hydration powered by science and designed to hydrate faster than water alone.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f3d2037-65a4-4a14-8bb6-8b6e56bd78b5/1727062041753689.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Liquid I.V.® Passion Fruit Powdered Hydration Multiplier® (16 pack)",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Improved from #25 to #4 in 8d. Biggest jump: #25 → #16 on Aug 7 (+9).",
+      "hook": "LIQUID I.V. HYDRATION MULTIPLIER",
+      "angle": "Sensory-driven refreshment through visual cues like water droplets and ripples",
+      "copy": "30% off every order + VIP treatment? That's hydration that travels well, keeps your wallet happy, and comes with even more perks.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f3d2037-65a4-4a14-8bb6-8b6e56bd78b5/1039268538836229.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "30% Off Hydration Vacation",
+      "launch": "2026-06-01",
+      "days": 73,
+      "trend": "Improved from #7 to #5 in 8d. Biggest jump: #12 → #5 on Aug 13 (+7). Biggest drop: #7 → #12 on Aug 11 (-5).",
+      "hook": "LIQUID I.V. HYDRATION MULTIPLIER SPIDER-MAN",
+      "angle": "Limited-edition Spider-Man brand collaboration",
+      "copy": "Enjoy VIP treatment and flexibility when you subscribe to Hydration Multiplier® Pina Colada 🍍🥥 Taste island time anytime.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f3d2037-65a4-4a14-8bb6-8b6e56bd78b5/1485371795916995.mp4"
+    }
+  ]
+}

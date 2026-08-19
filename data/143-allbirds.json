@@ -1,0 +1,67 @@
+{
+  "name": "Allbirds",
+  "category": "Product/service",
+  "logo": "https://scontent-lax3-1.xx.fbcdn.net/v/t39.30808-1/545818577_1208672421307187_6445423898258649417_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=fv9FDzJ96AkQ7kNvwGg6fn3&_nc_oc=AdomSDV9KPoLbtmcauqINso8KcIWZE36LCKUzlwBYk7fOM9i6u6uoVJCvPD4K3QPqaY&_nc_zt=24&_nc_ht=scontent-lax3-1.xx&_nc_gid=5qPvoePwgsN8aptkmWgLqg&_nc_ss=7b289&oh=00_AQF_VnffUjOC50F9EL0NrAk5H9XW2CbnpdhTVkxOxLK5bg&oe=6A83A87E",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Allbirds W Canvas Piper 2 Freizeitschuhe / Sneaker Damen, stony cream/rugged beige (stony cream), Grösse: 36.5",
+      "launch": "2026-02-05",
+      "days": 189,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "SALE",
+      "angle": "Price-drop incentive using clear price anchoring",
+      "copy": "Entdecke unseren Sale! ✅ Versandkostenfreie Bestellung ab 50€ ✅ Heute bestellt, morgen geliefert (Bei Bestellungen bis 16 Uhr) ✅ Inkl. Samstagszustellung ✅ Einfach, sicher & schnell bezahlen",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f6674479-daa4-4b2c-9244-c6a824e4c457/1556735678887195.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "W Tree Dasher 2 Chaussures de loisirs / Baskets Femmes, , Taille: 38",
+      "launch": "2026-02-06",
+      "days": 188,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "SOLDES",
+      "angle": "Direct price-drop incentive through seasonal sales",
+      "copy": "Découvrez nos soldes! ✅ Livraison gratuite à partir de 50€ ✅ Commandé aujourd'hui, livré demain (pour les commandes passées avant 16h) ✅ Livraison le samedi incluse ✅ Paiement simple, sûr & rapide",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f6674479-daa4-4b2c-9244-c6a824e4c457/3087005958153245.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Allbirds Scarpe casual W Wool Runner-up Mizzle / Scarpe donna, natural black (natural white), Dimensione: 40",
+      "launch": "2026-02-06",
+      "days": 188,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "SALDI",
+      "angle": "Direct price-drop incentive focusing on a 30% discount",
+      "copy": "✅ Spedizione gratuita per ordini superiori a 50€ ✅ Ordina oggi, consegna domani (per ordini effettuati entro le 16.00) ✅ Consegna il sabato inclusa ✅ Pagamento facile, sicuro e veloce",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f6674479-daa4-4b2c-9244-c6a824e4c457/2459511097839458.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Allbirds W Tree Dasher 2 Freizeitschuhe / Sneaker Damen, natural black (blizzard), Grösse: 40",
+      "launch": "2026-02-10",
+      "days": 184,
+      "trend": "Stable at #4 over 14d.",
+      "hook": "Winter Sale",
+      "angle": "Seasonal clearance and urgency ('Winter Sale')",
+      "copy": "Entdecke unseren Sale! ✅ Versandkostenfreie Bestellung ab 40 CHF ✅ Heute bestellt, morgen geliefert (Bei Bestellungen bis 16 Uhr) ✅ Inkl. Samstagszustellung ✅ Einfach, sicher & schnell bezahlen",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f6674479-daa4-4b2c-9244-c6a824e4c457/1227082746238868.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Allbirds® Schuhe",
+      "launch": "2026-02-10",
+      "days": 184,
+      "trend": "Improved from #7 to #5 in 14d.",
+      "hook": "allbirds",
+      "angle": "Versatile urban footwear for city living",
+      "copy": "Chaque pas compte, pour toi et pour la planète. Allbirds allie des matériaux durables à un confort incomparable. Découvre les nouveaux modèles et coloris, et trouve ta nouvelle paire préférée !🍃",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f6674479-daa4-4b2c-9244-c6a824e4c457/876063602097552.jpg"
+    }
+  ]
+}

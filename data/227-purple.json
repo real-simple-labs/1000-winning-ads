@@ -1,0 +1,67 @@
+{
+  "name": "Purple",
+  "category": "Mattress shop",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f640400-83cc-4dc4-8f08-4a8c31ee07bc/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Try the GelFlex Grid® in-store",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "n/a",
+      "hook": "It does this thing called column buckling,",
+      "angle": "Demonstrating the science of 'column buckling' for pressure relief",
+      "copy": "Purple’s GelFlex Grid® mattresses are unlike anything you’ve ever slept on. Stop by your Purple store and find your perfect match with the help of a trained Sleep Genius.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f640400-83cc-4dc4-8f08-4a8c31ee07bc/1016511420981020.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Get pain-reducing sleep now",
+      "launch": "2026-06-22",
+      "days": 53,
+      "trend": "n/a",
+      "hook": "Okay, so I got to go in for a sleep analysis at the Purple store",
+      "angle": "",
+      "copy": "Check out @purple if you are looking to elevate your sleep! ☁️ #ad #sponsored #mindsetmatters #wellness #healthymind",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f640400-83cc-4dc4-8f08-4a8c31ee07bc/1887194165293296.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Try the GelFlex Grid® in-store",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "n/a",
+      "hook": "It does this thing called column buckling,",
+      "angle": "Visual demonstration of proprietary GelFlex Grid technology",
+      "copy": "Purple’s GelFlex Grid® mattresses are unlike anything you’ve ever slept on. Stop by your Purple store and find your perfect match with the help of a trained Sleep Genius.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f640400-83cc-4dc4-8f08-4a8c31ee07bc/3189156957961596.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Purple",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "n/a",
+      "hook": "Don't wait for life-changing sleep. Our award-winning mattresses have 125k 5-star reviews (and counting).",
+      "angle": "Seamless integration of sleep products into premium home design",
+      "copy": "Don't wait for life-changing sleep. Our award-winning mattresses have 125k 5-star reviews (and counting).",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f640400-83cc-4dc4-8f08-4a8c31ee07bc/1736721034132398.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Try the GelFlex Grid® in-store",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "n/a",
+      "hook": "Try it to believe it",
+      "angle": "Overcoming skepticism through physical trial",
+      "copy": "Purple’s GelFlex Grid® mattresses are unlike anything you’ve ever slept on. Stop by your Purple store and find your perfect match with the help of a trained Sleep Genius.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8f640400-83cc-4dc4-8f08-4a8c31ee07bc/901505202395727.jpg"
+    }
+  ]
+}

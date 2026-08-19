@@ -1,0 +1,67 @@
+{
+  "name": "Liquid Death",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc02ca92-3881-4f06-866e-6c315855676a/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Better Than Long Island Iced Tea",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "SAFER THAN LONG ISLAND ICED TEA",
+      "angle": "Using dark humor and irony to position a non-alcoholic beverage as a 'safer' choice",
+      "copy": "Liquid Death Iced Tea is the perfect midday boost with Vitamin B and natural caffeine. Long Island Iced Tea isn't.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc02ca92-3881-4f06-866e-6c315855676a/1685613159427107.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Liquid Death",
+      "launch": "2026-04-30",
+      "days": 105,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Liquid Death SEVERED LIME",
+      "angle": "Lifestyle integration within the winter sports and outdoor adventure community",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc02ca92-3881-4f06-866e-6c315855676a/955246664086873.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Liquid Death is the official energy drink sponsor of the wor",
+      "launch": "2026-06-04",
+      "days": 70,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "Uh oh, poopies in my pants.",
+      "angle": "Positioning parenting as the world's most extreme sport to resonate with exhausted parents",
+      "copy": "Liquid Death is the official energy drink sponsor of the world's most extreme sport: parenting. Parents need just as much energy as BASE jumpers and snowboarders. That's why they love our new easy-drin",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc02ca92-3881-4f06-866e-6c315855676a/1703756491045140.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Better Than Long Island Iced Tea",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "SAFER THAN LONG ISLAND ICED TEA",
+      "angle": "",
+      "copy": "Liquid Death Iced Tea is the perfect midday boost with Vitamin B and natural caffeine. Long Island Iced Tea isn't.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc02ca92-3881-4f06-866e-6c315855676a/1481690577305702.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Like a chocolate peanut butter cup milkshake, but in soda fo",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #247 to #5 in 6d. Biggest jump: #247 → #57 on Aug 7 (+190).",
+      "hook": "I just bought the world's most dangerous biker bar.",
+      "angle": "Influencer-led product launch (MrBeast)",
+      "copy": "Like a chocolate peanut butter cup milkshake, but in soda form by @liquiddeath and @feastables. Now on Amazon and in select stores near you.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/cc02ca92-3881-4f06-866e-6c315855676a/1033173896148326.mp4"
+    }
+  ]
+}

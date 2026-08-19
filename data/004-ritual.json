@@ -1,0 +1,67 @@
+{
+  "name": "Ritual",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/52b682c4-6568-4a81-9e7f-183498d55784/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "30 day, money-back guarantee!",
+      "launch": "2026-03-04",
+      "days": 168,
+      "trend": "Stable at #1 over 13d.",
+      "hook": "You know what's better than three daily pills for gut support? Just one.",
+      "angle": "Convenience: Replacing a multi-pill regimen with a single daily capsule.",
+      "copy": "Not every probiotic actually gets where they need to go*. With patented delayed-release design, this one does*. Synbiotic+ is created with prebiotic PreforPro® + probiotics LGG® and BB12®...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/52b682c4-6568-4a81-9e7f-183498d55784/2194943784642827.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "30 day, money-back guarantee!",
+      "launch": "2026-04-13",
+      "days": 128,
+      "trend": "Stable at #2 over 13d.",
+      "hook": "You know what's better than three daily pills for gut support?",
+      "angle": "Convenience: Replacing multiple pills with a single daily capsule.",
+      "copy": "Not every probiotic actually gets where they need to go*. With patented delayed-release design, this one does*. Synbiotic+ is created with prebiotic PreforPro® + probiotics LGG® and BB12®...",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/52b682c4-6568-4a81-9e7f-183498d55784/1572614771065446.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Foundational Health, Made Simple",
+      "launch": "2026-07-29",
+      "days": 21,
+      "trend": "Improved from #12 to #3 in 13d. Biggest jump: #10 → #6 on Aug 11 (+4).",
+      "hook": "Science-backed multivitamins for all life stages*",
+      "angle": "",
+      "copy": "Meet Ritual's line up of clean, science-backed health support with 100% of our ingredients Made Traceable®. Discover science-backed formulas for every stage, at Ritual.com.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/52b682c4-6568-4a81-9e7f-183498d55784/2106551863420587.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Fertility Support Powder Supplement* | Ritual",
+      "launch": "2026-07-29",
+      "days": 21,
+      "trend": "Improved from #13 to #4 in 13d. Biggest jump: #11 → #7 on Aug 11 (+4).",
+      "hook": "Synbiotic+",
+      "angle": "Integrating wellness into a daily beauty and self-care routine",
+      "copy": "Meet Ritual's line up of clean, science-backed health support with 100% of our ingredients Made Traceable®. Discover science-backed formulas for every stage, at Ritual.com.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/52b682c4-6568-4a81-9e7f-183498d55784/1336291618716394.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Bump up your essential support",
+      "launch": "2026-05-17",
+      "days": 94,
+      "trend": "Dropped from #4 to #6 in 13d. Biggest drop: #4 → #6 on Aug 17 (-2). Peak: #4 on Aug 6.",
+      "hook": "Your Baby Will Thank You",
+      "angle": "Scientific credibility through clinically-studied ingredients",
+      "copy": "We’re setting a new standard when it comes to pregnancy and postpartum support. Meet our line up of clean, vegan science-backed support for every stage of your journey.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/52b682c4-6568-4a81-9e7f-183498d55784/28141759985441086.mp4"
+    }
+  ]
+}

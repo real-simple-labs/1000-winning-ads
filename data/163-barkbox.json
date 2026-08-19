@@ -1,0 +1,67 @@
+{
+  "name": "BarkBox",
+  "category": "Pet Service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/aa214fe1-b008-4582-924e-1affeef3b5a4/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "✨ HARRY POTTER™ Toys + Free Sorting Hat™ 🎁",
+      "launch": "2026-01-23",
+      "days": 202,
+      "trend": "n/a",
+      "hook": "Have you always wanted to know what house your dog would be in at Hogwarts?",
+      "angle": "Fandom-driven curiosity: Discovering your dog's Hogwarts house",
+      "copy": "Reveal a hidden Hogwarts™ House inside The Sorting Hat™ toy and snag the HARRY POTTER™ collection in your dog's 1st box.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/aa214fe1-b008-4582-924e-1affeef3b5a4/1005563842629869.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Like, FREE, Man! Scooby Toy™ + Bandana",
+      "launch": "2026-01-30",
+      "days": 195,
+      "trend": "n/a",
+      "hook": "FREE SCOOBY BANDANA & XL TOY!",
+      "angle": "Leveraging nostalgia through a popular licensed character (Scooby-Doo)",
+      "copy": "ZOINKS! Unmask a bonus Scooby-Doo™ toy and wearable, FREE when you join the BarkBox gang. Then enjoy exciting new mystery themes every month, packed with toys and treats and tailored to your pup.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/aa214fe1-b008-4582-924e-1affeef3b5a4/1309737300963395.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "✨ HARRY POTTER™ Toys + Free Sorting Hat™ 🎁",
+      "launch": "2026-01-23",
+      "days": 202,
+      "trend": "n/a",
+      "hook": "My human gave me this plush Sorting Hat",
+      "angle": "Themed collection appeal for Harry Potter fans",
+      "copy": "Reveal a hidden Hogwarts™ House inside The Sorting Hat™ toy and snag the HARRY POTTER™ collection in your dog's 1st box.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/aa214fe1-b008-4582-924e-1affeef3b5a4/1044177141240600.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "🎁 FREE Gift With Your Jurassic Park Box 🦖",
+      "launch": "2026-01-26",
+      "days": 199,
+      "trend": "n/a",
+      "hook": "SIGN UP FOR BARK TO CLAIM FREE GIFT",
+      "angle": "Exclusive licensed theme (Jurassic Park) to drive collector interest",
+      "copy": "Your dog loves a big challenge and our XL Dinosaur Egg Toy is eggsactly that. Get it for FREE with your Jurassic Park Box.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/aa214fe1-b008-4582-924e-1affeef3b5a4/1053818246929882.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Free Toys For A Year",
+      "launch": "2026-01-23",
+      "days": 202,
+      "trend": "n/a",
+      "hook": "PLUS FREE TOYS FOR A YEAR",
+      "angle": "Comprehensive 'everything-included' subscription bundle",
+      "copy": "Get a whole year of free toys for your dog! Claim our best upgrade yet when you join the pack, and start wagging for original toys and healthy treats tailored to your pup. Plus exciting new themes every month!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/aa214fe1-b008-4582-924e-1affeef3b5a4/1069244868677742.jpg"
+    }
+  ]
+}

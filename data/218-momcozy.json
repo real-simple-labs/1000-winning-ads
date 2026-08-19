@@ -1,0 +1,67 @@
+{
+  "name": "Momcozy",
+  "category": "Shopping Service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/19c8bce6-dbc2-4398-a679-b5070512f754/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "No one can resist a super comfy pregnancy pillow.",
+      "launch": "2026-01-04",
+      "days": 222,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "pregnancy really has taken a toll on my 90 pound weimaraner",
+      "angle": "Humorous pet-centric relatability (dog stealing the pregnancy pillow)",
+      "copy": "No one can resist a super comfy pregnancy pillow. Absolutely no one. 😂 📹: @aryannaarceneaux #Momcozy #BeACozyMom #CozyEvolution #MomFirstBrand #PregenencyPillow",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19c8bce6-dbc2-4398-a679-b5070512f754/05fa7a0f5982aac0fadb3c7976290385e5d64f104f181b08023b1c4ebaff6278.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "💛𝟑𝟎% 𝐎𝐅𝐅🎁 Use 𝐂𝐨𝐝𝐞:𝐁𝐫𝐚𝟑𝟎 at checkout",
+      "launch": "2025-12-24",
+      "days": 233,
+      "trend": "Improved from #3 to #2 in 12d. Biggest jump: #7 → #2 on Aug 7 (+5). Biggest drop: #3 → #7 on Aug 5 (-4).",
+      "hook": "30% OFF",
+      "angle": "High-value discount (30% off) to drive immediate conversion",
+      "copy": "✨ Limited-Time Offer: 30% OFF — Use Code: Bra30 ✨ Holiday Bonus: Get a free pair of Christmas compression socks with any lingerie or apparel purchase over $79! 🎄🧦 Meet the Momcozy Nursing Bra 🌸",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19c8bce6-dbc2-4398-a679-b5070512f754/a5da64f90fbe03dbb9c7d611971edf06e08658fb3737c4b6cd5d08df839fb052.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Momcozy",
+      "launch": "2026-05-18",
+      "days": 88,
+      "trend": "Improved from #7 to #3 in 12d. Biggest jump: #7 → #4 on Aug 5 (+3).",
+      "hook": "",
+      "angle": "Prioritizing comfort with a seamless, wireless design for new mothers",
+      "copy": "Completely invisible under clothes, fully controlled by your phone. 🤫 The Momcozy M5 Smart Wearable Pump brings hospital-grade power into a sleek, wire-free design.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19c8bce6-dbc2-4398-a679-b5070512f754/a09dbdb09b238c5f366b9bc2be3aea0efc14ff0e0196541d7a7f892bb68a1ebb.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Evolving for Mom and Cozy",
+      "launch": "2026-05-21",
+      "days": 85,
+      "trend": "Improved from #8 to #4 in 12d. Biggest jump: #8 → #4 on Aug 7 (+4).",
+      "hook": "",
+      "angle": "Combining feminine aesthetics with maternity functionality through scalloped design",
+      "copy": "Completely invisible under clothes, fully controlled by your phone. 🤫 The Momcozy M5 Smart Wearable Pump brings hospital-grade power into a sleek, wire-free design.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19c8bce6-dbc2-4398-a679-b5070512f754/8cfa0a6a66ab3a79111e16d98bce9ac0d3fe07ff2a8cd316a93f530b93180a7a.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "NO.1 Baby Bottle Washer Brand Worldwide",
+      "launch": "2026-05-27",
+      "days": 79,
+      "trend": "Improved from #11 to #5 in 12d. Biggest jump: #33 → #5 on Aug 7 (+28). Biggest drop: #10 → #33 on Aug 5 (-23).",
+      "hook": "I never thought the hardest part of having a baby would be cleaning bottles.",
+      "angle": "Solving the most tedious parenting chore (hand-washing bottles)",
+      "copy": "Momcozy Bottle Washer: Wash, Sterilize, Dry & Store in One Smart Device. 1-Year Warranty, 3-Day Delivery, 30-Day Free Returns",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/19c8bce6-dbc2-4398-a679-b5070512f754/9f1f3f94fa7fd1a3f7579b0ce27def3298dea60a214784a5edcbe96b84d438f8.mp4"
+    }
+  ]
+}

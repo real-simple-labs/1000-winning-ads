@@ -1,0 +1,67 @@
+{
+  "name": "Drunk Elephant",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1a0477ce-5b6e-477b-8179-e79fbe59a754/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Umbra Sheer™ Mineral Cream SPF 30",
+      "launch": "2026-08-05",
+      "days": 8,
+      "trend": "Improved from #2 to #1 in 4d.",
+      "hook": "Virgin Marula Luxury Facial Oil",
+      "angle": "Skin rehab for stressed or damaged skin",
+      "copy": "⭐ Os favoritos da Drunk Elephant que todo mundo ama! Compre no site com Frete GRÁTIS acima de R$529.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1a0477ce-5b6e-477b-8179-e79fbe59a754/ea93ef1d96f390013d249eafa3df7d11b9a8838a658249f89e9cff7d11e47ef7.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "25% OFF",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Ranked #2 on Aug 11.",
+      "hook": "25% OFF* DRUNK ELEPHANT | GIFT from DRUNK ELEPHANT",
+      "angle": "Exclusive rewards for loyalty program members (Beauty Pass)",
+      "copy": "It's Drunk Elephant Brand Day! 🩶 Treats for you: 🧘25% off brandwide online and in-stores 🧘Get a gift worth $108 with min. $120 spend on the brand. Shop now, offer ends 12 Aug!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1a0477ce-5b6e-477b-8179-e79fbe59a754/c8f38e74e892fd07425e879e2d3c82f467c7c87d1b23a7c61c128055d708f189.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "25% OFF",
+      "launch": "2026-08-09",
+      "days": 4,
+      "trend": "Ranked #3 on Aug 11.",
+      "hook": "25% OFF* DRUNK ELEPHANT",
+      "angle": "High-value percentage discount on a premium beauty brand",
+      "copy": "Skincare concerns, sorted 🩶 Ageing, reversed. Treat yourself to 25% off Drunk Elephant's heroes today. Limited time only, from now till 12 August 2026.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1a0477ce-5b6e-477b-8179-e79fbe59a754/117429021c309081d2b10dde71e0f4c4a36a62a749a16e0e6695e74343fc5f5e.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Drunk Elephant Skincare",
+      "launch": "2026-08-09",
+      "days": 4,
+      "trend": "Ranked #4 on Aug 11.",
+      "hook": "SEPHORA | DRUNK ELEPHANT BEAUTY PASS EXCLUSIVE | LIMITED TIME ONLY TILL 12 AUGUST 20% OFF* DRUNK ELEPHANT With no min. spend.",
+      "angle": "Exclusive membership perks (Beauty Pass Exclusive)",
+      "copy": "Treat your skin to 20% OFF* Drunk Elephant! Enjoy exclusive gifts with purchase from 10-12 August, exclusively at Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1a0477ce-5b6e-477b-8179-e79fbe59a754/e2ec9d88889def049fb35f94f1d1d7d9285018baebb17676cb3ffbaed6ec620a.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Active Ingredients. Proven Performance.",
+      "launch": "2026-07-09",
+      "days": 35,
+      "trend": "Improved from #10 to #5 in 4d. Biggest jump: #10 → #2 on Aug 9 (+8). Biggest drop: #2 → #5 on Aug 11 (-3). Peak: #2 on Aug 9.",
+      "hook": "YOUR DAILY PROTEIN FIX",
+      "angle": "Skincare as fitness: comparing skin health to muscle building",
+      "copy": "Formulated to feed your skin everything it needs, nothing it doesn’t.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/1a0477ce-5b6e-477b-8179-e79fbe59a754/6d76acdd451cedb91df448f1a71c1f820b13aeca43aac24ac176c4a6d6d56afb.jpg"
+    }
+  ]
+}

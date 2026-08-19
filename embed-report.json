@@ -1,0 +1,16 @@
+{
+ "ok": 1193,
+ "failed": 2,
+ "failures": [
+  [
+   "logo",
+   "Vessi",
+   null
+  ],
+  [
+   "logo",
+   "Hatch",
+   null
+  ]
+ ]
+}

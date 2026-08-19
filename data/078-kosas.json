@@ -1,0 +1,67 @@
+{
+  "name": "Kosas",
+  "category": "Health/beauty",
+  "logo": "https://scontent-lga3-3.xx.fbcdn.net/v/t39.30808-1/652252488_1432029668937672_3259594197022936350_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=106&ccb=1-7&_nc_sid=418b77&_nc_ohc=hTGn6Etv0DwQ7kNvwFZXRUL&_nc_oc=Adp4dOEA6hm62VIutX_eKUTUzD_0PkL-TXBD9dxoaBB0WTAePcsLfnr815cr9Zc6p2c&_nc_zt=24&_nc_ht=scontent-lga3-3.xx&_nc_gid=rqGA0s4UU6XfNkwMjPGU0Q&_nc_ss=7b289&oh=00_AQFLfLmLgFUF2gX-OJ5oTnIlmq5UAWNjOiQns0GGPP71DA&oe=6A81F270",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Kosas Wet Lip Oil Plumping Peptide Lip Treatment Gloss Dip .15 oz/ 4.6 mL",
+      "launch": "2026-07-10",
+      "days": 34,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "This is my pre-pilates makeup routine to make you look extra awake and extra snatched.",
+      "angle": "Acne-safe/non-comedogenic makeup for high-sweat environments (fitness focus)",
+      "copy": "Makeup for skincare freaks. Available at Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1dc6903d-1cfb-4414-8704-cfe0d27bc1e3/1043097868289113.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "KOSAS AT SEPHORA",
+      "launch": "2026-07-17",
+      "days": 27,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "If you don't want your makeup looking like this all summer, then you need to get your powder in check.",
+      "angle": "Preventing summer 'greasy' face while maintaining a 'glowy' look",
+      "copy": "Be for real, no one is going outside without wearing powder 💕 I’m wearing the new @kosas loose powder in shade translucent sway #kosaspartner",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1dc6903d-1cfb-4414-8704-cfe0d27bc1e3/2028309068561179.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "NEW! Soulgazer Intensifying Gel Eyeliner",
+      "launch": "2026-06-12",
+      "days": 62,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "If you have brown eyes, just take my word for it, you need this.",
+      "angle": "Targeted color theory: Using specific shades (blue/green) to make brown eyes stand out.",
+      "copy": "BACK IN STOCK! NEW Soulgazer Intensifying Gel Eyeliner is here. 10 soul-piercing shades of creamy, waterproof, longwearing liner.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1dc6903d-1cfb-4414-8704-cfe0d27bc1e3/1543209394055458.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "KOSAS AT SEPHORA",
+      "launch": "2026-06-24",
+      "days": 50,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "If you have brown eyes, you need this combo.",
+      "angle": "Specific enhancement for brown eyes using a unique 'blackened blue' shade",
+      "copy": "Soulgazer Lengthening Mascara + Peptide Lash Serum & Soulgazer Eyeliner with Hyaluronic Acid, available at Sephora.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1dc6903d-1cfb-4414-8704-cfe0d27bc1e3/1325404415803316.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "KOSAS AT SEPHORA",
+      "launch": "2026-07-17",
+      "days": 27,
+      "trend": "Improved from #8 to #5 in 12d. Biggest jump: #8 → #6 on Aug 4 (+2).",
+      "hook": "If you don't want your makeup looking like this all summer, then you need to get your powder in check.",
+      "angle": "Preventing summer 'greasy' face while maintaining a 'glowy' look",
+      "copy": "Be for real, no one is going outside without wearing powder 💕 I’m wearing the new @kosas loose powder in shade translucent sway #kosaspartner",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/1dc6903d-1cfb-4414-8704-cfe0d27bc1e3/4108226375974059.mp4"
+    }
+  ]
+}

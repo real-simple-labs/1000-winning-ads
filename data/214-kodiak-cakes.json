@@ -1,0 +1,67 @@
+{
+  "name": "Kodiak Cakes",
+  "category": "Brand",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0b2644f1-49d3-47c1-b958-6063cf24c191/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "It’s wild what you & Kodiak can do.",
+      "launch": "2026-07-15",
+      "days": 35,
+      "trend": "Stable at #1 over 6d.",
+      "hook": "REAL QU!CK. EASY. GOOD.",
+      "angle": "Convenience and speed for time-crunched mornings",
+      "copy": "A breakfast made with real ingredients that tastes great AND takes minutes to make? That’s a real big win! Discover Kodiak Power Waffles in the frozen aisle at your local grocery store.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0b2644f1-49d3-47c1-b958-6063cf24c191/1768967461114438.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "It’s wild what you & Kodiak can do.",
+      "launch": "2026-07-18",
+      "days": 32,
+      "trend": "Improved from #4 to #2 in 6d. Biggest jump: #4 → #2 on Aug 15 (+2).",
+      "hook": "REAL QUICK. EASY. GOOD.",
+      "angle": "High-protein alternative to traditional sugary breakfast foods",
+      "copy": "A breakfast made with real ingredients that tastes great AND takes minutes to make? That’s a real big win! Discover Kodiak Power Waffles in the frozen aisle at your local grocery store.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0b2644f1-49d3-47c1-b958-6063cf24c191/1349207767350948.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "2 Ingredient Protein Flatbread",
+      "launch": "2026-07-01",
+      "days": 49,
+      "trend": "Dropped from #2 to #3 in 6d. Peak: #2 on Aug 11.",
+      "hook": "This might be the easiest flatbread you'll ever make.",
+      "angle": "Simple 2-ingredient kitchen hack",
+      "copy": "This 2-ingredient protein flatbread keeps it real simple: Kodiak Buttermilk Power Cakes, Greek yogurt, and just 30 minutes. The result? A warm, satisfying base with 11g of protein per serving.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0b2644f1-49d3-47c1-b958-6063cf24c191/910996848718174.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Only at Sam’s Club",
+      "launch": "2026-07-23",
+      "days": 27,
+      "trend": "Stable at #5 over 6d.",
+      "hook": "Available at sam's club",
+      "angle": "High-protein breakfast solution for fitness-focused consumers",
+      "copy": "Stock your freezer with Kodiak Power Waffles—40 waffles packed with 12g of protein per serving and a good source of fiber.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0b2644f1-49d3-47c1-b958-6063cf24c191/1424113979544196.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Available at Sam's Club",
+      "launch": "2026-07-21",
+      "days": 29,
+      "trend": "Stable at #6 over 6d.",
+      "hook": "Available at sam's club",
+      "angle": "Retail-specific availability for bulk shoppers",
+      "copy": "Adventure-ready snacks are always within reach. Grab a 20-count variety pack with 7g of protein and a good source of fiber.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/0b2644f1-49d3-47c1-b958-6063cf24c191/2217353598841274.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Chewy",
+  "category": "Pet Supplies",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/05022520-5eb0-41fa-ac29-a253e48595d2/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Purrfection for Every Cat",
+      "launch": "2026-05-07",
+      "days": 99,
+      "trend": "n/a",
+      "hook": "Petite Parfaits",
+      "angle": "Gourmet 'human-style' dining experience for cats",
+      "copy": "Serve a purrfect plate of creamy mousse in glaze, topped with real meat or seafood, as a starter or treat with new Petite Parfaits by Purrfect Bistro.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/05022520-5eb0-41fa-ac29-a253e48595d2/945352831706984.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Tidy Cats 24/7 Performance",
+      "launch": "2026-04-01",
+      "days": 135,
+      "trend": "n/a",
+      "hook": "pail refill!",
+      "angle": "Bulk value and volume for multi-cat households",
+      "copy": "Your cat’s go-to litter with tight clumps, low dust, and nonstop odor control. Refill your pail in packaging made with 90% less plastic.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/05022520-5eb0-41fa-ac29-a253e48595d2/1846496282710083.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "New Purrfect Bistro",
+      "launch": "2026-05-07",
+      "days": 99,
+      "trend": "n/a",
+      "hook": "Chewy Pharmacy makes it easy to order pet meds,",
+      "angle": "Frictionless mobile ordering for pet prescriptions",
+      "copy": "Give them a variety of mealtime experiences with a mouthwatering menu of tempting textures & irresistible flavors from Purrfect Bistro at Chewy.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/05022520-5eb0-41fa-ac29-a253e48595d2/1157078939878041.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Merrick Purrfect Bistro Grain-Free Wild-Caught Ocean Whitefish & Spinach Recipe Dry Cat Food",
+      "launch": "2026-05-07",
+      "days": 99,
+      "trend": "n/a",
+      "hook": "Chewy Pharmacy makes it easy to order pet meds,",
+      "angle": "Frictionless mobile ordering for pet prescriptions",
+      "copy": "Give them a variety of mealtime experiences with a mouthwatering menu of tempting textures & irresistible flavors from Purrfect Bistro at Chewy.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/05022520-5eb0-41fa-ac29-a253e48595d2/1295153202718621.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "EzyDog Zero Shock Absorbing Dog Leash, Black, 25-in",
+      "launch": "2026-04-06",
+      "days": 130,
+      "trend": "n/a",
+      "hook": "Chewy Pharmacy makes it easy to order pet meds,",
+      "angle": "Frictionless mobile ordering for pet prescriptions",
+      "copy": "Get $5 off your first Chewy app purchase with code: APP 🐶🐱",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/05022520-5eb0-41fa-ac29-a253e48595d2/2607457006314972.mp4"
+    }
+  ]
+}

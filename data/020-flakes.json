@@ -1,0 +1,67 @@
+{
+  "name": "Flakes",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/96e0bd19-8643-4fdd-972c-f102def93cdc/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "End Dandruff Forever.",
+      "launch": "2026-04-29",
+      "days": 106,
+      "trend": "Stable at #1 over 11d.",
+      "hook": "Dandruff and seborrheic dermatitis were ruining my life.",
+      "angle": "Medical/Dermatologist-backed solution for chronic scalp issues",
+      "copy": "Say goodbye to dandruff and hello to confidence 👋 💪 2x more pyrithione zinc than leading brands for powerfully effective results 🏄🏻‍♂️ Naturally safe formula with zero harsh ingredients 🍃 Smells like a forest…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/96e0bd19-8643-4fdd-972c-f102def93cdc/27347375214888147.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "End Dandruff Forever.",
+      "launch": "2026-07-20",
+      "days": 24,
+      "trend": "Improved from #5 to #2 in 11d. Biggest jump: #4 → #2 on Aug 11 (+2).",
+      "hook": "The flakes by your nose and eyebrows and your beard, that's not 3 different problems.",
+      "angle": "",
+      "copy": "Say goodbye to dandruff and hello to confidence 👋 💪 2x more pyrithione zinc than leading brands for powerfully effective results 🏄🏻‍♂️ Naturally safe formula with zero harsh ingredients 🍃 Smells like a forest…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/96e0bd19-8643-4fdd-972c-f102def93cdc/1945494339490152.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "End Dandruff Forever.",
+      "launch": "2026-04-17",
+      "days": 118,
+      "trend": "Stable at #3 over 11d. Peak: #2 on Aug 4.",
+      "hook": "Let's see what dandruff looks like under the microscope.",
+      "angle": "Scientific education: Debunking the 'dry scalp' myth and explaining fungal overgrowth.",
+      "copy": "Say goodbye to dandruff and hello to confidence 👋 💪 2x more pyrithione zinc than leading brands for powerfully effective results 🏄🏻‍♂️ Naturally safe formula with zero harsh ingredients 🍃 Smells like a forest…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/96e0bd19-8643-4fdd-972c-f102def93cdc/1583633109411136.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "End Dandruff Forever.",
+      "launch": "2026-04-20",
+      "days": 115,
+      "trend": "Stable at #4 over 11d. Peak: #3 on Aug 4.",
+      "hook": "END DANDRUFF FOREVER",
+      "angle": "Permanent resolution for a chronic, embarrassing hygiene problem",
+      "copy": "Say goodbye to dandruff and hello to confidence 👋 💪 2x more pyrithione zinc than leading brands for powerfully effective results 🏄🏻‍♂️ Naturally safe formula with zero harsh ingredients 🍃 Smells like a forest…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/96e0bd19-8643-4fdd-972c-f102def93cdc/703886849034691.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "End Dandruff Forever.",
+      "launch": "2026-05-07",
+      "days": 98,
+      "trend": "Improved from #7 to #5 in 11d.",
+      "hook": "My barber told me it's not early male pattern baldness.",
+      "angle": "Reframing hair loss as a treatable fungal issue rather than inevitable genetics",
+      "copy": "Say goodbye to dandruff and hello to confidence 👋 💪 2x more pyrithione zinc than leading brands for powerfully effective results 🏄🏻‍♂️ Naturally safe formula with zero harsh ingredients 🍃 Smells like a forest…",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/96e0bd19-8643-4fdd-972c-f102def93cdc/1632538014519000.mp4"
+    }
+  ]
+}

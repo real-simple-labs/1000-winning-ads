@@ -1,0 +1,67 @@
+{
+  "name": "MeUndies",
+  "category": "Clothing (Brand)",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21fa1069-620a-496a-b85b-980317cc50bc/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "30% OFF",
+      "launch": "2026-04-15",
+      "days": 120,
+      "trend": "Stable at #1 over 10d.",
+      "hook": "n/a",
+      "angle": "High-end minimalist aesthetic appeal",
+      "copy": "50% off your comfiest undies yet 👀 ☁️ Ultra-lightweight and moisture-wicking 💪 Durable, high-quality, and anti-odor 🍑 Insanely flattering + comes in 20+ styles!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21fa1069-620a-496a-b85b-980317cc50bc/1259072899761874.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Shop Spider-Man ➡️",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #8 to #2 in 14d. Biggest jump: #8 → #4 on Aug 1 (+4).",
+      "hook": "Limited Edition Print",
+      "angle": "Exclusive pop-culture collaboration (Marvel x MeUndies)",
+      "copy": "Marvel's Spider-Man Collection: It's time to suit up",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21fa1069-620a-496a-b85b-980317cc50bc/1089798660149708.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Shop Spider-Man ➡️",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Stable at #3 over 14d. Biggest jump: #3 → #1 on Aug 1 (+2). Peak: #1 on Aug 1.",
+      "hook": "WITH GREAT COMFORT, COMES GREAT RESPONSIBILITY",
+      "angle": "Leveraging iconic Marvel IP for fan-based appeal",
+      "copy": "Marvel's Spider-Man Collection: It's time to suit up",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21fa1069-620a-496a-b85b-980317cc50bc/4004281439708056.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Shop Spider-Man ➡️",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #6 to #4 in 14d. Biggest jump: #6 → #3 on Aug 1 (+3). Peak: #3 on Aug 1.",
+      "hook": "WITH GREAT COMFORT, COMES GREAT RESPONSIBILITY",
+      "angle": "Leveraging iconic Marvel IP for fan-based appeal",
+      "copy": "Marvel's Spider-Man Collection: It's time to suit up",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21fa1069-620a-496a-b85b-980317cc50bc/1756519168840898.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Shop Spider-Man ➡️",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #7 to #5 in 14d. Biggest jump: #7 → #5 on Aug 1 (+2). Peak: #4 on Aug 11.",
+      "hook": "Limited Edition Print",
+      "angle": "Exclusive official Marvel brand collaboration",
+      "copy": "Marvel's Spider-Man Collection: It's time to suit up",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/21fa1069-620a-496a-b85b-980317cc50bc/27505388882458939.jpg"
+    }
+  ]
+}

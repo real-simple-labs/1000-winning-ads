@@ -1,0 +1,67 @@
+{
+  "name": "Magic Spoon",
+  "category": "Food & beverage",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/48be1a48-ad82-40ae-b4ba-943c5db831f9/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Magic Spoon Protein Oatmeal",
+      "launch": "2026-07-06",
+      "days": 38,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "PROTEIN OATMEAL",
+      "angle": "Nutritional superiority (High protein and extremely low sugar compared to competitors)",
+      "copy": "15g protein. 6g fiber. 1g sugar. Meet Magic Spoon Protein Oatmeal. The warm, creamy oatmeal you love, reimagined with the macros you expect from Magic Spoon. Available in Maple Brown Sugar, Apple Cinnamon,",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/48be1a48-ad82-40ae-b4ba-943c5db831f9/1029820786331400.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "15g Protein. 6g Fiber. 1g Sugar.",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Improved from #3 to #2 in 14d. Biggest jump: #5 → #3 on Aug 9 (+2).",
+      "hook": "BANANA BREAD JUST DROPPED",
+      "angle": "",
+      "copy": "Meet Magic Spoon Protein Oatmeal - the warm, creamy oatmeal you love, reimagined with the macros you expect from Magic Spoon. 15g protein. 6g fiber. 1g sugar. Available in Maple Brown Sugar, Apple Cinnamon,",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/48be1a48-ad82-40ae-b4ba-943c5db831f9/1351719313589185.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "NEW: Magic Spoon Protein Oatmeal",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Improved from #5 to #3 in 14d. Biggest jump: #6 → #4 on Aug 9 (+2).",
+      "hook": "PROTEIN OATS Just Dropped",
+      "angle": "New product line extension launch ('Just Dropped')",
+      "copy": "15g protein. 6g fiber. 1g sugar. Meet Magic Spoon Protein Oatmeal. The warm, creamy oatmeal you love, reimagined with the macros you expect from Magic Spoon. Available in Maple Brown Sugar, Apple Cinnamon,",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/48be1a48-ad82-40ae-b4ba-943c5db831f9/1045978818112382.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "6 Flavors, 0 Regrets: The Magic Spoon Variety Case",
+      "launch": "2026-07-27",
+      "days": 17,
+      "trend": "Improved from #6 to #4 in 4d.",
+      "hook": "I've been wanting to try these forever.",
+      "angle": "Flavor Variety & Taste Test: Showcasing the wide range of nostalgic flavors and proving they actually taste good.",
+      "copy": "Say goodbye to boring breakfasts! 🥣 Start your day fun with marshmallows and 12g of protein & 3g sugar. 💪 Tastes like childhood favorites minus the guilt. Perfect for keto lifestyles and less than $2 per",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/48be1a48-ad82-40ae-b4ba-943c5db831f9/27765955666366450.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "NEW: Magic Spoon Protein Oatmeal",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Dropped from #4 to #5 in 14d. Biggest jump: #7 → #5 on Aug 9 (+2). Peak: #4 on Jul 30.",
+      "hook": "PROTEIN OATS",
+      "angle": "High-protein breakfast alternative with 15g of protein per serving",
+      "copy": "15g protein. 6g fiber. 1g sugar. Meet Magic Spoon Protein Oatmeal. The warm, creamy oatmeal you love, reimagined with the macros you expect from Magic Spoon. Available in Maple Brown Sugar, Apple Cinnamon,",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/48be1a48-ad82-40ae-b4ba-943c5db831f9/2137346543487253.jpg"
+    }
+  ]
+}

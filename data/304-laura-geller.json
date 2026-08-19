@@ -1,0 +1,67 @@
+{
+  "name": "Laura Geller",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/257c7d2b-0985-4d1b-853c-f96aa2432a01/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "No Makeup Artist. No Script. No Do-Over.",
+      "launch": "2026-07-10",
+      "days": 40,
+      "trend": "Improved from #3 to #1 in 11d.",
+      "hook": "Let's do my makeup using all Laura Geller products.",
+      "angle": "Full-face routine using a single trusted brand",
+      "copy": "Bethenny skips the makeup artist and the script. Just a fresh face, the Best of the Best Cream Palette, and real tips, one woman to another.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/257c7d2b-0985-4d1b-853c-f96aa2432a01/cf42b525b80745ea50e08b1f9027630ebc543a47a1b8da67cb7f88de0bb5a810.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "The Baked Starter Makeup Kit | Porcelain | 3 Pieces",
+      "launch": "2026-07-11",
+      "days": 39,
+      "trend": "Improved from #4 to #2 in 11d.",
+      "hook": "LAURA GELLER",
+      "angle": "All-in-one beauty solution featuring eyes, face, and cheek products",
+      "copy": "Bethenny skips the makeup artist and the script. Just a fresh face, the Best of the Best Cream Palette, and real tips, one woman to another.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/257c7d2b-0985-4d1b-853c-f96aa2432a01/97ab9b457f70cd3557cacdd0a922bc00b64f020bca89a6ad8aba49e3d9f1aa9e.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Bethenny Frankel Through the Years",
+      "launch": "2026-07-10",
+      "days": 40,
+      "trend": "Improved from #10 to #3 in 11d. Biggest jump: #10 → #5 on Aug 9 (+5).",
+      "hook": "Bethenny's greatest hits. That's going to be a long one.",
+      "angle": "Empowering women over 50 to celebrate their bodies and vitality",
+      "copy": "From red carpet hits to some beauty misses Bethenny takes an unfiltered look back at the moments that defined her beauty evolution.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/257c7d2b-0985-4d1b-853c-f96aa2432a01/b5baf7cc91ed234a4134a103e57051827b31c5cbbef6e2ce11894dad559b4193.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "The Baked Starter Makeup Kit | Toffee | 3 Pieces",
+      "launch": "2026-07-11",
+      "days": 39,
+      "trend": "Improved from #9 to #4 in 11d. Biggest jump: #9 → #6 on Aug 9 (+3).",
+      "hook": "From red carpet hits to some beauty misses",
+      "angle": "",
+      "copy": "From red carpet hits to some beauty misses Bethenny takes an unfiltered look back at the moments that defined her beauty evolution.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/257c7d2b-0985-4d1b-853c-f96aa2432a01/c79c483cd58b8cd9dda59d6f03165ce4a01c5140017f90126adad45dbb81458a.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "This look is easy-peasy!",
+      "launch": "2026-07-26",
+      "days": 24,
+      "trend": "Improved from #32 to #5 in 11d. Biggest jump: #32 → #20 on Aug 9 (+12).",
+      "hook": "AGING BEAUTIFULLY JUST GOT CHEAPER.",
+      "angle": "Deep price anchoring (50-60% off)",
+      "copy": "Time to simplify your everyday makeup! Laura Geller's Daily Routine Kit has everything you need...at a fantastic value! What's inside 👀: 😉 Fan-fave foundation 💕 Beautiful marbleized blush ⭐️ Illuminating highlighter",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/257c7d2b-0985-4d1b-853c-f96aa2432a01/d27ba2869f2ec615f0aeb025bdca3df2409596a1b774a36603d38ad3fc457c43.mp4"
+    }
+  ]
+}

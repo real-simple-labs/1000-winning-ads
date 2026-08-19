@@ -1,0 +1,67 @@
+{
+  "name": "WHOOP",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/8730d864-ac27-4bb6-9ca3-0d5bcfba464d/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Start building better health",
+      "launch": "2026-03-10",
+      "days": 157,
+      "trend": "Stable at #1 over 10d.",
+      "hook": "Daily insights, long-term impact",
+      "angle": "Connecting immediate data tracking to long-term health outcomes",
+      "copy": "Small habits create big change. WHOOP helps you understand what works for your body — and stay consistent.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/8730d864-ac27-4bb6-9ca3-0d5bcfba464d/4d33364db73b7ec9b34a6545543954bb0cbf0a098f076bc0185f27c23c343f7e.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "See style meet performance",
+      "launch": "2026-06-12",
+      "days": 63,
+      "trend": "Stable at #2 over 10d.",
+      "hook": "Match your look",
+      "angle": "Making invisible mental and physical stress quantifiable",
+      "copy": "WHOOP combines performance and design in a wearable that works with your life and look.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/8730d864-ac27-4bb6-9ca3-0d5bcfba464d/4293d5ca0005ed59183dcb373bf1c1d81e357d736a999f9638ad3f104ab00fe8.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Start building better health",
+      "launch": "2026-03-10",
+      "days": 157,
+      "trend": "Stable at #3 over 10d.",
+      "hook": "The only wearable that’s always on",
+      "angle": "Highlighting the unique 'always on' charging capability that differentiates it from competitors",
+      "copy": "Small habits create big change. WHOOP helps you understand what works for your body — and stay consistent.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/8730d864-ac27-4bb6-9ca3-0d5bcfba464d/35bd2a8130f62f888a0076fd8951b9c89071c07a69eed449560b4bbe4541544b.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Customize your WHOOP",
+      "launch": "2026-06-12",
+      "days": 63,
+      "trend": "Stable at #4 over 10d.",
+      "hook": "Match your look",
+      "angle": "Style-first fitness: Positioned as a wearable that matches your outfit, not just your workout.",
+      "copy": "WHOOP is made to match your style, routine, and goals.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/8730d864-ac27-4bb6-9ca3-0d5bcfba464d/5b6b56425c70e91292c548c27cd779bdeb19c5e8f6ea0ac292c956e486c7cdc9.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Start building better health",
+      "launch": "2026-03-10",
+      "days": 157,
+      "trend": "Stable at #5 over 10d.",
+      "hook": "Match your look",
+      "angle": "Longevity and biological age tracking (Healthspan)",
+      "copy": "Small habits create big change. WHOOP helps you understand what works for your body — and stay consistent.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/8730d864-ac27-4bb6-9ca3-0d5bcfba464d/3a7b4a87c673cf15d2a6c291cc770d7e69293b52edfd6d4c26c024c8b655d0cb.jpg"
+    }
+  ]
+}

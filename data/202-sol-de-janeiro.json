@@ -1,0 +1,67 @@
+{
+  "name": "Sol de Janeiro",
+  "category": "Health/beauty",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6915f2ac-254f-4673-8acb-bc877e2a6595/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "New Jelly Perfume Balm",
+      "launch": "2026-06-02",
+      "days": 73,
+      "trend": "Stable at #1 over 8d.",
+      "hook": "Meet the new Jelly Perfume Balms 🧲",
+      "angle": "Introducing a unique new product format (solid jelly fragrance)",
+      "copy": "Make the moment delicious, just add new Jelly Perfume Balm ✨ Ready when you are.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6915f2ac-254f-4673-8acb-bc877e2a6595/1016890200763299.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "New Scents For The Guys",
+      "launch": "2026-08-01",
+      "days": 13,
+      "trend": "Improved from #3 to #2 in 10d.",
+      "hook": "A shirtless man looking over his shoulder toward the camera at a sunny beach background.",
+      "angle": "Brazilian beach lifestyle",
+      "copy": "New Cheiroso Cologne Mist ⛰️⚽ Play it your way with our first-ever scents for guys. Made with freshness tech to keep odor in check.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6915f2ac-254f-4673-8acb-bc877e2a6595/2135901330321664.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "GlowMotions Glow Body Oil",
+      "launch": "2026-06-29",
+      "days": 46,
+      "trend": "Dropped from #1 to #3 in 12d. Peak: #1 on Aug 1.",
+      "hook": "NEU",
+      "angle": "New product launch urgency ('NEU')",
+      "copy": "Cleanse And Moisturize To Smooth Skin. Spritz To Smell Irresistible.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6915f2ac-254f-4673-8acb-bc877e2a6595/1394502006073400.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "New Scents For The Guys",
+      "launch": "2026-08-01",
+      "days": 13,
+      "trend": "Improved from #5 to #4 in 10d. Biggest jump: #6 → #4 on Aug 7 (+2).",
+      "hook": "A shirtless man looking over his shoulder toward the camera at a sunny beach background.",
+      "angle": "Brazilian beach lifestyle",
+      "copy": "New Cheiroso Cologne Mist ⛰️⚽ Play it your way with our first-ever scents for guys. Made with freshness tech to keep odor in check.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6915f2ac-254f-4673-8acb-bc877e2a6595/37196887183292254.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "So @soldejaneiro made two cologne mists for men?!",
+      "launch": "2026-08-01",
+      "days": 13,
+      "trend": "Improved from #18 to #5 in 10d. Biggest jump: #18 → #6 on Aug 7 (+12).",
+      "hook": "So Sol de Janeiro made cologne mists for men.",
+      "angle": "New Product Launch: Introducing the long-awaited Sol de Janeiro line specifically for men.",
+      "copy": "So @soldejaneiro made two cologne mists for men?! Let’s talk about them #soldejaneiropartner #soldejaneiro #cheirosa",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6915f2ac-254f-4673-8acb-bc877e2a6595/2538368709920590.mp4"
+    }
+  ]
+}

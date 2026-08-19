@@ -1,0 +1,12 @@
+{
+  "missing": [
+    {
+      "name": "Tower 28",
+      "reason": "No match in Parker's ad-library database (tried 'Tower 28', 'Tower 28 Beauty', 'tower28beauty.com')."
+    },
+    {
+      "name": "Topicals",
+      "reason": "No match in Parker's ad-library database (tried 'Topicals', 'Topicals Beauty', 'mytopicals.com')."
+    }
+  ]
+}

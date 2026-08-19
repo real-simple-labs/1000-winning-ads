@@ -1,0 +1,67 @@
+{
+  "name": "Naturium",
+  "category": "",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ef1b2f74-86bc-4989-9361-8ed88e3bd1e0/logo.png",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Real People. Real Glow.",
+      "launch": "2026-07-13",
+      "days": 32,
+      "trend": "Stable at #1 over 2d.",
+      "hook": "Beach days are around the corner",
+      "angle": "Summer glow meets high SPF protection",
+      "copy": "🏝️☀️ Beach day essentials // glowy and protected using the Dew-Glow Moisturizer SPF 50 from @naturium #AD #NaturiumPartner",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ef1b2f74-86bc-4989-9361-8ed88e3bd1e0/1605930964532644.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Consistency Starts Here",
+      "launch": "2026-08-10",
+      "days": 4,
+      "trend": "Improved from #11 to #2 in 2d. Biggest jump: #11 → #2 on Aug 14 (+9).",
+      "hook": "10% Off",
+      "angle": "Introductory discount for new customers to lower the barrier to entry",
+      "copy": "Take 10% off your first order. Sign up and save instantly, plus earn rewards as you go.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/ef1b2f74-86bc-4989-9361-8ed88e3bd1e0/02054c1c4801a576aba97f7bd737462e66c21973e95650802381864277f8f36b.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Head-to-Toe Glow Essentials",
+      "launch": "2026-07-08",
+      "days": 37,
+      "trend": "Dropped from #2 to #3 in 2d. Peak: #2 on Aug 12.",
+      "hook": "NATURIUM Results for Every Skin Type SHOP BEST SELLERS",
+      "angle": "Wide product variety for lips, face, and body",
+      "copy": "Glow from head to toe. Luxurious, clinically-effective skincare made simple. ✨",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ef1b2f74-86bc-4989-9361-8ed88e3bd1e0/1346082997017391.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Real People. Real Glow.",
+      "launch": "2026-07-08",
+      "days": 37,
+      "trend": "Dropped from #3 to #4 in 2d. Peak: #3 on Aug 12.",
+      "hook": "I don't know about y'all, but I like looking like a delicious glazed donut in the summer",
+      "angle": "The 'Glazed Donut' Aesthetic: Achieving a high-shine, dewy skin look for the summer.",
+      "copy": "my perfect summer glow starts with my shower routine 🚿🫧& these favs from @naturium #AD #NaturiumPartner",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ef1b2f74-86bc-4989-9361-8ed88e3bd1e0/2289854848087331.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Real People. Real Glow.",
+      "launch": "2026-07-02",
+      "days": 43,
+      "trend": "Dropped from #4 to #5 in 2d. Peak: #4 on Aug 12.",
+      "hook": "I don't know about y'all, but I like looking like a delicious glazed donut in the summer",
+      "angle": "The 'Glazed Donut' Aesthetic: Achieving a high-shine, dewy skin look for the summer.",
+      "copy": "my perfect summer glow starts with my shower routine 🚿🫧& these favs from @naturium #AD #NaturiumPartner",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/ef1b2f74-86bc-4989-9361-8ed88e3bd1e0/2080982952810040.mp4"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Caraway",
+  "category": "Home Goods Store",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2db5dea2-ace1-4fb6-9162-93069dccb19d/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Premium Kitchenware For Less",
+      "launch": "2026-05-18",
+      "days": 87,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "$350 OFF",
+      "angle": "Deep-discount pricing as a primary conversion driver",
+      "copy": "Bundle and save on Caraway's game changing cookware. With thoughtful designs and durable materials, they're worth every penny.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2db5dea2-ace1-4fb6-9162-93069dccb19d/1001591418993645.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Premium Kitchenware For Less",
+      "launch": "2026-05-09",
+      "days": 96,
+      "trend": "Improved from #3 to #2 in 12d. Biggest jump: #4 → #2 on Aug 6 (+2).",
+      "hook": "$350 OFF",
+      "angle": "Massive financial incentive through a high-dollar discount",
+      "copy": "Bundle and save on Caraway's game changing ceramic-coated cookware. Choose from eight gorgeous colors, made with durable materials and non-stick coating.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2db5dea2-ace1-4fb6-9162-93069dccb19d/1496444698791124.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Everyday Cooking, Upgraded",
+      "launch": "2026-06-19",
+      "days": 55,
+      "trend": "Improved from #4 to #3 in 12d. Biggest jump: #6 → #4 on Aug 6 (+2). Biggest drop: #4 → #6 on Aug 2 (-2).",
+      "hook": "One kitchen. Eight colorways.",
+      "angle": "Aesthetic personalization (matching kitchen decor with 8 color options)",
+      "copy": "Eight kitchen-worthy colors. Smooth ceramic coating. Heavy-duty handles. Plus, free storage solutions with cookware sets.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2db5dea2-ace1-4fb6-9162-93069dccb19d/1638960357202640.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Cookware People Comment On",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Improved from #8 to #4 in 12d. Biggest jump: #7 → #4 on Aug 12 (+3).",
+      "hook": "One kitchen. Eight colorways.",
+      "angle": "Aesthetic customization: Highlighting the variety of colors to match any kitchen decor.",
+      "copy": "Meet Caraway's Ceramic-Coated Cookware: designed to be equal parts durable and beautiful, and made without PTFE, PFOA, or PFAS. 🌟 Eight gorgeous colors 🌟 155K+ five-star reviews 🌟 Free shipping & returns 🌟 30-day trial",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2db5dea2-ace1-4fb6-9162-93069dccb19d/2850314571984695.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "It's Time For An Upgrade",
+      "launch": "2026-06-18",
+      "days": 56,
+      "trend": "Improved from #10 to #5 in 12d. Biggest jump: #8 → #5 on Aug 12 (+3).",
+      "hook": "",
+      "angle": "Aesthetic-driven kitchen transformation",
+      "copy": "Refresh your cookware for summer entertaining. Explore display-worthy designs and durable, clean materials built to last ✨",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/2db5dea2-ace1-4fb6-9162-93069dccb19d/1295506576126831.jpg"
+    }
+  ]
+}

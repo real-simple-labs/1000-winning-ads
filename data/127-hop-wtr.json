@@ -1,0 +1,67 @@
+{
+  "name": "HOP WTR",
+  "category": "Food & beverage",
+  "logo": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-1/767674475_1467883702051927_7254196253203060257_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=ecEKFkOYKb0Q7kNvwE9l8tD&_nc_oc=AdqrYcd5bl6hg0CC9yOFaUYxmlZZRJApgIW4eBTAZgVSWP9dAULot9Q3Sp4U0L32y7c&_nc_zt=24&_nc_ht=scontent-ord5-1.xx&_nc_gid=1z14FrGQ7-3D9KoB9ToY6w&_nc_ss=7b289&oh=00_AQENmUnFtIVo_zmgcjL_yYji4JVKC2H4xomnZ2RKhvbo7w&oe=6A812049",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Meet Pickle Lemonade",
+      "launch": "2026-06-29",
+      "days": 45,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "PICKLE LEMONADE",
+      "angle": "Novelty and curiosity regarding a polarizing 'chaos' flavor combination",
+      "copy": "The internet's favorite pickle just became your new favorite drink. 🥒🍋 Meet Pickle Lemonade—our limited-edition collab with @goodgirlsnacks. Bright lemonade. A splash of savory pickle brine.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c4e2a38a-b5a6-42d8-b7f6-29e19813136a/1005728489149460.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Meet Pickle Lemonade",
+      "launch": "2026-06-29",
+      "days": 45,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "JUICY & REFRESHING",
+      "angle": "Novelty flavor curiosity using a unique 'Pickle Lemonade' profile",
+      "copy": "The internet's favorite pickle just became your new favorite drink. 🥒🍋 Meet Pickle Lemonade—our limited-edition collab with @goodgirlsnacks. Bright lemonade. A splash of savory pickle brine.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c4e2a38a-b5a6-42d8-b7f6-29e19813136a/4359678247629512.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Meet Pickle Lemonade",
+      "launch": "2026-06-25",
+      "days": 49,
+      "trend": "Stable at #3 over 12d.",
+      "hook": "HOT GIRLS DRINK THIS",
+      "angle": "Identity-based marketing leveraging the 'Hot Girl' social media aesthetic",
+      "copy": "The internet's favorite pickle just became your new favorite drink. 🥒🍋 Meet Pickle Lemonade—our limited-edition collab with @goodgirlsnacks. Bright lemonade. A splash of savory pickle brine.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c4e2a38a-b5a6-42d8-b7f6-29e19813136a/909138465531209.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Meet Pickle Lemonade",
+      "launch": "2026-06-25",
+      "days": 49,
+      "trend": "Stable at #4 over 12d.",
+      "hook": "LIMITED EDITION",
+      "angle": "Leveraging scarcity with a limited-run product launch",
+      "copy": "The internet's favorite pickle just became your new favorite drink. 🥒🍋 Meet Pickle Lemonade—our limited-edition collab with @goodgirlsnacks. Bright lemonade. A splash of savory pickle brine.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c4e2a38a-b5a6-42d8-b7f6-29e19813136a/3484221361735483.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "The Drink With Benefits",
+      "launch": "2026-04-30",
+      "days": 105,
+      "trend": "Improved from #6 to #5 in 12d.",
+      "hook": "“TASTES LIKE MY FAVORITE IPA WITHOUT THE HANGOVER. DOESN’T FEEL LIKE I QUIT ANYTHING.”",
+      "angle": "Positioning as a flavor-identical, hangover-free alternative to craft beer",
+      "copy": "There’s a better way to relax. HOPWTR blends refreshing hops with adaptogens and nootropics for a crisp, non-alcoholic sip anytime, anywhere.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c4e2a38a-b5a6-42d8-b7f6-29e19813136a/998222589451113.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Knix",
+  "category": "Lingerie & Underwear Store",
+  "logo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/452958270_1077926573896326_5307871612400839059_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=2MU34ERtsW4Q7kNvwHdKKzx&_nc_oc=AdpUqCkhMY7eAOT1GGyCfw6BAcbq4w1FSM99lEhDpDousv4w_lb4zhhKnegVxbc2quw&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=CZ06XYOWhZlaMABxspwuFQ&_nc_ss=7b289&oh=00_AQF5Oa6M1XaKcZH-jHlIY5KK8ql7tUzPBtbjm2Oz9toF5w&oe=6A831746",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "LeakStrong Leakproof Legging - Black / XL",
+      "launch": "2026-05-05",
+      "days": 100,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "knix",
+      "angle": "Seamless construction for an invisible look under clothing",
+      "copy": "Whether you want to stock up on your favorites in new limited edition colors, or discover something new–the Knix Best Sellers Collection has everything you need to upgrade your bras and underwear!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b88b38ca-d5b6-4047-b1ea-ccb2a6670e2f/1492021609235742.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Buy More = Save More 🤑",
+      "launch": "2026-04-01",
+      "days": 134,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "Get Leakproof undies for less",
+      "angle": "Tiered discounting to incentivize bulk purchasing and stocking up",
+      "copy": "Ditch the disposables. 🗑️ Switch to the most comfy, machine-washable period panties from Knix! Stock up and save up to 20%.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b88b38ca-d5b6-4047-b1ea-ccb2a6670e2f/2016645528946831.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Knix Period Underwear",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #5 to #3 in 14d.",
+      "hook": "our viral period boxer just dropped in a mini version",
+      "angle": "New Product Launch: Introducing a 'mini' version of a previously viral product.",
+      "copy": "Keep it cheeky with the new Super Leakproof® Mini Dream Boxer from Knix. 🩸 Absorbs up to 9 super tampons 🍑 New mini length 🩷 Lace trim detailing",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b88b38ca-d5b6-4047-b1ea-ccb2a6670e2f/2213313742824840.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Knix Period Underwear",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #7 to #4 in 14d. Biggest jump: #7 → #5 on Aug 3 (+2).",
+      "hook": "our viral period boxer just dropped in a mini version",
+      "angle": "New Product Launch: Introducing a 'mini' version of a previously viral product.",
+      "copy": "Keep it cheeky with the new Super Leakproof® Mini Dream Boxer from Knix. 🩸 Absorbs up to 9 super tampons 🍑 New mini length 🩷 Lace trim detailing",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b88b38ca-d5b6-4047-b1ea-ccb2a6670e2f/1362706319076987.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "WingWoman Contour Bra - Sola / 46B",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #12 to #5 in 14d. Biggest jump: #12 → #8 on Aug 3 (+4).",
+      "hook": "n/a",
+      "angle": "Ultimate comfort through seamless, wireless construction",
+      "copy": "Time for a spring refresh. Upgrade your top drawer to Knix bra and undies. See what the hype is about. 🩸Period underwear for every flow ☁️Comfy undies in sizes XS-XXXXL 💕Supportive bras in sizes 28A–48H",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/b88b38ca-d5b6-4047-b1ea-ccb2a6670e2f/27475981032053094.jpg"
+    }
+  ]
+}

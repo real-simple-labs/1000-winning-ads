@@ -1,0 +1,67 @@
+{
+  "name": "Warby Parker",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9f669db3-3482-4fcf-a7e9-bdbc4e8bd5ee/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "We’re now open in Doral",
+      "launch": "2026-06-22",
+      "days": 53,
+      "trend": "n/a",
+      "hook": "Need new glasses?\nCome see us in Doral.",
+      "angle": "Localized store invitation for Doral-based customers",
+      "copy": "We offer glasses starting at $95, as well as sunglasses, contacts, and more!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9f669db3-3482-4fcf-a7e9-bdbc4e8bd5ee/1553694849872430.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Out now: Summer 2026",
+      "launch": "2026-07-01",
+      "days": 44,
+      "trend": "n/a",
+      "hook": "WARBY PARKER",
+      "angle": "Natural lifestyle integration through aesthetic 'flat lay' photography",
+      "copy": "Get set for the season ahead with confident, new frame shapes in warm, sun-ready colorways.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9f669db3-3482-4fcf-a7e9-bdbc4e8bd5ee/1792124781971871.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Out now: Summer 2026",
+      "launch": "2026-07-01",
+      "days": 44,
+      "trend": "n/a",
+      "hook": "THE METAMORPHOSIS",
+      "angle": "Aspirational lifestyle and leisure association",
+      "copy": "Get set for the season ahead with confident, new frame shapes in warm, sun-ready colorways.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9f669db3-3482-4fcf-a7e9-bdbc4e8bd5ee/3310235622697229.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "We’re now open in Doral",
+      "launch": "2026-06-23",
+      "days": 52,
+      "trend": "n/a",
+      "hook": "Need new glasses?\nCome see us in Doral.",
+      "angle": "Hyper-local targeting by mentioning a specific city location",
+      "copy": "We offer glasses starting at $95, as well as sunglasses, contacts, and more!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9f669db3-3482-4fcf-a7e9-bdbc4e8bd5ee/2886064058397762.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "See summer better",
+      "launch": "2026-07-01",
+      "days": 44,
+      "trend": "n/a",
+      "hook": "Our latest wave of summer styles includes new, sun-ready shapes and a refreshed palette.",
+      "angle": "Sophisticated lifestyle positioning through intellectual associations (Kafka)",
+      "copy": "Our latest wave of summer styles includes new, sun-ready shapes and a refreshed palette.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9f669db3-3482-4fcf-a7e9-bdbc4e8bd5ee/2515743215537976.jpg"
+    }
+  ]
+}

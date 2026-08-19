@@ -1,0 +1,67 @@
+{
+  "name": "Pendulum",
+  "category": "Medical & health",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/721a6537-3885-4439-b7bd-600bdd50dfd2/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Slow after 40? Metabolism unstuck.",
+      "launch": "2026-07-21",
+      "days": 24,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Slow after 40?",
+      "angle": "Targeting age-related metabolic slowdown in individuals over 40",
+      "copy": "",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/721a6537-3885-4439-b7bd-600bdd50dfd2/1733072294487556.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Slow after 40? Metabolism unstuck.",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "Improved from #4 to #2 in 12d.",
+      "hook": "Slow after 40?",
+      "angle": "Targeting age-related metabolic slowdown in adults over 40",
+      "copy": "Bloating gone. Energy back. Your metabolism shifts when your gut shifts. One capsule daily.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/721a6537-3885-4439-b7bd-600bdd50dfd2/1354815249373174.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Don’t Get Trapped w/ Gas",
+      "launch": "2026-07-21",
+      "days": 24,
+      "trend": "Dropped from #2 to #3 in 12d. Peak: #2 on Jul 31.",
+      "hook": "Feeling gassy? Pop the bloat Find real relief",
+      "angle": "Direct symptom relief for gas and bloating",
+      "copy": "Metabolic Daily is the needle to your ballooning belly. Time to let it all out.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/721a6537-3885-4439-b7bd-600bdd50dfd2/1759503211721620.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Don’t Get Trapped w/ Gas",
+      "launch": "2026-07-24",
+      "days": 21,
+      "trend": "Improved from #10 to #4 in 12d. Biggest jump: #10 → #4 on Aug 2 (+6). Peak: #3 on Aug 4.",
+      "hook": "Feeling gassy? Pop the bloat Find real relief",
+      "angle": "Direct symptom targeting: Focusing specifically on gas and bloating relief",
+      "copy": "Metabolic Daily is the needle to your ballooning belly. Time to let it all out.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/721a6537-3885-4439-b7bd-600bdd50dfd2/2315645619242258.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Goodbye Gassy Guts",
+      "launch": "2026-08-06",
+      "days": 8,
+      "trend": "Improved from #199 to #5 in 6d. Biggest jump: #199 → #21 on Aug 8 (+178).",
+      "hook": "Why is everyone so bloated?",
+      "angle": "Addressing common digestive discomfort (bloating) through scientific explanation",
+      "copy": "If you’re constantly asking yourself, “Why am I so bloated?” this is WORTH looking into. I’ve realized it’s not always about eating less. Sometimes your gut just needs better support. I’ve been taking",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/721a6537-3885-4439-b7bd-600bdd50dfd2/2159062048361577.mp4"
+    }
+  ]
+}

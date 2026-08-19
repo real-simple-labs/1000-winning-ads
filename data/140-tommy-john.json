@@ -1,0 +1,67 @@
+{
+  "name": "Tommy John",
+  "category": "Clothing (Brand)",
+  "logo": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/442490476_853500946815225_7361977003518666751_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=8RTFd1yiYD0Q7kNvwGDgV6c&_nc_oc=AdrT6keQUcm0I-HvNdoGzyZ4Vvf_x_HLotH2q3YNnWPZZaXVEVLej__iOwtgPQMteOg&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&_nc_gid=Qt7tlRtsxzasdSqo2iLGBw&_nc_ss=7b289&oh=00_AQFE9HYxdLX4LIZ6WN95dDHpRACKpwq0tAq297hob4jysQ&oe=6A81682F",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Your Daily Pick-Me-Up",
+      "launch": "2026-03-13",
+      "days": 153,
+      "trend": "Stable at #1 over 4d.",
+      "hook": "FEATHER- LIGHT AIR UNDERWEAR",
+      "angle": "Third-party validation via high-authority Wirecutter 'Our Pick' endorsement",
+      "copy": "Your best pairs of underwear shouldn't be reserved for special occasions, they should be a daily indulgence (because you deserve it).",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6e3c4ef2-7273-4c49-9f65-a9a5c89bc127/e8aeb3da8b9c68f8c74ec815cb35d0f3e4dd246e0a3073ff191331ce6eadaad8.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Downtime Pajama Sets",
+      "launch": "2025-12-05",
+      "days": 251,
+      "trend": "Stable at #2 over 4d.",
+      "hook": "“These are truly the only pajama shorts I will wear now. They are so comfortable.”",
+      "angle": "Extreme comfort as a primary selling point",
+      "copy": "Wake up feeling comfortable (and cute) in lightweight, breathable Downtime Pajamas you won't want to take off.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6e3c4ef2-7273-4c49-9f65-a9a5c89bc127/1413183430370667.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Your Daily Pick-Me-Up",
+      "launch": "2026-04-13",
+      "days": 122,
+      "trend": "Stable at #3 over 4d.",
+      "hook": "FEATHER-LIGHT AIR UNDERWEAR",
+      "angle": "Third-party authority via New York Times Wirecutter endorsement",
+      "copy": "Your best pairs of underwear shouldn't be reserved for special occasions, they should be a daily indulgence (because you deserve it).",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6e3c4ef2-7273-4c49-9f65-a9a5c89bc127/b87b526e31641793f3a7339088ef62ed0ba348f24904de38b24842d405e14681.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Downtime Pajama Sets",
+      "launch": "2026-06-08",
+      "days": 66,
+      "trend": "Stable at #4 over 4d.",
+      "hook": "“These are truly the only pajama shorts I will wear now. They are so comfortable.”",
+      "angle": "Leveraging social proof and high customer ratings to build trust",
+      "copy": "Wake up feeling comfortable (and cute) in lightweight, breathable Downtime Pajamas you won't want to take off.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6e3c4ef2-7273-4c49-9f65-a9a5c89bc127/d62f786f84528dbd1fe5aa1e4cc7a6b907d4099743cc42d904d86b063bd32628.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Now Boarding",
+      "launch": "2025-12-05",
+      "days": 251,
+      "trend": "Stable at #5 over 4d.",
+      "hook": "I've found the perfect underwear for travel.",
+      "angle": "Positioning as the ultimate travel essential",
+      "copy": "Staying stress-free at the airport can be hard, but Tommy John's breathable fabrics keep you comfortable no matter how slow the lines move.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/6e3c4ef2-7273-4c49-9f65-a9a5c89bc127/878617488068191.mp4"
+    }
+  ]
+}

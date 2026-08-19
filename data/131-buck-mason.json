@@ -1,0 +1,67 @@
+{
+  "name": "Buck Mason",
+  "category": "Clothing (Brand)",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61b0d0-ba51-4ee0-bca5-f854c9c40321/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Black Pima Curved Hem Tee",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "BUCK MASON",
+      "angle": "The unique silhouette and fit of the scalloped/curved hem",
+      "copy": "A place for the classics. Inspired by the past, made better for tomorrow.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61b0d0-ba51-4ee0-bca5-f854c9c40321/1033380375834932.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Navy Felted Chore Coat",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "BUCK MASON",
+      "angle": "High-quality material focus showcasing the texture of felted wool",
+      "copy": "A place for the classics. Inspired by the past, made better for tomorrow.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61b0d0-ba51-4ee0-bca5-f854c9c40321/2147983795773464.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "BUCK MASON",
+      "launch": "2026-07-04",
+      "days": 40,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "BUCK MASON",
+      "angle": "Highlighting the unique curved hem silhouette as a modern design upgrade",
+      "copy": "A place for the classics. Inspired by the past, made better for tomorrow.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61b0d0-ba51-4ee0-bca5-f854c9c40321/4476706972607857.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Field-Spec Cotton Heavy Tee",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Improved from #5 to #4 in 14d.",
+      "hook": "FIELD-SPEC A cult-classic tee cut from broken-in yet hard-wearing cotton.",
+      "angle": "Premium minimalist aesthetic for wardrobe essentials",
+      "copy": "Our heaviest tee, cut from broken-in yet hard-wearing cotton in our classic fit.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61b0d0-ba51-4ee0-bca5-f854c9c40321/1339433294835488.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "The Summer Collection",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Dropped from #4 to #5 in 14d. Peak: #4 on Jul 30.",
+      "hook": "A close-up of a man's legs under a wooden table in a warm, sophisticated cafe setting.",
+      "angle": "Aspirational 'Quiet Luxury' lifestyle branding",
+      "copy": "Classic silhouettes reconsidered for warmer climates, longer days, and a slower summer cadence.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/9c61b0d0-ba51-4ee0-bca5-f854c9c40321/1323496273174510.mp4"
+    }
+  ]
+}

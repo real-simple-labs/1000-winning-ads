@@ -1,0 +1,67 @@
+{
+  "name": "e.l.f. Cosmetics",
+  "category": "Health/beauty",
+  "logo": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-1/631600909_1323049636529779_4365230796670111967_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=Heo2w3ue7V8Q7kNvwGEXqNQ&_nc_oc=AdqsB7mw4Ijgch_z_5L7CscqH1h-ZAom53ZF7abg_aBXLzanXcsnh_ONM2IA8ydQhM4&_nc_zt=24&_nc_ht=scontent-iad3-1.xx&_nc_gid=K7KjbcJCNVXDOERjWYMsAQ&_nc_ss=7b289&oh=00_AQH5nUZzoEuQssMJOcnRZ9ePcqOX3KJSEzpM-DudznpljQ&oe=6A83171C",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "#adv @elfcosmetics // buongiorno Milano, matcha da trovare",
+      "launch": "2026-07-24",
+      "days": 21,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "",
+      "angle": "",
+      "copy": "#adv @elfcosmetics // buongiorno Milano, matcha da trovare, mille cose da fare e una base glow che mi accompagni per tutta la giornata 🍵✨ Questa è la combo che sto usando quando voglio una pelle luminos",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f782218b-6f6d-4c4d-90ca-abb0208b349c/1217559924772574.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "✨ We e.l.f.scaped to Balm Beach — ed è stato Bellissimo. 🌊",
+      "launch": "2026-08-06",
+      "days": 8,
+      "trend": "Improved from #50 to #2 in 6d. Biggest jump: #50 → #21 on Aug 9 (+29).",
+      "hook": "e.l.f.scape to Palm Beach",
+      "angle": "Experiential retail branding through an immersive, themed pop-up event.",
+      "copy": "Abbiamo conquistato splendide spiagge di Riccione per celebrare i NUOVI gusti del Glow Reviver Melting Lip Balm e il Power Grip Rose Setting Spray",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f782218b-6f6d-4c4d-90ca-abb0208b349c/1718083312623928.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "new! Save Your e.l.f. Hypochlorous Mist",
+      "launch": "2026-06-24",
+      "days": 51,
+      "trend": "Improved from #5 to #3 in 12d. Biggest jump: #6 → #3 on Aug 5 (+3). Peak: #2 on Aug 7.",
+      "hook": "new! Save Your e.l.f. Hypochlorous Mist",
+      "angle": "Skin rescue/emergency treatment for irritation",
+      "copy": "new! Save Your e.l.f. Hypochlorous Mist stressed skin’s mist-have",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f782218b-6f6d-4c4d-90ca-abb0208b349c/1682431736307968.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "the ultimate power couple.",
+      "launch": "2026-07-22",
+      "days": 23,
+      "trend": "Improved from #8 to #4 in 12d. Biggest jump: #7 → #4 on Aug 5 (+3). Peak: #3 on Aug 9.",
+      "hook": "the ultimate power couple.",
+      "angle": "Product Synergy: Marketing the primer and setting spray as a 'power couple' for superior results.",
+      "copy": "Get double the makeup stick with Power Grip Primer + Dewy Setting Spray.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f782218b-6f6d-4c4d-90ca-abb0208b349c/1347428453585335.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "new! Save Your e.l.f. Hypochlorous Mist stressed skin’s mist-h",
+      "launch": "2026-07-02",
+      "days": 43,
+      "trend": "Improved from #7 to #5 in 12d. Biggest jump: #8 → #5 on Aug 5 (+3). Peak: #3 on Aug 7.",
+      "hook": "new! Save Your e.l.f. Hypochlorous Mist",
+      "angle": "Emergency rescue for stressed skin ('Save Your e.l.f.')",
+      "copy": "new! Save Your e.l.f. Hypochlorous Mist stressed skin’s mist-have",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/f782218b-6f6d-4c4d-90ca-abb0208b349c/27586122307740046.mp4"
+    }
+  ]
+}

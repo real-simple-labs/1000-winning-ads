@@ -1,0 +1,67 @@
+{
+  "name": "Vacation",
+  "category": "Brand",
+  "logo": "",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Classic Lotion SPF 50 Twin Pack",
+      "launch": "2026-08-04",
+      "days": 9,
+      "trend": "Stable at #1 over 8d.",
+      "hook": "$5 OFF VACATION® CLASSIC LOTION TWIN PACK",
+      "angle": "Direct financial incentive through a $5 discount promotion",
+      "copy": "We’re thrilled to share that you can enjoy $5 off this exquisite bundle in-store and online at Costco until 8/16/26.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/12410925-f585-4af3-990b-aa952e250b77/1048266247913615.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Classic Lotion SPF 50 Twin Pack",
+      "launch": "2026-08-04",
+      "days": 9,
+      "trend": "Stable at #2 over 8d.",
+      "hook": "$5 OFF VACATION® CLASSIC LOTION TWIN PACK",
+      "angle": "Direct dollar-off promotional incentive",
+      "copy": "We’re thrilled to share that you can enjoy $5 off this exquisite bundle in-store and online at Costco until 8/16/26.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/12410925-f585-4af3-990b-aa952e250b77/2264045637469405.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Classic Lotion SPF 50 Twin Pack",
+      "launch": "2026-08-04",
+      "days": 9,
+      "trend": "Stable at #3 over 8d.",
+      "hook": "$5 OFF VACATION® CLASSIC LOTION TWIN PACK",
+      "angle": "High-value bulk savings offer for a popular sunscreen twin pack",
+      "copy": "We’re thrilled to share that you can enjoy $5 off this exquisite bundle in-store and online at Costco until 8/16/26.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/12410925-f585-4af3-990b-aa952e250b77/898845036144624.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Classic Lotion SPF 50 Twin Pack",
+      "launch": "2026-08-04",
+      "days": 9,
+      "trend": "Stable at #4 over 8d.",
+      "hook": "$5 OFF VACATION® CLASSIC LODION TWIN PACK",
+      "angle": "Bulk value and significant price savings for a premium product",
+      "copy": "We’re thrilled to share that you can enjoy $5 off this exquisite bundle in-store and online at Costco until 8/16/26.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/12410925-f585-4af3-990b-aa952e250b77/1036664412338818.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "it was all just a dream ☁️ @vacationinc \"VACATION\" by Vacation Eau",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "n/a",
+      "hook": "\"VACATION\" Scent of the \"World Famous\" Vacation® Sunscreen Company EAU DE TOILETTE 1 FL OZ",
+      "angle": "Escapism through scent (connecting the product to beach and nature imagery)",
+      "copy": "it was all just a dream ☁️ @vacationinc “VACATION” by Vacation Eau de Toilette #vacationpartner #perfume #summer",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/12410925-f585-4af3-990b-aa952e250b77/1003192655855135.mp4"
+    }
+  ]
+}

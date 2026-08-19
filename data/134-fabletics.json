@@ -1,0 +1,67 @@
+{
+  "name": "Fabletics",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/59da70fe-b5ff-4989-a184-581e9323952a/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "2 FOR $24 LEGGINGS",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #24 to #1 in 6d. Biggest jump: #24 → #3 on Aug 9 (+21).",
+      "hook": "2 FOR $24 LEGGINGS",
+      "angle": "Exceptional value for premium activewear",
+      "copy": "Flattering, supportive leggings you'll reach for every day. Now 2 for $24 when you sign up as a new vip.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/59da70fe-b5ff-4989-a184-581e9323952a/1772082777473084.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "80% off everything",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #59 to #2 in 6d. Biggest jump: #59 → #9 on Aug 9 (+50).",
+      "hook": "80% off everything",
+      "angle": "High-value acquisition offer (80% off) to drive immediate conversions",
+      "copy": "Louder. Bolder. Back at it with my new Fabletics collection! Shop 80% off everything when you sign up as a Fabletics new vip.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/59da70fe-b5ff-4989-a184-581e9323952a/1777334417028522.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "2 FOR $24 LEGGINGS",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #45 to #3 in 6d. Biggest jump: #45 → #7 on Aug 9 (+38).",
+      "hook": "2 FOR $24 LEGGINGS",
+      "angle": "Aggressive introductory pricing to drive new customer acquisition",
+      "copy": "Flattering, supportive leggings you'll reach for every day. Now 2 for $24 when you sign up as a new vip.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/59da70fe-b5ff-4989-a184-581e9323952a/28185270527734946.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Flatter Every Curve",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #31 to #4 in 6d. Biggest jump: #31 → #6 on Aug 9 (+25).",
+      "hook": "2 FOR $24 LEGGINGS",
+      "angle": "Extreme value/price-based offer ($12 per unit)",
+      "copy": "Flattering, supportive leggings you'll reach for every day. Now 2 for $24 when you sign up as a new vip.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/59da70fe-b5ff-4989-a184-581e9323952a/2104082740499015.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Fabletics x Keke Palmer",
+      "launch": "2026-08-06",
+      "days": 7,
+      "trend": "Improved from #11 to #5 in 4d. Biggest jump: #11 → #7 on Aug 11 (+4).",
+      "hook": "80% off everything",
+      "angle": "Celebrity endorsement and aspirational lifestyle association",
+      "copy": "Louder. Bolder. Back at it with my new Fabletics collection! Shop 80% off everything when you sign up as a Fabletics new vip.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/59da70fe-b5ff-4989-a184-581e9323952a/e7729ce5ac4fb43fcb591761df0168b13d604508bfa41e054fc50e8ce0445da9.jpg"
+    }
+  ]
+}

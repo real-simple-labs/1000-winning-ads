@@ -1,0 +1,67 @@
+{
+  "name": "Vessi",
+  "category": "Product/service",
+  "logo": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-1/476005242_1030195725802827_7132146863734600105_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=109&ccb=1-7&_nc_sid=418b77&_nc_ohc=vWDzltSwDOIQ7kNvwEu9kGc&_nc_oc=AdpreaYX8NWWBsy1RoFyhmYcYJWb4YZIrQ62W_9ilb6zXmCijrbrdvbb55wcSj-Yv7k&_nc_zt=24&_nc_ht=scontent-iad6-1.xx&_nc_gid=mJeLQQTpPIYFp0k4CSWXXg&_nc_ss=7b289&oh=00_AQFznCrbovCpdJc8641Ln3jjACbTuO6siLq5LvR2t-7lVA&oe=6A7BFC7D",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "10-Day Europe Trip Approved!",
+      "launch": "2026-03-18",
+      "days": 148,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "I just got back from a ten day trip to Ireland and Scotland so let's talk about how well my waterproof shoes held up on my trip.",
+      "angle": "",
+      "copy": "Did Vessis REALLY pass the test? Quick Answer: YES!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6ec06e68-c1f0-4388-a30c-689be44d5ac5/51c768aa7bed598017a8557e6bbf7aa7f4db7015d9b3a1d4bc1cd5a77440a91c.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Float over cobblestones",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Improved from #3 to #2 in 12d.",
+      "hook": "n/a",
+      "angle": "",
+      "copy": "Cobblestone streets. Surprise downpours. 20,000+ steps before lunch. One shoe that handles it all.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6ec06e68-c1f0-4388-a30c-689be44d5ac5/3964fe05a0aee37fd67dd2e18a2154396026f68d4b6963fdfe668aec944e2c7e.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Float over cobblestones",
+      "launch": "2026-07-02",
+      "days": 42,
+      "trend": "Improved from #6 to #3 in 12d. Biggest jump: #6 → #4 on Aug 1 (+2).",
+      "hook": "n/a",
+      "angle": "",
+      "copy": "Cobblestone streets. Surprise downpours. 20,000+ steps before lunch. One shoe that handles it all.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6ec06e68-c1f0-4388-a30c-689be44d5ac5/fce7128b04886a05467081642e5f9ccafe1c02535e34774bd275415954181ba0.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Men's Stormburst Low Top - Whites",
+      "launch": "2026-07-01",
+      "days": 43,
+      "trend": "Improved from #8 to #4 in 12d.",
+      "hook": "n/a",
+      "angle": "",
+      "copy": "Conquer the unexpected with our revolutionary 100% waterproof knit shoes. Stylish, functional and oh-so-comfy, Vessi will have you stepping into limitless possibilities. Get yours now and experience t",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6ec06e68-c1f0-4388-a30c-689be44d5ac5/40a1518a881e8ad023f47bddaa29a0294b29d17d84b88aeda89c2ccc287bc68a.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Shoes for the Minimalist Traveler",
+      "launch": "2026-03-26",
+      "days": 140,
+      "trend": "Dropped from #2 to #5 in 12d. Peak: #2 on Jul 30.",
+      "hook": "You guys, I found my absolute favorite travel shoes.",
+      "angle": "The only shoe you need for a trip (versatility)",
+      "copy": "With Vessi, you won't ever need to pack more than one pair for your trips or adventures... Packed with all the best elements of a versatile shoe into one — Fully waterproof, the comfort of an athletic",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/6ec06e68-c1f0-4388-a30c-689be44d5ac5/00e7de0997b24462996362b70a55d92dbf953b4f761a306e8101c18a6cbacf8d.mp4"
+    }
+  ]
+}

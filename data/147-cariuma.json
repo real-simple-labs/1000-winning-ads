@@ -1,0 +1,67 @@
+{
+  "name": "Cariuma",
+  "category": "Footwear store",
+  "logo": "https://scontent-phx1-1.xx.fbcdn.net/v/t39.30808-1/355333734_3565930250322634_7992787870378629718_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=105&ccb=1-7&_nc_sid=418b77&_nc_ohc=byH2m8-yvYkQ7kNvwGuctaD&_nc_oc=AdpuhCwhB_XJazNGJnkwI_RMhNipHaYtreO-bFPKLoomgLiY2sPB0iAu0CstRKKokUA&_nc_zt=24&_nc_ht=scontent-phx1-1.xx&_nc_gid=JhJK0knXznhEGEGG_U8ZKA&_nc_ss=7b289&oh=00_AQFYhG-i5rZhBU3XZZPCty-pr1z9e8OfeURXVxv4vFKMUA&oe=6A82E03A",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "🌱 End of Season Sale",
+      "launch": "2026-06-13",
+      "days": 61,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "NAIOCA",
+      "angle": "Minimalist and versatile all-black 'stealth' aesthetic",
+      "copy": "50% off Everything! Cariuma End of Season Sale is Live! 🔥 Limited time sale!",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7ec21dbb-ffb2-4e7e-928f-0941547a2c7f/1740557997113602.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "50% Off Everything",
+      "launch": "2026-07-26",
+      "days": 18,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "CARIUMA ETHICS & AESTHETICS",
+      "angle": "Minimalist and sleek aesthetic for everyday use",
+      "copy": "50% OFF EVERYTHING! 🌱 Cariuma Premium Footwear Sale on Now",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7ec21dbb-ffb2-4e7e-928f-0941547a2c7f/1063944462897438.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Everything Half Price",
+      "launch": "2026-07-27",
+      "days": 17,
+      "trend": "Improved from #7 to #3 in 14d. Biggest jump: #7 → #5 on Aug 1 (+2).",
+      "hook": "PREMIUM SNEAKERS HALF PRICE",
+      "angle": "High-gravity financial incentive with a 50 percent discount",
+      "copy": "PREMIUM SNEAKERS HALF PRICE! 🌱 Cariuma Footwear Sale on Now",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7ec21dbb-ffb2-4e7e-928f-0941547a2c7f/2019091975382774.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Everything Half Price",
+      "launch": "2026-08-10",
+      "days": 3,
+      "trend": "Ranked #4 on Aug 13.",
+      "hook": "PREMIUM SNEAKERS HALF PRICE",
+      "angle": "High-value discount (50% off) on a premium product",
+      "copy": "PREMIUM SNEAKERS HALF PRICE! 🌱 Cariuma Footwear Sale on Now",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/7ec21dbb-ffb2-4e7e-928f-0941547a2c7f/ca252de11623cb20259fc4bd8c762df9f016beb95307d7061ec3543775da4b6a.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Everything 50% Off",
+      "launch": "2026-07-27",
+      "days": 17,
+      "trend": "Improved from #6 to #5 in 14d. Biggest jump: #6 → #4 on Aug 11 (+2). Peak: #4 on Aug 11.",
+      "hook": "EVERYTHING 50% OFF",
+      "angle": "High-value price incentive for sitewide conversion",
+      "copy": "50% OFF EVERYTHING! 🌱 Cariuma Premium Footwear Sale on Now",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/7ec21dbb-ffb2-4e7e-928f-0941547a2c7f/1763175918213883.jpg"
+    }
+  ]
+}

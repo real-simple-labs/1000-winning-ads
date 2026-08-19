@@ -1,0 +1,67 @@
+{
+  "name": "Thrive Market",
+  "category": "Health Food Store",
+  "logo": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-1/355481926_590459476561584_6837459075662983921_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=1&ccb=1-7&_nc_sid=418b77&_nc_ohc=7_KR08kFAp0Q7kNvwHnxsha&_nc_oc=Ado0_7sq5oHkwDfl3HvAjvqBNz2q5sD5is8IBjN-jet1QzenDzONXvwrnD4Wr7Q1HJM&_nc_zt=24&_nc_ht=scontent-ord5-2.xx&_nc_gid=3tVZst2SVDrnimVtJMbjFA&_nc_ss=7b289&oh=00_AQHMgIVS7GklvVdmbM1VkOP6Wfo0mSKr6cDnlAvdhkPrmg&oe=6A896296",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "The Healthy Online Grocery Store",
+      "launch": "2026-07-13",
+      "days": 37,
+      "trend": "Stable at #1 over 12d.",
+      "hook": "Tired of eating the same old junk? 🤢",
+      "angle": "Healthier alternatives to popular junk food brands ('wholesome dupes')",
+      "copy": "Get $60 off healthy groceries, $20 off each of your first 3 orders at Thrive Market.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/91005a79-eae4-4407-80e2-950e392b4125/988206557387123.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Thrive Market",
+      "launch": "2026-07-13",
+      "days": 37,
+      "trend": "Stable at #2 over 12d.",
+      "hook": "Tired of eating the same old junk? 🤢",
+      "angle": "Healthier alternatives to popular junk food brands ('wholesome dupes')",
+      "copy": "If your gut is always inflamed, it's not you, it's what you're eating. Luckily, Thrive Market has hundreds of anti-inflammatory groceries so you can shop with peace of mind.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/91005a79-eae4-4407-80e2-950e392b4125/882656781099905.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "Join now to discover 7,000+ healthier swaps →",
+      "launch": "2026-07-20",
+      "days": 30,
+      "trend": "Improved from #4 to #3 in 12d.",
+      "hook": "Making my kids lunch Before vs. After Thrive Market",
+      "angle": "Health-conscious lunch swaps (Before vs. After)",
+      "copy": "Healthier lunches that your kids actually love are HERE! Thrive Market does all the label reading for you so you can shop stress-free.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/91005a79-eae4-4407-80e2-950e392b4125/1586050169557319.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Find affordable, healthy swaps here →",
+      "launch": "2026-07-13",
+      "days": 37,
+      "trend": "Improved from #5 to #4 in 12d. Biggest jump: #5 → #3 on Aug 13 (+2). Peak: #3 on Aug 13.",
+      "hook": "Tired of eating the same old junk? 🤢",
+      "angle": "Healthier alternatives to popular junk food brands ('wholesome dupes')",
+      "copy": "Saving money on healthy groceries doesn't have to come with a $47 delivery fee. Thrive Market members get free shipping + up to 30% off. Join today.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/91005a79-eae4-4407-80e2-950e392b4125/1046120418353488.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "Better Prices, Better Food",
+      "launch": "2026-07-13",
+      "days": 37,
+      "trend": "Dropped from #3 to #5 in 12d. Biggest drop: #3 → #5 on Aug 13 (-2). Peak: #3 on Aug 5.",
+      "hook": "Tired of eating the same old junk? 🤢",
+      "angle": "Healthier alternatives to popular junk food brands ('wholesome dupes')",
+      "copy": "Get $60 off healthy groceries, $20 off each of your first 3 orders at Thrive Market.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/91005a79-eae4-4407-80e2-950e392b4125/4091112914522549.mp4"
+    }
+  ]
+}

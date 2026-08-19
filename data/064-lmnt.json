@@ -1,0 +1,67 @@
+{
+  "name": "LMNT",
+  "category": "Food & beverage",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/77a027fc-5124-4ea4-97e6-ca3539ab9e15/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Healthy Habits Start Here ⚡",
+      "launch": "2026-01-22",
+      "days": 203,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "MEET YOUR NEW DAILY SQUEEZE",
+      "angle": "Flavor-first positioning using a 'Daily Squeeze' lemonade pun",
+      "copy": "Feel confident about your hydration with LMNT electrolytes — No sugar or artificial colors.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/77a027fc-5124-4ea4-97e6-ca3539ab9e15/2968743800002291.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Squeeze the Day with LMNT 🍋",
+      "launch": "2026-04-10",
+      "days": 125,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "MEET YOUR NEW DAILY SQUEEZE",
+      "angle": "Flavor-focused hydration (Lemonade)",
+      "copy": "Ditch the sugary lemonade and hydrate with LMNT Lemonade Salt 🍋",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/77a027fc-5124-4ea4-97e6-ca3539ab9e15/804397862744216.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Hydration Made Simple",
+      "launch": "2026-04-24",
+      "days": 111,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "“LMNT IS PART OF MY WORKOUT REGIMEN THAT I DO NOT SKIP. I FEEL IT GIVES ME GOOD POST WORKOUT RECOVERY AND MAKES HYDRATION EASY.”",
+      "angle": "Post-workout recovery and performance optimization",
+      "copy": "Whether it's workouts, long days, or recovery, LMNT makes it easy to stay properly hydrated with a simple electrolyte mix.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/77a027fc-5124-4ea4-97e6-ca3539ab9e15/1429510962547030.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "Hydration That Keeps You Going",
+      "launch": "2026-04-28",
+      "days": 107,
+      "trend": "Stable at #4 over 14d.",
+      "hook": "THIS HELPS ME RETAIN WATER AND STAY HYDRATED.",
+      "angle": "Social proof through a relatable customer testimonial",
+      "copy": "When your day demands physical output, hydration matters. LMNT helps replenish the electrolytes lost through sweat so you can keep going.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/77a027fc-5124-4ea4-97e6-ca3539ab9e15/1340563031218037.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "LMNT: Your New Training Essential",
+      "launch": "2026-06-02",
+      "days": 72,
+      "trend": "Stable at #5 over 14d.",
+      "hook": "MORE SALT",
+      "angle": "",
+      "copy": "Effective training requires proper hydration. Work. Sweat. Recharge with LMNT electrolytes. Repeat.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/77a027fc-5124-4ea4-97e6-ca3539ab9e15/1727462155117854.mp4"
+    }
+  ]
+}

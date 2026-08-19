@@ -1,0 +1,67 @@
+{
+  "name": "Ten Thousand",
+  "category": "Clothing (Brand)",
+  "logo": "https://scontent-atl3-2.xx.fbcdn.net/v/t39.30808-1/352805415_933370757747059_7331077181812776207_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=101&ccb=1-7&_nc_sid=418b77&_nc_ohc=KkOFIJHmgIMQ7kNvwFb1zns&_nc_oc=Adpg9LRsR_e0m0VHui7GQT1Dh13filMdjITwGyWD5QpjMEmpXiTUbxw0KUulAs4fahk&_nc_zt=24&_nc_ht=scontent-atl3-2.xx&_nc_gid=SjqkQKqBM9I4jOih4-lsJg&_nc_ss=7b289&oh=00_AQGZv5N1Hv7zJV4N1ZPdj08VbO4WzBk9PbcngYZ_IkeXUw&oe=6A81FF81",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "The Only Workout Pant You Will Ever Need.",
+      "launch": "2026-07-21",
+      "days": 23,
+      "trend": "Improved from #3 to #1 in 12d.",
+      "hook": "Finally found a pair of pants that are athletic and you can work out in them, but also wear them casually.",
+      "angle": "Versatility from gym to casual wear",
+      "copy": "High-quality training gear for high-quality athletes.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a30a56c2-3e26-486e-a50a-bfba52a4e364/1571889711047900.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The Interval Collection",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "Dropped from #1 to #2 in 12d. Peak: #1 on Jul 31.",
+      "hook": "Alright guys, I'm not gonna gatekeep, this is my new favorite shirt.",
+      "angle": "No-gatekeeping influencer recommendation",
+      "copy": "Adapt to any workout.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a30a56c2-3e26-486e-a50a-bfba52a4e364/3561087760706236.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "video",
+      "title": "15,000+ 5-Star Reviews",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "Improved from #4 to #3 in 12d. Biggest jump: #5 → #3 on Aug 8 (+2).",
+      "hook": "Let me put you guys on one of my favorite running hacks...",
+      "angle": "Expert 'hack' positioning (framing the product as a performance secret)",
+      "copy": "Whatever your workout, we've got the perfect pair. Explore our best-selling shorts.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a30a56c2-3e26-486e-a50a-bfba52a4e364/4376458682620202.mp4"
+    },
+    {
+      "rank": 4,
+      "type": "image",
+      "title": "The Tactical Short",
+      "launch": "2026-08-07",
+      "days": 6,
+      "trend": "Improved from #14 to #4 in 4d. Biggest jump: #14 → #8 on Aug 10 (+6).",
+      "hook": "LIMITED EDITION",
+      "angle": "Scarcity and exclusivity through a 'Limited Edition' product drop",
+      "copy": "Born in the field, designed for the grind.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/a30a56c2-3e26-486e-a50a-bfba52a4e364/80eb06e1446d6360886676a47f15acf2799827d94b4415a7f293665a7f91cf1f.jpg"
+    },
+    {
+      "rank": 5,
+      "type": "video",
+      "title": "15,000+ 5-Star Reviews",
+      "launch": "2026-06-17",
+      "days": 57,
+      "trend": "Improved from #8 to #5 in 12d. Biggest jump: #11 → #7 on Aug 6 (+4). Biggest drop: #8 → #11 on Aug 4 (-3). Peak: #4 on Aug 10.",
+      "hook": "If you're struggling to find running gear that actually holds up, listen up.",
+      "angle": "Addressing the pain point of finding durable, reliable running gear",
+      "copy": "Whatever your workout, we've got the perfect pair. Explore our best-selling shorts.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a30a56c2-3e26-486e-a50a-bfba52a4e364/1478795713563856.mp4"
+    }
+  ]
+}

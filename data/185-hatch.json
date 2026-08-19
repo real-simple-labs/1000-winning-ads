@@ -1,0 +1,67 @@
+{
+  "name": "Hatch",
+  "category": "Product/service",
+  "logo": "https://scontent-mia5-1.xx.fbcdn.net/v/t39.30808-1/352367345_575988834619441_154273068975017327_n.png?stp=dst-png_s148x148&_nc_cat=104&ccb=1-7&_nc_sid=418b77&_nc_ohc=sam23OipVSgQ7kNvwF4BsFV&_nc_oc=Adr8aPCimHy7dfCDq4fD7A21vbZtI8INgiaj0L5kC_rA-bDXAzwsCzL81JeUxr8rCdk&_nc_zt=24&_nc_ht=scontent-mia5-1.xx&_nc_gid=sKZ4szL-0SwP_3JwlPHmXg&_nc_ss=7b289&oh=00_AQHqORLHmPLqsScwQ5wOIr2MNbKO9q4dqmocIDPCkPXLlw&oe=6A7DB60C",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "New Hatch Sleep Clock",
+      "launch": "2026-08-04",
+      "days": 10,
+      "trend": "Improved from #21 to #1 in 8d. Biggest jump: #21 → #1 on Aug 7 (+20).",
+      "hook": "Scrolling instead of sleeping?",
+      "angle": "Identifying the late-night doomscrolling habit as a pain point",
+      "copy": "Your phone keeps you scrolling. Hatch Sleep Clock understands your sleep habits and actually helps you get better sleep, night after night. Exclusively on hatch.co",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c48fef1b-8299-4505-9e6f-c9c89d4cef87/1059032853240087.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Hatch",
+      "launch": "2026-08-04",
+      "days": 10,
+      "trend": "Improved from #18 to #2 in 6d. Biggest jump: #18 → #2 on Aug 9 (+16).",
+      "hook": "Scrolling instead of sleeping?",
+      "angle": "Identifying the late-night doomscrolling habit as a pain point",
+      "copy": "Your phone keeps you scrolling. Hatch Sleep Clock understands your sleep habits and actually helps you get better sleep, night after night. Exclusively on hatch.co",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c48fef1b-8299-4505-9e6f-c9c89d4cef87/4544206839236295.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "New Hatch Sleep Clock",
+      "launch": "2026-08-04",
+      "days": 10,
+      "trend": "Improved from #26 to #3 in 8d. Biggest jump: #26 → #4 on Aug 7 (+22). Peak: #2 on Aug 11.",
+      "hook": "Hatch Sleep Clock",
+      "angle": "Re-positioning sleep tracking as active sleep aid rather than passive monitoring",
+      "copy": "Meet the sleep tracker that helps you unwind and fall asleep easier, night after night. Exclusively on hatch.co",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c48fef1b-8299-4505-9e6f-c9c89d4cef87/1025315606916854.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Really loving this new thing I’m doing called going the F to sl",
+      "launch": "2026-08-07",
+      "days": 7,
+      "trend": "Improved from #47 to #4 in 4d. Biggest jump: #47 → #5 on Aug 11 (+42).",
+      "hook": "Every night I get my kids to bed and then I get into bed and I'm like \"Holy hell, I can't believe I made it to the end of the day.\"",
+      "angle": "Replacing nighttime 'doomscrolling' with a healthy sleep routine",
+      "copy": "Really loving this new thing I’m doing called going the F to sleep, thanks to the new Hatch Sleep Clock. @hatchforsleep #hatchpartner #hatchforsleep",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/c48fef1b-8299-4505-9e6f-c9c89d4cef87/50f7746c9969319bb40d462a99108671f066db9bcdf82aed1b04bcfb2c790a4f.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "New Hatch Sleep Clock",
+      "launch": "2026-08-05",
+      "days": 9,
+      "trend": "Improved from #6 to #5 in 6d. Biggest jump: #6 → #4 on Aug 11 (+2). Peak: #4 on Aug 11.",
+      "hook": "Hatch Sleep Clock",
+      "angle": "Re-positioning sleep tracking as active sleep aid rather than passive monitoring",
+      "copy": "Meet the sleep tracker that helps you unwind and fall asleep easier, night after night. Exclusively on hatch.co",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/c48fef1b-8299-4505-9e6f-c9c89d4cef87/1033721152856765.jpg"
+    }
+  ]
+}

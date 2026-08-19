@@ -1,0 +1,67 @@
+{
+  "name": "Ghia",
+  "category": "Product/service",
+  "logo": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/881fdc83-6df9-421f-a6ce-260bfc308fba/logo.jpg",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "Enjoy 30% Off Our Discovery Set",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Stable at #1 over 11d.",
+      "hook": "Ghia THE DISCOVERY SET",
+      "angle": "Lowering the barrier to entry with a discounted variety pack",
+      "copy": "Try a bit of everything Ghia at 30% off. No alcohol, no added sugar, no hangover.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/881fdc83-6df9-421f-a6ce-260bfc308fba/1042434834906501.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Stock up on Ghia",
+      "launch": "2026-06-30",
+      "days": 44,
+      "trend": "Improved from #3 to #2 in 11d.",
+      "hook": "\"The Johnnie Walker Black of N/A\"",
+      "angle": "Positioning a non-alcoholic product as a direct peer to premium legacy spirits",
+      "copy": "Ghia's award-winning apéritifs are bitter, complex and have no added sugar. Enjoy more clear-eyed mornings without sacrificing taste.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/881fdc83-6df9-421f-a6ce-260bfc308fba/2162068331382929.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Subscribe and Save",
+      "launch": "2026-07-15",
+      "days": 29,
+      "trend": "Improved from #4 to #3 in 11d.",
+      "hook": "DON'T QUIT DRINKING!",
+      "angle": "Subverting expectations of sobriety by reframing it as 'drinking differently'",
+      "copy": "Made with only blissful botanicals and real plants, we took out the booze and the fake stuff. Enjoy 10% off your first sip on drinkghia.com.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/881fdc83-6df9-421f-a6ce-260bfc308fba/1022326300853725.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Get 10% Off Your First Sip",
+      "launch": "2026-07-28",
+      "days": 16,
+      "trend": "Improved from #11 to #4 in 11d. Biggest jump: #9 → #4 on Aug 11 (+5).",
+      "hook": "We all know Kendall Jenner has impeccable taste",
+      "angle": "Celebrity association (Kendall Jenner's endorsement)",
+      "copy": "Now I know why this mocktail is Kendall Jenner approved. As seen on Kendall Jenner's bar cart 👀 When it comes to mocktails, I'm having what Kendall's having.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/881fdc83-6df9-421f-a6ce-260bfc308fba/2912016465796575.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Enjoy 30% Off Our Discovery Set",
+      "launch": "2026-07-11",
+      "days": 33,
+      "trend": "Improved from #6 to #5 in 11d. Biggest jump: #6 → #4 on Aug 7 (+2). Peak: #4 on Aug 7.",
+      "hook": "Ghia THE DISCOVERY SET",
+      "angle": "Overcoming the price barrier with a high-value 30% discount",
+      "copy": "Try a bit of everything Ghia at 30% off. No alcohol, no added sugar, no hangover.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/881fdc83-6df9-421f-a6ce-260bfc308fba/1845156836463091.jpg"
+    }
+  ]
+}

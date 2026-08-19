@@ -1,0 +1,67 @@
+{
+  "name": "Perelel",
+  "category": "Health & wellness website",
+  "logo": "https://scontent-lga3-1.xx.fbcdn.net/v/t39.30808-1/308790603_529498735847069_210433401201957999_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=103&ccb=1-7&_nc_sid=418b77&_nc_ohc=X7HwOvw1oyYQ7kNvwHSnRMB&_nc_oc=AdpCJ_fnAf5F6q7AqhxuSQTOTxZkaU0ZNY7iLP2_ZOpgQJdHLo3uY5-Sl895NBRJaBI&_nc_zt=24&_nc_ht=scontent-lga3-1.xx&_nc_gid=8xl1dUwoHMqxHqQ_9nuhig&_nc_ss=7b289&oh=00_AQG_ZD0JlkehQfGbjS9TLwzepmtMkeQ0CQjsSMCf8wvHrg&oe=6A83B02A",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "The first OB/GYN-founded vitamin company.",
+      "launch": "2026-03-13",
+      "days": 153,
+      "trend": "Stable at #1 over 14d.",
+      "hook": "@perelelhealth supported me through every single phase 🥲",
+      "angle": "Trimester-specific nutritional support tailored to the body's changing needs",
+      "copy": "Take the guesswork out of your prenatal vitamin routine: ✨ Formulated by OB/GYNs ✨ Trimester-specific formulas ✨ Research-backed ingredients ✨ 3rd party tested ✨ Convenient sachets for on the go ✨ No nausea formula",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a9c0bfcc-e5ab-4628-99ef-c3df4d045e12/1572407507359352.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "The first OB/GYN-founded vitamin company",
+      "launch": "2026-06-16",
+      "days": 58,
+      "trend": "Stable at #2 over 14d.",
+      "hook": "You guys know I'm the biggest fan of Perelel.",
+      "angle": "Trust through medical authority (OBGYN-founded)",
+      "copy": "Take the guesswork out of your prenatal vitamin routine: ✨ Made by OB/GYNs ✨ Trimester-specific formulas ✨ Research-backed ingredients ✨ 3rd party tested ✨ Convenient sachets for on the go ✨ No nausea formula",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a9c0bfcc-e5ab-4628-99ef-c3df4d045e12/4313006229010042.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "1st Trimester Prenatal Pack",
+      "launch": "2026-04-20",
+      "days": 115,
+      "trend": "Stable at #3 over 14d.",
+      "hook": "Hormonal Balance Support",
+      "angle": "Targeting specific hormonal health concerns like PCOS through clinical ingredient ratios",
+      "copy": "The first prenatal founded by two moms and an OB/GYN. Enjoy 15% off your first month with code WELCOME15. 🎯 Made for your exact stage 📈 Research-backed and informed by the latest science and patient insights",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a9c0bfcc-e5ab-4628-99ef-c3df4d045e12/1923733954978939.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "The first clincally-proven conception support",
+      "launch": "2026-06-28",
+      "days": 46,
+      "trend": "Improved from #5 to #4 in 14d.",
+      "hook": "We're not just doctor-formulated...",
+      "angle": "Beyond Doctor-Formulated: Emphasizing original clinical research over simple formulation.",
+      "copy": "Prepare your body for pregnancy with our clinically-proven conception support pack: ✨ Formulated by top fertility doctors ✨ Designed for those trying to get pregnant ✨ Supports fertility and egg health*",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a9c0bfcc-e5ab-4628-99ef-c3df4d045e12/1700367404438825.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "3rd Trimester Prenatal Pack",
+      "launch": "2026-04-21",
+      "days": 114,
+      "trend": "Improved from #7 to #5 in 14d.",
+      "hook": "Mom Multi Support Pack",
+      "angle": "Targeting specific hormonal health concerns like PCOS through clinical ingredient ratios",
+      "copy": "The first prenatal founded by two moms and an OB/GYN. Enjoy 15% off your first month with code WELCOME15. 🎯 Made for your exact stage 📈 Research-backed and informed by the latest science and patient insights",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/external-brands/a9c0bfcc-e5ab-4628-99ef-c3df4d045e12/1482034763295763.jpg"
+    }
+  ]
+}

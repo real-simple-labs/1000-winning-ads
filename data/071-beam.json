@@ -1,0 +1,67 @@
+{
+  "name": "Beam",
+  "category": "Health & wellness website",
+  "logo": "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-1/494693496_1253699536761607_888497342910562655_n.jpg?stp=dst-jpg_s148x148_tt6&_nc_cat=111&ccb=1-7&_nc_sid=418b77&_nc_ohc=qGiUrKQDnu8Q7kNvwH_-D_L&_nc_oc=AdpTkxooNs5vnPt-8h10rEnMH5kJAwKrxp47wIg0K-nFKcwajFzq4Cx8kOxuJmoAVPc&_nc_zt=24&_nc_ht=scontent-mia3-1.xx&_nc_gid=Gfx_OnyvihlzLb0T0lb-Kg&_nc_ss=7b289&oh=00_AQE4grSw3sNFzt8bkmr-LFYoeqrY8XJzhLnzaqxCfsegrg&oe=6A83A1BC",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "image",
+      "title": "NEW Flavor: Berry Vanilla",
+      "launch": "2026-08-13",
+      "days": 6,
+      "trend": "Improved from #3 to #1 in 2d. Biggest jump: #3 → #1 on Aug 17 (+2).",
+      "hook": "BACK TO SCHOOL MORNINGS, MADE EASIER",
+      "angle": "Nutritional density through visual equivalence (showing how much solid food the drink replaces)",
+      "copy": "Back to school mornings just got easier. Our Kids Superpowder mixes into a creamy, kid-approved shake packed with 21 vitamins & minerals, pre+probiotics, and a full organic fruit & veggie blend — all",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/713d6827-cae0-4690-b1b2-9c9db9df7b5c/4afd0b5bce17af54707b21b6d3099dfef5c7327e240ec5b386470b5501828b8e.jpg"
+    },
+    {
+      "rank": 2,
+      "type": "image",
+      "title": "Puffy Face? Try Glow",
+      "launch": "2026-08-11",
+      "days": 8,
+      "trend": "Improved from #6 to #2 in 4d. Biggest jump: #6 → #2 on Aug 17 (+4).",
+      "hook": "I avoided cortisol products for years... WHAT A WASTE OF TIME!",
+      "angle": "Regret-based hook emphasizing immediate results missed by waiting",
+      "copy": "Puffy cheeks, jawline breakouts, dull skin - If your face is telling on your stress levels, it's not in your head. Glow's hormone-balancing blend supports a healthy inflammatory response, thyroid funct",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/713d6827-cae0-4690-b1b2-9c9db9df7b5c/ba6f0cd1d3eb45855129fef9eafdeabd2bddabfb96edf1cda902e3d70448372d.jpg"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Puffy Face? Try Glow",
+      "launch": "2026-08-12",
+      "days": 7,
+      "trend": "Improved from #17 to #4 in 4d. Biggest jump: #17 → #1 on Aug 15 (+16). Biggest drop: #1 → #4 on Aug 17 (-3). Peak: #1 on Aug 15.",
+      "hook": "$64.99 $37.69",
+      "angle": "High-discount price anchoring for immediate conversion",
+      "copy": "Puffy cheeks, jawline breakouts, dull skin - If your face is telling on your stress levels, it's not in your head. Glow's hormone-balancing blend supports a healthy inflammatory response, thyroid funct",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/713d6827-cae0-4690-b1b2-9c9db9df7b5c/e309910f58da744b3050f42a48142b93c73268e7b728179bd375a32ee4fe1035.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Feel Like You Again",
+      "launch": "2026-08-03",
+      "days": 16,
+      "trend": "Ranked #5 on Aug 17.",
+      "hook": "I get up and then all day I'm tired.",
+      "angle": "Identifying symptoms of hormonal imbalance to drive awareness.",
+      "copy": "If any of these sound familiar, you're not alone: low energy, mood swings, hormonal breakouts, hair changes, brittle nails, PMS you dread. Glow's 17+ ingredient formula was designed to support hormonal",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/713d6827-cae0-4690-b1b2-9c9db9df7b5c/6ae22e4d3813d12b0f2b158db3a4bc9d9a534f9e2a6cdb1062ad4de3b30236c7.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Save up to 48%",
+      "launch": "2026-08-14",
+      "days": 5,
+      "trend": "Improved from #14 to #6 in 2d. Biggest jump: #14 → #6 on Aug 17 (+8).",
+      "hook": "\"1-2 'REAL' POOPS A DAY!\"",
+      "angle": "Humorous and highly relatable digestive health benefits",
+      "copy": "Get up to 48% off Beam Kids 🍪🥦 All-In-One Superpowder! You have to try the picky-eater's favorite , chocolate chip cookie! It is soo good 😋 Shop now before we sell out 🤭",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/713d6827-cae0-4690-b1b2-9c9db9df7b5c/a5fa7f2039e5dae33c27d10f8121852ea5603326818677ca25a0a482654c46bd.jpg"
+    }
+  ]
+}

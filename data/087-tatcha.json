@@ -1,0 +1,67 @@
+{
+  "name": "Tatcha",
+  "category": "Health/beauty",
+  "logo": "",
+  "ads": [
+    {
+      "rank": 1,
+      "type": "video",
+      "title": "Tatcha - The Dewy Skin Cream",
+      "launch": "2026-07-23",
+      "days": 21,
+      "trend": "Improved from #3 to #1 in 14d.",
+      "hook": "TATCHA — The Dewy Skin Cream",
+      "angle": "Luxury unboxing experience emphasizing brand aesthetics",
+      "copy": "Descubre el bestseller de Tatcha: The Dewy Skin Cream. Triplica al instante la hidratación de la piel.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/24be7642-603d-4a6d-97c6-9d3d9eebc02d/8f1b6afead4e1da823f58045fa80c4b17247e17f687fbbbe1936f24a38c4149e.mp4"
+    },
+    {
+      "rank": 2,
+      "type": "video",
+      "title": "Tatcha - The Dewy Skin Cream",
+      "launch": "2026-07-23",
+      "days": 21,
+      "trend": "Improved from #7 to #2 in 14d. Biggest jump: #7 → #3 on Aug 1 (+4).",
+      "hook": "TATCHA The Dewy Skin Cream",
+      "angle": "ASMR-style luxury unboxing and sensory texture reveal",
+      "copy": "Descubre el bestseller de Tatcha: The Dewy Skin Cream. Triplica al instante la hidratación de la piel.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/24be7642-603d-4a6d-97c6-9d3d9eebc02d/b01ba1d49a854413a80f413b15044877bdd69605258bbd069f956028efbae207.mp4"
+    },
+    {
+      "rank": 3,
+      "type": "image",
+      "title": "Powerful on pores",
+      "launch": "2026-06-22",
+      "days": 52,
+      "trend": "Dropped from #1 to #3 in 14d. Peak: #1 on Jul 30.",
+      "hook": "Whisk Away Impurities",
+      "angle": "Skincare as a ritual through traditional Japanese matcha symbolism",
+      "copy": "Introducing The Matcha Foam Cleanse 🫧Our new foaming gel cleanser that whisks away impurities.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/24be7642-603d-4a6d-97c6-9d3d9eebc02d/02ff5e60e59413801478e21422d39df14a993c171b564ebf13ae14816044d5bd.jpg"
+    },
+    {
+      "rank": 4,
+      "type": "video",
+      "title": "Tatcha - The Dewy Skin Cream",
+      "launch": "2026-07-23",
+      "days": 21,
+      "trend": "Improved from #13 to #4 in 14d. Biggest jump: #13 → #9 on Aug 1 (+4).",
+      "hook": "Il rituale per una pelle rimpolpata e luminosa.",
+      "angle": "Luxury skincare ritual as a form of self-care",
+      "copy": "Scopri il best seller Dewy Skin Cream. Triplica l’idratazione della pelle all’instante.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/24be7642-603d-4a6d-97c6-9d3d9eebc02d/3ce3e45a8725a86fc7b4fcbf4a880aa470cdffd1c37b518569492d66c00c37d1.mp4"
+    },
+    {
+      "rank": 5,
+      "type": "image",
+      "title": "Flood your skin from within",
+      "launch": "2026-07-16",
+      "days": 28,
+      "trend": "Dropped from #4 to #5 in 14d. Peak: #4 on Jul 30.",
+      "hook": "Flood Your Skin From Within",
+      "angle": "Deep-penetrating moisture that works from the inside out",
+      "copy": "The Dewy Skin Cream and Dewy Milk Moisture are powered by Hadasei-3, proven to drive moisture deeper.",
+      "media": "https://auth.heyparker.ai/storage/v1/object/public/internal-facebook-ads/ext/24be7642-603d-4a6d-97c6-9d3d9eebc02d/de9c3c41cf3cfa5ec456d57c58bbb4b81e2adda4189a0cd70d3ee64b1a0f5363.jpg"
+    }
+  ]
+}
